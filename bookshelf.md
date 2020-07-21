@@ -9,7 +9,7 @@ datatable: true
 ## Books
 
 
-{:.datatable}
+{:.datatable #statistics}
 Food    | Description                           | Category | Sample type
 ------- | ------------------------------------- | -------- | -----------
 Apples  | A small, somewhat round ...           | Fruit    | Fuji
@@ -33,6 +33,8 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 - https://tjcx.me/posts/defense-self-help/
 
-<script>$(document).ready( function () {
+<script>
+	$(document).ready( function () {
     $('#statistics').DataTable();
-} );</script>
+} );
+</script>
