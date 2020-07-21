@@ -11,7 +11,7 @@ datatable: true
 {:.datatable #booktable}
 Title    | Author                           | Category | Rating
 ------- | ------------------------------------- | -------- | -----------
-American Kingpin  | Nick Bilton           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
+American Kingpin  | Nick Bilton           | Real-Life Storytelling    | ✰✰✰✰✰
 The Mastermind  | Evan Ratliff         | Real-Life Storytelling    | ⭐⭐⭐⭐
 Bad Blood  | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐
 Billion Dollar Whale  | Tom Wright and Bradley Hope           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
