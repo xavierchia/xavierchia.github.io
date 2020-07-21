@@ -23,7 +23,8 @@ Note that there's no need to do intensive market research. Your numbers will alw
 
 To help you rate your ideas, I've created a [Google sheet](https://docs.google.com/spreadsheets/d/1N7bRRRSBQ6LDRq8jj5XbwcZhTqC12Ud4-YzI43HKrCI/copy?usp=sharing).
 
-
+{:.centered}
+![](/images/idea_quantification.png)
 
 Please rate your ideas now. I'll wait.
 
