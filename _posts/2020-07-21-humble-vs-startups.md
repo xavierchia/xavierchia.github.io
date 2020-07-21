@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Humble Businesses vs. Startups
-permalink: humble_introduction
+permalink: humble_vs_startups
 ---
 
 Before we can generate and evaluate business ideas, we need to answer the question: what type of business do you want to build? This question is important because many ideas are not bad per se. Instead, they're just bad if you want to build a particular kind of business. 
@@ -13,7 +13,7 @@ In short: startup ideas aim for hockey stick growth, while humble businesses foc
 {:.centered}
 ![humble vs startup plan](/images/startup_vs_humble_plan.svg)
 
-Let's look at a few examples:
+Let's look at a few successful examples:
 
 
 <div class="grid-container">
