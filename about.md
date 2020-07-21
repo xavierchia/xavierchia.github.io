@@ -20,7 +20,10 @@ Mantras
 - "Do good things and talk about it."
 - "Take the risks and you’ll get the payoffs. Learn from your mistakes until you succeed. It’s that simple." - Bobby Flay
 - "Almost no one is evil. Almost everything is broken."
+- "Strong convictions, loosely held."
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jakobgreenfeld@gmail.com](mailto:jakobgreenfeld@gmail.com)
+
+[@jakobgreenfeld](https://twitter.com/jakobgreenfeld)
