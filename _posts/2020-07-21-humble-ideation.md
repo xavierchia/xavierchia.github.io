@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to come up with humble business ideas?
-permalink: humble_ideation
+permalink: ideation
 ---
 
 
