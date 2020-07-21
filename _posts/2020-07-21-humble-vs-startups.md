@@ -18,24 +18,30 @@ Let's look at a few examples:
 
 <div class="grid-container">
   <div class="grid-item">
-**Startups**<br>
+Startups<br>
 
-- Facebook
-- Uber
-- Zoom
-- Pinterest
-- Slack
+
+<ul>
+	<li>Facebook</li>
+	<li>Uber</li>
+	<li>Zoom</li>
+	<li>Pinterest</li>
+	<li>Slack</li>
+</ul>
+
 
   </div>
   <div class="grid-item">
-**Humble Businesses**<br>
+Humble Businesses<br>
 
-- ConvertKit
-- NomadList
-- Pinboard.in
-- Ghost
-- Hostify 
-  </div>
+<ul>
+	<li>ConvertKit</li>
+	<li>NomadList</li>
+	<li>Pinboard.in</li>
+	<li>Ghost</li>
+	<li>Hostify</li>
+</ul>
+	</div>
 
 </div>
 
