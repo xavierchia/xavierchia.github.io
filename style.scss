@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 20px/1.4 $helvetica;
   color: $darkGray;
   -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
@@ -174,7 +174,7 @@ img {
 
   @include mobile {
     float: none;
-    display: block;
+    display: none;
     margin: 0 auto;
   }
 
