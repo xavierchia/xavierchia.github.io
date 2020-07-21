@@ -6,7 +6,6 @@ datatable: true
 ---
 
 
-## Books
 
 
 {:.datatable #books}
@@ -28,12 +27,6 @@ The Man Who Solved the Market  | Gregory Zuckerman           | Real-Life Storyte
 
 
 
-## Essays
-
-{:.datatable #essays}
-Title    | Author                           | Category | Rating
-------- | ------------------------------------- | -------- | -----------
-How to read self-help  | tjcx          | Non-Fiction, Self-Help    | ⭐⭐⭐⭐⭐
 
 
 <script>
@@ -42,8 +35,3 @@ How to read self-help  | tjcx          | Non-Fiction, Self-Help    | ⭐⭐⭐�
 } );
 </script>
 
-<script>
-	$(document).ready( function () {
-    $('#essays').DataTable();
-} );
-</script>
