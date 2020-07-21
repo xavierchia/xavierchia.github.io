@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Humble business ideas - an introduction
 ---
-
-
-# Humble business ideas - an introduction
 
 
 Building the first thing that comes to your mind is a horrible strategy. The chances that your first idea is any good is close to zero.
@@ -34,4 +31,4 @@ The bottom line is this: with a bit of experience and deliberate practice you to
 
 
 
-In a second series, we'll then discuss effective ways to make your best concrete and tangible ideas a reality.
+In a second series, we'll then discuss effective ways to make your best ideas a reality.
