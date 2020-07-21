@@ -64,7 +64,7 @@ Another advantage of humble businesses is that once the profit curve starts to s
 
 
 {:.centered}
-![stacking humble businesses](/images/stacking_humble_businesses.svg){ width="400px" }
+![stacking humble businesses](/images/stacking_humble_businesses.svg){: width="400px" }
 
 It is also worth mentioning that the linear growth of humble businesses can still yield significant results. There are many examples of businesses (e.g. ConvertKit) that started humbly and are nowadays making millions of dollars each year. 
 
