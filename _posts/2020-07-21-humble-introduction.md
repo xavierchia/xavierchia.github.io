@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Humble business ideas - an introduction
+permalink: humble_introduction
 ---
 
 
