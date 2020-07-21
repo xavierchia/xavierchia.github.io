@@ -28,6 +28,7 @@ The bottom line is this: with a bit of experience and deliberate practice you to
 - In the second part, we talk about frameworks and strategies to come up with and evaluate concrete business ideas.
 - In the third and final part, we'll zoom in even further and discuss how you can transform abstract ideas into tangible ideas.
 
+{:.centered}
 ![humble businesses vs startups](/images/humble_vs_startup_overview.svg)
 
 
