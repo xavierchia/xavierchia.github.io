@@ -17,22 +17,19 @@ The Mastermind  | Evan Ratliff         | Real-Life Storytelling    | ⭐⭐⭐�
 Bad Blood  | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐
 Billion Dollar Whale  | Tom Wright and Bradley Hope           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
 A Death on Diamond Mountain  | Scott Carney           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
-Rigged  | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐
+Bad Blood  | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐
 Rigged   | Ben Mezrich          | Real-Life Storytelling    | ⭐⭐⭐⭐
 Ugly Americans  | Ben Mezrich           | Real-Life Storytelling    | ⭐⭐⭐⭐
-Deep   | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐
+Deep   | John Carreyrou           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
 Bad Blood  | James Nestor           | Real-Life Storytelling    | ⭐⭐⭐⭐⭐
+Sapiens  | Yuval Noah Harari           | Non-Fiction, Anthropology    | ⭐⭐⭐⭐⭐
+Zero to One  | Peter Thiel and Blake Masters           | Non-Fiction, Business    | ⭐⭐⭐⭐⭐
 
 
 
 
 
 
-
-
-
-
-- American Kingpin
 
 ## Essays
 
