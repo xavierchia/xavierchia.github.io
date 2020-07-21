@@ -298,6 +298,7 @@ footer {
   grid-template-columns: auto auto;
   padding: 10px;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-gap: 20px;
 }
 
 .grid-item {
