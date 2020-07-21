@@ -297,10 +297,11 @@ footer {
   display: grid;
   grid-template-columns: auto auto;
   padding: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .grid-item {
--webkit-transition: -webkit-box-shadow .25s;
+    -webkit-transition: -webkit-box-shadow .25s;
     transition: -webkit-box-shadow .25s;
     transition: box-shadow .25s;
     transition: box-shadow .25s, -webkit-box-shadow .25s;
@@ -308,7 +309,9 @@ footer {
     margin: .5rem 0 1rem 0;
     border-radius: 2px;
     background-color: #fff;
-  text-align: center;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    text-align: center;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
