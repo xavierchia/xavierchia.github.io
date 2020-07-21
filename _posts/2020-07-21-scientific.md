@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking a Scientific Approach to Muscle Training
-permalink: scientific2 
+permalink: scientific
 ---
 
 
@@ -67,7 +67,7 @@ This is a huge advantage for several reasons.
     terms, and to sometimes say \"I don't know\". In contrast, experts
     (and academics in particular) usually write terribly because they
     write for an audience out to destroy them. They are terrified to
-    make a mistake. And texts that are 100\% bulletproof are in most
+    make a mistake. And texts that are 100% bulletproof are in most
     cases unreadable.
 
 With that said, I should clarify a few points.
