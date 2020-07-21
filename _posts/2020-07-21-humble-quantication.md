@@ -21,7 +21,7 @@ I would say that the second criteria in this list is the least important. Humble
 
 Note that there's no need to do intensive market research. Your numbers will always remain guesses. Just do a few quick Google searches to find information about the market and potential competitors and then listen to your gut feeling. Moreover, while you, of course, should have some rough idea how you can actually solve the problem and how you'll be able to earn money doing so, you don't need to spend much time thinking about these details at this stage. If there are competitors that have successfully solved the problem and make some money, there's no reason why you shouldn't be able to do the same. 
 
-To help you rate your ideas, I've created a [Google sheet](https://docs.google.com/spreadsheets/d/1N7bRRRSBQ6LDRq8jj5XbwcZhTqC12Ud4-YzI43HKrCI/copy?usp=sharing).
+To help you rate your ideas, I've created a [Google sheet](https://docs.google.com/spreadsheets/d/1xU4J3wzOM7U4cGhFskISONHmGpni4XLABNE92pWCAGQ/copy?usp=sharing).
 
 {:.centered}
 ![](/images/idea_quantification.png)
