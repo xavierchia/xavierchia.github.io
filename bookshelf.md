@@ -9,7 +9,7 @@ datatable: true
 ## Books
 
 
-
+{:.datatable}
 Food    | Description                           | Category | Sample type
 ------- | ------------------------------------- | -------- | -----------
 Apples  | A small, somewhat round ...           | Fruit    | Fuji
