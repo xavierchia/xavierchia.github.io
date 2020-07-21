@@ -24,14 +24,16 @@ Note that there's no need to do intensive market research. Your numbers will alw
 To help you rate your ideas, I've created a [Google sheet](https://docs.google.com/spreadsheets/d/1xU4J3wzOM7U4cGhFskISONHmGpni4XLABNE92pWCAGQ/copy?usp=sharing).
 
 {:.centered}
-![](/images/idea_quantification.png)
+[![](/images/idea_quantification.png)](https://docs.google.com/spreadsheets/d/1xU4J3wzOM7U4cGhFskISONHmGpni4XLABNE92pWCAGQ/copy?usp=sharing)
 
 Please rate your ideas now. I'll wait.
 
 Once you've rated all of your ideas, the next step is to move all ideas with rating above 15 from the idea inbox to a new list that is labelled "good ideas". All other ideas get archived. 
 
 {:.centered}
-![](/images/idea_flow.svg)
+![](/images/idea_flow.svg){: width="400px" }
+
+
 
 
 I personally use Notion to collect ideas and sort them but other tools like Trello work equally well.
