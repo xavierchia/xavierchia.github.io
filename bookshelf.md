@@ -25,13 +25,21 @@ Sapiens  | Yuval Noah Harari           | Non-Fiction, Anthropology    | ⭐⭐�
 Zero to One  | Peter Thiel and Blake Masters           | Non-Fiction, Business    | ⭐⭐⭐⭐⭐
 The Man Who Solved the Market  | Gregory Zuckerman           | Real-Life Storytelling    | ⭐⭐⭐⭐
 
+## Essays
 
-
+{:.datatable #essays}
+Title    | Author                           | Category | Rating
+------- | ------------------------------------- | -------- | -----------
+How to read self-help  | tjcx          | Non-Fiction, Self-Help    | ⭐⭐⭐⭐⭐
 
 
 <script>
 	$(document).ready( function () {
     $('#books').DataTable();
+    $('#essays').DataTable();
 } );
 </script>
+
+
+
 
