@@ -46,7 +46,7 @@ The following diagram summarizes our plan in this article:
 
 
 {:.centered}
-![](/images/variables.png)
+![](/images/variables.png){: width="400px" }
 
 Before we start, here's a sort disclaimer.
 
