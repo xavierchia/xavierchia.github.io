@@ -4,7 +4,7 @@ title: My Principles and Practicesof Personal Education
 permalink: personal-education
 ---
 
->“The information we consume matters just as much as the food we put in our body. It affects our thinking, our behavior, how we understand our place in the world. And how we understand others.” — Evan Williams, Co-Founder of Twitter and Medium”
+
 
 
 One area of my life I struggled with for a long time is education. I love to learn but what I’ve been doing for a long time was far from systematic. I picked books at random. I mostly restricted myself to purely passive reading. I didn’t interact with other people that are interested in the same topic.
@@ -21,6 +21,7 @@ I didn’t understand back then that a systematic approach to personal education
 
 In the following, I will summarize my current more systematic approach to personal education. It’s far from perfect and the following sections are primarily reminders for myself. 
 
+>“The information we consume matters just as much as the food we put in our body. It affects our thinking, our behavior, how we understand our place in the world. And how we understand others.” — Evan Williams, Co-Founder of Twitter and Medium”
 
 ## Keep a list of things you want to know more about
 
