@@ -31,7 +31,7 @@ that take these facts into account.
 You might wonder how you can determine whether you're at a beginner,
 intermediate, or advanced level. From a practical point of view it makes
 a lot of sense to define these categories depending on how fast you're
-able to make measurable progress. ([^87])
+able to make measurable progress.[^87]
 
 -   Beginners are (on average) able to make progress from workout to
     workout.
@@ -412,8 +412,8 @@ the workout variables intensity, load, and number of reps
 systematically.
 
 But there is one additional key variable we haven't systematically
-varied so far: volume. ([^100]) So, how and when should you increase the
-workout volume? ([^101])
+varied so far: volume.[^100] So, how and when should you increase the
+workout volume?[^101]
 
 We discussed in Section [3.1])(#sec:volume){reference-type="ref"
 reference="sec:volume"} that the total workout volume primarily
