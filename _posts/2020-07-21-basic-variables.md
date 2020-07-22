@@ -61,7 +61,7 @@ alternative of just making stuff up.*
 *With that said, it's important to keep in mind that even advice based
 on scientific evidence can be misleading. If you focus on enough markers
 (e.g. hormonal responses) and use a sufficiently small sample size, you
-can find evidence for any point you want to make.*[^15] *Thus in the
+can find evidence for any point you want to make. Thus in the
 following I'll primarily focus on results that are supported by meta
 studies*[^16] *and focus on the only marker we are really interested in,
 muscle growth. You can find direct references to all the studies in the
@@ -112,7 +112,7 @@ stimulus can be generated since fatigue builds up over time and
 therefore eventually all muscle fibers are helping out.
 
 Of course, the intensity has to be sufficiently high in each set for
-them to be effective at all.[^17] You can't just lift an extremely light
+them to be effective at all. You can't just lift an extremely light
 weight two times and call this a set. Some common sense is in order. But
 as long as each set is adequately hard, it's really the total number of
 sets that counts the most.
@@ -212,11 +212,11 @@ more detail once we've discussed progression
 systems in more general terms.
 
 A sensible general recommendations is that for many beginners around 10
-sets per muscle group and week seem to be optimal[^20]. For total
+sets per muscle group and week seem to be optimal. For total
 beginners, however, as few as four sets per week and muscle group can
-already be sufficient to stimulate substantial gains[^21]. Negative
+already be sufficient to stimulate substantial gains. Negative
 effects typically start to occur at around 20 sets per muscle
-group[^22]. The exact numbers depend on your training level and many
+group. The exact numbers depend on your training level and many
 other factors. After years of regular lifting it's possible to benefit
 from far higher volumes (30 weekly sets per muscle
 group). Another important factor is the training
@@ -290,7 +290,7 @@ out to be far from objective. There are huge variations in how
 challenging a set at a given percentage of their On-Rep Max is for
 different people. For some people 8 repetitions at 70% of their 1RM is
 the maximum they can do in a particular exercise, while others are able
-to perform 20 repetitions at 70% of their 1RM without problems[^25].
+to perform 20 repetitions at 70% of their 1RM without problems.
 Hence a prescription like 8 reps at 70% 1RM will be extremely
 challenging for people in the former group but not challenging enough
 for people in the second group.
@@ -326,7 +326,7 @@ intensity, we should talk about the role of intensity for muscle growth.
 Unfortunately, most studies on the role of \"intensity\" for muscle
 growth actually compare the impact of high-load sets with a small number
 of reps (high 1RM percentage) with low-load sets with a higher number of
-reps (low 1RM percentage) if the RPE is equal[^27]. Typically an RPE of
+reps (low 1RM percentage) if the RPE is equal. Typically an RPE of
 10 (reps till failure) is chosen. We will discuss the findings of these
 studies in the next section where we talk about the role of different
 rep ranges and schemes.
@@ -335,30 +335,30 @@ While the research on the exact influence of different RPE values in
 isolation is still spotty, the currently available studies seem to
 suggest that there is also dose-response relationship between intensity
 (as measured by RPE) and muscle growth. In particular, low effort (low
-RPE) sets lead to less muscle growth than moderate effort sets[^28].
+RPE) sets lead to less muscle growth than moderate effort sets.
 Moreover, maximum effort (RPE of 10) sets lead to more hypertrophy
-although this effect is primarily visible for experienced lifters[^29]
-and for low-load sets[^30]. This is completely in line with what we
+although this effect is primarily visible for experienced lifters
+and for low-load sets. This is completely in line with what we
 would expect using common sense. All else being equal, the more effort
 you put into your sets the greater will be your gains.
 
 But as for the \"more volume = more hypertrophy\" rule, there are some
 caveats here:
 
--   Training to failure increases the risk of injuries[^31]. This is
+-   Training to failure increases the risk of injuries. This is
     particularly true for multi-joint compound lifts.
 
 -   Training to failure is psychologically far more demanding and thus
-    can affect program adherence negatively[^32].
+    can affect program adherence negatively.
 
 -   Training to failure is physiologically more demanding and thus
     requires longer recovery times between sets and between workout
-    sessions[^33].
+    sessions.
 
 Thus it makes sense for most lifters to incorporate sets till failure in
 moderation (if at all). Almost exactly the same results are possible
 with sets close to failure (8-9 RPE), while the downsides listed above
-are drastically reduced[^34].
+are drastically reduced.
 
 Beginners in particular shouldn't primarily focus on 10 RPE sets. On the
 one hand, there is currently no clear evidence that beginners gain more
@@ -398,9 +398,9 @@ a given set.
 
 Probably the most important fact is that as long as the number of
 repetitions stays within a reasonable range (<30), the number of
-repetitions doesn't matter for hypertrophy[^36]. Only if the load is too
+repetitions doesn't matter for hypertrophy. Only if the load is too
 low such that an extremely high number of reps is necessary to achieve
-the desired RPE value, there is significantly less hypertrophy[^37].
+the desired RPE value, there is significantly less hypertrophy.
 This isn't too surprising because after ca. 40 reps, tiredness
 becomes a limiting factor before your muscles come to their limits. In
 other words, if the load is too low (and hence the number of reps too
@@ -411,15 +411,15 @@ aren't robots and something that works in the lab doesn't necessarily
 work in the real world.[^38] In particular, there are practical
 advantages and disadvantages of different rep ranges.
 
--   Low repetition (high load) sets lead to bigger strength gains[^39]
+-   Low repetition (high load) sets lead to bigger strength gains
     although, as mentioned above, they produce similar hypertrophy.
     However, high load sets increase the risk of injuries, lead to more
     joint pain, are generally psychologically more demanding and thus
-    can affect program adherence negatively[^40].
+    can affect program adherence negatively.
 
 -   High repetition (low load) sets are a lot more uncomfortable for
-    most people[^41]. In addition, they lead to more muscle damage and
-    thus prolonged recovery times[^42].
+    most people. In addition, they lead to more muscle damage and
+    thus prolonged recovery times.
 
 So if you're primarily interested in hypertrophy, it makes sense to do
 sets in a moderate rep range (6-12). This is exactly the \"hypertrophy
@@ -470,7 +470,7 @@ approach is not very suited to maximize the number of hard sets.
 Straight sets with constant load are a good idea if you believe that
 volume load is the key variable that drives muscle growth.[^46] But
 since there are many studies that falsify the idea that volume load is
-strongly predictive of muscle growth[^47], there is no reason to stick
+strongly predictive of muscle growth, there is no reason to stick
 to a rigid straight sets scheme.
 
 The problems of a constant load, straight set scheme can be fixed by
@@ -535,11 +535,11 @@ to distribute the sets to different exercises like chest flys?
 Let's talk about exercise variety first.[^48]
 
 There is quite some scientific evidence that it makes sense to have at
-least some exercise variety in a workout plan[^49]. It has been shown
+least some exercise variety in a workout plan. It has been shown
 that a workout plan that distributes the same number of sets to
-different exercises leads to a more balanced muscle development[^50].
+different exercises leads to a more balanced muscle development.
 This seems reasonable since it has been demonstrated that muscles can be
-regionally targeted by different exercises[^51]. For example, incline
+regionally targeted by different exercises. For example, incline
 bench press sets lead to a larger stimulus of the upper parts of the
 chest muscle than ordinary bench press sets.
 
@@ -548,12 +548,12 @@ different exercises. A balanced activation of a muscle group can be
 achieved with much fewer exercises and it takes a lot of time to switch
 exercises after each set. Moreover, for each exercise movement skill has
 to be developed before it can be used to stimulate muscles
-effectively[^52]. Thus if you include a too large range of exercises in
+effectively. Thus if you include a too large range of exercises in
 your workout plan, it will take a long time before you are sufficiently
 skilled in all of the movements and this will delay your progress.
 
 A reasonable general recommendation is to distribute the target volume
-to 2-4 exercises per muscle group[^53].
+to 2-4 exercises per muscle group.
 
 Next, we need to discuss how workout volume should be distributed among
 different workouts.
@@ -572,8 +572,8 @@ Common sense suggests that it is probably beneficial to split the volume
 for each muscle group into two or three workout sessions per week since
 a too low intensity due to tiredness can be avoided this way. And this
 is indeed what the studies that have been carried out so far tell
-us[^55]. However, the effect is quite small. Therefore, the training
-frequency should primarily be determined by personal preferences[^56].
+us. However, the effect is quite small. Therefore, the training
+frequency should primarily be determined by personal preferences.
 
 I personally find it much easier to carry out 18 hard chest sets per
 week if the volume is split into two sessions á 9 sets. But, for
@@ -602,10 +602,10 @@ to split 18 total chest sets into two sessions á 9 sets, does it make
 sense to do the first session on Monday and the second one on Tuesday?
 
 Muscles typically need 48 hour or even longer to recover from a hard
-workout session[^58]. This means, only after two or three days you will
+workout session. This means, only after two or three days you will
 typically be able to lift the same weight again. However, there is
 currently no evidence that workouts on consecutive days affect
-hypertrophy negatively[^59]. Thus it again becomes a matter of personal
+hypertrophy negatively. Thus it again becomes a matter of personal
 preferences. I, like most people, prefer to do my workouts when my
 muscles no longer feel sore and thus in my workout plans there are
 typically two or three days between sessions that target the same muscle
@@ -617,18 +617,18 @@ Now that we've talked about the (un)importance of rest periods between
 different workout sessions, the obvious next questions is: what about
 rest periods between different sets?
 
-Short rest periods (\sim 30 seconds) certainly increase the perceived
+Short rest periods (ca. 30 seconds) certainly increase the perceived
 effort of a workout session. Moreover, it has been demonstrated that
-short rest periods lead to an increased hormonal response[^61] and more
-muscle damage[^62]. But none of these factors is what we're primarily
+short rest periods lead to an increased hormonal response and more
+muscle damage. But none of these factors is what we're primarily
 after.
 
 What we really care about in this book is muscle growth. And short rest
 periods have no demonstrated advantage for hypertrophy. Instead,
 although the effect is not very large, it's *longer* rest periods that
-are linked to more muscle growth[^63]. One possible explanation is that
+are linked to more muscle growth. One possible explanation is that
 if the rest period between sets is too short, it's metabolic fatigue and
-not mechanical tension that limits the number of reps[^64]. But
+not mechanical tension that limits the number of reps. But
 metabolic fatigue is not the primary driver of muscle growth and thus
 you are possibly sabotaging yourself if the interset rest periods are
 too short.[^65]
@@ -665,7 +665,7 @@ are dumbbell flys, lateral raises, and biceps curls.
 
 The main argument in favor of compound exercises is that they allow us
 to train multiple muscles at once and therefore lead to more
-time-efficient workouts[^66]. For example, bench pressing not only
+time-efficient workouts. For example, bench pressing not only
 stimulates the chest but also the triceps and shoulder muscles.
 Moreover, since multiple muscles are involved much heavier weights can
 be moved in compound exercises.[^67] On the one hand, this is important
@@ -673,11 +673,11 @@ because it allows you to progress in small steps later in your journey,
 whereas in isolation exercises no measurable progress would be possible.
 On the other hand it's simply extremely motivating to be able to move a
 lot of weight. Moreover, compound exercises produce larger increases in
-hormone levels[^68].
+hormone levels.
 
 But once more it's worth remembering that we are primarily interested in
 hypertrophy and so far, there is no conclusive scientific evidence that
-compound exercises lead to greater muscle size gains[^69]. However,
+compound exercises lead to greater muscle size gains. However,
 there is plenty of anecdotal evidence in favor of compound lifts. Almost
 anyone really muscular uses compound lifts as a staple of their
 workouts. This, of course, by no means proves that compound lifts are
@@ -686,18 +686,18 @@ in your workout plans.
 
 An important argument in favor of isolation exercises is that they're
 easier to learn. Moreover, they can be useful for correcting muscle
-imbalances[^70] and can be essential for muscles that aren't targeted
-directly by compound movements.[^71] It is also worth recalling that a
+imbalances and can be essential for muscles that aren't targeted
+directly by compound movements. It is also worth recalling that a
 variety of exercises might be necessary to develop a muscle fully and
 isolation exercises can be a good way to get some variation into your
-workout plans without making them too tiresome.[^72] Another advantage
+workout plans without making them too tiresome. Another advantage
 of isolation exercises is that they allow for a better adaption to
 anatomical differences. Since in compound lifts several muscles are at
 work, chances are much higher that some lifters find them hurtful due to
 anatomical differences in single muscle groups.
 
 A sensible strategy is therefore to include both, compound exercises and
-isolation exercises, whenever possible[^73].
+isolation exercises, whenever possible.
 
 ------------------------------------------------------------------------
 
@@ -709,10 +709,10 @@ Unfortunately, the only existing data is once more rather indirect.
 
 Many exercises have been compared by how much a given muscle gets
 activated by them.[^74] However, a larger activation signal does not
-necessarily mean that the exercise leads to more hypertrophy[^75]. This
+necessarily mean that the exercise leads to more hypertrophy. This
 becomes clear if we recall that low load sets can be just as effective
 as high load sets although high load sets lead to much larger activation
-signals.[^76]
+signals.
 
 Activation signal measurements are primarily useful to understand
 *which* muscles get stimulated by a given exercise. For example, from
@@ -720,11 +720,11 @@ activation signal measurements we learn that pullovers activate the
 chest just as much as the lat. We also learn from such
 studies that the middle delts get a lot of stimulation from compound
 lifts and therefore in many cases no additional isolation exercise is
-necessary to develop them[@botton]. Moreover, activation measurements
+necessary to develop them. Moreover, activation measurements
 can help us to understand which regions of a given muscle get
 predominately activated by different exercises. A famous example is that
 increasing the bench press incline leads to a greater activation of
-higher regions of the chest muscle[^77]. This is important if we want to
+higher regions of the chest muscle. This is important if we want to
 make sure that a given muscle develops in a balanced way.
 
 Another interesting aspect is that although isolation exercises can
@@ -734,7 +734,7 @@ again, this does not necessarily tells us anything about the resulting
 hypertrophy. A final point worth mentioning is that activation signal
 measurements demonstrate that individual factors can be quite important.
 For some people the activation signals in certain exercises are much
-larger than for others[@bok]. This suggests that an optimal exercise
+larger than for others. This suggests that an optimal exercise
 selection depends on factors like the individual anatomy. We will
 discuss individual exercises for different muscle groups in more detail
 in Chapter .
@@ -748,10 +748,10 @@ Intuitively, it makes sense to do compound exercises before isolation
 exercises. For example, bench pressing requires effort from the chest
 muscle and from the triceps. Therefore, if we fatigue the triceps using
 an isolation exercise first, our bench press performance will suffer and
-we won't be able to stimulate the chest muscle completely[^78]. This
+we won't be able to stimulate the chest muscle completely. This
 idea is further supported by the observation that the hormonal response
 is larger and the average perceived effort smaller if large muscles are
-trained first[^79]. The second point is especially important because a
+trained first. The second point is especially important because a
 greater perceived effort can affect workout adherence negatively.[^80]
 Moreover, compound exercises are more complex and have a higher injury
 risk. Thus it makes sense to do them first when your concentration is at
@@ -760,7 +760,7 @@ a maximum and there is no general fatigue.
 On the other hand, there is a popular argument that it makes sense to
 pre-exhaust muscles using isolation exercises prior to compound
 exercises (e.g. flys before bench press or leg extensions before
-squats)[@jones]. For example, let's assume that the triceps is the
+squats). For example, let's assume that the triceps is the
 \"weak-link\" in our bench press sets although our goal is to stimulate
 the chest muscle. Thus we pre-exhaust the chest muscle by doing, for
 example, flys before the bench press sets to make sure it is stimulated
@@ -770,15 +770,15 @@ In a situation like this, it's worth remembering that our primary goal
 is hypertrophy. From a scientific point of view, there is currently no
 evidence that one of the two possible exercise orders (isolation →
 compound, compound → isolation) leads to more muscle mass
-gains[^81]. Most people, me included, prefer to do compound exercises
+gains. Most people, me included, prefer to do compound exercises
 first. But this is mostly a matter of personal preferences and not an
 axiomatic principle.
 
 In particular, it's important to take note that in general, it's
 possible to do more reps with exercises that are placed at the beginning
-of the workout session[^82]. Thus it is hardly surprising that there is
+of the workout session. Thus it is hardly surprising that there is
 some evidence that larger gains are possible for exercises that are done
-early in a workout session[^83]. A general recommendation is therefore
+early in a workout session. A general recommendation is therefore
 to put exercises that have a high priority first. For example, if your
 biceps is underdeveloped it can make sense to start your workout session
 with bicep curls.
@@ -820,7 +820,7 @@ will it lead to greater muscle gains if exercises are done extra slowly?
 ------------------------------------------------------------------------
 
 First of all, there is convincing evidence that a full range of motion
-leads to more hypertrophy[^84]. Therefore, exercises should be done with
+leads to more hypertrophy. Therefore, exercises should be done with
 the full range of motion that is possible given your anatomy.
 
 {:.centered}
@@ -959,15 +959,10 @@ the gym is primarily measured by volume times intensity
 
 **Notes**
 
-[^15]: This is discussed in more detail in
-    Chapter [12](#ch:science){reference-type="ref"
-    reference="ch:science"}.
+
 
 [^16]: A meta study combines the results of multiple studies to get
     results with a higher statistical significance.
-
-[^17]: We will talk about the role of intensity in more detail in the
-    following section.
 
 [^18]: If this isn't clear, compare $3$ sets á $25$ repetitions with
     $50$ kg to $3$ sets á $10$ repetitions with $70$ kg. The volume load
@@ -978,11 +973,7 @@ the gym is primarily measured by volume times intensity
 
 [^19]: This terminology was introduced by Dr. Mike Israetel.
 
-[^20]: [@pmid27433992]
 
-[^21]: [@schoenfeldvol]
-
-[^22]: [@pmid30160627; @pmid27941492; @pmid9068095]
 
 [^23]: The RPE measure was primarily popularized by the powerlifting
     coach Mike Tuscherer.
@@ -992,28 +983,13 @@ the gym is primarily measured by volume times intensity
     1RM tables should be seen as rough guidelines that certainly aren't
     correct for everyone.
 
-[^25]: [@pmid24899782; @pmid30036284]
 
 [^26]: The RPE measure also allows us to quantify the problem with the
     Percentage of One-Rep Max measure. In the example from above, an 8
     repetition set at 70% of 1RM can be a 9 RPE set for some people, but
     a 3 RPE set for others.
 
-[^27]: [@pmid28834797; @pmid22518835; @pmid26049792]
 
-[^28]: [@pmid18787090]
-
-[^29]: [@pmid26858654]
-
-[^30]: [@pmid31895290]
-
-[^31]: [@pmid17530977; @pmid24998610; @pmid26666744; @pmid26858654]
-
-[^32]: [@pmid27621718]
-
-[^33]: [@pmid28965198]
-
-[^34]: [@pmid26666744; @pmid28965198; @pmid25809472; @pmid29628895; @pmid31809457]
 
 [^35]: For a fixed RPE value, you can modify the number of reps in a set
     by using different weights. For example, if you bench press with 50
@@ -1021,21 +997,13 @@ the gym is primarily measured by volume times intensity
     in an 8 RPE set with 50 kg you would stop at 20 reps. But with 70 kg
     on the bar, an 8 RPE set will be finished after 10 reps.
 
-[^36]: [@pmid22518835; @pmid28834797]
 
-[^37]: [@pmid29564973]
 
 [^38]: In a lab a group of researchers is watching you to make sure you
     really carry out a given set to failure. If you're alone in the gym,
     chances are high that you would give up much earlier.
 
-[^39]: [@pmid28834797]
 
-[^40]: [@pmid24714538]
-
-[^41]: [@pmid25853914]
-
-[^42]: [@pmid28447186; @pmid28965198]
 
 [^43]: Reminder: volume = number of hard sets.
 
@@ -1050,30 +1018,19 @@ the gym is primarily measured by volume times intensity
 [^46]: Reminder: volume load = number of sets $\times$ number of reps
     $\times$ load.
 
-[^47]: [@pmid22518835; @pmid25853914; @pmid26848545; @pmid22328004; @pmid18787090]
 
 [^48]: Take note that we are not discussing here whether or not in makes
     sense to use different exercises in workout plans that are used in
     different months. Instead, we discuss if it makes sense to use
     different exercises for a given muscle group in one workout plan.
 
-[^49]: [@jose; @pmid20847704]
 
-[^50]: [@pmid24832974]
-
-[^51]: [@pmid24978835; @Barnett]
-
-[^52]: [@pmid9459538; @Fry2004]
-
-[^53]: [@pmid24998610]
 
 [^54]: This is somewhat analogous to how it doesn't make sense to do all
     the learning the night before an exam. The results are usually much
     better if the learning is distributed to multiple days.
 
-[^55]: [@pmid25932981; @rasstad; @pmid27102172; @Nuckols]
 
-[^56]: [@pmid30558493; @pmid30236847]
 
 [^57]: Of course, you can train different muscle groups on the same day.
     For example, one session could include chest and triceps exercises
@@ -1081,51 +1038,29 @@ the gym is primarily measured by volume times intensity
     of the two sessions is performed twice per week such that you end up
     with four weekly workout sessions.
 
-[^58]: [@pmid28965198; @pmid25807025; @pmid31156751; @pmid12741861; @pmid17194226]
 
-[^59]: [@pmid29967584; @pmid27682004]
 
 [^60]: It is, of course, possible to do workout sessions that target
     different muscle groups in the meantime. For example, chest on
     Monday and Thursday, back on Tuesday and Friday etc.
 
-[^61]: [@pmid19077743]
 
-[^62]: [@pmid16118582]
-
-[^63]: [@pmid28641044; @pmid25047853; @pmid26605807; @pmid19077743]
-
-[^64]: [@pmid19691365]
 
 [^65]: We will discuss the role of metabolic fatigue in more detail in
     Chapter [11](#ch:musclegrowth){reference-type="ref"
     reference="ch:musclegrowth"}.
 
-[^66]: [@pmid26446291; @pmid23537028; @pmid26244600; @pmid27677913]
 
 [^67]: Compound exercises target certain muscles rather indirectly. For
     example, the bench press primarily targets the chest muscle while
     the triceps is only trained indirectly. It's still a hotly debated
     topic how much a set of indirect exercise counts for the total
     volume. Should we count a bench press set as a full triceps set
-    [@pmid28029681], a 0.5 triceps set or don't count it all since only
+    , a 0.5 triceps set or don't count it all since only
     hard sets count? One thing that seems relatively certain is that it
     is possible to develop the triceps solely by bench pressing but the
-    total triceps gains are sub-optimal [@pmid23053130].
+    total triceps gains are sub-optimal.
 
-[^68]: [@pmid11782267; @pmid1555898]
-
-[^69]: [@pmid29312007; @pmid27677913]
-
-[^70]: [@pmid21522219; @pmid28029681]
-
-[^71]: [@pmid27677913]
-
-[^72]: We discussed this in
-    Section [3.4](#sec:varietyandfrequency){reference-type="ref"
-    reference="sec:varietyandfrequency"}.
-
-[^73]: [@pmid27995535]
 
 [^74]: This is typically done by electromyographic (EMG) activity
     measurements which measure the magnitude of the electric potential
@@ -1133,27 +1068,12 @@ the gym is primarily measured by volume times intensity
     measurements at
     <https://www.strengthandconditioningresearch.com/biomechanics/electromyography-emg/>.
 
-[^75]: [@pmid26670996; @pmid26159758]
 
-[^76]: We've talked about this in
-    Section [3.2](#sec:intensity){reference-type="ref"
-    reference="sec:intensity"}.
 
-[^77]: [@pmid26464884; @pmid25799093; @pmid20512064]
 
-[^78]: [@sforzo]
-
-[^79]: [@pmid27217934]
 
 [^80]: This reminds me of the general productivity tip to always start
     with the hardest tasks. (\"Eat a Live Frog Every Morning, and
     Nothing Worse Will Happen to You the Rest of the Day\", which is
     often attributed to Mark Twain.
 
-[^81]: [@pmid18076251; @pmid22292516; @pmid25092528]
-
-[^82]: [@pmid22292516; @pmid22742079; @pmid24511353; @pmid25713681]
-
-[^83]: [@pmid19243993; @pmid22292516]
-
-[^84]: [@pmid23604798; @pmid22027847; @pmid23629583]
