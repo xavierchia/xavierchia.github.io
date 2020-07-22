@@ -7,7 +7,7 @@ permalink: basic-variables
 
 To make your muscles grow you have to stimulate them adequately. But how
 exactly can you generate an effective training stimulus? Is it better to
-perform $50$ repetitions in one go or $5$ times $10$ repetitions with a
+perform 50 repetitions in one go or 5 x 10 repetitions with a
 short pause in between? How much weight on the bar is optimal? How long
 should the pauses between sets are? Which exercises lead to the biggest
 muscle gains?
@@ -85,13 +85,13 @@ muscle group.
 One aspect that can be quite confusing is that there are lots of
 different ways to define training volume. Three popular definitions are
 
--   volume $\equiv$ number of sets $\times$ number of reps $\times$ load
+-   volume = number of sets x number of reps x load
     = volume load,
 
--   volume $\equiv$ number of sets $\times$ number of reps = total
+-   volume = number of sets x number of reps = total
     repetitions ,
 
--   volume $\equiv$ number of sets.
+-   volume = number of sets.
 
 If you read other books or research papers make sure to always check
 which definition of volume the authors use. Many seemingly paradoxical
@@ -119,17 +119,17 @@ sets that counts the most.
 
 Two examples may be helpful to illustrate this point.
 
--   The authors of a recent paper found that a 3 $\times 6$ repetitions
-    scheme produces comparable hypertrophy as a $3 \times 15$
+-   The authors of a recent paper found that a 3 x 6 repetitions
+    scheme produces comparable hypertrophy as a 3 x 15
     repetitions scheme (provided that in both schemes all sets are
     performed till failure). This demonstrates that the total number of
     repetitions is not a good indicator of hypertrophy.
 
 -   The authors of another paper conclude that a \"high-load routine\"
-    with a load that allows for at most $8-12$ repetitions per set
+    with a load that allows for at most 8-12 repetitions per set
     produces almost exactly the same hypertrophy as a \"low-load
     routine\" that consists of sets with a much lower load which allows
-    for a maximum of $25-35$ repetitions (provided that in both routines
+    for a maximum of 25-35 repetitions (provided that in both routines
     all sets are performed till failure). Although the volume load is
     much higher in the \"low-load routine\", the results are
     comparable.[^18] Therefore, volume load is not a good indicator of
@@ -269,7 +269,7 @@ The two most popular measures of intensity are:
     and thus higher intensity. An analogous measure is Repetitions in
     Reverse (RIR). In the example above, you still have two repetitions
     in reserve and we therefore call this a 2 RIR set. The relationship
-    between RPE and RIR is $$\text{RPE} = 10 - \text{RIR} \, .\notag$$
+    between RPE and RIR is RPE = 10 - RIR.
 
       **RPE**   **Description**              **Reps in Reserve**
       --------- ---------------------------- ---------------------
@@ -319,11 +319,7 @@ by other factors like interset rest periods and the order in which
 exercises are done. For example, a set is perceived as harder if there
 is just a short amount of time between sets. However, this is not the
 kind of intensity that eventually leads to muscle growth. We will talk
-about the importance of these factors in
-Section [3.5](#sec:restperiods){reference-type="ref"
-reference="sec:restperiods"} and
-Section [3.6](#sec:exerciseselection){reference-type="ref"
-reference="sec:exerciseselection"}.
+about the importance of these factors later.
 
 ------------------------------------------------------------------------
 
@@ -389,10 +385,14 @@ bench press sets at an intensity of 8 RPE. There is still a lot of room
 for variation. Should you do 3 reps in each set, or maybe 6, or 10, or
 20?[^35] And is it really a good idea to perform the same number of reps
 in all three sets? Maybe a pyramid scheme like
-$$10 \text{ reps}  \to 8 \text{ reps}   \to 6 \text{ reps}  \notag$$ or
-an inverse pyramid scheme
-$$6 \text{ reps}  \to 8 \text{ reps}   \to 10 \text{ reps}  \notag$$ is
-more effective?
+
+10 reps  → 8  reps   → 6 reps
+
+or an inverse pyramid scheme
+
+6 reps  → 8  reps   → 10 reps
+
+is more effective?
 
 ------------------------------------------------------------------------
 
@@ -400,11 +400,11 @@ First of all, let's talk about the role of the number of repetitions in
 a given set.
 
 Probably the most important fact is that as long as the number of
-repetitions stays within a reasonable range ($<$30), the number of
+repetitions stays within a reasonable range (<30), the number of
 repetitions doesn't matter for hypertrophy[^36]. Only if the load is too
 low such that an extremely high number of reps is necessary to achieve
 the desired RPE value, there is significantly less hypertrophy[^37].
-This isn't too surprising because after $\sim 40$ reps, tiredness
+This isn't too surprising because after ca. 40 reps, tiredness
 becomes a limiting factor before your muscles come to their limits. In
 other words, if the load is too low (and hence the number of reps too
 high) you're doing endurance training and not resistance training.
@@ -433,7 +433,7 @@ extremely convenient way to accumulate lots of volume.[^43]
 
 With that said, it's important to take note that the exact number of
 reps you should choose always depends on the exercise at hand. For
-example, compound lifts (deadlifts, squads,$\ldots$) require a lot of
+example, compound lifts (deadlifts, squads,...) require a lot of
 energy per repetition. Hence it makes sense to use a smaller number of
 reps for these exercises because otherwise you would be too tired
 afterwards to perform other exercises. Analogously, it makes sense to
@@ -451,7 +451,7 @@ from the enhanced strength gains that are generated this way.
 
 ------------------------------------------------------------------------
 
-Next, let's discuss whether straight sets like $3 \times 8$ or pyramid
+Next, let's discuss whether straight sets like 3 x 8 or pyramid
 rep schemes are more optimal for hypertrophy.
 
 Unfortunately, there is currently almost no dedicated research on the
@@ -462,7 +462,9 @@ disadvantages of different systems.
 The goal of an effective rep scheme should be to maximize the number of
 hard sets. From this perspective, it becomes immediately obvious that
 the traditionally used constant load, straight set system:
-$$70 \text{ kg} \times 8 \to 70 \text{ kg} \times 8 \to  70 \text{ kg} \times 8 \, .$$
+
+70 kg x 8 → 70 kg x 8 →  70 kg x 8 
+
 is not very effective. Since the same load and the same number of reps
 are targeted in all sets, lifters typically only come in the final set
 close to failure. In other words, in a constant load,
@@ -476,13 +478,19 @@ to a rigid straight sets scheme.
 
 The problems of a constant load, straight set scheme can be fixed by
 dropping the constant load requirement:
-$$70 \text{ kg} \times 8 \to 65 \text{ kg} \times 8 \to  60 \text{ kg} \times 8\, .$$
+
+70  kg x 8 → 65 kg  x 8 →  60  kg x 8 
+
 This way it's possible to reach a sufficiently high RPE in all sets even
 if the number of reps stays the same. Similarly, it's possible to
 maximize the number of hard sets in a pyramid scheme:
-$$60 \text{ kg} \times 12 \to 65 \text{ kg} \times 9 \to  70 \text{ kg} \times 6\, .$$
+
+60  kg x 12 → 65 kg  x 9 →  70  kg x 6
+
 and inverted pyramid scheme
-$$75 \text{ kg} \times 6 \to 65 \text{ kg} \times 8 \to  60 \text{ kg} \times 10\, .$$
+
+85  kg x 6 → 65 kg  x 8 →  60  kg x 10
+
 by choosing the load (and thus the RPE) in each set appropriately. If
 this is done, there is no reason to expect significant differences
 between the schemes in terms of hypertrophy.
@@ -538,7 +546,7 @@ regionally targeted by different exercises[^51]. For example, incline
 bench press sets lead to a larger stimulus of the upper parts of the
 chest muscle than ordinary bench press sets.
 
-But it certainly doesn't make much sense to distribute $10$ sets to $10$
+But it certainly doesn't make much sense to distribute 10 sets to 10
 different exercises. A balanced activation of a muscle group can be
 achieved with much fewer exercises and it takes a lot of time to switch
 exercises after each set. Moreover, for each exercise movement skill has
@@ -612,7 +620,7 @@ Now that we've talked about the (un)importance of rest periods between
 different workout sessions, the obvious next questions is: what about
 rest periods between different sets?
 
-Short rest periods ($\sim 30$ seconds) certainly increase the perceived
+Short rest periods (\sim 30 seconds) certainly increase the perceived
 effort of a workout session. Moreover, it has been demonstrated that
 short rest periods lead to an increased hormonal response[^61] and more
 muscle damage[^62]. But none of these factors is what we're primarily
@@ -763,8 +771,8 @@ fully.
 
 In a situation like this, it's worth remembering that our primary goal
 is hypertrophy. From a scientific point of view, there is currently no
-evidence that one of the two possible exercise orders (isolation $\to$
-compound, compound $\to$ isolation) leads to more muscle mass
+evidence that one of the two possible exercise orders (isolation →
+compound, compound → isolation) leads to more muscle mass
 gains[^81]. Most people, me included, prefer to do compound exercises
 first. But this is mostly a matter of personal preferences and not an
 axiomatic principle.
@@ -794,9 +802,9 @@ Let's summarize the main takeaways from this section.
     choose complementary exercises such that all muscles are stimulated
     in a balanced way.
 
--   Although an inverted exercise order (isolation $\to$ compound) can
+-   Although an inverted exercise order (isolation → compound) can
     be as effective in stimulating hypertrophy as a normal order
-    (compound $\to$ isolation), most experienced lifters prefer normal
+    (compound → isolation), most experienced lifters prefer normal
     ordered workout sessions. An important factor for this preference is
     that normal ordered workouts are perceived as less hard even if the
     volume is equal.
@@ -851,7 +859,7 @@ of lifting tempo?
 
 In short, there is currently no convincing evidence that lifting tempo
 has a meaningful impact on hypertrophy. Only if the tempo
-becomes ridiculously slow ($\sim 10$ seconds per rep), hypertrophy seems
+becomes ridiculously slow (around 10 seconds per rep), hypertrophy seems
 to be affected negatively. Moreover, there is some evidence that
 purposefully explosive repetitions lead to larger strength
 gains.
@@ -880,7 +888,7 @@ variables that are commonly used to write down workout plans.
     week. There is a dose-response relationship between muscle growth
     and volume. While muscle growth is stimulated for beginners already
     at a relatively low volume (4 sets), faster progress is possible
-    with a higher volume ($\sim$10 sets). However, beyond a certain
+    with a higher volume (around 10 sets). However, beyond a certain
     limit an increase in the number of hard sets becomes
     counterproductive.
 
