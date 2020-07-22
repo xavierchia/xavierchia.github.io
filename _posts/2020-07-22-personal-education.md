@@ -21,7 +21,7 @@ I didn’t understand back then that a systematic approach to personal education
 
 In the following, I will summarize my current more systematic approach to personal education. It’s far from perfect and the following sections are primarily reminders for myself. 
 
->“The information we consume matters just as much as the food we put in our body. It affects our thinking, our behavior, how we understand our place in the world. And how we understand others.” — Evan Williams, Co-Founder of Twitter and Medium”
+>“The information we consume matters just as much as the food we put in our body. It affects our thinking, our behavior, how we understand our place in the world. And how we understand others.” — Evan Williams, Co-Founder of Twitter”
 
 ## Keep a list of things you want to know more about
 
