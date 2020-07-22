@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taking a Scientific Approach to Muscle Training
+title: Taking a Scientific Approach to Muscle Building
 permalink: scientific
 ---
 
