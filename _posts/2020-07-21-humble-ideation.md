@@ -13,7 +13,7 @@ There are two broad strategies to come up with ideas: active ideation and passiv
 
 Passive ideation means that you record, store, and sort ideas that come to you when you're not actively looking for ideas. For example, you might notice in the gym how annoying it is that you always seem to come at the wrong times when all the machines you want to use are occupied. Sparked by this observation an app idea that solves this problem pops into your mind.
 
-In contrast, active ideation means that you sit at your desk and actively try to come up with good ideas by answering concrete questions and doing research.
+In contrast, active ideation means that you sit at a desk and actively try to come up with good ideas by answering concrete questions and doing research.
 
 {:.centered}
 ![active ideation vs. passive ideation](/images/ideation.svg)
