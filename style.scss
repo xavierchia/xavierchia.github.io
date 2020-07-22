@@ -302,6 +302,7 @@ footer {
 }
 
 .grid-item {
+    display: inline-block;
     -webkit-transition: -webkit-box-shadow .25s;
     transition: -webkit-box-shadow .25s;
     transition: box-shadow .25s;
