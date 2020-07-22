@@ -1,8 +1,8 @@
----
+
 layout: post
 title: The basic variables you should focus to build muscles
 permalink: basic-variables
----
+
 
 
 To make your muscles grow you have to stimulate them adequately. But how
@@ -46,7 +46,7 @@ The following diagram summarizes our plan in this article:
 
 
 {:.centered}
-![](/images/variables.png){: width="400px" }
+![](/images/variables.png){: width="600px" }
 
 Before we start, here's a sort disclaimer.
 
@@ -75,7 +75,7 @@ book.*
 With that out of the way, let's dive in.
 
 ## Volume {#sec:volume}
-------
+
 
 One of the most important handles you can control if you're interested
 in muscle growth is the training volume. In general, the
@@ -143,7 +143,7 @@ light-load sets á 30 repetitions might be, in theory, just as effective
 as 5 high-load sets á 8 repetitions. But the former rep scheme needs far
 more time and is psychologically more demanding.
 
-------------------------------------------------------------------------
+
 
 Before we move on and discuss the definition and role of workout
 intensity, there is one more aspect of training volume that we need to
@@ -226,7 +226,7 @@ if you split your total volume per muscle into two or more workout
 sessions per week it's possible to benefit from a much higher number of
 sets.
 
-------------------------------------------------------------------------
+
 
 In summary, the speed at which you build muscles depends on your
 training volume. However, the dose-response relationship between volume
@@ -240,7 +240,7 @@ Next, let's talk about how we can determine whether or not a set is
 sufficiently hard.
 
 ## Intensity {#sec:intensity}
----------
+
 
 The intensity of each set is an important variable if you want to
 optimize for muscle growth. If a set isn't challenging, chances are high
@@ -318,7 +318,7 @@ is just a short amount of time between sets. However, this is not the
 kind of intensity that eventually leads to muscle growth. We will talk
 about the importance of these factors later.
 
-------------------------------------------------------------------------
+
 
 Now that we've established a scale that allows us to talk about
 intensity, we should talk about the role of intensity for muscle growth.
@@ -370,7 +370,7 @@ to learn good motor patterns and this is much easier if you stay away
 from failure.
 
 ## Rep Ranges and Rep Schemes {#sec:repschemes}
---------------------------
+
 
 In the previous two sections, we have established that the total number
 of hard sets is a key variable in optimizing muscle growth. An essential
@@ -391,7 +391,7 @@ or an inverse pyramid scheme
 
 is more effective?
 
-------------------------------------------------------------------------
+
 
 First of all, let's talk about the role of the number of repetitions in
 a given set.
@@ -446,7 +446,7 @@ be better suited to generate a full training stimulus.[^45] In addition,
 it can make sense to include a small number of low rep sets to benefit
 from the enhanced strength gains that are generated this way.
 
-------------------------------------------------------------------------
+
 
 Next, let's discuss whether straight sets like 3 x 8 or pyramid
 rep schemes are more optimal for hypertrophy.
@@ -515,13 +515,13 @@ So, since from an objective point of view it probably doesn't make much
 difference which rep scheme you use, you should experiment with all of
 them to find out which one of them you find most enjoyable.
 
-------------------------------------------------------------------------
+
 
 In summary, you should use whatever rep range and rep scheme that allows
 you to accumulate the highest number of hard sets.
 
 ## Variety and Frequency {#sec:varietyandfrequency}
----------------------
+
 
 The next thing we need to discuss is the organization of workout volume.
 How should a given volume be distributed among different exercises and
@@ -530,7 +530,7 @@ same day or is it better to do 5 sets on one day and 5 sets on another
 day? And does it make sense do 10 sets of bench press, or is it better
 to distribute the sets to different exercises like chest flys?
 
-------------------------------------------------------------------------
+
 
 Let's talk about exercise variety first.[^48]
 
@@ -580,7 +580,7 @@ week if the volume is split into two sessions á 9 sets. But, for
 example, if your gym is quite far away it can make sense to do all sets
 in one session.
 
-------------------------------------------------------------------------
+
 
 In summary, workout frequency is primarily a tool for reaching your
 weekly target volume. If you find it easier to reach it for a given
@@ -593,7 +593,7 @@ each muscle group among 2-4 different exercises to make sure your
 muscles grow in a balanced way.
 
 Rest Periods Between Workout Sessions and Sets {#sec:restperiods}
-----------------------------------------------
+-
 
 An important aspect that becomes important if the weekly training
 frequency is higher than one is the recovery time between workout
@@ -611,7 +611,7 @@ muscles no longer feel sore and thus in my workout plans there are
 typically two or three days between sessions that target the same muscle
 group.[^60]
 
-------------------------------------------------------------------------
+
 
 Now that we've talked about the (un)importance of rest periods between
 different workout sessions, the obvious next questions is: what about
@@ -631,12 +631,12 @@ if the rest period between sets is too short, it's metabolic fatigue and
 not mechanical tension that limits the number of reps. But
 metabolic fatigue is not the primary driver of muscle growth and thus
 you are possibly sabotaging yourself if the interset rest periods are
-too short.[^65]
+too short.
 
 A sensible general recommendation is therefore to wait till you feel fit
 for the next set which is typically after around 2 minutes. 
 
-------------------------------------------------------------------------
+
 
 In summary, the rest period between workout sessions should be chosen
 according to personal preferences. Interset rest periods, on the other
@@ -644,7 +644,7 @@ hand, should be long enough to allow for a sufficient recovery for the
 next set.
 
 ## Exercises Selection and Order {#sec:exerciseselection}
------------------------------
+
 
 Something we haven't discussed so far is to which exercises a given
 workout volume should be distributed and how different exercises should
@@ -653,7 +653,7 @@ and squats more effective than isolation exercises? Are free weight
 exercises better than machine exercises? And which exercises should be
 done at the beginning and at the end of a workout session?
 
-------------------------------------------------------------------------
+
 
 Let's start by talking about two broad categories: compound exercises
 and isolation exercises.
@@ -699,7 +699,7 @@ anatomical differences in single muscle groups.
 A sensible strategy is therefore to include both, compound exercises and
 isolation exercises, whenever possible.
 
-------------------------------------------------------------------------
+
 
 Now that we've discussed these two broad exercise categories, it's time
 to get a bit more specific. Which compound and isolation exercises
@@ -739,7 +739,7 @@ selection depends on factors like the individual anatomy. We will
 discuss individual exercises for different muscle groups in more detail
 in Chapter .
 
-------------------------------------------------------------------------
+
 
 Once we've picked exercises for each muscle group, we have to consider
 in which order they should appear in our workout plan.
@@ -783,7 +783,7 @@ to put exercises that have a high priority first. For example, if your
 biceps is underdeveloped it can make sense to start your workout session
 with bicep curls.
 
-------------------------------------------------------------------------
+
 
 Let's summarize the main takeaways from this section.
 
@@ -807,7 +807,7 @@ Let's summarize the main takeaways from this section.
     volume is equal.
 
 ## Lifting Tempo and Form {#sec:liftingtempoandform}
-----------------------
+
 
 Now that we've picked exercises and ordered them, it's time to discuss
 *how* they should be done for maximum hypertrophy.
@@ -817,7 +817,7 @@ variation. Does it make sense to cheat a little in order to be able to
 move more weight? Or should exercises always be done with good form? And
 will it lead to greater muscle gains if exercises are done extra slowly?
 
-------------------------------------------------------------------------
+
 
 First of all, there is convincing evidence that a full range of motion
 leads to more hypertrophy. Therefore, exercises should be done with
@@ -837,7 +837,7 @@ yourself by doing half-reps.
 Secondly, good form is important to prevent injuries and can help that
 the target muscle gets fully activated.
 
-------------------------------------------------------------------------
+
 
 Next, it's important to take note that good form with a full range of
 motion does not necessarily mean slow lifting speed. Experienced lifters
@@ -864,7 +864,7 @@ to be affected negatively. Moreover, there is some evidence that
 purposefully explosive repetitions lead to larger strength
 gains.
 
-------------------------------------------------------------------------
+
 
 To sum the previous paragraphs up, you should make sure that you perform all exercises with
 good form and the full range of motion that is possible for you. In
@@ -873,7 +873,7 @@ up and down in a controlled manner without purposefully slowing it down
 or up.
 
 ## Summary
--------
+
 
 The most important message in this chapter is that there are many roads
 to hypertrophy. This is great news because it implies that you can
@@ -1015,7 +1015,7 @@ the gym is primarily measured by volume times intensity
     conclusively. But since different rep ranges lead to similar
     hypertrophy, there is at least no risk in varying the rep range.
 
-[^46]: Reminder: volume load = number of sets $\times$ number of reps
+[^46]: Reminder: volume load = number of sets times number of reps
     $\times$ load.
 
 
@@ -1046,9 +1046,7 @@ the gym is primarily measured by volume times intensity
 
 
 
-[^65]: We will discuss the role of metabolic fatigue in more detail in
-    Chapter [11](#ch:musclegrowth){reference-type="ref"
-    reference="ch:musclegrowth"}.
+
 
 
 [^67]: Compound exercises target certain muscles rather indirectly. For
