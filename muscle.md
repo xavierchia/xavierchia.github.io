@@ -10,10 +10,11 @@ permalink: /muscle/
 Preface
 
 - [Taking a Scientific Approach to Muscle Building](/scientific)
-- [Why care about weightlifting?](/why-care)
+- [Why Care About Weightlifting?](/why-care)
 
 Part 1: What Everybody Ought to Know About Weightlifting
 
 - [Bird's-Eye View of Effective Weightlifting](/bird)
 - [Basic Principles of Effective Weightlifting](/weightlifting-principles)
-- [The basic variables you should focus to build muscles](/basic-variables)
+- [The Basic Variables You Should Focus to Build Muscles](/basic-variables)
+- [Progression Systems for Sustainable Muscle Growth](/progression)

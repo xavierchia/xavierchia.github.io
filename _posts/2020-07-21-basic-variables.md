@@ -12,7 +12,7 @@ short pause in between? How much weight on the bar is optimal? How long
 should the pauses between sets are? Which exercises lead to the biggest
 muscle gains?
 
-These are the questions everyone interested in bodybuilding is
+These are the questions everyone interested in building muscles is
 confronted with. Unfortunately, if you spend a few minutes on the
 internet you can easily find someone who supports any possible position.
 Someone will argue that 5 times 10 repetitions is the only way to make
