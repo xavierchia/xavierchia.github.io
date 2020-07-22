@@ -30,6 +30,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  margin-bottom: 50px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -120,6 +121,7 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  display: none;
 }
 
 // Specify the color of the selection
@@ -360,7 +362,7 @@ blockquote {
   
   vertical-align: super;
   font-size: smaller;
-  
+
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
