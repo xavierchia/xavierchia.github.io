@@ -321,6 +321,15 @@ footer {
 
 small {font-size: 16px;}
 
+
+
+
+@media only screen and (min-width: 600px) {
+    .heroimage { 
+        float:right;  
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
