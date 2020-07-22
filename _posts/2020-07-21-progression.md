@@ -50,11 +50,11 @@ should be used.
 
 Other definitions based on muscle size, strength benchmarks or years of
 experience are far less suited for this goal. The size of your muscles
-and how fast they grow depends heavily on genetic factors ([^88]).
+and how fast they grow depends heavily on genetic factors.
 Therefore it's impossible to make any general statements about how large
 your muscles should be at an intermediate or advanced level. Similarly,
 strength standards can be misleading because some people are stronger
-simply for genetic reasons ([@pmid15947721]). Years of experience is an
+simply for genetic reasons. Years of experience is an
 even worse measure of the training level. Some people have years of
 experience in the gym but are still at a beginner or intermediate level
 since they haven't trained intelligently. In particular, without a
@@ -163,8 +163,8 @@ after the deload you're again able to make progress.
 
 Take note that a deload phase is not a workout pause. Instead, you still
 go to the gym and lift weight to make sure that you stay above your
-maintenance volume ([^94]). This makes sense to avoid a loss of
-gains ([@pmid21131862]). At the same time you give your body time to repair
+maintenance volume. This makes sense to avoid a loss of
+gains. At the same time you give your body time to repair
 accumulated muscle damages and fatigue. Additionally, and maybe most
 importantly, a deload is an extremely powerful psychological tool to
 renew motivation and determination.
@@ -183,7 +183,7 @@ to move on to a more sophisticated progressions scheme.
 A final thing worth mentioning before we move on is that there are
 various more complicated progression schemes that are sometimes
 recommended for beginners. However, there is currently no scientific
-evidence that they lead to greater gains ([^95]). It therefore makes sense
+evidence that they lead to greater gains. It therefore makes sense
 to stick to Linear Progression as long as it is possible to make
 progress this way.
 
@@ -220,22 +220,22 @@ them here. In short:
 
 -   a macrocycle is typically a year or a season.
 
-![image])(images/muscle/7.png){width="80%"}
+![](images/muscle/7.png){: width="80%"}
 
 Before we discuss any details, it's worth mentioning that there is
 plenty of evidence that periodization, in general, leads to greater
-strength gains than nonperiodized alternatives for trained lifters ([^96]).
+strength gains than nonperiodized alternatives for trained lifters.
 Moreover, take note that historically there have been many heated
 discussions on the question which periodization scheme works best. But
 this question cannot be conclusively answered since there are too many
-possible variation how each scheme can be implemented ([^97]). Currently
+possible variation how each scheme can be implemented. Currently
 there is no convincing evidence that one of the periodization schemes is
-superior for hypertrophy ([^98]). In fact, they are not even mutually
+superior for hypertrophy. In fact, they are not even mutually
 exclusive. It's possible to implement Undulating Periodization at the
 microcycle scale, Linear Periodization on the mesocycle scale for
 compound exercises, Double Periodization on the mesocycle scale for
 isolation exercises, and Block Periodization on the macrocycle scale.
-This is known as an **integrated approach** ([^99]). However, such
+This is known as an **integrated approach**. However, such
 elaborated systems only become really relevant once you've moved past
 the intermediate level.
 
@@ -255,7 +255,7 @@ subsequent workout sessions, you do a deload. After the deload you're
 usually able to increase the load you can do the target number of reps
 with.
 
-![image])(images/muscle/8.png){: width="80%"}
+![](images/muscle/8.png){: width="80%"}
 
 The best way to understand Linear Periodization is by looking at an
 explicit example. As before, let's say your plan contains three bench
@@ -297,7 +297,7 @@ variable (load) once we've hit the target in the first variable (number
 of reps).
 
 {:.centered}
-![image])(images/muscle/9.png){: width="80%"}
+![](images/muscle/9.png){: width="80%"}
 
 Again, the best way to understand this idea is by considering an
 example. Let's say your workout plan contains three sets of biceps curls
@@ -309,7 +309,7 @@ example. Let's say your workout plan contains three sets of biceps curls
 -   In the second workout, you keep the load unchanged but try to do
     more reps.
 
--   You do this in every workout until you're able to do 3 $\times$ 15
+-   You do this in every workout until you're able to do 3 times 15
     reps.
 
 -   Once this goal is reached you finally increase the load to 16 kg and
@@ -326,13 +326,13 @@ the week afterwards, this can be a sign that your body needs a deload.
 Moreover, depending on what kind of equipment is available in your gym,
 it can make sense to use a wider rep range. For example, if you're only
 able to increase the bicep curl load in increments of 2.5 kg, it can
-make sense to work your way up to 3 $\times$ 18 reps before you increase
+make sense to work your way up to 3 times 18 reps before you increase
 the load. You'll notice that this is necessary if you're not able to do
-the target number of reps (here 3 $\times$ 12) after increasing the
+the target number of reps (here 3 times 12) after increasing the
 load.
 
 {:.centered}
-![](/images/muscle/loaddecision3.png){: width="600px" }
+![](/images/muscle/loaddecision3.png){: width="200px" }
 
 ## Alternative Progression Systems
 
@@ -343,7 +343,8 @@ section I want to sketch quickly how they work.
 **Undulating Periodization** is a system where the load an number of
 reps are modified in a wavelike pattern.
 
-![image])(images/muscle/10.png){width="80%"}
+{:.centered}
+![](images/muscle/10.png){: width="200px" }
 
 Once more, let's consider an example.
 
@@ -366,7 +367,7 @@ Once more, let's consider an example.
     rep sets with 82.5 kg.
 
 {:.centered}
-![](/images/muscle/loaddecision4.png){: width="600px" }
+![](/images/muscle/loaddecision4.png){: width="200px" }
 
 It's possible to modify the load and number of reps on a weekly basis,
 which is known as Weekly Undulating Periodization, but also on a daily
@@ -379,7 +380,7 @@ planning. Typically a block corresponds to a mesocycle (4-6 weeks) and
 focuses on a specific goal like strength or hypertrophy. block
 
 -   During a hypertrophy block the volume is typically increase from
-    week to week (e.g., 10 sets $\to$ 20 sets per muscle group), while
+    week to week (e.g., 10 sets → 20 sets per muscle group), while
     each set is stopped before failure (RPE of 6-8) and consists of 6-15
     reps.
 
@@ -431,9 +432,9 @@ something advanced lifters should try.
 
 But this doesn't mean that volume remains constant throughout your whole
 lifting career. The maximum sustainable workout volume increases as you
-gain more experience. ([^102]) While for beginners 10 sets per muscle group
+gain more experience. While for beginners 10 sets per muscle group
 and week are a good general recommendation, lifters with more experience
-can benefit from up to 30 sets per muscle group and week ([@pmid30153194]).
+can benefit from up to 30 sets per muscle group and week.
 
 However, the only way to sensibly adjust your volume over time is
 through experimentation. In the beginning, it makes sense to follow a
@@ -498,3 +499,32 @@ want to continue making progress.
 In the next part of the book, we will discuss several example workout
 plans. This will allow you to understand how the learnings from this
 first part of the book can be applied to the real world.
+
+**Notes**
+
+[^87]: Progress in this context typically means either more load at a
+    fixed number of reps, or more reps at a fixed load.
+
+
+[^89]: Reminder: 1RM denotes One-Rep Max and describes the maximum
+    weight you can lift exactly once.
+
+[^90]: Progression systems can seem like rocket science if you use
+    volume load and percentages of 1RM to track progress.
+
+[^91]: To check your form yourself, you can use one of the many
+    tutorials that are available for free on Youtube.
+
+[^92]: One online community dedicated to providing form checks is
+    [www.reddit.com/r/formcheck/](www.reddit.com/r/formcheck/).
+
+[^93]: We will discuss this in more concrete terms below.
+
+
+
+
+[^100]: We only talked briefly about temporary decreases in volume,
+    which are known as deloads.
+
+[^101]: Reminder: volume = number of hard sets.
+
