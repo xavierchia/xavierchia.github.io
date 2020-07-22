@@ -40,8 +40,8 @@ Whenever someone whose opinion you value recommends something (e.g. on Twitter, 
 
 The purpose of the whole exercise is twofold: 
 
-You should never read a book or article as soon as you stumble upon it. This will only distract you and sabotage your plan.  This is similar to how you’ll mess up your workout plan if you try immediately each new machine the gym adds. Most of the time your desire is simply an instance of the shiny toy syndrome. If you find the book, article, or course still interesting after a while, chances are much higher that it’ll truly help you.
-Saving resources in a well-defined list will free up mental resources. You’ll always be able to find them again, so there is no need to keep thinking about them.
+- You should never read a book or article as soon as you stumble upon it. This will only distract you and sabotage your plan.  This is similar to how you’ll mess up your workout plan if you try immediately each new machine the gym adds. Most of the time your desire is simply an instance of the shiny toy syndrome. If you find the book, article, or course still interesting after a while, chances are much higher that it’ll truly help you.
+- Saving resources in a well-defined list will free up mental resources. You’ll always be able to find them again, so there is no need to keep thinking about them.
 
 It’s important to not just jot down the name of the book/article/course but also who recommended it and in which context the recommendation appeared. There are two good reasons for doing this: 
 
