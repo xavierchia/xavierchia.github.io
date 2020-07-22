@@ -7,6 +7,8 @@ permalink: /muscle/
 {:.rightaligned}
 ![](/images/muscle2.png)
 
+Preface
+
 - [Taking a Scientific Approach to Muscle Building](/scientific)
 - [Why care about weightlifting?](/why-care)
 
