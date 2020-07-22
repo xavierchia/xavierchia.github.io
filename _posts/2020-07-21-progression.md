@@ -280,7 +280,7 @@ with 8 reps work best for you.
     three 8 rep sets with 82.5 kg, 77.5 kg, 72.5 kg.
 
 {:.centered}
-![](/images/muscle/loaddecision2.png){: width="600px" }
+![](/images/muscle/loaddecision2.png){: width="300px" }
 
 While Linear Periodization can be used for years to make progress in
 compound lifts, it's not directly applicable to isolation exercises.
@@ -332,7 +332,7 @@ the target number of reps (here 3 times 12) after increasing the
 load.
 
 {:.centered}
-![](/images/muscle/loaddecision3.png){: width="200px" }
+![](/images/muscle/loaddecision3.png){: width="300px" }
 
 ## Alternative Progression Systems
 
@@ -344,7 +344,7 @@ section I want to sketch quickly how they work.
 reps are modified in a wavelike pattern.
 
 {:.centered}
-![](images/muscle/10.png){: width="200px" }
+![](images/muscle/10.png){: width="300px" }
 
 Once more, let's consider an example.
 
@@ -367,7 +367,7 @@ Once more, let's consider an example.
     rep sets with 82.5 kg.
 
 {:.centered}
-![](/images/muscle/loaddecision4.png){: width="200px" }
+![](/images/muscle/loaddecision4.png){: width="300px" }
 
 It's possible to modify the load and number of reps on a weekly basis,
 which is known as Weekly Undulating Periodization, but also on a daily
