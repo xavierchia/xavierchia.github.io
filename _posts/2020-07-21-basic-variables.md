@@ -866,7 +866,7 @@ gains.
 
 ------------------------------------------------------------------------
 
-In summary, you should make sure that you perform all exercises with
+To sum the previous paragraphs up, you should make sure that you perform all exercises with
 good form and the full range of motion that is possible for you. In
 addition, you shouldn't worry about lifting tempo. Just get the weight
 up and down in a controlled manner without purposefully slowing it down
