@@ -4,9 +4,9 @@ title: Essays
 permalink: /essays/
 ---
 
-## Series
 
-**0 to 0.1** - a humble path to financial independence
+
+## 0 to 0.1 - a humble path to financial independence
 
 - [The dawn of the humble age](/dawn)
 - [The humble creator manifesto](/manifesto)
@@ -24,7 +24,7 @@ Part 2: Execution
 - [How to create a humble personal brand](/humble_brand)
 
 
-**No-Nonsense Muscle Training** - a scientific guide for normal people
+##No-Nonsense Muscle Training - a scientific guide for normal people##
 
 - [Taking a Scientific Approach to Muscle Training](/scientific)
 - [Why care about weightlifting?](/why-care)
