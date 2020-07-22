@@ -16,3 +16,4 @@ Part 1: What Everybody Ought to Know About Weightlifting
 
 - [Bird's-Eye View of Effective Weightlifting](/bird)
 - [Basic Principles of Effective Weightlifting](/weightlifting-principles)
+- [The basic variables you should focus to build muscles](/basic-variables)
