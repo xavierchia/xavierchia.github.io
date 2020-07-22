@@ -69,7 +69,7 @@ helpful.
     that there are genetic outliers that are able to make linear
     progress for far longer.
 
--   Typical 1RM values at an intermediate level are ([^89])
+-   Typical 1RM values at an intermediate level are[^89]
 
     -   Bench press: body weight x 1.2
 
@@ -99,7 +99,7 @@ in more detail.
 
 Luckily, if you're a beginner or at an intermediate level and focus on
 the right key variables (number of hard sets, RPE), progression is not
-rocket science. ([^90])
+rocket science.[^90]
 
 In particular, if you're using RPE as measure of intensity, variables
 like the number of reps and the load will automatically evolve. For
@@ -148,8 +148,8 @@ Before you move on to more sophisticated progression schemes, you should
 try to make further progress by improving your exercise form. One of the
 most common reason for stagnation are **technique issues**. The easiest
 way to fix them is to get help from a coach. If this isn't an option,
-you can record your sets and review them yourself ([^91]) or post them
-online for feedback ([^92]).
+you can record your sets and review them yourself[^91] or post them
+online for feedback[^92].
 
 If this doesn't help, you should try a **deload**. A deload is typically
 a week in which you reduce the volume and intensity to allow your body
@@ -158,7 +158,7 @@ A sensible general recommendation is to do only half of the usual
 volume. For example, if your workout plan contains 10 bench press sets,
 you do only five during a deload week. Moreover, it makes sense to
 reduce the load such that you're 2-3 points below your usual RPE after
-the prescribed number of reps. ([^93]) In many cases, you will find that
+the prescribed number of reps.[^93] In many cases, you will find that
 after the deload you're again able to make progress.
 
 Take note that a deload phase is not a workout pause. Instead, you still
