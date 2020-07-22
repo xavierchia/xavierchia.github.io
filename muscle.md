@@ -21,6 +21,9 @@ Part 1: What Everybody Ought to Know About Weightlifting
 
 Part 2: Program Building
 
+Appendix:
+
+- [Essential Books on Muscle Building](/muscle-books)
 
 
 > "No man has the right to be an amateur in the matter of physical training.
