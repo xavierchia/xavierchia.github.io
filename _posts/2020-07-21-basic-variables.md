@@ -234,7 +234,7 @@ and hypertrophy only holds up to a certain point. If the volume is too
 large, your workouts become counterproductive. A useful rule of thumb is
 that the minimum effective volume for beginners is around 4 sets per
 week and muscle group, and the maximal adaptive volume corresponds to
-around ten (sufficiently hard) sets per week and muscle group .
+around ten (sufficiently hard) sets per week and muscle group.
 
 Next, let's talk about how we can determine whether or not a set is
 sufficiently hard.
@@ -274,14 +274,8 @@ The two most popular measures of intensity are:
     in reserve and we therefore call this a 2 RIR set. The relationship
     between RPE and RIR is RPE = 10 - RIR.
 
-      **RPE**   **Description**              **Reps in Reserve**
-      --------- ---------------------------- ---------------------
-      10        No additional rep possible   0
-      9         Could do 1 more rep          1
-      8         Could do 2 more reps         2
-      7         Could do 3 more reps         3
-      5-6       Could do 4 to 5 more reps    4-5
-      1-4       Warm-Up                      too many to count
+{:.centered}
+![](/images/muscle/rpe.png){: width="600px" }
 
 At first glance, it may seem as if the One-Rep Max measure is superior
 because it's more objective. Especially for beginners it can be quite
