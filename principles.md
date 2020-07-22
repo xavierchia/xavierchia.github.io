@@ -18,3 +18,8 @@ For example, there are the productivity influencers who push every other week a 
 complicate to profit. Has to look serious enough. Don't use their own system. Prach water but drink wine. 
 
 A second reason why experts are rarely who you should ask for advice. You typically get much better advice from someone who was in a similar siutation like you recently and is now just one step ahead of you. Someone like this still remembers all the problems you're going to face and what kind of things are truly relevant to you. 
+
+
+Encourage more regular people to share what they do. This allows you to reflect on your own processes and get feedback from others.
+
+Curate valuable writeups from regular people and give them the attention they deserve. 
