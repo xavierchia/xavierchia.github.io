@@ -63,13 +63,10 @@ I’ve found that three topics is a magic compromise between making sufficient p
 
 For each topic you picked, try to formulate one sentences that describes what you hope to achieve by learning more about it. 
 
-“I hope that I’ll be able to move beyond my current plateau and finally start making progress in the gym again.”
-
-“I want to get better at communicating my ideas to attract a larger audience.”
-
-“I want to earn more money to become independent enough to work on projects I deeply care about.”
-
-“I want to understand how the universe works since this will allow me to understand my own place in the grand scheme of things.”
+- “I hope that I’ll be able to move beyond my current plateau and finally start making progress in the gym again.”
+- “I want to get better at communicating my ideas to attract a larger audience.”
+- “I want to earn more money to become independent enough to work on projects I deeply care about.”
+- “I want to understand how the universe works since this will allow me to understand my own place in the grand scheme of things.”
 
 
 ## Do your research
@@ -90,7 +87,12 @@ At the beginner level, it’s usually a good idea to focus on a single book. At 
 
 Understanding requires effort and passive reading is rarely effective.
 
-Effective learning requires that you constantly ask yourself: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to?
+Effective learning requires that you constantly ask yourself: 
+
+- What does it mean? 
+- How does it connect to … ? 
+- What is the difference between … ? 
+- What is it similar to?
 
 The best way to make sure you’re constantly running these internal programs is to focus on deliverables or real-world projects.
 
@@ -98,10 +100,10 @@ Real-world projects are, of course, the best option but not always possible. For
 
 Examples for deliverables are:
 
-a tweet (or a short note),
-a blog post (or an evergreen note),
-a podcast episode,
-a book.
+- a tweet (or a short note),
+- a blog post (or an evergreen note),
+- a podcast episode,
+- a book.
 
 There’s no need to decide at the beginning what kind of deliverable you’ll produce. What matters is that it’s always clear that you do something with the things you learn. Only then you can make sure that you won’t slip into a purely passive reading mode.
 
