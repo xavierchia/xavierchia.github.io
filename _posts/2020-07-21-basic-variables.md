@@ -46,7 +46,7 @@ The following diagram summarizes our plan in this article:
 
 
 {:.centered}
-![](/images/variables.ong)
+![](/images/variables.png)
 
 Before we start, here's a sort disclaimer.
 
