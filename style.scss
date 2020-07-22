@@ -335,6 +335,21 @@ small {font-size: 16px;}
     }
 }
 
+
+blockquote {
+    border-width: 4px;
+    border-color: #00f;
+    color: #004;
+    font-family: $nanum;
+    padding: 16px 32px;
+    font-size: 32px;
+    margin-left: -32px;
+    margin-top: 32px;
+    margin-bottom: 64px;
+    -webkit-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
