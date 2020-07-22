@@ -4,12 +4,6 @@ title: Essays
 permalink: /essays/
 ---
 
-
-
-
-
-## Most Recent Essays
-
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

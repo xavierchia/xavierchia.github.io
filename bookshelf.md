@@ -23,6 +23,9 @@ Bad Blood  | James Nestor           | Real-Life Storytelling    | ✰✰✰✰�
 Sapiens  | Yuval Noah Harari           | Non-Fiction, Anthropology    | ✰✰✰✰✰
 Zero to One  | Peter Thiel and Blake Masters           | Non-Fiction, Business    | ✰✰✰✰✰
 The Man Who Solved the Market  | Gregory Zuckerman           | Real-Life Storytelling    | ✰✰✰✰
+Flowers of Emptiness  |  Sally Belfrage           | Real-Life Storytelling, Mysticism    | ✰✰✰✰
+The quest for the simple life   |  William James Dawson           | Real-Life Storytelling, Minimalism    | ✰✰✰✰
+The secret of our success    |  Joseph Henrich        | Non-Fiction, Anthropology    | ✰✰✰✰
 
 
 
