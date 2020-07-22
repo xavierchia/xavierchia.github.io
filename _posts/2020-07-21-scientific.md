@@ -38,7 +38,7 @@ should always be taken with a grain of salt.
 
 A much smarter approach is to have a look at the actual scientific
 evidence. While this approach isn't perfect it's certainly better than
-the alternative of just making stuff up. [^1]
+the alternative of just making stuff up.[^1]
 
 The main reason why a scientific approach to weightlifting isn't more
 widely adopted is that usually the only people who talk about scientific
@@ -55,7 +55,7 @@ don't make my living in the fitness industry.
 This is a huge advantage for several reasons.
 
 -   There's no reason why I should overcomplicate things and
-    purposefully confuse you to make you dependent. [^2] This book will
+    purposefully confuse you to make you dependent.[^2] This book will
     teach you everything I know since I have nothing else to sell.
     There's no premium video course, private coaching, or other upsells.
 
