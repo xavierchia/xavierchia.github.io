@@ -962,3 +962,204 @@ interset rest periods are short although this doesn't lead to more
 hypertrophy. As in all other aspects of live, there is an important
 difference between being busy and being productive. Productive effort in
 the gym is primarily measured by volume times intensity
+
+**Notes**
+
+[^15]: This is discussed in more detail in
+    Chapter [12](#ch:science){reference-type="ref"
+    reference="ch:science"}.
+
+[^16]: A meta study combines the results of multiple studies to get
+    results with a higher statistical significance.
+
+[^17]: We will talk about the role of intensity in more detail in the
+    following section.
+
+[^18]: If this isn't clear, compare $3$ sets á $25$ repetitions with
+    $50$ kg to $3$ sets á $10$ repetitions with $70$ kg. The volume load
+    in the former case is $3750$ kg while in the latter case it's just
+    $2100$ kg. (In the second routine, the weight on the bar has to be
+    higher because otherwise the intensity wouldn't be sufficiently
+    high).
+
+[^19]: This terminology was introduced by Dr. Mike Israetel.
+
+[^20]: [@pmid27433992]
+
+[^21]: [@schoenfeldvol]
+
+[^22]: [@pmid30160627; @pmid27941492; @pmid9068095]
+
+[^23]: The RPE measure was primarily popularized by the powerlifting
+    coach Mike Tuscherer.
+
+[^24]: You can find many One-Rep Max Calculators online. But as
+    discussed below, the numbers you get through these calculators or
+    1RM tables should be seen as rough guidelines that certainly aren't
+    correct for everyone.
+
+[^25]: [@pmid24899782; @pmid30036284]
+
+[^26]: The RPE measure also allows us to quantify the problem with the
+    Percentage of One-Rep Max measure. In the example from above, an 8
+    repetition set at 70% of 1RM can be a 9 RPE set for some people, but
+    a 3 RPE set for others.
+
+[^27]: [@pmid28834797; @pmid22518835; @pmid26049792]
+
+[^28]: [@pmid18787090]
+
+[^29]: [@pmid26858654]
+
+[^30]: [@pmid31895290]
+
+[^31]: [@pmid17530977; @pmid24998610; @pmid26666744; @pmid26858654]
+
+[^32]: [@pmid27621718]
+
+[^33]: [@pmid28965198]
+
+[^34]: [@pmid26666744; @pmid28965198; @pmid25809472; @pmid29628895; @pmid31809457]
+
+[^35]: For a fixed RPE value, you can modify the number of reps in a set
+    by using different weights. For example, if you bench press with 50
+    kg you might be able to do a maximum of 22 repetitions. Therefore,
+    in an 8 RPE set with 50 kg you would stop at 20 reps. But with 70 kg
+    on the bar, an 8 RPE set will be finished after 10 reps.
+
+[^36]: [@pmid22518835; @pmid28834797]
+
+[^37]: [@pmid29564973]
+
+[^38]: In a lab a group of researchers is watching you to make sure you
+    really carry out a given set to failure. If you're alone in the gym,
+    chances are high that you would give up much earlier.
+
+[^39]: [@pmid28834797]
+
+[^40]: [@pmid24714538]
+
+[^41]: [@pmid25853914]
+
+[^42]: [@pmid28447186; @pmid28965198]
+
+[^43]: Reminder: volume = number of hard sets.
+
+[^44]: We will talk about the role of exercise form in
+    Section [3.7](#sec:liftingtempoandform){reference-type="ref"
+    reference="sec:liftingtempoandform"}.
+
+[^45]: There currently isn't enough research to decide on this
+    conclusively. But since different rep ranges lead to similar
+    hypertrophy, there is at least no risk in varying the rep range.
+
+[^46]: Reminder: volume load = number of sets $\times$ number of reps
+    $\times$ load.
+
+[^47]: [@pmid22518835; @pmid25853914; @pmid26848545; @pmid22328004; @pmid18787090]
+
+[^48]: Take note that we are not discussing here whether or not in makes
+    sense to use different exercises in workout plans that are used in
+    different months. Instead, we discuss if it makes sense to use
+    different exercises for a given muscle group in one workout plan.
+
+[^49]: [@jose; @pmid20847704]
+
+[^50]: [@pmid24832974]
+
+[^51]: [@pmid24978835; @Barnett]
+
+[^52]: [@pmid9459538; @Fry2004]
+
+[^53]: [@pmid24998610]
+
+[^54]: This is somewhat analogous to how it doesn't make sense to do all
+    the learning the night before an exam. The results are usually much
+    better if the learning is distributed to multiple days.
+
+[^55]: [@pmid25932981; @rasstad; @pmid27102172; @Nuckols]
+
+[^56]: [@pmid30558493; @pmid30236847]
+
+[^57]: Of course, you can train different muscle groups on the same day.
+    For example, one session could include chest and triceps exercises
+    while a second session includes back, biceps and leg exercises. Each
+    of the two sessions is performed twice per week such that you end up
+    with four weekly workout sessions.
+
+[^58]: [@pmid28965198; @pmid25807025; @pmid31156751; @pmid12741861; @pmid17194226]
+
+[^59]: [@pmid29967584; @pmid27682004]
+
+[^60]: It is, of course, possible to do workout sessions that target
+    different muscle groups in the meantime. For example, chest on
+    Monday and Thursday, back on Tuesday and Friday etc.
+
+[^61]: [@pmid19077743]
+
+[^62]: [@pmid16118582]
+
+[^63]: [@pmid28641044; @pmid25047853; @pmid26605807; @pmid19077743]
+
+[^64]: [@pmid19691365]
+
+[^65]: We will discuss the role of metabolic fatigue in more detail in
+    Chapter [11](#ch:musclegrowth){reference-type="ref"
+    reference="ch:musclegrowth"}.
+
+[^66]: [@pmid26446291; @pmid23537028; @pmid26244600; @pmid27677913]
+
+[^67]: Compound exercises target certain muscles rather indirectly. For
+    example, the bench press primarily targets the chest muscle while
+    the triceps is only trained indirectly. It's still a hotly debated
+    topic how much a set of indirect exercise counts for the total
+    volume. Should we count a bench press set as a full triceps set
+    [@pmid28029681], a 0.5 triceps set or don't count it all since only
+    hard sets count? One thing that seems relatively certain is that it
+    is possible to develop the triceps solely by bench pressing but the
+    total triceps gains are sub-optimal [@pmid23053130].
+
+[^68]: [@pmid11782267; @pmid1555898]
+
+[^69]: [@pmid29312007; @pmid27677913]
+
+[^70]: [@pmid21522219; @pmid28029681]
+
+[^71]: [@pmid27677913]
+
+[^72]: We discussed this in
+    Section [3.4](#sec:varietyandfrequency){reference-type="ref"
+    reference="sec:varietyandfrequency"}.
+
+[^73]: [@pmid27995535]
+
+[^74]: This is typically done by electromyographic (EMG) activity
+    measurements which measure the magnitude of the electric potential
+    inside a muscle. You can find an in-depth discussion of EMG
+    measurements at
+    <https://www.strengthandconditioningresearch.com/biomechanics/electromyography-emg/>.
+
+[^75]: [@pmid26670996; @pmid26159758]
+
+[^76]: We've talked about this in
+    Section [3.2](#sec:intensity){reference-type="ref"
+    reference="sec:intensity"}.
+
+[^77]: [@pmid26464884; @pmid25799093; @pmid20512064]
+
+[^78]: [@sforzo]
+
+[^79]: [@pmid27217934]
+
+[^80]: This reminds me of the general productivity tip to always start
+    with the hardest tasks. (\"Eat a Live Frog Every Morning, and
+    Nothing Worse Will Happen to You the Rest of the Day\", which is
+    often attributed to Mark Twain.
+
+[^81]: [@pmid18076251; @pmid22292516; @pmid25092528]
+
+[^82]: [@pmid22292516; @pmid22742079; @pmid24511353; @pmid25713681]
+
+[^83]: [@pmid19243993; @pmid22292516]
+
+[^84]: [@pmid23604798; @pmid22027847; @pmid23629583]
