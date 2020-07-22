@@ -164,7 +164,10 @@ too many sets in your routine you will enter a state known as
 Diagrammatically, the relationship between volume and progress roughly
 looks like this:
 
-![image](images/muscle/1.png){width="80%"}
+{:.centered}
+![](images/muscle/1.png){: width="400px" }
+
+
 
 The abbreviations in this diagram are defined as follows:[^19]
 
@@ -826,7 +829,10 @@ First of all, there is convincing evidence that a full range of motion
 leads to more hypertrophy[^84]. Therefore, exercises should be done with
 the full range of motion that is possible given your anatomy.
 
-![image](images/muscle/5.png){width="80%"}
+{:.centered}
+![](images/muscle/5.png){: width="400px" }
+
+
 
 While it may look badass if you're able to move more weight by cheating
 a little, always remember that this is, I suppose, not your primary
