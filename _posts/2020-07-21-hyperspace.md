@@ -122,7 +122,7 @@ Typically, as you try to build the minimum viable version of different products,
 Move all ideas for which you've already attempted to create a MVP from the "good ideas" list to a new list titled MVPs. Moreover, move the one idea you want to continue working on to yet another list titled "Work in Progress". (Bonus points if you jot down some notes why you weren't excited to continue working on a given product. This will help you to avoid making the same mistakes over and over again.)
 
 {:.centered}
-![](/images/good_idea_flow.svg){: width="400px" }
+![](/images/good_idea_flow.svg){: width="600px" }
 
 If you're not truly excited to work on any of the solutions, you should try to come up with new ideas and repeat the exercise or try another angle. 
 
