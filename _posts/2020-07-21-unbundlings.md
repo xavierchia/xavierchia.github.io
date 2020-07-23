@@ -5,7 +5,7 @@ permalink: unbundlings
 ---
 
 
-Society moves in waves.  It always starts with lots of separate things. Then they get bundled. After a while, more and more people start to realize that the bundled solution is too bloated and not specific enough for their needs. This is when an unbundling happens. 
+Society moves in waves.  It always starts with lots of separate things. Then they get bundled. After a while, more and more people start to realize that the bundled solution is too bloated and not specific enough for their needs. [This is when an unbundling happens.](https://www.ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs)
 
 Unbundlings always represent a multitude of business opportunities. Below I'll list several examples of unbundlings that have happened in the past, some that are happening right now, and a few speculations on what might be unbundled next. 
 
@@ -68,7 +68,7 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 
 
 
-(Source: [https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit))
+(Source: [https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit) and [https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/](https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/))
 
 ## The Unbundling of Universities
 
@@ -83,6 +83,16 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 - Buddypress → [Tribe.so](https://tribe.so/)
 - Membership Plugins → Mighty Networks, Ghost
 - Contact Form Plugins → Typeform
+- Comments  → Disqus
+
+
+## The Unbundling of Webhosting
+
+- Database → Cloud Firestore, FaunaDB
+- Authentication → [Auth0](https://auth0.com/)
+- Content Delivery → Cloudflare, Netlify
+- Version Control → Github, Gitlab, Bitbucket
+- Email → Mailchimp, ConvertKit
 
 ## What's Next?
 
@@ -90,11 +100,8 @@ Now that we have some understanding of how unbundlings look like in practice, it
 
 A few suggestions:
 
-- Unbundling Twitter? (Earn.com?)
-- Unbundling Ebay? Amazon? (See Etsy, Shopify)
-- Unbundling of Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/))
+- Twitter? (Especially its DM function, Earn.com?)
+- Ebay? Amazon? (See Etsy, Shopify)
+- Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/))
 
-## **Further Reading Recommendations**
-
-- [https://www.ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs](https://www.ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs)
-- [https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/](https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/)
+I'd love to hear on [Twitter](https://twitter.com/jakobgreenfeld) what unbundlings you've observed in the past and which you predict for the future!
