@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The humble businesses hyperspace
+title: The humble business hyperspace
 permalink: hyperspace
 ---
 
@@ -13,7 +13,7 @@ First of all, note that there isn't a perfect general answers. It's simply wrong
 In short, the key decisions you have to make are:
 
 - Do you build a product in an environment you fully control or a product for a marketplace with existing demand?
-- Do you build a physical product, a software product, or an info product?
+- Do you build a physical product, a software product, or a content product (also often known as an info product)?
 - Do you build something from scratch or do you buy an existing asset and then mold it to fit your vision?
 
 For many problems, it's possible to find a solution for each of these categories. To illustrate this, let's say the problem you want to solve is that it has become increasingly difficult for med students to stay productive in this age of distractions.
@@ -60,23 +60,23 @@ In summary, while startups typically start by building a full-control product an
 {:.centered}
 ![](/images/humble_vs_startup_strategy.svg)
 
-Next, let's talk about the pros and cons of physical products, software products, and info products. 
+Next, let's talk about the pros and cons of physical products, software products, and content products. 
 
-## Physical product vs . a software product vs. info product
+## Physical product vs . a software product vs. content product
 
-Oversimplifying a bit, we can say that physical products have the highest barrier of entry while info products have the lowest and software products are located somewhere in-between. 
+Oversimplifying a bit, we can say that physical products have the highest barrier of entry while content products have the lowest and software products are located somewhere in-between. 
 
-For a physical product, you not only need to create the product but also find a supplier, order samples, and handle the shipping processes [etc.](http://etc.In) In contrast, an info product only needs to be created and published. 
+For a physical product, you not only need to create the product but also find a supplier, order samples, and handle the shipping processes [etc.](http://etc.In) In contrast, a content product only needs to be created and published. 
 
 While a low barrier of entry means that it'll be easier for you to create your product, this will also be true for competitors and hence it's much harder to stand out. To use the example for above again, it's certainly much harder to get anyone interested in yet another book about productivity while a physical productivity system will get many people excited. 
 
-Another important point you should consider is that physical products require the most initial investment, while info products don't require any and software products typically only a little. It should be noted, however, that nowadays, thanks to platforms like Kickstarter, you can minimize your risk substantially. 
+Another important point you should consider is that physical products require the most initial investment, while content products don't require any and software products typically only a little. It should be noted, however, that nowadays, thanks to platforms like Kickstarter, you can minimize your risk substantially. 
 
-Since it has become quite hard to get anyone excited about an info product (the golden days of ClickBank are long over), this option is only really promising if you already have a sizeable audience (e.g. a large following on social media platforms or an email list.) Moreover, as a beginner it's probably not wise to start with something as risky as a physical product.  Most physical products require too much handholding anyway. 
+Since it has become quite hard to get anyone excited about a content product (the golden days of ClickBank are long over), this option is only really promising if you already have a sizeable audience (e.g. a large following on social media platforms or an email list.) Moreover, as a beginner it's probably not wise to start with something as risky as a physical product.  Most physical products require too much handholding anyway. 
 
 Hence, for most humble entrepreneurs the best option is to start with a software product. This is, of course, a huge category and, as we've discussed in the previous section, there are many different kinds of software products you can build. 
 
-However, you certainly shouldn't discard info product completely. While the chances that you'll make a substantial amount of money selling one are slim, it's still a great way to get your feet wet. Info products can be published quickly and require close to zero handholding once they're published. This allows you to spend your time learning essential skills such as sales without being distracted by things customer support and bug fixing. 
+However, you certainly shouldn't discard content product completely. While the chances that you'll make a substantial amount of money selling one are slim, it's still a great way to get your feet wet. Content products can be published quickly and require close to zero handholding once they're published. This allows you to spend your time learning essential skills such as sales without being distracted by things customer support and bug fixing. 
 
 Next, let's talk about whether you should build your product from scratch or try to buy an existing asset.
 
@@ -130,12 +130,12 @@ If you're not truly excited to work on any of the solutions, you should try to c
 
 Our journey is far from finished. In fact, we're just getting started. While picking a promising idea you're excited about is important, there are lots of further steps that'll determine you success chances. 
 
-But while it's possible to stay quite general as long as we're at the idea stage, all further steps are very different depending on what exactly you want to build. For example, a web app is built differently than an iOS app or an info product. Moreover, the process of building a product is very different from the process of buying a business. Hence, we'll talk about these topics in separate articles.
+But while it's possible to stay quite general as long as we're at the idea stage, all further steps are very different depending on what exactly you want to build. For example, a web app is built differently than an iOS app or a content product. Moreover, the process of building a product is very different from the process of buying a business. Hence, we'll talk about these topics in separate articles.
 
 For example, if you decide to build a product from scratch, a question we need to talk about is: What's the best way to build the product you have in mind? However, the answer to this question, of course, depends on the kind of product you have in mind. Chrome extensions are built differently than iOS apps or web apps. 
 
 And if you decide that you're more interested in buying a business, we, of course, need to talk about quite different things.
 
-But there are also a few additional aspects like monetization and marketing that we can discuss in quite general terms. We've already talked briefly about several marketing above, but since this topic is so essential it deserves a longer discussion. Moreover, while monetization is usually straight-forward for physical products and info products, there are many things to consider for software products. And since most humble businesses are build around software products, this topic deserves some attention.
+But there are also a few additional aspects like monetization and marketing that we can discuss in quite general terms. We've already talked briefly about several marketing above, but since this topic is so essential it deserves a longer discussion. Moreover, while monetization is usually straight-forward for physical products and content products, there are many things to consider for software products. And since most humble businesses are build around software products, this topic deserves some attention.
 
 Since there is no longer any linear sequence from this point onwards, feel free to jump to whatever article sparks your interest.
