@@ -105,6 +105,6 @@ A few suggestions:
 
 - Twitter? (Especially its DM function, e.g., along the lines of what Earn.com tried. But also the "News-Feed" aspect, the "Life-Updates" aspect, the RSS-Feed aspect, etc.)
 - Ebay? Amazon? (See Etsy, Shopify)
-- Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/), [WIP.chat](https://wip.chat/))
+- Offices? (See Slack, Zoom, [Focusmate](https://www.focusmate.com/), [WIP.chat](https://wip.chat/))
 
 I'd love to hear on [Twitter](https://twitter.com/jakobgreenfeld) what unbundlings you've observed in the past and which you predict for the future!
