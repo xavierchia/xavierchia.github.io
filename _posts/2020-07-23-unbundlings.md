@@ -75,6 +75,8 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 - Credentials → Coursera, edX
 - Network → Twitter, Clubhouse, LinkedIn
 - Support → StackExchange
+- Access to Books → Scribd, Libgen
+- Learning Spaces  → [https://www.focusmate.com/](https://www.focusmate.com/)
 - Accountability → ???
 
 ## The Unbundling of Wordpress
@@ -101,8 +103,8 @@ Now that we have some understanding of how unbundlings look like in practice, it
 
 A few suggestions:
 
-- Twitter? (Especially its DM function e.g. along the lines of what Earn.com tried. But also the "News-Feed" aspect, the "Life-Updates" aspect, the RSS-Feed aspect, etc.)
+- Twitter? (Especially its DM function, e.g., along the lines of what Earn.com tried. But also the "News-Feed" aspect, the "Life-Updates" aspect, the RSS-Feed aspect, etc.)
 - Ebay? Amazon? (See Etsy, Shopify)
-- Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/))
+- Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/), [WIP.chat](https://wip.chat/))
 
 I'd love to hear on [Twitter](https://twitter.com/jakobgreenfeld) what unbundlings you've observed in the past and which you predict for the future!
