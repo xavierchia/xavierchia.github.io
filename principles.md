@@ -4,6 +4,8 @@ title: Practices and Principles
 permalink: /principles
 ---
 
+the best way to level up is have a look at what people one step ahead of you are doing.
+
 Ray Dalio
 
 Unfortunately, most of the time practices and principles are only shared by influencers. If you want to improve a certain aspect of your life, this is hardly the best place to look for inspiration. 
