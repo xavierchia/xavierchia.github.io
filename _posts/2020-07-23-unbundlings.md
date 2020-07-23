@@ -53,6 +53,7 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 
 ## The Unbundling of Reddit
 
+- r/startups → [IndieHackers](https://www.indiehackers.com/)
 - r/medicine → Doximity
 - r/Beauty -> Supergreat
 - r/funny → 9gag
