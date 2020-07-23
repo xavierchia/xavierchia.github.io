@@ -45,7 +45,7 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 - psychedelics → weed startups
 - communes → coliving
 - hippie trail → digital nomads
-- hippie food  → organic food , veganism
+- hippie food  → organic food, veganism
 - spirituality → mindfulness apps
 - free love → Tinder
 
@@ -66,15 +66,16 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 - r/GrowthHacking → [GrowthHackers.com](https://growthhackers.com)
 
 
-
-
 (Source: [https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit) and [https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/](https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/))
 
 ## The Unbundling of Universities
 
-
-{:.centered}
-![](/images/universityverticals.png)
+- Community → PhysicsForums, Discord Servers, 
+- Content → Udemy, Masterclass
+- Credentials → Coursera, edX
+- Network → Twitter, Clubhouse, LinkedIn
+- Support → StackExchange
+- Accountability → ???
 
 ## The Unbundling of Wordpress
 
