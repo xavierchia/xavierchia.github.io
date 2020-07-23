@@ -15,9 +15,9 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 
 - grep → Google,
 - rsync → Dropbox,
-- man → stack overflow,
-- cron → ifttt
-- finger → social media
+- man → Stack Overflow,
+- cron → [IFTTT](https://ifttt.com/)
+- finger → Social Media
 
 (Source: [https://twitter.com/cdixon/status/505118160811728896](https://twitter.com/cdixon/status/505118160811728896))
 
@@ -36,7 +36,7 @@ While going through the following examples, ask yourself:  What aspect hasn't be
 ## The Spreadsheet Unbundling
 
 {:.centered}
-![](/images/spreadsheetverticals.jpg)
+![](/images/spredsheetverticals.jpg)
 
 (Source: [https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/](https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/))
 
