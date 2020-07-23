@@ -8,9 +8,9 @@ permalink: /about/
 
 Why I Write
 
-- Writing helps me clarify my own thinking. For example, henever I write down how I do something, I start to wonder why I'm  doing it this way and not another. This motivates me to try out alternatives and improve the way I approach things. 
-- Most people spend most of their time doing things they don't really enjoy for reasons they can't articulate. We all work far too much. Mimetic traps, bullshit job. It's all signalling.
-- There's this vicious circle of people complicating things to profit and beginners believing they need to do complicated stuff because otherwise they're not serious enough. 
+- Writing helps me clarify my own thinking. For example, whenever I write down how I do something, I start to wonder why I'm  doing it this way and not differently. This motivates me to try out alternatives and improve the way I approach things. 
+- Most people spend most of their time doing things they don't really enjoy for reasons they can't articulate. We all work far too much. We all fall into mimetic traps, do bullshit job and all kinds of other crazy stuff solely for the purpose of signalling. I'm hoping to make more people aware of these problems and, at the same time, to become a lighthouse for people who are sick of seeing this over and over again.
+- There's this vicious circle of people complicating things to profit and beginners believing they need to do complicated stuff because otherwise they're not serious enough. I'm hoping to make more people aware of this problem.
 
 
 Mantras
