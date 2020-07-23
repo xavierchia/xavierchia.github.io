@@ -1,0 +1,100 @@
+---
+layout: post
+title: Advanced Business Ideation: Watch out for Unbundlings
+permalink: unbundlings
+---
+
+
+Society moves in waves.  It always starts with lots of separate things. Then they get bundled. After a while, more and more people start to realize that the bundled solution is too bloated and not specific enough for their needs. This is when an unbundling happens. 
+
+Unbundlings always represent a multitude of business opportunities. Below I'll list several examples of unbundlings that have happened in the past, some that are happening right now, and a few speculations on what might be unbundled next. 
+
+While going through the following examples, ask yourself:  What aspect hasn't been unbundled yet? What could be unbundled in a better way?
+
+## The Unix **Unbundling**
+
+- grep → Google,
+- rsync → Dropbox,
+- man → stack overflow,
+- cron → ifttt
+- finger → social media
+
+(Source: [https://twitter.com/cdixon/status/505118160811728896](https://twitter.com/cdixon/status/505118160811728896))
+
+## The Craigslist Unbundling
+
+{:.centered}
+![](/images/craigslistverticals.png)
+
+(Source: [https://thegongshow.tumblr.com/post/345941486/the-spawn-of-craigslist-like-most-vcs-that-focus](https://thegongshow.tumblr.com/post/345941486/the-spawn-of-craigslist-like-most-vcs-that-focus))
+
+{:.centered}
+![](/images/craigslistverticals2.png)
+
+(Source: [https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit))
+
+## The Spreadsheet Unbundling
+
+{:.centered}
+![](/images/spreadsheetverticals.jpg)
+
+(Source: [https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/](https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/))
+
+## **The Unbundling of Hippie Culture**
+
+- psychedelics → weed startups
+- communes → coliving
+- hippie trail → digital nomads
+- hippie food  → organic food , veganism
+- spirituality → mindfulness apps
+- free love → Tinder
+
+(Also take note how Hippie culture bundled lots of different things that existed previously within certain subcultures.)
+
+## The Unbundling of Reddit
+
+- r/medicine → Doximity
+- r/Beauty -> Supergreat
+- r/funny → 9gag
+- r/sports → StadiumLive
+- r/Streamers → [Pipeline.gg](http://pipeline.gg/)
+- r/*insert city* → Nextdoor
+- r/books → Goodreads
+- r/digitalnomad → [Nomadlist](https://nomadlist.com)
+- r/fitness → Fitocracy
+- r/design → [Designer News](https://www.designernews.co/)
+- r/GrowthHacking → [GrowthHackers.com](https://growthhackers.com)
+
+
+
+
+(Source: [https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit](https://latecheckout.substack.com/p/the-guide-to-unbundling-reddit))
+
+## The Unbundling of Universities
+
+
+{:.centered}
+![](/images/universityverticals.png)
+
+## The Unbundling of Wordpress
+
+- Publishing → Medium, Ghost
+- Ecommerce Plugins → Shopify
+- Buddypress → [Tribe.so](https://tribe.so/)
+- Membership Plugins → Mighty Networks, Ghost
+- Contact Form Plugins → Typeform
+
+## What's Next?
+
+Now that we have some understanding of how unbundlings look like in practice, it's time to ask: what's the next big thing that will get unbundled?
+
+A few suggestions:
+
+- Unbundling Twitter? (Earn.com?)
+- Unbundling Ebay? Amazon? (See Etsy, Shopify)
+- Unbundling of Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/))
+
+## **Further Reading Recommendations**
+
+- [https://www.ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs](https://www.ben-evans.com/benedictevans/2015/5/21/office-messaging-and-verbs)
+- [https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/](https://blog.alexshye.com/2013/08/15/the-unbundling-of-craigslist-and-reddit/)
