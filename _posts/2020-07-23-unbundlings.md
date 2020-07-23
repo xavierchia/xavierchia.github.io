@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch out for Unbundlings (Advanced Business Ideation)
+title: Watch out for Unbundlings
 permalink: unbundlings
 ---
 

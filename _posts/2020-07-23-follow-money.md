@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Follow the Money and Turn Costs into Revenue (Advanced Business Ideation)
+title: Follow the Money and Turn Costs into Revenue 
 permalink: follow-money
 ---
 
