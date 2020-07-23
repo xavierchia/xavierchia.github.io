@@ -100,7 +100,7 @@ Now that we have some understanding of how unbundlings look like in practice, it
 
 A few suggestions:
 
-- Twitter? (Especially its DM function, Earn.com?)
+- Twitter? (Especially its DM function e.g. along the lines of what Earn.com tried. But also the "News-Feed" aspect, the "Life-Updates" aspect, the RSS-Feed aspect, etc.)
 - Ebay? Amazon? (See Etsy, Shopify)
 - Offices? (See Slack, Zoom, [https://www.focusmate.com/](https://www.focusmate.com/))
 
