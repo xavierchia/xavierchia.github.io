@@ -6,9 +6,9 @@ permalink: humble-books
 
 Ideation
 
-- http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/
-- https://jsvxc.com/humble-business/
-- https://www.deepsouthventures.com/build-a-side-business/
+- [the 4 kinds of side businesses you can start](http://justinmares.com/the-4-kinds-of-side-businesses-you-can-start/) by Justin Mares
+- [How to create a (humble) online business](https://jsvxc.com/humble-business/) 
+- [Want to build a side business? Just buy a great Domain Name](https://www.deepsouthventures.com/build-a-side-business/) by Peter Askew
 
 Actionable Advice on Building, Buying and Running Humble Businesses
 
