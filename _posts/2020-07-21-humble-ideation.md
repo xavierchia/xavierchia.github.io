@@ -126,7 +126,7 @@ If the whole market is a niche, there is no reason to niche down. For example, t
 
 And while it may not be possible to make a lot of money as long as the whole market is a niche, your profit often will grow in direct relationship to the market growth. To quote the founder of Gumroad, Sahil Lavingia: "The market you’re in will determine most of your growth." 
 
-Thus if you want to come up with good humble business ideas, it makes a lot of sense to monitor upcoming trends. Three websites that can help you doing this are:
+Thus if you want to come up with good humble business ideas, it makes a lot of sense to [monitor upcoming trends](/trends). Three websites that can help you doing this are:
 
 - [https://treendly.com/](https://treendly.com/)
 - [https://explodingtopics.com/](https://explodingtopics.com/)
@@ -142,11 +142,11 @@ But please, don't jump blindly onto every hypetrain that comes along. Instead, l
 
 ### Sell Pickaxes
 
-Another useful "internal script" you can implement to come up with good humble business ideas, is to look for goldrushs (trends full of people with dollar signs in their eyes) and then try to come up with ways to sell pickaxes.
+Another useful "internal script" you can implement to come up with good humble business ideas, is to look for goldrushs (trends full of people with dollar signs in their eyes) and then try to come up with ways [to sell pickaxes](/pickax).
 
 It so much easier to sell a product if it helps others earn more money. Each customer can easily calculate that your product costs X but it will help him earn at least Y. If Y is bigger than X, it becomes a no-brainer to buy your product.
 
-Examples fur current gold rushs and pickaxes are:
+Examples of recent gold rushs and pickaxes are:
 
 - venture capital → build data aggregators that allows VCs to identify worthwhile investments
 - coaching → courses and tools for coaches in a specific niche
