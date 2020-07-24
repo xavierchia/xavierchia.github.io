@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need business ideas? Watch out for unbundlings!
+title: Need business ideas? Watch out for unbundlings
 permalink: unbundlings
 ---
 
