@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The basic variables you should focus to build muscles
+title: The basic variables you should focus on to build muscles
 permalink: basic-variables
 ---
 

@@ -16,7 +16,7 @@ Part 1: What Everybody Ought to Know About Weightlifting
 
 - [Bird's-Eye View of Effective Weightlifting](/bird)
 - [Basic Principles of Effective Weightlifting](/weightlifting-principles)
-- [The Basic Variables You Should Focus to Build Muscles](/basic-variables)
+- [The Basic Variables You Should Focus on to Build Muscles](/basic-variables)
 - [Progression Systems for Sustainable Muscle Growth](/progression)
 
 Part 2: Program Building
