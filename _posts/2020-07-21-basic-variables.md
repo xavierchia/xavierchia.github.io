@@ -1,8 +1,8 @@
-
+---
 layout: post
 title: The basic variables you should focus to build muscles
 permalink: basic-variables
-
+---
 
 
 To make your muscles grow you have to stimulate them adequately. But how

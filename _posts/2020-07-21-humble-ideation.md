@@ -97,13 +97,17 @@ In theory, this strategy makes sense. The bigger the market you target, the high
 
 But if you niche your idea down and develop, say, a note-taking app for med students who focus on dermatology, chances are high that some of them will take notice. And, as mentioned above, this strategy works especially well if you're a dermatology student yourself. 
 
-The key is to realize how few customers you really need to make a significant income and that people are willing to pay a lot more for specialized solutions. For example, to make $1,000,000 you have to
+The key is to realize how few customers you really need to make a comfortable income and that people are willing to pay a lot more for specialized solutions. For example, to make $5,000 per month you have to
 
-- Sell a $1000 product to 1000 people,
-- Sell a $200 product to 5000 people,
-- Sell a $10 product to 100,000 people.
+- Sell a $100 product to 50 people,
+- Sell a $20 product to 250 people,
+- Sell a $10 product to 550 people.
 
-Niching down in combination with scratching your own itch works best if your not living a 0815 life. To paraphrase Haruki Murakami, if you only do what everyone else is doing, you'll only be able to come up with ideas that everyone else is having. 
+There are almost 8 billion people on this planet. And you just have need to reach 500 of them to sustain your independence.
+
+Niching down in combination with scratching your own itch works best if your not living a 0815 life. 
+
+>To paraphrase Haruki Murakami, if you only do what everyone else is doing, you'll only be able to come up with ideas that everyone else is having. 
 
 Hence, try to identify areas of your life that make you unique by answering questions like the following:
 
@@ -146,13 +150,12 @@ Another useful "internal script" you can implement to come up with good humble b
 
 It so much easier to sell a product if it helps others earn more money. Each customer can easily calculate that your product costs X but it will help him earn at least Y. If Y is bigger than X, it becomes a no-brainer to buy your product.
 
-Examples of recent gold rushs and pickaxes are:
-
-- venture capital → build data aggregators that allows VCs to identify worthwhile investments
-- coaching → courses and tools for coaches in a specific niche
-- crypto → tools for crypto traders
-- AI → tools for people who want to sell AI services to businesses
-- online courses → tools and courses for course creators
+>Examples of recent gold rushs and pickaxes are:
+>- venture capital → build data aggregators that allows VCs to identify worthwhile investments
+>- coaching → courses and tools for coaches in a specific niche
+>- crypto → tools for crypto traders
+>- AI → tools for people who want to sell AI services to businesses
+>- online courses → tools and courses for course creators
 
 But don't just stop there. At some point, the pickax market will become the new goldrush and it's time to sell heads and handles to the pickax sellers. Usually that means selling specialized data or ideas.
 
