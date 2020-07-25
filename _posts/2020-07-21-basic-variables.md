@@ -46,7 +46,7 @@ The following diagram summarizes our plan in this article:
 
 
 {:.centered}
-![](/images/variables.png){: width="600px" }
+![](/images/variables.png){: width="400px" }
 
 Before we start, here's a sort disclaimer.
 
@@ -964,10 +964,10 @@ the gym is primarily measured by volume times intensity
 [^16]: A meta study combines the results of multiple studies to get
     results with a higher statistical significance.
 
-[^18]: If this isn't clear, compare $3$ sets á $25$ repetitions with
-    $50$ kg to $3$ sets á $10$ repetitions with $70$ kg. The volume load
-    in the former case is $3750$ kg while in the latter case it's just
-    $2100$ kg. (In the second routine, the weight on the bar has to be
+[^18]: If this isn't clear, compare 3 sets á 25 repetitions with
+    50 kg to 3 sets á 10 repetitions with 70 kg. The volume load
+    in the former case is 3750 kg while in the latter case it's just
+    2100 kg. (In the second routine, the weight on the bar has to be
     higher because otherwise the intensity wouldn't be sufficiently
     high).
 
