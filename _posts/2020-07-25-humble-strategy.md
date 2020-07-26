@@ -34,16 +34,16 @@ This doesn't mean that all ideas are equally good. You should, of course, focus 
 
 Talk publicly about your successes and failures and share your learnings. This will allow your to build a [personal brand](/personal-brand) which will simplify your marketing efforts tremendously.
 
-Keep launching simple products until one of them turns out to be a "blockbuster". Then put all of your attention on it and find out how big it can get.
-
+Keep launching simple products until one of them turns out to be a "blockbuster". Then put all of your attention on it and find out how big it can get. Once growth starts to stagnate, it often makes sense to put it on autopilot (as much as this is possible) and start to launch new products again. 
 
 The humble business strategy is summarized in the following diagram:
 
 {:.centered}
 ![](/images/humble-strategy.svg)
 
+If you want to learn more about the individual steps here like [ideation](/ideation), [validation](/validation) and [personal brand building](/personal-brand), take a look at the linked articles that are dedicated to these topics.
 
-Once growth starts to stagnate, it often makes sense to put it on autopilot (as much as this is possible) and start to launch new products again. 
+
 
 
 
