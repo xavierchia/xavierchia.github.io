@@ -15,6 +15,9 @@ Why I Write
 
 Mantras
 
+- "You need to start living like the person you want to be."
+- "If more information was the answer, then we'd all be billionaires with perfect abs." - Derek Sivers
+- "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from." - Seth Godin
 - "Do good things and talk about it."
 - "Take the risks and you’ll get the payoffs. Learn from your mistakes until you succeed. It’s that simple." - Bobby Flay
 - "Almost no one is evil. Almost everything is broken."
