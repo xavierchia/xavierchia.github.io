@@ -21,7 +21,8 @@ It's for this reason, that building a personal brand is the single best investme
 But there are, of course, also other advantages. For example, a personal brand makes it much easier to build powerful connections. This will allow you to put all these sleazy old-school networking efforts behind you since interesting people will start to reach out to you. Once your personal brand has crossed a certain threshold you'll become a lighthouse for like-minded people. 
 
 {:.centered}
-![](/images/networking.svg)
+![](/images/networking.svg){: width="600px" }
+
 
 ## The two types of fame
 
