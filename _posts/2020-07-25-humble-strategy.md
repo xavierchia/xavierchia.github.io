@@ -7,7 +7,7 @@ permalink: humble-strategy
 
 One of the most common mistakes made by aspiring entrepreneurs is that they stick for far too long to an idea they feel is just too perfect to give up. Yes, there is a time and place for definite optimism. But it's not a good strategy if you're just starting out. Save your big dreams for a time when your independence is sustainable.
 
-A much safer strategy that rarely ever fails completely, let's call it the humble business strategy, is to start with a series of really simple products. 
+A much safer strategy that rarely ever fails completely - let's call it the humble business strategy - is to start with a series of really simple products. 
 
 The key advantages of this strategy are:
 
