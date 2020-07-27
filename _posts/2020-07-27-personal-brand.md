@@ -14,6 +14,7 @@ Importantly this means that building a humble personal brand is not about becomi
 
 {:.centered}
 ![](/images/influencers.svg)
+
 A key aspect of the [humble business strategy](/humble-strategy) is to place lots of small bets until you find something that works. The most difficult aspect of this strategy is that you have to find an audience for each new product launch. And this is exactly what a personal brand can help you with. Once you've built a personal brand, you don't have to start from scratch each time. You can simply ask your "fans" what they think. Usually, this is all you need to make your product stand out and attract customers. Your "fans" will give your product the first few upvotes that are so important to avoid that it gets lost in the noise. Moreover, some of your followers will become your first customers and help you to validate more quickly if your idea has any chance at sustainable success. 
 
 It's for this reason, that building a personal brand is the single best investment you'll ever make as a humble entrepreneur. 
