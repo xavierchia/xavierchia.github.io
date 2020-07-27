@@ -6,7 +6,7 @@ permalink: /personal-brand
 
 As usual, let's start with why.
 
-Now that code and design are no longer bottlenecks, marketing has become even more important. Unfortunately, it not only has become more important but also more difficult as more and more  companies are competing for the attention of customers.
+Now that [code and design are no longer bottlenecks](/bottlenecks), marketing has become even more important. Unfortunately, it not only has become more important but also more difficult as more and more  companies are competing for the attention of customers.
 
 While there are several strategies that humble entrepreneurs can use to generate traffic to their product pages, the most sustainable and effective strategy remains to create a personal brand. This is true because humble entrepreneurs simply can't compete with the marketing budgets of big companies. Hence, they have to focus on the one advantage they have: authenticity. 
 
@@ -15,9 +15,9 @@ Importantly this means that building a humble personal brand is not about becomi
 {:.centered}
 ![](/images/influencers.svg)
 
-A key aspect of the humble business strategy is to place lots of small bets until you find something that works. The most difficult aspect of this strategy is that you have to find an audience for each new product launch. And this is exactly what a personal brand can help you with. Once you've built a personal brand, you don't have to start from scratch each time. You can simply ask your "fans" what they think. Usually, this is all you need to make your product stand out and attract customers. Your "fans" will give your product the first few upvotes that are so important to avoid that it gets lost in the noise. Moreover, some of your followers will become your first customers and help you to validate more quickly if your idea has any chance at sustainable success. 
+A key aspect of the [humble business strategy](/humble-strategy) is to place lots of small bets until you find something that works. The most difficult aspect of this strategy is that you have to find an audience for each new product launch. And this is exactly what a personal brand can help you with. Once you've built a personal brand, you don't have to start from scratch each time. You can simply ask your "fans" what they think. Usually, this is all you need to make your product stand out and attract customers. Your "fans" will give your product the first few upvotes that are so important to avoid that it gets lost in the noise. Moreover, some of your followers will become your first customers and help you to validate more quickly if your idea has any chance at sustainable success. 
 
-It's for this reason, that building a personal brand is the single best investment you'll ever do as a humble entrepreneur. 
+It's for this reason, that building a personal brand is the single best investment you'll ever make as a humble entrepreneur. 
 
 But there are, of course, also other advantages. For example, a personal brand makes it much easier to build powerful connections. This will allow you to put all these sleazy old-school networking efforts behind you since interesting people will start to reach out to you. Once your personal brand has crossed a certain threshold you'll become a lighthouse for like-minded people. 
 
