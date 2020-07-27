@@ -69,7 +69,7 @@ In short, to find problems worth solving, oftentimes the best strategy is to tak
 
 ### **Scratch your own itch.**
 
-Many humble businesses solve a problem of the founder. This is a great strategy because if you look at your own problems, it means that your looking at things that are bothering real persons  and not something completely hypothetical. If you have a problem, chances are extremely high that others have it too. And since you'll be your products first real customer, you will be able to iterate much more effectively. 
+Many humble businesses solve a problem of the founder. This is a great strategy because if you look at your own problems, it means that your looking at things that are bothering real persons  and not something completely hypothetical. If you have a problem, chances are extremely high that others have it too. And since you'll be your products first real customer, you will be able to iterate much more effectively. If you build for yourself, you’ll always have product-market fit.
 
 In contrast, if you try to solve a problem that isn't yours, chances are high that you're focusing on a non-issue. It's completely unrealistic to solve an industries' problems as a complete outsider without specific domain knowledge.  
 

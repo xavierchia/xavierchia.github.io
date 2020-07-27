@@ -10,6 +10,8 @@ We want to add something to the world. Our creations are an outlet for our creat
 
 And yes, we want to make money this way. It's not a hobby. We're serious, full-time creators and need to be paid accordingly. But our goal is not to amass billions. We're satisfied with just enough to live an independent, happy life.
 
+
+
 Our goal is to create sustainable businesses. We don't want to waste our time with get-rich quick-schemes.
 
 We're aware that to thrive, we must first survive.  Hence, our strategy is to create a portfolio of small bets until they pay enough to sustain our lifestyle.  We don't become too fixated on a single idea since we're aware that even the best idea can fail for reasons outside of our control. We take more aggressive risks only once our independence is sustainable. 
