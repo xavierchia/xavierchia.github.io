@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Principles and Practicesof Personal Education
+title: My Principles and Practices of Personal Education
 permalink: personal-education
 ---
 
