@@ -16,7 +16,7 @@ Why I Write
 
 Mantras
 
-- "You need to start living like the person you want to be."
+- "You need to start living like the person you want to be." ("You have to dress for the job you want, not the job you have, and you have to start doing the work you want to be doing." - Austin Kleon)
 - "If more information was the answer, then we'd all be billionaires with perfect abs." - Derek Sivers
 - "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from." - Seth Godin
 - "Do good things and talk about it."

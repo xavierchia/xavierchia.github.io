@@ -91,3 +91,4 @@ If you want to dive even deeper and learn more about personal branding, I highly
 But to avoid falling into the analysis paralysis trap, just start right now. After reading this article, you already know enough to get started. Once you've started you can still refine your strategy along the way.  Remember: “The best time to build a personal brand was 20 years ago. The second best time is now.”
 
 
+>"Make stuff you love and talk about stuff you love and you'll attract people who love that kind of stuff. It's that simple." ― Austin Kleon
