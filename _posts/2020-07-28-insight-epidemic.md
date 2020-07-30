@@ -70,7 +70,13 @@ Or to quote Julian Jaynes:
 
 You brain needs time and space to function properly. A constant DDoS attack with insights will prevent it from functioning properly. You won't be able to implement the most important ideas properly and won't produce novel insights. After all, it's not the quantity but the quality that counts and whether or not the insights have a meaninful impact on your life.
 
-A related equally harmful phenomenon is [excessive note-taking](https://twitter.com/andy_matuschak/status/1247603555910864897). By jotting down every single piece of insight you come across, the effect of the DDos attack on your brain is only magnified. Your time is better spent on a small number of highly relevant insights that you explore in greater depth. It's far too easy to get a superficial sense of understanding. But only if you spend a certain amount of time with a given idea of concept, you'll be able to see it properly in "high resolution".
+Most importantly, it's not what you know that has an impact on the world or your life but what you do with it. To move forward, you have to [stop consuming and start creating](https://tjcx.me/posts/consumption-distraction/).
+
+Unfortunately, many people who realize this fall into a particularly insidious trap: [excessive note-taking](https://twitter.com/andy_matuschak/status/1247603555910864897). Note-taking feels like meaninful work and gives you the illusion that you're creating stuff. But it's just a convenient excuse to bath a bit more on the sea of insights you've amassed.
+
+By jotting down every single piece of insight you come across, the effect of the DDos attack on your brain is only magnified. Your time is better spent on a small number of highly relevant insights that you explore in greater depth. 
+
+Otherwise, it's far too easy to get a superficial sense of understanding. Only if you spend a certain amount of time with a given idea of concept, you'll be able to see it properly in "high resolution".
 
 
 Ask yourself: What’s the point of hunting for insights if it doesn’t sharpen your perspective or improve your results?
