@@ -9,7 +9,7 @@ Information overload is not a real problem. Information is just prettified data 
 Instead, what gets people really excited are [insights](https://tjcx.me/posts/defense-self-help/).  And what is a real problem in our modern hyperconnected world is insight overload. 
 
 
-[Insights are extremely addicting](/twitter) and this what makes billions of people spend hours of their life each day on Twitter, reading blog posts, and listening to podcasts. It has become an epidemic no one has seen coming. 
+[Insights are extremely addicting](/twitter) and this what makes billions of people spend hours of their life [doom scrolling](https://seths.blog/2020/07/doom-scrolling/) through Twitter, reading blog posts, and listening to podcasts. It has become an epidemic no one has seen coming. 
 
 ## Anatomy of the Epidemic
 
@@ -72,11 +72,13 @@ You brain needs time and space to function properly. A constant DDoS attack with
 
 Most importantly, it's not what you know that has an impact on the world or your life but what you do with it. To move forward, you have to [stop consuming and start creating](https://tjcx.me/posts/consumption-distraction/).
 
-Unfortunately, many people who realize this fall into a particularly insidious trap: [excessive note-taking](https://twitter.com/andy_matuschak/status/1247603555910864897). Note-taking feels like meaninful work and gives you the illusion that you're creating stuff. But it's just a convenient excuse to bath a bit more on the sea of insights you've amassed.
+Unfortunately, many people who realize this fall into a particularly insidious trap: [excessive note-taking](https://twitter.com/andy_matuschak/status/1247603555910864897). Note-taking feels like meaninful work and gives you the illusion that you're creating stuff. But it's just a convenient excuse to bath a bit more on the sea of insights you've amassed. Always keep in mind that there's a difference between being busy and being productive.
 
 By jotting down every single piece of insight you come across, the effect of the DDos attack on your brain is only magnified. Your time is better spent on a small number of highly relevant insights that you explore in greater depth. 
 
-Otherwise, it's far too easy to get a superficial sense of understanding. Only if you spend a certain amount of time with a given idea of concept, you'll be able to see it properly in "high resolution".
+Otherwise, it's far too easy to get a superficial sense of understanding. Only if you spend a certain amount of time with a given idea of concept, you'll be able to see it properly in "high resolution". A mantra I find repeatedly useful in this context is:
+
+> "My role in life is not to be on top of things but to get to the bottom of things."
 
 
 Ask yourself: What’s the point of hunting for insights if it doesn’t sharpen your perspective or improve your results?
