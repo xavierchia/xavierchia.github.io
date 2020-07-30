@@ -60,7 +60,22 @@ While in the past this was an issue that was only relevant for specialized group
 
 People have so many insights at their hands. But since they aren't intentional, they get overwhelmed and paralyzed. As a result, they end up broke, stressed, and confused. 
 
+Being bombarded by insights is stressfull because you're not giving your brain enough time to process them all properly. As [Maria Popova observes](https://www.brainpickings.org/2019/10/23/13-learnings-13-years/):
+
+>"The best ideas come to us when we stop actively trying to coax the muse into manifesting and let the fragments of experience float around our unconscious mind in order to click into new combinations."
+
+Or to quote Julian Jaynes:
+
+>"A close friend of Einstein’s has told me that many of the physicist’s greatest ideas came to him so suddenly while he was shaving that he had to move the blade of the straight razor very carefully each morning, lest he cut himself with surprise. And a well-known physicist in Britain once told Wolfgang Köhler, “We often talk about the three B’s, the Bus, the Bath, and the Bed. That is where the great discoveries are made in our science."”"
+
+You brain needs time and space to function properly. A constant DDoS attack with insights will prevent it from functioning properly. You won't be able to implement the most important ideas properly and won't produce novel insights. After all, it's not the quantity but the quality that counts and whether or not the insights have a meaninful impact on your life.
+
+A related equally harmful phenomenon is [excessive note-taking](https://twitter.com/andy_matuschak/status/1247603555910864897). By jotting down every single piece of insight you come across, the effect of the DDos attack on your brain is only magnified. Your time is better spent on a small number of highly relevant insights that you explore in greater depth. It's far too easy to get a superficial sense of understanding. But only if you spend a certain amount of time with a given idea of concept, you'll be able to see it properly in "high resolution".
+
+
 Ask yourself: What’s the point of hunting for insights if it doesn’t sharpen your perspective or improve your results?
+
+
 
 > Nobody has ever eaten their way to becoming a Michelin Star chef. - [George Mack](https://twitter.com/george__mack/status/1237142076682317824)
 

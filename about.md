@@ -24,7 +24,7 @@ Mantras
 - "Almost no one is evil. Almost everything is broken."
 - "My role in life is not to be on top of things but to get to the bottom of things."
 - "Strong convictions, loosely held."
-- "You’re either building your dreams, or helping someone else build theirs."
+- ["You’re either building your dreams, or helping someone else build theirs."](/dreams)
 - "I don’t want to be like everybody else! Everybody else hates what they do, complains about money, and prays for weekends." - Peter Voogd
 - "You get paid for bringing value to the marketplace, and if you’re not very valuable you don’t make much money." - Jim Rohn
 
