@@ -79,7 +79,7 @@ You could, of course, try to conduct surveys to find out what kind of problems p
 
 Oftentimes, people say that they would pay money for something if you ask them, but when the product then becomes available they aren't prepared to spend money on it. For examples, doctors might say that they, of course, would love to use your software since they have the best interests of their patients in mind. But when you then try to sell the first version to them, you'll find out that they're not willing to pay any money for it. After all, patients don't pay more money or come back more often to doctors who prescribe better pills. Hence your software is merely a nice-to-have and they can't justify the expense.
 
-Hence, especially as a complete beginner, you should try to scratch your own itch before you conduct sophisticated surveys to come up with new ideas. (Once you got some experience doing surveys can, of course, be a valuable strategy as long as you ask the right kind of questions which is an art in itself.)
+Hence, especially as a complete beginner, you should try to scratch your own itch before you conduct sophisticated surveys to come up with new ideas. (Once you got some experience doing surveys can, of course, be a valuable strategy as long as you ask the right kind of questions which is an art in itself. For example, asking "how do you like my idea" is the worst thing you can do.)
 
 Here are some questions to get you started:
 
@@ -103,11 +103,14 @@ The key is to realize how few customers you really need to make a comfortable in
 - Sell a $20 product to 250 people,
 - Sell a $10 product to 550 people.
 
-There are almost 8 billion people on this planet. And you just have need to reach 500 of them to sustain your independence.
+There are almost 8 billion people on this planet. And you just have need to reach 550 of them to sustain your independence.
 
-Niching down in combination with scratching your own itch works best if your not living a 0815 life. 
+Niching down in combination with scratching your own itch works best if your not living a boring life. 
 
 >To paraphrase Haruki Murakami, if you only do what everyone else is doing, you'll only be able to come up with ideas that everyone else is having. 
+
+>For example, [Pieter Levels](https://levels.io/) only came up with the idea for [Nomad List](https://nomadlist.com/) because he is a digital nomad himself. Similarly, [Arvid Kahl's success](https://thebootstrappedfounder.com/) with [Feedback Panda](https://www.feedbackpanda.com/) relied on his partner's experience as an English teacher for Chinese students.
+
 
 Hence, try to identify areas of your life that make you unique by answering questions like the following:
 
@@ -135,6 +138,7 @@ Thus if you want to come up with good humble business ideas, it makes a lot of s
 - [https://treendly.com/](https://treendly.com/)
 - [https://explodingtopics.com/](https://explodingtopics.com/)
 - [https://meetglimpse.com/](https://meetglimpse.com/)
+
 
 Similarly, you can monitor websites like Kickstarter, Indiegogo, Pozible.com, [https://www.ulule.com/](https://www.ulule.com/) to get an idea of what kind of *physical* products are currently hot. For software products, have a look at Producthunt, [https://stack.g2.com/](https://stack.g2.com/), and [https://trends.builtwith.com/](https://trends.builtwith.com/). Additionally, you can look at TechCrunch to see what kind of companies are currently getting lots of funding. If there are currently lots of winners in a certain space, chances are high that there's room for another.
 
@@ -177,3 +181,6 @@ Try to think along these lines when you're trying to find business ideas. Of cou
 Next, we'll discuss how you can quantify if the ideas you've come up with so far are any good and which idea you should focus on.
 
 PS: Another useful way to develop business ideas is the [framework proposed by Peter Askew](https://www.deepsouthventures.com/build-a-side-business/). The gist of it is: just buy a great domain name and go from there. Browsing through expiring domain names or domains that are for sale can be a great way to get into a creative mode. However, while doing this, you shouldn't forget the points mentioned above about scratching your own itch and solving real problems.
+
+
+>"If I had 3 hours, I would spend 2 hours searching for a good problem, 55 minutes thinking about the problem and five minutes thinking about solutions.” - [miswording Einstein](https://quoteinvestigator.com/2014/05/22/solve/)

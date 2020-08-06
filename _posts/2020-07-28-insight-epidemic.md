@@ -9,7 +9,10 @@ Information overload is not a real problem. Information is just prettified data 
 Instead, what gets people really excited are [insights](https://tjcx.me/posts/defense-self-help/).  And what is a real problem in our modern hyperconnected world is insight overload. 
 
 
-[Insights are extremely addicting](/twitter) and this what makes billions of people spend hours of their life [doom scrolling](https://seths.blog/2020/07/doom-scrolling/) through Twitter, reading blog posts, and listening to podcasts. It has become an epidemic no one has seen coming. 
+[Insights are extremely addicting](/twitter) and this what makes billions of people spend hours of their life [doom scrolling](https://seths.blog/2020/07/doom-scrolling/) through Twitter, reading blog posts, and listening to podcasts. While people feel guilty if they watch something that's purely funny or entertaining, reading or watching insightful things feels like productive work. It has become an epidemic no one has seen coming. 
+
+
+
 
 ## Anatomy of the Epidemic
 
