@@ -9,7 +9,7 @@ Most people treat their personal blogs with a wrong attitude. If you think of it
 
 Blogs as self-promotion machines are dead since platforms like Twitter and Instagram are certainly better suited for self-promotion.
 
-But as soon as you think of your blog as a self-invention machine, everything changes. (The distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
+But as soon as you think of your blog as a self-invention machine, everything changes. (Credit where credit is due: the distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
 
 ## Characteristics of a successful self-invention machine
 
@@ -48,7 +48,7 @@ This leaves us with just one option: simple, barebone blogging software. My curr
 - [Jekyll](https://jekyllrb.com/) is a static site generator which also powers this site. This means your files get processed by the software and are then served to your visitors are simple html files. As a result, your site is incredibly fast and completely secure. Moreover, Jekyll sites can be hosted for free on Github. There are lots of beautiful free themes and setting your site up only takes 5 minutes or so. A good alternative is [Hugo](https://gohugo.io/) which also can be hosted for free on Github or [Netlify](https://www.netlify.com/). If you feel comfortable handling code, Jekyll or Hugo are definitely the best choices for your personal blog.
 - [Bludit](https://www.bludit.com/) which is a flat-file content management system. This means, there's no database you need to worry about and if you want to move your site to a different server, you only need to download your website folder from the old server and upload it to the new one. The big advantage compared to static site generators like Jekyll and Hugo is that you have a proper backend that you can use to manage your site. A good alternative is [Grav](https://getgrav.org/). To host your Bludit or Grav site I would recommend getting a virtual private server at Linode, Amazon Lightsail or Vultr which costs around $5 per month.
 
-As a final recommendation, get a proper domain for your site. Preferably, try to get [FirstNameLasteName.com](http://firstnamelastename.com) which will cost your around $10 per year. If the .com domain is not available, it's perfectly fine to use an alternative like .io. However, a free domain like [jakobgreenfeld.github.io](http://jakobgreenfeld.github.io) should be avoided since it signals that you're not very serious about what you're doing. 
+As a final recommendation, get a proper domain for your site. Preferably, try to get FirstNameLasteName.com which will cost your around $10 per year. If the .com domain is not available, it's perfectly fine to use an alternative like .io. However, a free domain like [jakobgreenfeld.github.io](http://jakobgreenfeld.github.io) should be avoided since it signals that you're not very serious about what you're doing. 
 
 With that out of the way, I want to give you a few ideas what you could write about. (There are, of course, no rules. Write whatever you want to write about. That's the whole point of a personal self-invention machine. Nevertheless, it'll probably be helpful to talk about a few examples.
 
