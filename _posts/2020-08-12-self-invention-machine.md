@@ -4,12 +4,14 @@ title: Build your personal self-invention machine
 permalink: self-invention-machine
 ---
 
+(Credit where credit is due: the distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
+
 
 Most people treat their personal blogs with a wrong attitude. If you think of it as a self-promotion machine, chances are high that you'll quickly be demotivated because not enough people read your stuff and most readers won't enjoy reading your articles. 
 
-Blogs as self-promotion machines are dead since platforms like Twitter and Instagram are certainly better suited for self-promotion.
+Blogs as self-promotion machines are dead since platforms like Twitter and Instagram are certainly better suited for that task.
 
-But as soon as you think of your blog as a self-invention machine, everything changes. (Credit where credit is due: the distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
+But as soon as you think of your blog as a self-invention machine, everything changes. 
 
 ## Characteristics of a successful self-invention machine
 
