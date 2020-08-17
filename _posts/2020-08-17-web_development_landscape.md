@@ -81,7 +81,7 @@ In contrast, frontend code is interpreted and executed by each user's browser in
 A different way to put it is that the frontend is the presentation layer, whereas the backend is the business and database layer.
 
 {:.centered}
-![](/images/frontend-backend.svg)
+![](/images/frontend_backend_diagram.svg)
 
 For both, frontend and backend development, you have to make a choice whether you want to use a [Vanilla programming language](http://en.wikipedia.org/wiki/Vanilla_software) or a framework. Most developers prefer to use a framework. Using a vanilla programming language is like building a factory by starting from limestone, sand and water while using a framework is akin to starting with concrete. 
 
@@ -177,6 +177,10 @@ At one end of the spectrum, we have servers that you run yourself, for example, 
 
 - No sane solo developer uses bare metal servers.
 - Virtual private servers are, for example, commonly used for the LAMP and related stacks. By renting a virtual private server, you're getting full access to a computer that runs in someone else's data center. You can then install on the server software like Apache or Nginx to turn it into a proper web server and upload your website files to make them available on the internet. Popular providers are Linode, Digital Ocean, and Vultr and entry-level servers start at around $5 per month. Many of them provide one-click-installations of common full-stacks. Advantages of the virtual private servers are that they're incredibly cheap, fast, and you have full-control over everything. The downsides are that you're responsible for managing the server. You have to install updates regularly, secure it to make sure you won't get hacked, and respond to emergencies manually.
+
+{:.centered}
+![](/images/development_hoster_user.svg)
+
 - Platform-as-a-service providers are extremely popular for Rails apps with Heroku as the prime example. You just push your app to the Paas provider, and they do all the heavy lifting for you and makes it almost magically available on the web. Naturally, Paas providers charge quite a bit more than VPS providers. Typically, you pay around $7 per app. (Take note that a VPS can handle lots of different apps at once so a Paas approach is significantly more expensive if you're tinkering with lots of different apps.) An interesting [compromise](https://content.nanobox.io/moving-from-heroku-to-linode/) is to [host Paas-style software on your own VPS](http://dokku.viewdocs.io/dokku/).
 - Last but not least, there are serverless architecture providers. As mentioned above, a complete serverless app consists of just a bunch of static HTML, CSS, and JavaScript files that are usually hosted on some content delivery network like Netlify or Vercel. All functionality is provided by utility APIs. For example, user registration and authentication can be handled by using Auth0, Firebase Authentication or Amazon Cognito. Payments can be handled by Stripe and search functionality can be added via [Algolia](https://www.algolia.com/). Data can be stored and retrieved in cloud databases like Cloud Firestore, DynamoDB or in at MongoDB Cloud. These kinds of services are also sometimes called backend-as-a-service providers. Moreover, files can be hosted in Amazon S3 buckets or using Firebase Hosting. And if you want to crunch data using custom code, you can just use something like [AWS Lambda](https://aws.amazon.com/lambda/) functions, Google Cloud Functions, or Azure Functions that allows you to run self-contained snippets of JavaScript or Python in the cloud. This is known as Functions-as-a-Service (Faas). (By the way, here's a [nice website](https://expeditedsecurity.com/aws-in-plain-english/) that explains the various Amazon Web Services (AWS) in plain English.)
 
