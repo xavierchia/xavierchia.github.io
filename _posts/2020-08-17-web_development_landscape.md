@@ -178,7 +178,7 @@ At one end of the spectrum, we have servers that you run yourself, for example, 
 - No sane solo developer uses bare metal servers.
 - Virtual private servers are, for example, commonly used for the LAMP and related stacks. By renting a virtual private server, you're getting full access to a computer that runs in someone else's data center. You can then install on the server software like Apache or Nginx to turn it into a proper web server and upload your website files to make them available on the internet. Popular providers are Linode, Digital Ocean, and Vultr and entry-level servers start at around $5 per month. Many of them provide one-click-installations of common full-stacks. Advantages of the virtual private servers are that they're incredibly cheap, fast, and you have full-control over everything. The downsides are that you're responsible for managing the server. You have to install updates regularly, secure it to make sure you won't get hacked, and respond to emergencies manually.
 
-{:.centered}
+{:.rightaligned}
 ![](/images/development_hoster_user.svg)
 
 - Platform-as-a-service providers are extremely popular for Rails apps with Heroku as the prime example. You just push your app to the Paas provider, and they do all the heavy lifting for you and makes it almost magically available on the web. Naturally, Paas providers charge quite a bit more than VPS providers. Typically, you pay around $7 per app. (Take note that a VPS can handle lots of different apps at once so a Paas approach is significantly more expensive if you're tinkering with lots of different apps.) An interesting [compromise](https://content.nanobox.io/moving-from-heroku-to-linode/) is to [host Paas-style software on your own VPS](http://dokku.viewdocs.io/dokku/).
