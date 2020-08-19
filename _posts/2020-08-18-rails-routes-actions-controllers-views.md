@@ -179,8 +179,8 @@ In words, this means that the order action of the pizza controller gets executed
   "controller" => "pizzas", 
   "action" => "show", 
 	"pizzas" => { 
-				"name" => "Jakob Greenfeld"
-				"type" => "Funghi"
+                 "name" => "Jakob Greenfeld"
+                 "type" => "Funghi"
 				}
 }
 {% endhighlight %}
@@ -263,7 +263,7 @@ Controllers are located at /app/controllers. In our case, the corresponding cont
 class PizzasController < ApplicationController
 
   def index
-		render "index"
+	render "index"
   end
   
 end
@@ -306,7 +306,7 @@ class PizzasController < ApplicationController
   def index
   end
 
-	def show
+  def show
   end
   
 end
@@ -320,8 +320,8 @@ class PizzasController < ApplicationController
   def index
   end
 
-	def show
-		@pizzaname= params[:pizzaname]
+  def show
+	@pizzaname= params[:pizzaname]
   end
   
 end
@@ -351,7 +351,7 @@ The first one, index.html.erb, is what gets rendered when a user visits [http://
 
 {% highlight ruby %}
   def index
-	  render "index"
+	render "index"
   end
 {% endhighlight %}
 
