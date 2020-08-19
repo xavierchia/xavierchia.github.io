@@ -61,33 +61,33 @@ root to: controller: :CONTROLLER, action: :ACTION
 
 where CONTROLLER and ACTION are placeholders for proper controller and action names. A realistic example would be
 
-~~~ruby
+{% highlight ruby %}
 root to: controller: :home, action: :index
-~~~
+{% endhighlight %}
 
 A line like tells Rails that we want that requests to our root domain, should trigger the "index" action in the "home" controller. (We'll talk about controllers and actions in a moment.)
 
 It is conventional to use a shorthand notation to define routes. For example, exactly the same definition for the root route can be written as
 
-```ruby
+{% highlight ruby %}
 root to: 'home#index'
-```
+{% endhighlight %}
 
 Of course, the user can also send GET requests to different URLs like [http://example.com/pizzas](http://example.com/pizzas) or [http://example.com/pizzas/marinara](http://example.com/pizzas/marinara)  (by entering the corresponding URLs into his browser). If we want that the user isn't shown an error message, we need to define proper routes for these URLs too. 
 
 We can do this by writing lines like (again using our shorthand notation)
 
-```ruby
+{% highlight ruby %}
 get '/pizzas', to: 'pizzas#index'
-```
+{% endhighlight %}
 
 This line works completely analogous to the root route. The most important difference is that we specify explicitly how a GET request to [http://example.com/pizzas](http://example.com/pizzas) should be handled.  In words, we're telling that a GET request to [http://example.com/pizzas](http://example.com/pizzas) should trigger the "index" action of the "pizzas" controller. For the root URL this wasn't necessary since this is a special case and Rails automatically understands that we're talking about GET requests in this context. For all other URLs we need to be more precise and specify exactly what kind of request we're talking about. 
 
 If we want to handle the URL [http://example.com/pizzas/marinara](http://example.com/pizzas/marinara), we could write
 
-```ruby
+{% highlight ruby %}
 get '/pizzas/marinara', to: 'pizzas#marinara'
-```
+{% endhighlight %}
 
 This would trigger the "marinara" action of the "pizzas" controller as soon as a user visits the URL [http://example.com/pizzas/marinara](http://example.com/pizzas/marinara). 
 
@@ -99,64 +99,64 @@ However, there are probably lots of related domains like
 
 we want to handle and it would be quite cumbersome to handle each pizza name independently. The proper way to handle this kind of scenario is by telling Rails to treat the name that comes after "/pizzas/" in the URL as a parameter. This will allow us to specify just one pizza detail page that adjust automatically depending on what kind of pizza a user wants to look at. As a simple example, let's say we call the variable "@pizzaname" and we could then write something like this in a view file (discussed in a moment) 
 
-```ruby
+{% highlight ruby %}
 <h1><%= @pizzaname %></h1>
-```
+{% endhighlight %}
 
 to automatically get the correct headline for each pizza. 
 
 To accomplish this, we write something like
 
-```ruby
+{% highlight ruby %}
 get '/pizzas/:pizzaname', to: 'pizzas#show'
-```
+{% endhighlight %}
 
 into the routes.rb file. We will then be able to access whatever comes after "/pizzas/" in the url in the "show" action of the "pizzas" controller as 
 
-```ruby
+{% highlight ruby %}
 params[:pizzaname]
-```
+{% endhighlight %}
 
 The params object is incredibly important in Rails. Technically, it's a hash (= a dictionary-like collection). In our example, when the user visits [http://example.com/pizzas/marinara](http://example.com/pizzas/marinara), the params hash looks like this:
 
-```ruby
+{% highlight ruby %}
 {
   "controller" => "pizzas", 
   "action" => "show", 
   "pizzaname" => "marinara"
 }
-```
+{% endhighlight %}
 
 We can see that a hash consists of key-value pairs. For example, the value "pizzas" is assigned to the key "controller". 
 
 Hence, if we use params[:pizzaname] here, the "answer" we're getting is "marinara". If a user visits [http://example.com/pizzas/funghi](http://example.com/pizzas/funghi), the params hash looks like this
 
-```ruby
+{% highlight ruby %}
 {
   "controller" => "pizzas", 
   "action" => "show", 
   "pizzaname" => "funghi"
 }
-```
+{% endhighlight %}
 
 and params[:pizzaname] is now equal to "funghi".
 
 As an aside, take note that you can also pass further parameters to the params hash by using 
 
-```ruby
+{% highlight ruby %}
 get '/pizzas/:pizzaname', to: 'pizzas#show', cheese: "true"
-```
+{% endhighlight %}
 
 In this case, there is a new key in the params hash called "cheese" and its value is "true"
 
-```ruby
+{% highlight ruby %}
 {
   "controller" => "pizzas", 
   "action" => "show", 
   "pizzaname" => "funghi",
 	"cheese" => "true"
 }
-```
+{% endhighlight %}
 
 Now what about different kind of requests?
 
@@ -166,15 +166,15 @@ There are no surprises when it comes to other types of requests. Let's assume th
 
 We can define what happens when users click the submit button by including a line like 
 
-```ruby
+{% highlight ruby %}
 post '/pizzas', to: 'pizzas#order'
-```
+{% endhighlight %}
 
 In words, this means that the order action of the pizza controller gets executed if a post request is sent from the [http://example.com/pizzas/](http://example.com/pizzas/funghi) URL.
 
  In this scenario, the most important aspect is the data that the user entered into the form. We can access this data in our code by again using the params hash. Typically, there will be a hash inside our params hash that contains the information the user entered in the form. For simplicitly, let's say the form only contains a field for the name of the user and another field for the pizza he wants to order. In this case, the params hash would look like this
 
-```ruby
+{% highlight ruby %}
 {
   "controller" => "pizzas", 
   "action" => "show", 
@@ -182,7 +182,7 @@ In words, this means that the order action of the pizza controller gets executed
 								"name" => "Jakob Greenfeld"
 								"type" => "Funghi"
 }
-```
+{% endhighlight %}
 
 This will probably make more sense once we discuss how forms are created in Rails. At this point it's only important to remember that POST requests are handled analogous to GET requests and that the relevant information is stored inside the params hash.
 
@@ -200,9 +200,9 @@ Another example for a typical resource are users. Users can be created, shown, u
 
 Since Rails app typically revolve around resources, there are many little helpers that make it easier to work with them. In the context of routes, the line 
 
-```ruby
+{% highlight ruby %}
 resources :pizzas
-```
+{% endhighlight %}
 
 is a shortcut for [seven different routes](https://guides.rubyonrails.org/routing.html):
 
@@ -217,15 +217,15 @@ These routes are best understood by considering an explicit example as it is don
 
 It's also possible to pick from this rich menu just a few specific ingredients by using
 
-```ruby
+{% highlight ruby %}
 resources :pizzas, only: [:index,:new,:create]
-```
+{% endhighlight %}
 
 A shortcut to define this kind of limited resource (i.e. a resource which doesn't have all the features typically associated with resources) is 
 
-```ruby
+{% highlight ruby %}
 resources :pizzas, :shallow => true
-```
+{% endhighlight %}
 
 In other words, a "shallow" resource is one which has only index, new, and create actions. 
 
@@ -250,15 +250,15 @@ From this description it's clear that the next part in the chain before our app 
 
 Let's continue with our example from above. A user entered [http://example.com/pizzas](http://example.com/pizzas) into his browser and since our routes.rb file contains the line 
 
-```ruby
+{% highlight ruby %}
 get '/pizzas', to: 'pizzas#index'
-```
+{% endhighlight %}
 
 this request triggers the index action of the pizzas controller. 
 
 Controllers are located at /app/controllers. In our case, the corresponding controller would be properly called pizzas_controller.rb and look like this
 
-```ruby
+{% highlight ruby %}
 class PizzasController < ApplicationController
 
   def index
@@ -266,40 +266,40 @@ class PizzasController < ApplicationController
   end
   
 end
-```
+{% endhighlight %}
 
 There really isn't much going on here. The first line states that our PizzasController extends the ApplicationController. This gives us all kinds of functionalities inside the controller without needing to write a single line of code. 
 
 The only element inside the controller is an action named "index". The action consists of just one instruction: 
 
-```ruby
+{% highlight ruby %}
 render "index"
-```
+{% endhighlight %}
 
 This definition does exactly what it says. It renders a view called "index".
 
 Take note that we could equally write:
 
-```ruby
+{% highlight ruby %}
 class PizzasController < ApplicationController
 
   def index
   end
   
 end
-```
+{% endhighlight %}
 
 This works because Rails automatically connect a controller action to a view of the same name. The explicit render command is only necessary if the name of the view is different from the name of the controller action. 
 
 Usually, we don't  just want to display a static site. For example, above we discussed a route with a dynamic element:
 
-```ruby
+{% highlight ruby %}
 get '/pizzas/:pizzaname', to: 'pizzas#show'
-```
+{% endhighlight %}
 
 To make this route work, we need to define a show action inside the pizzas controller:
 
-```ruby
+{% highlight ruby %}
 class PizzasController < ApplicationController
 
   def index
@@ -309,11 +309,11 @@ class PizzasController < ApplicationController
   end
   
 end
-```
+{% endhighlight %}
 
 With this simple controller, our Rails app simply shows the "show" view to the user and completely ignores the dynamic ":pizzaname" in the URL. If we want to make this dynamic element available in the view, for example, to be able to include it in the headline, we need to modify the controller. 
 
-```ruby
+{% highlight ruby %}
 class PizzasController < ApplicationController
 
   def index
@@ -324,7 +324,7 @@ class PizzasController < ApplicationController
   end
   
 end
-```
+{% endhighlight %}
 
 The additional line here defines an ["instance variable"](https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails) called @pizzanme that is also available outside of the block in which it is defined. 
 
@@ -348,19 +348,19 @@ So in our example, we have a folder named "pizzas" that is located at /app/views
 
 The first one, index.html.erb, is what gets rendered when a user visits [http://example.com/pizzas](http://example.com/pizzas). This is a result of the line 
 
-```ruby
+{% highlight ruby %}
   def index
 	  render "index"
 	end
-```
+{% endhighlight %}
 
 in the pizzas controller. As mentioned above, the second line is actually optional since Rails automatically renders the view with the same name.
 
 The content of our index.html.erb file could be just ordinary HTML code, maybe a line like
 
-```ruby
+{% highlight ruby %}
 <h1>Our Pizzas</h1>
-```
+{% endhighlight %}
 
 and then a short paragraph.
 
@@ -368,61 +368,61 @@ An thing we need to remember about views is that there is a "master" file that i
 
 The master file lives inside the /app/views/layout folder and is called application.html.erb. Typically, this file contains a lot of the structure all of our pages have in common like
 
-```ruby
+{% highlight ruby %}
 <!DOCTYPE html>
 <html>
 <head>
-```
+{% endhighlight %}
 
 Additionally, there is a line 
 
-```ruby
+{% highlight ruby %}
 <%= yield %>
-```
+{% endhighlight %}
 
 which indicates where our views get inserted. 
 
 The syntax
 
-```ruby
+{% highlight ruby %}
 <%= RUBY CODE %>
-```
+{% endhighlight %}
 
 tells Rails that what goes in between <%= and  %> is Ruby code. A subtlety is the equal sign that appears here that indicates that whatever is the result of the Ruby code should be inserted here. For example, if we write
 
-```ruby
+{% highlight ruby %}
 <%= 5+3 %>
-```
+{% endhighlight %}
 
 there an 8 will be inserted in our view. Oftentimes, we want that just some Ruby code gets executed and nothing added. In this case, we use the same notation without an equal sign:
 
-```ruby
+{% highlight ruby %}
 <% RUBY CODE %>
-```
+{% endhighlight %}
 
 This makes sense, for example, when we define a variable or start a loop procedure. 
 
 Now back to our specific views.  In our example above, we also added a the code
 
-```ruby
+{% highlight ruby %}
 	def show
 		@pizzaname= params[:pizzaname]
   end
-```
+{% endhighlight %}
 
 to the pizzas controller. The idea was that if a user visits [http://example.com/pizzas/funghi](http://example.com/pizzas/funghi), we want that the word "funghi" gets automatically added to the view. This way, we only have to define one view for all pizza detail pages. The "show action" renders automatically the "show view" which is defined in show.html.erb that is located at /app/views/pizzas. (Again, we could've made this more explicit by added the line 
 
-```ruby
+{% highlight ruby %}
 render "show"
-```
+{% endhighlight %}
 
  to the show action definition.)
 
 Inside the show.html.erb file, we can now write something like
 
-```ruby
+{% highlight ruby %}
 <h1><%= @pizzaname %> </h1>
-```
+{% endhighlight %}
 
 to get a fitting headline for our detail page. As discussed above, the notation <%= indicates that result of the Ruby code should be inserted. We simply call here a variable called and hence whatever is stored inside the variable gets returned and displayed on the site. If a user visits [http://example.com/pizzas/funghi](http://example.com/pizzas/funghi), @pizzaname is equal to the word funghi, thanks to the definition in the show action. Similarly, if a user vists [http://example.com/pizzas/margherita](http://example.com/pizzas/margherita), the headline on our page says "margherita".
 
