@@ -4,7 +4,6 @@ title: Making sense of Ruby on Rails Part 1 - Routes, Actions, Controllers, and 
 permalink: rails-routes-controllers-views
 ---
 
-# Making sense of Ruby on Rails - Part 1: Routes, Actions, Controllers, and Views
 
 I recently decided that I want to learn Rails. Since everyone keeps raving about it, I used [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/). While the tutorial was helpful, I felt as if something immensely important was missing from it.
 
@@ -17,7 +16,6 @@ At the end of the book, there were dozens of unanswered questions in my head lik
 - What are the most important fundamental concepts?
 - What's their role and how do they interact?
 - Which conventions should I remember?
-- 
 
 Since I wasn't able to find a good article that answers all of them, I decided to write one myself. As you can probably tell by now, I'm by no means an expert. But I'm convinced that this is not necessary a bad thing when it comes to an article like this. Experts usually suffer from the curse of knowledge and have long forgotten what problems beginners are struggling with. This phenomenon is clearly visible in most of the things that are written in the programming world.
 
@@ -178,10 +176,10 @@ In words, this means that the order action of the pizza controller gets executed
 {
   "controller" => "pizzas", 
   "action" => "show", 
-	"pizzas" => { 
-                 "name" => "Jakob Greenfeld"
-                 "type" => "Funghi"
-				}
+  "pizzas" => { 
+               "name" => "Jakob Greenfeld"
+               "type" => "Funghi"
+              }
 }
 {% endhighlight %}
 
