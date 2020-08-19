@@ -204,9 +204,10 @@ Since Rails app typically revolve around resources, there are many little helper
 resources :pizzas
 ```
 
-is a shortcut for seven different routes. 
+is a shortcut for [seven different routes](https://guides.rubyonrails.org/routing.html):
 
-![Making%20sense%20of%20Ruby%20on%20Rails%20-%20Part%201%20Routes,%20Act%20938d8e2dad1b40489aca9b6be6774bf4/Untitled.png](Making%20sense%20of%20Ruby%20on%20Rails%20-%20Part%201%20Routes,%20Act%20938d8e2dad1b40489aca9b6be6774bf4/Untitled.png)
+{:.centered}
+![](/images/rails_resource.png)
 
 These routes are best understood by considering an explicit example as it is done, for example, in Hartl's Rails Tutorial. But here's at least one comment because this was something that confused me:
 
