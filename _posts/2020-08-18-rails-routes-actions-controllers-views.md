@@ -61,9 +61,9 @@ root to: controller: :CONTROLLER, action: :ACTION
 
 where CONTROLLER and ACTION are placeholders for proper controller and action names. A realistic example would be
 
-```ruby
+~~~ruby
 root to: controller: :home, action: :index
-```
+~~~
 
 A line like tells Rails that we want that requests to our root domain, should trigger the "index" action in the "home" controller. (We'll talk about controllers and actions in a moment.)
 
