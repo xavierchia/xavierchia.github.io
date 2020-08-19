@@ -4,9 +4,9 @@ title: Making sense of Ruby on Rails - Part 1: Routes, Actions, Controllers, and
 permalink: rails-routes-controllers-views
 ---
 
+# Making sense of Ruby on Rails - Part 1: Routes, Actions, Controllers, and Views
 
-
-I recently decided that I want to learn Rails. Since everyone keeps raving about it, I used Michael Hartl's Rails Tutorial. While the tutorial was quite helpful, I felt as if something immensely important was missing from it.
+I recently decided that I want to learn Rails. Since everyone keeps raving about it, I used [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/). While the tutorial was helpful, I felt as if something immensely important was missing from it.
 
 All chapters are basically just draw by the numbers. This approach works to give you a rough idea of how things work in Rails. But at the end of it, I had seen a hundred trees but couldn't see the forest.
 
