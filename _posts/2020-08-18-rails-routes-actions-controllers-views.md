@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making sense of Ruby on Rails - Part 1: Routes, Actions, Controllers, and Views
+title: Making sense of Ruby on Rails Part 1 - Routes, Actions, Controllers, and Views
 permalink: rails-routes-controllers-views
 ---
 
