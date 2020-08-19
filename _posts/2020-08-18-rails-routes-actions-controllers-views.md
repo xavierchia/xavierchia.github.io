@@ -154,7 +154,7 @@ In this case, there is a new key in the params hash called "cheese" and its valu
   "controller" => "pizzas", 
   "action" => "show", 
   "pizzaname" => "funghi",
-	"cheese" => "true"
+  "cheese" => "true"
 }
 {% endhighlight %}
 
@@ -179,8 +179,9 @@ In words, this means that the order action of the pizza controller gets executed
   "controller" => "pizzas", 
   "action" => "show", 
 	"pizzas" => { 
-								"name" => "Jakob Greenfeld"
-								"type" => "Funghi"
+				"name" => "Jakob Greenfeld"
+				"type" => "Funghi"
+				}
 }
 {% endhighlight %}
 
@@ -351,14 +352,14 @@ The first one, index.html.erb, is what gets rendered when a user visits [http://
 {% highlight ruby %}
   def index
 	  render "index"
-	end
+  end
 {% endhighlight %}
 
 in the pizzas controller. As mentioned above, the second line is actually optional since Rails automatically renders the view with the same name.
 
 The content of our index.html.erb file could be just ordinary HTML code, maybe a line like
 
-{% highlight ruby %}
+{% highlight html %}
 <h1>Our Pizzas</h1>
 {% endhighlight %}
 
@@ -368,7 +369,7 @@ An thing we need to remember about views is that there is a "master" file that i
 
 The master file lives inside the /app/views/layout folder and is called application.html.erb. Typically, this file contains a lot of the structure all of our pages have in common like
 
-{% highlight ruby %}
+{% highlight html %}
 <!DOCTYPE html>
 <html>
 <head>
