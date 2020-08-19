@@ -404,8 +404,8 @@ This makes sense, for example, when we define a variable or start a loop procedu
 Now back to our specific views.  In our example above, we also added a the code
 
 {% highlight ruby %}
-	def show
-		@pizzaname= params[:pizzaname]
+  def show
+     @pizzaname= params[:pizzaname]
   end
 {% endhighlight %}
 
