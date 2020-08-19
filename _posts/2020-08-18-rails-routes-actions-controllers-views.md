@@ -55,9 +55,9 @@ In Rails, we define how incoming requests are handled in the routes.rb file whic
 
 We do this by writing a line that starts with "root to:" into our routes.rb file. The general structure is:
 
-```
+{% highlight ruby %}
 root to: controller: :CONTROLLER, action: :ACTION
-```
+{% endhighlight %}
 
 where CONTROLLER and ACTION are placeholders for proper controller and action names. A realistic example would be
 
