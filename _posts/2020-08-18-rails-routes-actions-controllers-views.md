@@ -55,7 +55,7 @@ In Rails, we define how incoming requests are handled in the routes.rb file whic
 
 We do this by writing a line that starts with "root to:" into our routes.rb file. The general structure is:
 
-```ruby
+```
 root to: controller: :CONTROLLER, action: :ACTION
 ```
 
@@ -240,6 +240,9 @@ Additionally, Rails shows to the user the 404.html page that is located at /publ
 
 The most important message to take away from this section is that routes are the first point of contact between user requests and your app. All routes are defined in a file called routes.rb that is located at /config/routes.rb. This file contains all instructions for how requests should be handled. In the simplest case, a request simply triggers a specific action of a specific controller. Additionally, it often happens that some additional information that is contained in the URL is additionally transmitted to the action that is triggered. 
 
+{:.centered}
+![](/images/rails_overview_basic_2.svg)
+
 From this description it's clear that the next part in the chain before our app sends a response to the user are actions and controllers. So let's talk about these concepts next. (The third part are views, and we'll talk about them afterwards.) 
 
 ### Actions and Controllers
@@ -327,6 +330,9 @@ The additional line here defines an ["instance variable"](https://stackoverflow.
 With this line in place, we can successfully update the headline dynamically depending on which ":pizzaname" appears in the headline. 
 
 There is typically a lot more going on inside a controller. But since we haven't talked about models so far and most of these additional things going on are related to models, let's move on to views first. 
+
+{:.centered}
+![](/images/rails_overview_basic_3.svg)
 
 ## Views
 
@@ -424,6 +430,9 @@ Take note that what we're doing here is not a particularly smart approach. Anyth
 This is just a toy example to understand the fundamentals of Rails. The proper way to handle such a scenario (with different pizza names etc.) would be to treat pizzas as a real resource and thus add a corresponding model to the app. We can then retrieve pizza names from the database and compare if what is written behind  /pizzas/ in the URL is a proper name that should return a detail page. If not, we could return our standard 404 page mentioned above.
 
 But if we want to create a pure content site without any dynamic functionality like a form to order pizzas, it could make sense to just create an individual view and dedicated route for each pizza type. (In that case, however, you probably shouldn't use Rails anyway. Something like Jekyll would be a much better fit.)
+
+{:.centered}
+![](/images/rails_overview_basic.svg)
 
 ---
 
