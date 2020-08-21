@@ -24,7 +24,7 @@ While full-time designers and coders might not like to hear this, for entreprene
 
 Of course, [successful entrepreneurship](/humble_vs_startups) is still far from easy. However, instead of four bottlenecks, there are just two left:
 
-- [Ideation](/ideation) (i.e. coming up with great ideas that are worth executing) and
+- Ideation (i.e. coming up with great ideas that are worth executing) and
 - Marketing.
 
 This is what software entrepreneurs nowadays should focus on.

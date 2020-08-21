@@ -110,7 +110,7 @@ If you feel like you need a bit more help with your writing, read at most one or
 
 A second thing you should stop worrying about is whether or not what you're writing about is "on brand". Write about whatever sparks your interest and eventually certain themes will start to emerge automatically. Also there is no magical publishing frequency you should aim for. The only thing that matters is that you continue to publish new articles. 
 
-Lastly, don't be afraid to share your opinions and philosophy. The best content is often the one you're slightly hesitant to publish and far too many people play it safe with their content. [Building a humble personal brand](http://jakobgreenfeld.com/personal-brand) is all about being authentic. After all, being you is the one thing no one, irregardless of how big their marketing budget is, can compete with you on. 
+Lastly, don't be afraid to share your opinions and philosophy. The best content is often the one you're slightly hesitant to publish and far too many people play it safe with their content. Building a humble personal brand is all about being authentic. After all, being you is the one thing no one, irregardless of how big their marketing budget is, can compete with you on. 
 
 >"Share what you love, and the people who love the same things will find you." - Austin Kleon
 
