@@ -35,5 +35,4 @@ I'm currently toying with the idea of setting up a similar challenge for myself 
 
 > Creative practice doesn't really arise from some unseen, divine inspiration that strikes an artist and that he or she subsequently carries out in creative work. Rather, art emerges from a negotiation between a creator, an initial vision or context, and a set of material limitations that help lead the idea from abstraction to concreteness. Creativity is always found under conditions. - Ian Bogost
 
-> "Telling yourself you have all the time in the world, all the money in the world, all the colors in the palette, anything you want — that just kills creativity." - Jack White
 
