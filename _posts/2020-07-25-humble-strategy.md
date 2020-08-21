@@ -43,7 +43,7 @@ The humble business strategy is summarized in the following diagram:
 
 If you want to learn more about the individual steps here like [ideation](/ideation), [validation](/validation) and [personal brand building](/personal-brand), take a look at the linked articles that are dedicated to these topics.
 
-
+>"Fire bullets then canon balls." - Jim Collins
 
 
 
