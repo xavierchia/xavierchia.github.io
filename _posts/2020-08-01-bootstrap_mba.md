@@ -4,7 +4,7 @@ title: I've decided to pursue a Bootstrap MBA
 permalink: mba
 ---
 
-*Update:* As my first project, I've created an (admitedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
+
 
 My next twelve months will be dedicated to a single meta-framework that I call the Bootstrap MBA. This name makes sense for two reasons:
 
@@ -96,9 +96,8 @@ Hence, in addition to the curriculum outlined above, the Bootstrap MBA I invente
   
 Hence, in some sense, the [12 Startups in 12 Months](https://levels.io/12-startups-12-months/) challenge is a subset of the Bootstrap MBA.
 
+*Update:* As my first project, I've created an (admitedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
+
 I should point out that the Bootstrap MBA is a living, breathing experiment. Nothing is set in stone and I will certainly make adjustments along the way. Hence, if you have comments, feedback or want to try something similar, I would love to hear from you! The best way to reach me is via Twitter or email. 
-
-
-
 
 To follow along and hear about the ups- and downs, you can subscribe below.
