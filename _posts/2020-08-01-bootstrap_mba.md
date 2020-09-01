@@ -4,7 +4,7 @@ title: I've decided to pursue a Bootstrap MBA
 permalink: mba
 ---
 
-*Update:* As my first project, I've created a (admitedly unimpressive) site for my little project: [Bootstrap.MBA](http://bootstrap.mba)
+*Update:* As my first project, I've created an (admitedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
 
 My next twelve months will be dedicated to a single meta-framework that I call the Bootstrap MBA. This name makes sense for two reasons:
 
