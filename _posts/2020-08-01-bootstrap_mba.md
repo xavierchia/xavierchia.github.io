@@ -51,6 +51,9 @@ The Bootstrap MBA itself is just a first example. It is my modest attempt to be 
 
 ## How to bootstrap an MBA
 
+{:.rightaligned}
+![](/images/readingslist.jpg)
+
 > "Plans are worthless, but planning is everything" - Dwight D. Eisenhower
 
 I've identified three key areas I want to focus on:
