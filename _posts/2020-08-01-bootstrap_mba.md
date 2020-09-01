@@ -23,11 +23,11 @@ In contrast, if I bootstrap my education, I can focus solely on content that spe
 
 The main selling point of structured programs is the piece of paper you get at the end. At the end of my Bootstrap MBA no one will hand me a certificate. But I'm convinced that this is not a problem. On the one hand, certificates are for people who want a job and this isn't something that appears on my bucket list. On the other hand, smart people know already that certificates primarily measure how good you are at following orders and little else. Hence, I wouldn't want to work at a company that puts too much emphasis on certificates anyway.
 
-A superior alterantive to a certificate is a portfolio of real-world projects. And this is exactly what I will be building during my Boostrap MBA. 
+A superior alternative to a certificate is a portfolio of real-world projects. And this is exactly what I will be building during my Bootstrap MBA. 
 
 > “Self-education is, I firmly believe, the only kind of education there is.” - Isaac Asimov
 
-I already have some experience with self-learning. While I was enrolled at universitiy, I was basically an autodicat. I barely attended lectures. Instead, I followed my own curiosity and spent my days in the library. While this worked okay for me, my approach back then was completely unsystematic and hence certainly not optimal.
+I already have some experience with self-learning. While I was enrolled at university, I was basically an autodidact. I barely attended lectures. Instead, I followed my own curiosity and spent my days in the library. While this worked okay for me, my approach back then was completely unsystematic and hence certainly not optimal.
 
 I quickly learned that the biggest challenges of self-learning are to stay on track and to stay motivated. 
 
@@ -39,7 +39,7 @@ For this reason, I've decided to invent a meta-framework for myself that defines
 
 ## Why bootstrap businesses?
 
-First of all, I don't want a regular job. I like working on my own projects and being my own boss. I have zero interest in participating in office politics and in doing what is necessary to have a successfull conventional career. 
+First of all, I don't want a regular job. I like working on my own projects and being my own boss. I have zero interest in participating in office politics and in doing what is necessary to have a successful conventional career. 
 
 > “Build your own dreams, or someone else will hire you to build theirs.” - Farrah Gray
 
@@ -47,7 +47,7 @@ But I've also no interest in participating in the "startup game". I don't want t
 
 My goal is not to become a billionaire. Instead, my dream is modest financial independence. And I'm convinced that the best way to achieve it in a way that is in agreement with my values is by bootstrapping businesses. I want to build things that I believe should exist and that others find useful. 
 
-The Bootstrap MBA itself is a first example. It is my modest attempt to be the change I want to see in the world. The traditional education system is broken beyond repair. I'm convinced that independent learning journeys are the future of education and that portfolios will replace certificates in many areas. Hence my hope is that my experiences will insipire others to try something similar.
+The Bootstrap MBA itself is just a first example. It is my modest attempt to be the change I want to see in the world. The traditional education system is broken beyond repair. I'm convinced that independent learning journeys are the future of education and that portfolios will replace certificates in many areas. Hence my hope is that my experiences will inspire others to try something similar.
 
 ## How to bootstrap an MBA
 
@@ -59,11 +59,11 @@ I've identified three key areas I want to focus on:
 - Software Development
 - Marketing
 
-Each of them is an essential skill I need to master to be able to bootstrap successfull businesses. 
+Each of them is an essential skill I need to master to be able to bootstrap successful  businesses. 
 
 - I need to understand, how I can come up with suitable business ideas and how I can evaluate their potential.
 - I need to learn how I can make my ideas a reality. Software development seems like an ideal choice for sustainable bootstrapping businesses. (Alternatives would be content product development and physical product development.)
-- The best idea executed flawlessly is useless if no one knows about. Getting the world out is one of the key challenges, especially for bootstraped founders without a large marketing budget.
+- The best idea executed flawlessly is useless if no one knows about. Getting the world out is one of the key challenges, especially for bootstrapped founders without a large marketing budget.
 
 (In addition to the three core topics listed above, I have much longer list of electives (buying businesses, community building, etc.)  that I would be interested in learning if I find the time.)
 
@@ -96,7 +96,7 @@ Hence, in addition to the curriculum outlined above, the Bootstrap MBA I invente
   
 Hence, in some sense, the [12 Startups in 12 Months](https://levels.io/12-startups-12-months/) challenge is a subset of the Bootstrap MBA.
 
-*Update:* As my first project, I've created an (admitedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
+*Update:* As my first project, I've created an (admittedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
 
 I should point out that the Bootstrap MBA is a living, breathing experiment. Nothing is set in stone and I will certainly make adjustments along the way. Hence, if you have comments, feedback or want to try something similar, I would love to hear from you! The best way to reach me is via Twitter or email. 
 
