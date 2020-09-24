@@ -6,7 +6,9 @@ image: /images/make.png
 ---
 
 
-One of the first books I read on bootstrapping is MAKE by Pieter Levels.  Pieter promises to share the techniques that allowed him to build two highly successful products ([Nomad List](https://nomadlist.com/) and [RemoteOK](https://remoteok.io/)) that bring in more than $80.000 each month. In addition to sharing actionable advice he wants to encourage others to try the bootstrapped way of building businesses. In his words, "I want to make bootstrapping great (again) #MBGA". 
+One of the first books I read on bootstrapping is [MAKE by Pieter Levels](https://makebook.io/).  Pieter promises to share the techniques that allowed him to build two highly successful products ([Nomad List](https://nomadlist.com/) and [RemoteOK](https://remoteok.io/)) that bring in more than $80.000 each month. In addition to sharing actionable advice he wants to encourage others to try the bootstrapped way of building businesses. In his words:
+
+>"I want to make bootstrapping great (again) #MBGA". 
 
 Before we dive into any details let me say this: I was ultimately a bit disappointed by the book. Even though I'm a beginner I felt there weren't many new ideas discussed in the book and some of the most important parts seemed to be missing. Overall, I would rate it at a 6/10. 
 
@@ -40,11 +42,13 @@ He has a chapter dedicated to each of these topics.
 
 How advice on product ideation boils down to: scratch your own itch (solve your own problems) and if this doesn't work do more interesting stuff. 
 
-He uses the example that he was only able to build Nomad List because he lived as a digital nomad himself. Now scratching your own itch is certainly a viable strategy. But it's just one out of many and Pieter doesn't discuss any alternatives. And "become a more original person" is not particularly useful advice in my humble opinion. Moreover, I don't think that his (most successful?!) business RemoteOK was scratching any of his own itches. (He has no employees, so a job board doesn't seem like a problem to one of his own problems.)
+He uses the example that he was only able to build Nomad List because he lived as a digital nomad himself. Now scratching your own itch is certainly a viable strategy. But it's just one out of many and Pieter doesn't discuss any alternatives. And "become a more original person" is not particularly actionable advice. I think I understand what he's trying to say. To have good ideas, you have to actually do stuff. You can't just stare at a whiteboard and hope that inspiration strikes you. It's much easier to have great ideas while you're doing something else. For example, when you're starting a podcast you suddenly notice lots of small problems you could solve. 
+
+Moreover, I don't think that his (most successful?!) business RemoteOK was scratching any of his own itches. (He has no employees, so a job board doesn't seem like a problem to one of his own problems.) 
 
 However his advice to "always start from the problem, not the solution" and that "to get big, you have to start small" is certainly good to keep in mind. 
 
-Morover, he advises to create an idea list because "your mind is like a rice cooker for ideas." In other words, you need to let ideas sit for a while before you should execute on them. Unfortunately, he doesn't explain what you should do with your idea list. This is a problem I'm currently struggeling with and some advice would've been awesome. 
+Morover, he advises to create an idea list because "your mind is like a rice cooker for ideas." In other words, you need to let ideas sit for a while before you should execute on them. Unfortunately, he doesn't explain what you should do with your idea list. This is a problem I'm currently struggeling with. I have huge idea list and I'm not sure what projects I should focus on. So I was hoping for a bit more actionable advice on that front.  
 
 Another good advice he gives is that ideation should happen alone. In groups, there is always so much signalling and other distractions going on that rarely the best ideas have a chance to surface. 
 
@@ -86,7 +90,7 @@ So his advice is to "use whatever is easiest for you to learn or work with. And 
 
 The rest of the chapter is devoted to an example how you could build a product without any code by tying service like [Carrd](http://carrd.co/), [Typeform](http://typeform.com/), and Google Sheets together using [Zapier](https://zapier.com/). 
 
-I thought the chapter was overall quite disappointing. There were a few bits of good advice but I felt as if he barely scratched to surface. There's no real guidance or concrete recommendations which, I think, you need most as a beginner. When it comes to coding and the tech stack, his advice boils down to "just do whatever and however you like". Uhm... okay. That's not particularly useful. 
+I thought the chapter was overall quite disappointing. There were a few bits of good advice but I felt as if he barely scratched to surface. There's no real guidance or concrete recommendations which, I think, you need most as a beginner. When it comes to coding and the tech stack, his advice boils down to "just do whatever and however you like". Uhm... okay. That's not particularly useful if you're staring at a blank page in Sublime Text.
 
 He mentions services like Linode, Digital Ocean, Heroku, NGINX, and frameworks/programming languages like Ruby on Rails, Meteor, Laravel, and PHP that "make it easy to build products by skipping the ground work." But he gives absolutely no recommendation or discusses them in any detail. 
 
@@ -100,7 +104,7 @@ Before the launch he recommends to "fix most bug", to "add an email box", to "ad
 
 I found his advice on posting your product on Product Hunt quite useful. For example, he recommends posting your product at 00:00:01 PST because at midnight the daily list resetted and thus you have more time to gather votes. 
 
-He further recommends to use emojis in the tagline. For example, to write "The first 🤖machine learning 📷photo editor" instead of "The first machine learning photo editor". Also he advises that it's a smart idea to upload an animated GIF as your thumbnail which you can create, for example, using [GIPHY Capture](https://giphy.com/)
+He further recommends to use emojis in the tagline. For example, you should write "The first 🤖machine learning 📷photo editor" instead of "The first machine learning photo editor". Also he advises that it's a smart idea to upload an animated GIF as your thumbnail which you can create, for example, using [GIPHY Capture](https://giphy.com/)
 
 There's lots of further interesting advice like, for example, to write a first Product Hunt comment yourself to get the conversation starting and to check the comments regularly and give answers. 
 
@@ -194,5 +198,7 @@ He then ends the book with some encouragement.
 MAKE by Pieter Levels certainly contains bits and pieces of good advice. But I felt as if he's holding back a lot of valuable information (how he actually comes up with and evaluates the potential of his ideas, how he builds his products, how he's set up his company etc.). He's not going into much detail and given the price of the book and his reputation I expected a bit more. 
 
 All the advice he shares could probably be compressed into a small number of Twitter threads or a blog post like this one. In fact, I think that if you just read [his own summary](https://levels.io/startups/), you probably know already 90% of what is covered in the book.
+
+What the book is good at is "motivational ra-ra" and encouragement. If you're looking for actionable advice, there are probably better books. 
 
 (As an aside, note that there are lots of typos and grammtical errors in the book. Given that he earned already more than $200.000 with the book, I think he should pay a few hundred dollar to someone who carefully proofreads his manuscript. But I personally don't care much about grammar and typos and hence they didn't affect my opinion.)
