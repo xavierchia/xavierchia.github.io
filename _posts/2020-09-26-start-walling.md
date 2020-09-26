@@ -37,7 +37,7 @@ In the rest of the chapter he shares "mindset advice" for aspiring entrepreneurs
 
 One of the most important things he mentions is that:
 
-"Millions of people in this world can build software. A fractional subset of those can build software and convince people to buy it."
+>"Millions of people in this world can build software. A fractional subset of those can build software and convince people to buy it."
 
 This little observation immediately makes clear what you should be focusing on. [Building products is not the bottleneck](https://jakobgreenfeld.com/bottlenecks). Instead, your success chances primarily depend on your ability to come up with great product ideas and to attract customers.
 
@@ -45,7 +45,7 @@ There are far too many people who still believe that they just have to build som
 
 New developer-entrepreneurs typically assume that the product is 99% of the equation. Instead, Rob summarizes that:
 
-"Market Comes First, Marketing Second, Aesthetic Third, and Functionality a Distant Fourth"
+>"Market Comes First, Marketing Second, Aesthetic Third, and Functionality a Distant Fourth"
 
 ### Focus on things that bring you closer to launching
 
@@ -53,17 +53,17 @@ But focusing on your code is just example of a distraction that's not really mov
 
 Another trap is excessive reading. 
 
-"It sure seems like Why We Buy, Made to Stick and Outliers are going to help you launch a successful product. But reading books gets you no closer to launching than watching Lost. If reading business books is a hobby, fantastic. But it won’t get you one hour closer to launch."
+>"It sure seems like Why We Buy, Made to Stick and Outliers are going to help you launch a successful product. But reading books gets you no closer to launching than watching Lost. If reading business books is a hobby, fantastic. But it won’t get you one hour closer to launch."
 
 Rob recommends an information diet. Limit the time you spend on social media to 30 minutes a day. Set similar limits for your TV consumption and news reading. Moreover, he recommends taking action notes when you're reading something (not for pleasure but to learn something). An action note is a specific to-do list item that was sparked by the book or article. If you're not getting actionable items out of a piece of writing, it's probably a waste of time. Taking action notes is a great way to understand the value of any consumable. 
 
-"Anytime you’re on your computer ask yourself “Is this activity getting me closer to my launch date?”"
+>"Anytime you’re on your computer ask yourself “Is this activity getting me closer to my launch date?”"
 
 Of course, you shouldn't work around the clock. Relaxing and re-energizing are important. But without a conscious effort you'll probably spend your days doing neither work nor relaxing. Fake work like reading business books or doing extensive research are usually a waste of time. The same is true for multitasking like working in front of the TV. A sure sign of fake work is that you feel as if you've worked all the time but didn’t get anything done. "Being busy but not productive" is the fitting mantra, I think. 
 
 Since reading the book I got much better at avoiding fake work. Whenever I catch myself drifting into fake work, I stop and dedicate 30 minutes to re-energize and refocus. 
 
-"Numerous times throughout the day ask yourself: At this very moment am I making progress towards crossing off a to-do, or am I relaxing and re-energizing? If I’m doing neither, evaluate the situation and change it. "
+>"Numerous times throughout the day ask yourself: At this very moment am I making progress towards crossing off a to-do, or am I relaxing and re-energizing? If I’m doing neither, evaluate the situation and change it. "
 
 ### Outsourcing is a skill
 
@@ -71,7 +71,7 @@ There are millions of things you could do each day. Somehow, you have to decide 
 
 Ideally, you would focus on just the kind of [$10.000 per hour work](https://www.stevepavlina.com/blog/2005/11/how-to-earn-10000-in-one-hour/) that truly distinguishes entrepreneurs from traditional employees and outsource all the rest. (See also Nava Ravikant's advice to ["set an aspirational hourly rate"](https://nav.al/hourly-rate). Rob calls this "dollarizing your time".)
 
-" If you value your time at $100/hour it makes certain decisions, such as outsourcing work to a $6/hour virtual assistant, a no-brainer. Putting a value on your time is a foundational step in becoming an entrepreneur, and it’s one many entrepreneurs never take."
+>"If you value your time at $100/hour it makes certain decisions, such as outsourcing work to a $6/hour virtual assistant, a no-brainer. Putting a value on your time is a foundational step in becoming an entrepreneur, and it’s one many entrepreneurs never take."
 
 No one successfully does this all the time. But it's important to keep in mind that if you want to be successful, you shouldn't waste your time with $10 per hour work. 
 
@@ -83,7 +83,7 @@ However, on the other hand, the project would've also failed if you did everythi
 
 An additional benefit of outsourcing is that it helps to focus your efforts on projects where there is a realistic chance to make the money back. 
 
-"It never seems like a good idea to pay someone out of your own pocket for something you can do yourself…until you realize the economics of doing so."
+>"It never seems like a good idea to pay someone out of your own pocket for something you can do yourself…until you realize the economics of doing so."
 
 A great aspect of Start Small, Stay Small is that there is not just high-level advice but also nitty-gritty details. For example, there is a list of 37 tasks that are typically needed to take a (web-based) product from idea to launch:
 
@@ -137,13 +137,13 @@ One of the most difficult things developers that want to become entrepreneurs ha
 
 In software development, when you do X it'll always lead to the same outcome. In entrepreneurship this is no longer true. Your goal is to sell products to humans and human nature is unpredictable. 
 
-"That’s a hard pill to swallow when you’re used to making decisions based on fact. Instead, you have to take your best guess; then measure and tweak. And then do it 20 more times until you succeed."
+>"That’s a hard pill to swallow when you’re used to making decisions based on fact. Instead, you have to take your best guess; then measure and tweak. And then do it 20 more times until you succeed."
 
 ### Beware of project/product confusion
 
 Another important observation by Rob is what he calls *project/product confusion*. 
 
-"A project is a software application that you build as a fun side project. The code is fun to write because you’re not concerned about quality and performance, and the end result is a neat little application that likely isn’t of use to many people. A product is a project that people will pay money for. In other words, it’s a project that has a market (a group of people who want to buy it). Without a market, a software application is just a project." 
+>"A project is a software application that you build as a fun side project. The code is fun to write because you’re not concerned about quality and performance, and the end result is a neat little application that likely isn’t of use to many people. A product is a project that people will pay money for. In other words, it’s a project that has a market (a group of people who want to buy it). Without a market, a software application is just a project." 
 
 Confusing projects with products is, according to Rob, the most common source of failure for entrepreneurs.
 
@@ -164,7 +164,7 @@ Rob further recommends [this episode](https://escapefromcubiclenation.libsyn.com
 
 If you stick to standard niche research, you'll only find all the niches that everyone else is finding. 
 
-"The best niches are under the radar, and you have to get out and do something before you will find them."
+>"The best niches are under the radar, and you have to get out and do something before you will find them."
 
 For example, if you start a Podcast or Youtube Channel, you'll immediately be able to discover dozens of little problems that you could solve. 
 
@@ -182,13 +182,13 @@ Once you've collected a list of promising niches, it's time to start thinking ab
 
 If you have some contact in the niche, Rob recommends giving her a call and "grill her on what pains her in the job or hobby that could be solved with software." (A great book I'm currently reading that covers this type of conversation in much more detail is The Mom Test by Rob Fitzpatrick.)
 
-"Before we begin, you’ll also want to bring along that secret list of application ideas you keep tucked away. You know the one I’m talking about–we all have it, whether it’s written down or not. The list of apps we’ve been meaning to build for years. Bring these along just for kicks."
+>"Before we begin, you’ll also want to bring along that secret list of application ideas you keep tucked away. You know the one I’m talking about–we all have it, whether it’s written down or not. The list of apps we’ve been meaning to build for years. Bring these along just for kicks."
 
 ### Evaluate your product ideas
 
 To evaluate the potential of your different product ideas, Rob recommends creating a landing page, including a "buy now" button and then test whether or not people are willing to click it. When someone clicks the "buy now" button this should be recorded, for example, using Google Analytics, and the user should be shown a message that the product does not yet exists but she can enter her email to get notified once it's released.
 
-"The only way you know if someone would try or buy your product is if they think they are really trying or buying it when they visit your sales site."
+>"The only way you know if someone would try or buy your product is if they think they are really trying or buying it when they visit your sales site."
 
 Once you've created such a site, use paid ads to get 100-200 targeted visitors to your site and track the number of "purchases". 
 
@@ -238,12 +238,12 @@ If you target small businesses, the upper limit is usually $400 or $99/month, wh
 
 As a general rule of thumb he recommends:
 
-"Lean towards higher pricing. Developers tend to undervalue their software, and think that lower prices will result in higher sales. This is typically not the case."
+>"Lean towards higher pricing. Developers tend to undervalue their software, and think that lower prices will result in higher sales. This is typically not the case."
 
 ## The bottom Line
 
-Start Small, Stay Small by Rob Walling is a fantastic book. Each chapter is full of immediately useful advice and I've already implemented several of his recommendations. 
+Start Small, Stay Small by Rob Walling is a fantastic book. Each chapter is full of actionable advice and I've already implemented several of his recommendations. 
 
-As mentioned above, I haven't finished the book yet since I want to implement all the interesting things I've learned before moving on. Moreover, I'm currently mostly interested in methods to come up with and evaluate product ideas and later chapters primarily cover more advanced topics that aren't that relevant for me right now. 
+As mentioned above, I haven't finished the book yet since I want to implement what I've learned so far before moving on. Moreover, I'm currently mostly interested in methods to come up with and evaluate product ideas, whereas later chapters primarily cover more advanced topics that aren't that relevant for me right now. 
 
 However, I will certainly read them in the coming months and then either  update this post or publish a second part.
