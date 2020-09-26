@@ -197,6 +197,7 @@ He then ends the book with some encouragement.
 
 MAKE by Pieter Levels certainly contains bits and pieces of good advice. But I felt as if he's holding back a lot of valuable information (how he actually comes up with and evaluates the potential of his ideas, how he builds his products, how he's set up his company etc.). He's not going into much detail and given the price of the book and his reputation I expected a bit more. 
 
+
 All the advice he shares could probably be compressed into a small number of Twitter threads or a blog post like this one. In fact, I think that if you just read [his own summary](https://levels.io/startups/), you probably know already 90% of what is covered in the book.
 
 What the book is good at is "motivational ra-ra" and encouragement. If you're looking for actionable advice, there are probably better books. 
