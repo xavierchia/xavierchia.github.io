@@ -4,9 +4,9 @@ title: Product Explorer Terms of Service
 permalink: /tos/
 ---
 
+# Product Explorer Terms of Service
 
-
-# Terms and conditions
+## Terms and conditions
 
 1. Introduction
 
