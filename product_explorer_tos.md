@@ -4,23 +4,23 @@ title: Product Explorer Terms of Service
 permalink: /tos/
 ---
 
-# Product Explorer Terms of Service
+
 
 ## Terms and conditions
 
-1. Introduction
+1. **Introduction**
 
 These Website Standard Terms And Conditions (these “Terms” or these “Website Standard Terms And Conditions”) contained herein on this webpage, shall govern your use of this website, including all pages within this website (collectively referred to herein below as this “Website”). These Terms apply in full force and effect to your use of this Website and by using this Website, you expressly accept all terms and conditions contained herein in full. You must not use this Website, if you have any objection to any of these Website Standard Terms And Conditions.
 
 This Website is not for use by any minors (dened as those who are not at least 18 years of age), and you must not use this Website if you are a minor.
 
-1. Intellectual Property Rights
+2. **Intellectual Property Rights**
 
 Other than content you own, which you may have opted to include on this Website, under these Terms, Product Explorer and/or its licensors own all rights to the intellectual property and material contained in this Website, and all such rights are reserved.
 
 You are granted a limited license only, subject to the restrictions provided in these Terms, for purposes of viewing the material contained on this Website,
 
-1. Restrictions
+3. **Restrictions**
 
 You are expressly and emphatically restricted from all of the following:
 
@@ -38,35 +38,35 @@ In these Website Standard Terms And Conditions, “Your Content” shall mean an
 
 Your Content must be your own and must not be infringing on any third party’s rights. Product Explorer reserves the right to remove any of Your Content from this Website at any time, and for any reason, without notice.
 
-1. No warranties
+4. **No warranties**
 
 This Website is provided “as is,” with all faults, and Product Explorer makes no express or implied representations or warranties, of any kind related to this Website or the materials contained on this Website. Additionally, nothing contained on this Website shall be construed as providing consult or advice to you.
 
-1. Limitation of liability
+5. **Limitation of liability**
 
 In no event shall Product Explorer, nor any of its ocers, directors and employees, be liable to you for anything arising out of or in any way connected with your use of this Website, whether such liability is under contract, tort or otherwise, and Product Explorer, including its ocers, directors and employees shall not be liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Website.
 
-1. Indemnification
+6. **Indemnification**
 
 You hereby indemnify to the fullest extent Product Explorer from and against any and all liabilities, costs, demands, causes of action, damages and expenses (including reasonable attorney’s fees) arising out of or in any way related to your breach of any of the provisions of these Terms.
 
-1. Severability
+7. **Severability**
 
 If any provision of these Terms is found to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render these Terms unenforceable or invalid as a whole, and such provisions shall be deleted without affecting the remaining provisions herein.
 
-1. Variation of Terms
+8. **Variation of Terms**
 
 Product Explorer is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review such Terms on a regular basis to ensure you understand all terms and conditions governing use of this Website.
 
-1. Assignment
+9. **Assignment**
 
 Product Explorer shall be permitted to assign, transfer, and subcontract its rights and/or obligations under these Terms without any notification or consent required. However, .you shall not be permitted to assign, transfer, or subcontract any of your rights and/or obligations under these Terms.
 
-1. Entire Agreement
+10. **Entire Agreement**
 
 These Terms, including any legal notices and disclaimers contained on this Website, constitute the entire agreement between Product Explorer and you in relation to your use of this Website, and supersede all prior agreements and understandings with respect to the same.
 
-1. Governing Law & Jurisdiction
+11. **Governing Law & Jurisdiction**
 
 These Terms will be governed by and construed in accordance with the laws of Germany, and you submit to the non-exclusive jurisdiction of the state and federal courts located in Germany for the resolution of any disputes.
 
