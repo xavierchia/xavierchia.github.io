@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I created a #2 Product of the Day in 90 minutes"
+title: 'How I created a #2 Product of the Day in 90 minutes'
 permalink: tweet
 image: /images/whattoweet.png
 ---
