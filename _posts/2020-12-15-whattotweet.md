@@ -10,7 +10,7 @@ I know, the headline would be much better if it said Product of the Day. But whi
 Anyway, the second place and 500+ upvotes for a product I created in 90 minutes is still a pretty good outcome. 
 
 {:.centered}
-![](/images/whattotweetstats.png){: width="400px" }
+[![](/images/whattotweetstats.png){: width="400px" }](https://twitter.com/jakobgreenfeld/status/1338772300724842498)
 
 I certainly didn't expect that it would do so well. It seems a bit unfair. There are many examples of makers working months on their project who get almost no attention.
 
@@ -63,7 +63,7 @@ My favorite resource when I start a new project is [this site](https://kitwind.i
 to make sure that the Tailwind components show correctly. 
 
 {:.centered}
-![](/images/headercomponent.png){: width="700px" }
+[![](/images/headercomponent.png){: width="700px" }}](https://kitwind.io/products/kometa/components/headers)
 
 I modified the header component a little bit by removing the distracting background graphic and by adding a second button that can be used to toggle the examples. Moreover, I added a div that includes the Tweet images. 
 
