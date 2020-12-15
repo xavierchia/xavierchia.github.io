@@ -2,7 +2,7 @@
 layout: post
 title: 'How I created a #2 Product of the Day in 90 minutes'
 permalink: tweet
-image: /images/whattoweet.png
+image: /images/whattotweetpreview.png
 ---
 
 I know, the headline would be much better if it said Product of the Day. But while [What to Tweet](https://www.producthunt.com/posts/what-to-tweet) was at the #1 spot on [Product Hunt](https://www.producthunt.com/) almost all day long, it was eventually pushed second spot near the end of the day when [Almanack](https://www.producthunt.com/posts/almanac-7cda1a93-8b9e-44d2-84d1-7a6e9a2cbbfd) got hundreds of additional upvotes, while my project only gained upvotes at a steady rate. 
