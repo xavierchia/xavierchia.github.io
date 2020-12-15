@@ -7,7 +7,7 @@ image: /images/whattotweetpreview.png
 
 I know, the headline would be much better if it said Product of the Day. But while [What to Tweet](https://www.producthunt.com/posts/what-to-tweet) was at the #1 spot on [Product Hunt](https://www.producthunt.com/) almost all day long, it was eventually pushed to the second spot near the end of the day when [Almanack](https://www.producthunt.com/posts/almanac-7cda1a93-8b9e-44d2-84d1-7a6e9a2cbbfd) got hundreds of additional upvotes, while my project only gained upvotes at a steady rate. 
 
-Anyway, the second place and 500+ upvotes for a product I created in 90 minutes is still a pretty good outcome. 
+Anyway, the second place and 500+ upvotes for a product I created in around 90 minutes is still a pretty good outcome. (I didn't track the time so this is really a rough guess. But all steps outlined below can certainly be done in less than 90 minutes.)
 
 {:.centered}
 [![](/images/whattotweetstats.png){: width="400px" }](https://twitter.com/jakobgreenfeld/status/1338772300724842498)
