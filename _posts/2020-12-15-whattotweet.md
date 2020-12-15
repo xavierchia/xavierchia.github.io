@@ -38,7 +38,7 @@ The key elements are:
 
 Let's start by talking about the backend, then the frontend, and finally about how they are connected.
 
-### **The Content and the Backend**
+**The Content and the Backend**
 
 I started by collecting Tweet prompts like the ones [proposed by Josh Spector](https://joshspector.com/what-to-tweet/) in an Airtable. Then I tried to find at least tweet that could result from a given prompt by using operators like "min_faves:20" on Twitter. 
 
@@ -50,7 +50,7 @@ Additionally, I created an URL column and added the Tweet URL for each example.
 
 You can see the Airtable that's behing What to Tweet [here](https://airtable.com/shrydMpPnoNOv82te). (The Airtable includes a few additional examples that I'm currently not using.)
 
-### The Frontend
+**The Frontend**
 
 My favorite resource when I start a new project is [this site](https://kitwind.io/products/kometa/). It's a free collection of amazing [Tailwind CSS](https://tailwindcss.com/) components. I copied their first header component into a barebone HTML template and added the line
 
@@ -73,7 +73,7 @@ If you've never used Tailwind I can highly recommend it. It's super simple and t
 
 Now comes the most interesting part: How can we show the information we saved in our Airtable on the frontend.
 
-### Connecting the Frontend with the Backend using the Airtable API
+**Connecting the Frontend with the Backend using the Airtable API**
 
 Airtable has an awesome [API](https://airtable.com/api). However, the intended use-case is in the context of a proper backend. This means, the API is optimized for projects that make calls to the Airtable API from a Node.js or Python backend. 
 
@@ -201,7 +201,7 @@ To make sure that this function gets called, I added the onclick="showhide();" p
 
 That's it. I'm probably the last person who should be giving Javascript lessons as I only know the bare minimum to build anything. But as you can see, this is all we need here to build something useful. 
 
-## Hosting
+**Hosting**
 
 Once we've created our little site and tested that it works locally, we have to upload it to somewhere. Since we're dealing just with a static HTML page, we can use Vercel's free tier to host the site. (Netlify works equally well!)
 
