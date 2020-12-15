@@ -5,7 +5,7 @@ permalink: tweet
 image: /images/whattotweetpreview.png
 ---
 
-I know, the headline would be much better if it said Product of the Day. But while [What to Tweet](https://www.producthunt.com/posts/what-to-tweet) was at the #1 spot on [Product Hunt](https://www.producthunt.com/) almost all day long, it was eventually pushed second spot near the end of the day when [Almanack](https://www.producthunt.com/posts/almanac-7cda1a93-8b9e-44d2-84d1-7a6e9a2cbbfd) got hundreds of additional upvotes, while my project only gained upvotes at a steady rate. 
+I know, the headline would be much better if it said Product of the Day. But while [What to Tweet](https://www.producthunt.com/posts/what-to-tweet) was at the #1 spot on [Product Hunt](https://www.producthunt.com/) almost all day long, it was eventually pushed to the second spot near the end of the day when [Almanack](https://www.producthunt.com/posts/almanac-7cda1a93-8b9e-44d2-84d1-7a6e9a2cbbfd) got hundreds of additional upvotes, while my project only gained upvotes at a steady rate. 
 
 Anyway, the second place and 500+ upvotes for a product I created in 90 minutes is still a pretty good outcome. 
 
@@ -14,7 +14,7 @@ Anyway, the second place and 500+ upvotes for a product I created in 90 minutes 
 
 I certainly didn't expect that it would do so well. It seems a bit unfair. There are many examples of makers working months on their project who get almost no attention.
 
-And what did I do? I created a simple tool that shows Tweet prompts randomly. That's it. It's really as simpel as it sounds. In fact, I was afraid that people would mock me for posting something so incredibly basic.  
+And what did I do? I created a simple tool that shows Tweet prompts randomly. That's it. It's really as simple as it sounds. In fact, I was afraid that people would mock me for posting something so incredibly basic.  
 
 What are the takeaways here?
 
@@ -34,21 +34,21 @@ The key elements are:
 
 - [Airtable](https://airtable.com) as the backend.
 - A static [Tailwind CSS](https://tailwindcss.com) frontend hosted on [Vercel](https://vercel.com).
-- Some Javascript that connectes the backend and the frontend.
+- Some Javascript that connects the backend and the frontend.
 
 Let's start by talking about the backend, then the frontend, and finally about how they are connected.
 
 **The Content and the Backend**
 
-I started by collecting Tweet prompts like the ones [proposed by Josh Spector](https://joshspector.com/what-to-tweet/) in an Airtable. Then I tried to find at least tweet that could result from a given prompt by using operators like "min_faves:20" on Twitter. 
+I started by collecting Tweet prompts like the ones [proposed by Josh Spector](https://joshspector.com/what-to-tweet/) in an Airtable. Then I tried to find at least one tweet that could result from a given prompt by using operators like "min_faves:20" on Twitter. 
 
-I made a screenshot when I found a fitting tweet, using the standard Windows snipping tool. (WIN + Shift + S). In my Airtable, I created a new "Attachement" column and pasted the screenshots. 
+I made a screenshot when I found a fitting tweet, using the standard Windows snipping tool. (WIN + Shift + S). In my Airtable, I created a new "Attachment" column and pasted the screenshots. 
 
 The process for pasting images in an Airtable is still a bit awkward. You have to open the corresponding "Attachement" field, click somewhere into the opening popup, and then you can past the image using CTRL+V. 
 
 Additionally, I created an URL column and added the Tweet URL for each example. 
 
-You can see the Airtable that's behing What to Tweet [here](https://airtable.com/shrydMpPnoNOv82te). (The Airtable includes a few additional examples that I'm currently not using.)
+You can see the Airtable that's behind What to Tweet [here](https://airtable.com/shrydMpPnoNOv82te). (The Airtable includes a few additional examples that I'm currently not using.)
 
 **The Frontend**
 
@@ -67,7 +67,7 @@ to make sure that the Tailwind components show correctly.
 
 I modified the header component a little bit by removing the distracting background graphic and by adding a second button that can be used to toggle the examples. Moreover, I added a div that includes the Tweet images. 
 
-Additionally, I added simple [footer component](https://kitwind.io/products/kometa/components/footers) from the same resource.
+Additionally, I added a simple [footer component](https://kitwind.io/products/kometa/components/footers) from the same resource.
 
 If you've never used Tailwind I can highly recommend it. It's super simple and the main benefit for me is that it's so easy to copy and modify pre-made components. But of course, the general approach works with any CSS framework, not just Tailwind. 
 
@@ -75,7 +75,7 @@ Now comes the most interesting part: How can we show the information we saved in
 
 **Connecting the Frontend with the Backend using the Airtable API**
 
-Airtable has an awesome [API](https://airtable.com/api). However, the intended use-case is in the context of a proper backend. This means, the API is optimized for projects that make calls to the Airtable API from a Node.js or Python backend. 
+Airtable has an awesome [API](https://airtable.com/api). However, the intended use-case is in the context of a proper backend. This means the API is optimized for projects that make calls to the Airtable API from a Node.js, Python, etc. backend. 
 
 But I don't want to use an additional backend. This would require that I set up a server and create a custom API using [Flask](https://palletsprojects.com/p/flask/) that basically just calls the Airtable API. The idea behind this approach is that we create an additional layer of security by using the custom API as the mediator between the frontend and Airtable. 
 
@@ -110,11 +110,11 @@ async function callingFn() {
   }
 ```
 
-When you're logged in as read-only account, visit [https://airtable.com/api](https://airtable.com/api), and then click on the corresponding Airtable, you'll see lots of boilerplate code that you can use for different use-cases. In my case, I only needed to copy the table identifer from this page, which is shown, for example, in the Environment section. (The string that starts with "app".)
+When you're logged in as read-only account, visit [https://airtable.com/api](https://airtable.com/api), and then click on the corresponding Airtable, you'll see lots of boilerplate code that you can use for different use-cases. In my case, I only needed to copy the table identifier from this page, which is shown, for example, in the Environment section. (The string that starts with "app".)
 
 Moreover, you need your API key which you can generate by following the steps [here](https://support.airtable.com/hc/en-us/articles/219046777). (Again, make sure to use the API key of your read-only user, not of your main account.)
 
-Once you've succesfully loaded the data, it's stored in JSON object and you can do with it whatever you want. For What to Tweet, I wrote a function that picks a random element from a list. 
+Once we've successfully loaded the data, it's stored in a JSON object and you can do with it whatever you want. For What to Tweet, I wrote a function that picks a random element from a list. 
 
 ```jsx
 get_random = function (list) {
@@ -135,7 +135,7 @@ Then I made sure that this function is called when the page is loaded and when s
     /* pick HTML element with id="idea1". This is the element that shows the prompt */
     const idea1 = document.getElementById('idea1'); 
 
-	/* pick random element from the list results. Below, we callt he function we define here with res as the argument which is the variable that contains the Airtable data. */
+	/* pick random element from the list results. Below, we call the function we define here with res as the argument which is the variable that contains the Airtable data. */
     const picked_prompt = get_random(results);
 		
 	/* change the text inside the element we picked above to the new prompt */
@@ -205,7 +205,7 @@ That's it. I'm probably the last person who should be giving Javascript lessons 
 
 Once we've created our little site and tested that it works locally, we have to upload it to somewhere. Since we're dealing just with a static HTML page, we can use Vercel's free tier to host the site. (Netlify works equally well!)
 
-To do this, I create new private Github project, open a new terminal in the folder that contains our HTML file, and follow the steps shown on Github to upload it. 
+To do this, I create a new private Github project, open a new terminal in the folder that contains our HTML file, and follow the steps shown on Github to upload it. 
 
 As soon as the page is uploaded to Github, we can head over to Vercel and import the project. The website becomes immediately available on a free Vercel subdomain. If we want, we can then add a custom domain by following the steps shown by Vercel. There really is just one step: add one new DNS record to the domain and they'll handle all the rest. 
 
