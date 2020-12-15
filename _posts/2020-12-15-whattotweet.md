@@ -20,11 +20,11 @@ What are the takeaways here?
 
 - If you create something that you personally use regularly, chances are high that others find it useful too even if it's simple.
 - Product Hunt is not a fair competition in the sense that it doesn't reward effort.
-- Side-project marketing works. You can get a lot of attention with very simple tools. The launch helped me build my personal brand and generated a few sales of my completely unrelated products. And this happened even though I only included no ads, only a tiny "made by" badge in the lower-right corner. Now imagine if I were the creator of a Twitter tool like [Hypefury](https://hypefury.com/) or [Ilo](https://ilo.so/)...
+- Side-project marketing works. You can get a lot of attention with very simple tools. The launch helped me build my personal brand and generated a few sales of my completely unrelated products. And this happened even though I included no ads, only a tiny ["made by" badge](https://jakobgreenfeld.com/badge) in the lower-right corner. Now imagine if I were the creator of a Twitter tool like [Hypefury](https://hypefury.com/) or [Ilo](https://ilo.so/)...
 
 The key question now is: what's an effective way to create simple tools like What to Tweet? This is probably the topic you're really here for. 
 
-## The Architecture behind What to Tweet
+## The Architecture
 
  
 
@@ -42,9 +42,9 @@ Let's start by talking about the backend, then the frontend, and finally about h
 
 I started by collecting Tweet prompts like the ones [proposed by Josh Spector](https://joshspector.com/what-to-tweet/) in an Airtable. Then I tried to find at least one tweet that could result from a given prompt by using operators like "min_faves:20" on Twitter. 
 
-I made a screenshot when I found a fitting tweet, using the standard Windows snipping tool. (WIN + Shift + S). In my Airtable, I created a new "Attachment" column and pasted the screenshots. 
+I made a screenshot when I found a fitting tweet, using the standard Windows snipping tool (WIN + Shift + S). In my Airtable, I created a new "Attachment" column and pasted the screenshots. 
 
-The process for pasting images in an Airtable is still a bit awkward. You have to open the corresponding "Attachement" field, click somewhere into the opening popup, and then you can past the image using CTRL+V. 
+The process for pasting images in an Airtable is still a bit awkward. You have to open the corresponding "Attachment" field, click somewhere into the opening popup, and then you can past the image using CTRL + V. 
 
 Additionally, I created an URL column and added the Tweet URL for each example. 
 
@@ -69,7 +69,7 @@ I modified the header component a little bit by removing the distracting backgro
 
 Additionally, I added a simple [footer component](https://kitwind.io/products/kometa/components/footers) from the same resource.
 
-The is what my final design looks like.
+This what my final design looks like.
 
 {:.centered}
 [![](/images/theresult.png){: width="700px" }}](https://whattotweet.com)
@@ -82,7 +82,7 @@ Now comes the most interesting part: How can we show the information we saved in
 
 Airtable has an awesome [API](https://airtable.com/api). However, the intended use-case is in the context of a proper backend. This means the API is optimized for projects that make calls to the Airtable API from a Node.js, Python, etc. backend. 
 
-But I don't want to use an additional backend. This would require that I set up a server and create a custom API using [Flask](https://palletsprojects.com/p/flask/) that basically just calls the Airtable API. The idea behind this approach is that we create an additional layer of security by using the custom API as the mediator between the frontend and Airtable. 
+But I don't want to use an additional backend. This would require that I set up a server and create a custom API using something like [Flask](https://palletsprojects.com/p/flask/) that basically just calls the Airtable API. The idea behind this approach is that we create an additional layer of security by using the custom API as the mediator between the frontend and Airtable. 
 
 While this certainly makes sense for many use cases, it seems like a total overkill for my modest project. I just want to show the information I saved in the Airtable in my frontend. There's no need for more complicated operations that require an advanced authorization system.
 
