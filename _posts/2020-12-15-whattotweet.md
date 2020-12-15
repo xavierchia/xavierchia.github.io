@@ -69,6 +69,11 @@ I modified the header component a little bit by removing the distracting backgro
 
 Additionally, I added a simple [footer component](https://kitwind.io/products/kometa/components/footers) from the same resource.
 
+The is what my final design looks like.
+
+{:.centered}
+[![](/images/theresult.png){: width="700px" }}](https://whattotweet.com)
+
 If you've never used Tailwind I can highly recommend it. It's super simple and the main benefit for me is that it's so easy to copy and modify pre-made components. But of course, the general approach works with any CSS framework, not just Tailwind. 
 
 Now comes the most interesting part: How can we show the information we saved in our Airtable on the frontend.
@@ -209,6 +214,8 @@ To do this, I create a new private Github project, open a new terminal in the fo
 
 As soon as the page is uploaded to Github, we can head over to Vercel and import the project. The website becomes immediately available on a free Vercel subdomain. If we want, we can then add a custom domain by following the steps shown by Vercel. There really is just one step: add one new DNS record to the domain and they'll handle all the rest. 
 
-That's it. Now build something useful. 
+That's it.
 
-P.S.: I'm aware that I glanced over a few details. But this post is already far longer than I anticipated and if you have any questions, feel free to reach on [Twitter](https://twitter.com/jakobgreenfeld).
+If you build something using this approach, I'd love to hear from [you](https://twitter.com/jakobgreenfeld)! 
+
+
