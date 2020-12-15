@@ -10,7 +10,7 @@ I know, the headline would be much better if it said Product of the Day. But whi
 Anyway, the second place and 500+ upvotes for a product I created in 90 minutes is still a pretty good outcome. 
 
 {:.centered}
-![](/images/whattoweetstas.png){: width="400px" }
+![](/images/whattoweetstats.png){: width="400px" }
 
 I certainly didn't expect that it would do so well. It seems a bit unfair. There are many examples of makers working months on their project who get almost no attention.
 
@@ -20,7 +20,7 @@ What are the takeaways here?
 
 - If you create something that you personally use regularly, chances are high that others find it useful too even if it's simple.
 - Product Hunt is not a fair competition in the sense that it doesn't reward effort.
-- Side-project marketing works. You can get a lot of attention with very simple tools. The launch helped me build my personal brand and generated a few sales of my completely unrelated products. And this happened even though I only included no ads, only a tiny "made by" badge in the lower-right corner. Now imagine if I were the create of a Twitter tool like [Hypefury](https://hypefury.com/) or [Ilo](https://ilo.so/)...
+- Side-project marketing works. You can get a lot of attention with very simple tools. The launch helped me build my personal brand and generated a few sales of my completely unrelated products. And this happened even though I only included no ads, only a tiny "made by" badge in the lower-right corner. Now imagine if I were the creator of a Twitter tool like [Hypefury](https://hypefury.com/) or [Ilo](https://ilo.so/)...
 
 The key question now is: what's an effective way to create simple tools like What to Tweet? This is probably the topic you're really here for. 
 
@@ -63,7 +63,7 @@ My favorite resource when I start a new project is [this site](https://kitwind.i
 to make sure that the Tailwind components show correctly. 
 
 {:.centered}
-![](/images/headercomponent.png){: width="400px" }
+![](/images/headercomponent.png){: width="700px" }
 
 I modified the header component a little bit by removing the distracting background graphic and by adding a second button that can be used to toggle the examples. Moreover, I added a div that includes the Tweet images. 
 
@@ -208,4 +208,4 @@ As soon as the page is uploaded to Github, we can head over to Vercel and import
 
 That's it. Now build something useful. 
 
-PS: I'm aware that I glanced over a few details. But this post is already far longer than I anticipated and if you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jakobgreenfeld).
+P.S.: I'm aware that I glanced over a few details. But this post is already far longer than I anticipated and if you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jakobgreenfeld).
