@@ -10,7 +10,7 @@ I know, the headline would be much better if it said Product of the Day. But whi
 Anyway, the second place and 500+ upvotes for a product I created in 90 minutes is still a pretty good outcome. 
 
 {:.centered}
-![](/images/whattoweetstats.png){: width="400px" }
+![](/images/whattotweetstats.png){: width="400px" }
 
 I certainly didn't expect that it would do so well. It seems a bit unfair. There are many examples of makers working months on their project who get almost no attention.
 
@@ -184,7 +184,7 @@ function showhide() {
   } else {
       examplebutton.innerHTML = "Hide Example";
   }
- 
+
 }
 ```
 
@@ -211,4 +211,4 @@ As soon as the page is uploaded to Github, we can head over to Vercel and import
 
 That's it. Now build something useful. 
 
-P.S.: I'm aware that I glanced over a few details. But this post is already far longer than I anticipated and if you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jakobgreenfeld).
+P.S.: I'm aware that I glanced over a few details. But this post is already far longer than I anticipated and if you have any questions, feel free to reach on [Twitter](https://twitter.com/jakobgreenfeld).
