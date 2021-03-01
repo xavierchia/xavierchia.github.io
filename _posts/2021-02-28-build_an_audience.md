@@ -73,7 +73,7 @@ A hidden benefit of this strategy is that your writing skills become largely irr
 
 Save yourself thousands of dollars. Here's all the writing advice you need:
 
-- Say something meaningful.
+- Share meaningful first-hand experiences.
 - Write as if you were emailing a friend, not to impress an imaginary teacher.
 
 Now I'm definitely scared to publish this essay. This is exactly why I'll do it.
