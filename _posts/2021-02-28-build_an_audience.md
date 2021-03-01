@@ -7,7 +7,7 @@ image: /images/build_an_audience.png
 
 If you’re reading this, I’m pretty sure you’ve seen the following pattern over and over again:
 
-- Creative nonfiction pioneer John McPhee distilled decades of experience and first-hand learnings in a series of essays. (The best of them are now available in a book called "Draft No. 4", published in 2017.)
+- Creative nonfiction pioneer John McPhee distilled decades of experience and first-hand learnings in a series of essays. (The best of them are now available in a book called "Draft No. 4".)
 - A savvy entrepreneur repackages the advice in a $1000+ cohort-based course.
 - Someone takes the course and summarizes what he learned.
 - People on Twitter start creating threads summarizing the student's summaries.
