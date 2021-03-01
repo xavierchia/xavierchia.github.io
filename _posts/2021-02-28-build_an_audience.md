@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Focus on building a business, not an audience
-permalink: build_and_audience
+title: Build a business, not an audience
+permalink: build_an_audience
 image: /images/build_an_audience.png
 ---
 
