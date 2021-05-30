@@ -5,9 +5,6 @@ permalink: deep-thinking
 image: /images/thinking.jpg
 ---
 
-{:.centered}
-![](/images/thinking.jpg){: width="800px" }
-
 
 Unlike in a normal job, the hours I sit at my desk don't matter. All that counts is my output. 
 
