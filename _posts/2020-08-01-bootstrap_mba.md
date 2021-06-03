@@ -18,23 +18,23 @@ Let's start with why.
 
 ## Why learn independently?
 
-The curriculum in a structured program are rarely optimal for individual students. Every learner has a different backstory and hence will find different kinds of things illuminating. But in structured programs, everyone is forced to consume the same type of content and move through it at the same pace. Moreover, the chances that the teachers in the program are exceptional are slim. 
+The curriculum in a structured program is rarely optimal for individual students. Every learner has a different backstory and hence will find different kinds of things illuminating. But in structured programs, everyone is forced to consume the same type of content and move through it at the same pace. Moreover, the chances that the teachers in the program are exceptional are slim. 
 
-In contrast, if I bootstrap my education, I can focus solely on content that speaks a language I can understand and only learn from the best teachers. I can learn at my own pace.
+In contrast, if I bootstrap my education, I can focus solely on content that speaks to me and only learn from the best teachers. I can learn at my own pace.
 
-The main selling point of structured programs is the piece of paper you get at the end. At the end of my Bootstrap MBA no one will hand me a certificate. But I'm convinced that this is not a problem. On the one hand, certificates are for people who want a job and this isn't something that appears on my bucket list. On the other hand, smart people know already that certificates primarily measure how good you are at following orders and little else. Hence, I wouldn't want to work at a company that puts too much emphasis on certificates anyway.
+The main selling point of structured programs is the piece of paper you get at the end. At the end of my Bootstrap MBA no one will hand me a certificate. I'm convinced that this is not a problem. On the one hand, certificates are for people who want a job, which isn't something that appears on my bucket list. On the other hand, smart people know already that certificates primarily measure how good you are at following orders and little else. Hence, I wouldn't want to work at a company that puts too much emphasis on certificates anyway.
 
 A superior alternative to a certificate is a portfolio of real-world projects. And this is exactly what I will be building during my Bootstrap MBA. 
 
 > “Self-education is, I firmly believe, the only kind of education there is.” - Isaac Asimov
 
-I already have some experience with self-learning. While I was enrolled at university, I was basically an autodidact. I barely attended lectures. Instead, I followed my own curiosity and spent my days in the library. While this worked okay for me, my approach back then was completely unsystematic and hence certainly not optimal.
+I already have some experience with self-learning. While I was enrolled at university, I was basically an autodidact. I barely attended lectures. Instead, I followed my own curiosity and spent my days in the library. While this worked okay for me back then, my approach was completely unsystematic and suboptimal as a result.
 
 I quickly learned that the biggest challenges of self-learning are to stay on track and to stay motivated. 
 
-For example, there are infinitely many books you could read and hence it's easy to fall into a purely passive mode where you only consume content. But to make progress you need to apply what you learn and actively check your own understanding. Deep understanding requires effort. 
+For example, because there are infinitely many books you could read, it’s easy to fall into a purely passive mode wherein you consume content without applying what you learn or actively checking your understanding. Deep understanding requires effort, but if you’re learning on your own you can all too quickly find yourself doing only the comfortable things like reading books and watching lectures. 
 
-But if you're learning on your own, it happens quickly that you only do comfortable things like reading books and watching video lectures. Applying and checking your understanding is a lot more uncomfortable and is hence often avoided.
+Applying and checking your understanding is a lot less comfortable and is thus often avoided.
 
 For this reason, I've decided to invent a meta-framework for myself that defines certain boundary conditions within which I will operate for the next 12 months. My hope is that it will allow me to hold myself accountable and give me a clear sense of progress.
 
@@ -65,11 +65,11 @@ I've identified three key areas I want to focus on:
 
 Each of them is an essential skill I need to master to be able to bootstrap successful  businesses. 
 
-- I need to understand, how I can come up with suitable business ideas and how I can evaluate their potential.
-- I need to learn how I can make my ideas a reality. Software development seems like an ideal choice for sustainable bootstrapping businesses. (Alternatives would be content product development and physical product development.)
-- The best idea executed flawlessly is useless if no one knows about. Getting the world out is one of the key challenges, especially for bootstrapped founders without a large marketing budget.
+- I need to understand how I can come up with suitable business ideas and how I can evaluate their potential.
+- I need to learn how I can make my ideas a reality. Software development seems like an ideal choice for sustainable bootstrapped businesses. (Alternatives would be content product development and physical product development.)
+- The best idea, executed flawlessly, is useless if no one knows about it. Getting the word out is one of the key challenges, especially for bootstrapped founders without a large marketing budget.
 
-(In addition to the three core topics listed above, I have much longer list of electives (buying businesses, community building, etc.)  that I would be interested in learning if I find the time.)
+(In addition to the three core topics listed above, I have a much longer list of "electives" (buying businesses, community building, etc.)  that I would be interested in learning if I find the time.
 
 With this list of topics at hand, I needed to decide how to go about it. I decided to select a small number of books as the cornerstones of my learning journey:
 
@@ -98,10 +98,10 @@ Hence, in addition to the curriculum outlined above, the Bootstrap MBA I invente
 - Launch one product each month.
 
   
-Hence, in some sense, the [12 Startups in 12 Months](https://levels.io/12-startups-12-months/) challenge is a subset of the Bootstrap MBA.
+In some sense, the [12 Startups in 12 Months](https://levels.io/12-startups-12-months/) challenge is a subset of the Bootstrap MBA.
 
-*Update:* As my first project, I've created an (admittedly unimpressive) site for my little learning experiment: [Bootstrap.MBA](http://bootstrap.mba)
-
-I should point out that the Bootstrap MBA is a living, breathing experiment. Nothing is set in stone and I will certainly make adjustments along the way. Hence, if you have comments, feedback or want to try something similar, I would love to hear from you! The best way to reach me is via Twitter or email. 
+I should point out that the Bootstrap MBA is a living, breathing experiment. Nothing is set in stone and I will certainly make adjustments along the way. If you have comments, feedback or want to try something similar, I would love to hear from you! The best way to reach me is via Twitter or email. 
 
 To follow along and hear about the ups- and downs, you can subscribe below.
+
+*Acknowledgements:* Special thanks to Rory Matthews who provided invaluable feedback on this post
