@@ -75,7 +75,7 @@ With this list of topics at hand, I needed to decide how to go about it. I decid
 
 - MAKE by Pieter Levels,	General Overview
 - The Mom Test by Rob Fitzpatrick,	Ideation
-- Generating Product Ideas by Artiom Dashinsky,	Ideation
+- [Generating Product Ideas by Artiom Dashinsky](https://productideasbook.com/),	Ideation
 - The E-Myth Revisited by Michael E. Gerber,	Management
 - The Personal MBA by Josh Kaufman,	Economics
 - Dotcom Secrets by Russell Brunson,	Marketing
