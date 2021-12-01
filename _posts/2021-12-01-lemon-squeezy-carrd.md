@@ -10,7 +10,10 @@ permalink: carrd-lemonsqueezy
 
 First we need the LemonSqueezy overlay code. We can find it by clicking on "Share".
 
-![CleanShot 2021-12-01 at 08.30.07@2x.png]({{site.baseurl}}/_posts/CleanShot 2021-12-01 at 08.30.07@2x.png)
+![CleanShot 2021-12-01 at 08.30.07@2x.png]({{site.baseurl}}/images/CleanShot 2021-12-01 at 08.30.07@2x.png)
+
+
+
 
 
 Then on "Checkout Overlay".
