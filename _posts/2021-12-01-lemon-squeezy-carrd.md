@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -47,15 +47,4 @@ Hence we add an "Embed" element in Carrd and add the following code.
 
 This code adds the required LemonSqueezy library that is responsible for the overlay and also adds the class "lemonsqueezy-button" to all link elements that point to LemonSqueezy. This is necessary because otherwise the LemonSqueezy library cannot succesfully interact with these links. Also we have to add the class like this because, as far as I know, you can't add classes to links directly in Carrd. If you just add the "lemonsqueezy-button" to the button element it won't work. The class must be attached to the link element itself. 
 
-Of course, to make the code work on your site, you have to replace your LemonSqueezy url with your own link. 
-
-
-
-
-
-
-
-
-
-
-
+Of course, to make the code work on your site, you have to replace your LemonSqueezy url with your own link.
