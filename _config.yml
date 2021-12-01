@@ -88,6 +88,4 @@ exclude:
   - CNAME
  
  prose:
-  rooturl: ''
-  siteurl: 'http://jakobgrenfeld.com'
   media: 'images'
