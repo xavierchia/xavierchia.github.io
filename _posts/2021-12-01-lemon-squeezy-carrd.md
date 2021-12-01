@@ -5,7 +5,8 @@ title: How to add a LemonSqueezy checkout overlay to any Carrd site
 permalink: carrd-lemonsqueezy
 ---
 
-First we need the LemonSqueezy overlay code. We can find it by clicking on "Share".
+
+First we need the [LemonSqueezy](https://www.lemonsqueezy.com) overlay code. We can find it by clicking on "Share" next to our product's name.
 
 ![CleanShot 2021-12-01 at 08.30.07@2x.png]({{site.baseurl}}/images/CleanShot 2021-12-01 at 08.30.07@2x.png)
 
