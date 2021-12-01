@@ -86,3 +86,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+ 
+ prose:
+  rooturl: ''
+  siteurl: 'http://jakobgrenfeld.com'
+  media: 'images'
