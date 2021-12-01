@@ -1,7 +1,11 @@
 ---
 published: false
 ---
-## How to add a LemonSqueezy checkout overlay to any Carrd site
+---
+layout: post
+title: How to add a LemonSqueezy checkout overlay to any Carrd site
+permalink: carrd-lemonsqueezy
+---
 
 
 First we need the LemonSqueezy overlay code. We can find it by clicking on "Share".
