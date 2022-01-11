@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I recently discovered a simple (but not easy) step-by-step process that tripled by personal productivity and made me happier along the way. 
 
@@ -126,4 +126,3 @@ I use Telegram to take quick notes during the day by sending messages to myself.
 Obviously, your mind probably works differently and might have different modes.
 
 So forget the details. The most important takeaway is that learning to observe your mind, to categorize the different states it can be in, and then embracing them is an incredible superpower.
-
