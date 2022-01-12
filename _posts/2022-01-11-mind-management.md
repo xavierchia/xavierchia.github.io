@@ -5,8 +5,6 @@ I recently discovered a simple (but not easy) step-by-step process that tripled 
 
 It costs $0 and no, it's not some note-taking or to-do list system.
 
-Let's dive in. 
-
 In short:
 
 - Step 1: develop meta-awareness of your state of mind.
