@@ -1,4 +1,5 @@
 ---
+title: Effortless personal productivity
 published: true
 layout: post
 permalink: personal-productivity
