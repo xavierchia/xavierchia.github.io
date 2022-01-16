@@ -58,7 +58,7 @@ So I started by reading everything about metagames in all kinds of contexts, loo
 
 Here's what I [learned](/metagame):
 
-**Lesson 1***: The prerequisites for playing the metagame are mastery of the boring fundamentals and clarity on what game exactly you want to play.
+**Lesson 1**: The prerequisites for playing the metagame are mastery of the boring fundamentals and clarity on what game exactly you want to play.
 
 Mastering the fundamentals is pretty much what I did during the past 16 months. 
 
@@ -77,5 +77,6 @@ This is obviously just a high level overview. But I already compiled of players 
 Now it's time to get back to work. 
 
 Speak soon,
+
 Jakob
 
