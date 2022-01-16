@@ -2,6 +2,8 @@
 layout: post
 title: The Broken Window Theory of Productivity
 permalink: broken-window
+image: /images/default.jpg
+
 ---
 
 >**[The broken window theory](https://en.wikipedia.org/wiki/Broken_windows_theory):** "Social psychologists and police officers tend to agree that if a window in a building is broken and is left unrepaired, all the rest of the windows will soon be broken. [Such visible signs of crime] create an urban environment that encourages further crime and disorder, including serious crimes."

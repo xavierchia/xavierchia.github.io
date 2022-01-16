@@ -2,6 +2,8 @@
 layout: post
 title: Humble Businesses vs. Startups
 permalink: humble_vs_startups
+image: /images/default.jpg
+
 ---
 
 Before we can generate and evaluate business ideas, we need to answer the question: what type of business do you want to build? This question is important because many ideas are not bad per se. Instead, they're just bad if you want to build a particular kind of business. 
@@ -45,8 +47,6 @@ Humble Businesses<br>
 
 </div>
 
-
-While startups are certainly more sexy, as a beginner, you should focus on humble business ideas. To understand why, it's helpful to use a poker analogy. 
 
 Focusing on a startup idea is like going all in one a hand before the flop, hoping that you'll eventually win big. There is this idea that you should aim big because if you then fail your result will still be bigger than if you started with some small goal. This sounds reasonable but doesn't hold up under closer scrutiny. In most cases, when people aim really, really big, they end up with nothing that works at all. 
 

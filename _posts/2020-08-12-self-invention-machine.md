@@ -2,10 +2,9 @@
 layout: post
 title: Build your personal self-invention machine
 permalink: self-invention-machine
+image: /images/default.jpg
+
 ---
-
-(Credit where credit is due: the distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
-
 
 Most people treat their personal blogs with a wrong attitude. If you think of it as a self-promotion machine, chances are high that you'll quickly be demotivated because not enough people read your stuff and most readers won't enjoy reading your articles. 
 
@@ -136,6 +135,9 @@ As usual, be impatient with your actions but patient with results.  During the f
 Most people will discover your work through just a handful of articles. This is true even for the best writers who are doing this for years. But since it's impossible to predict which articles will turn out to be successful you simply have to continue writing. If you show up regularly and continue publishing, more and more people will start to find your work. This way your blog will become a cornerstone of your humble personal brand. This, however, doesn't mean that you should treat it primarily as a marketing vehicle. 
 
 Always remember that first and foremost, your personal website is a self-invention machine.
+
+
+(Credit where credit is due: the distinction between websites as self-invention machines and self-promotion machines is due to Austin Kleon.)
 
 ## Recommended Further Reading
 

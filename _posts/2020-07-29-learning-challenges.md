@@ -2,6 +2,8 @@
 layout: post
 title: Coming up with a learning challenge as an aspiring entrepreneur
 permalink: learning-challenge
+image: /images/default.jpg
+
 ---
 
 

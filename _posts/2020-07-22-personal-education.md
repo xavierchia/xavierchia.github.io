@@ -2,6 +2,8 @@
 layout: post
 title: My Principles and Practices of Personal Education
 permalink: personal-education
+image: /images/default.jpg
+
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: The humble business hyperspace
+title: The different kinds of humble businesses you can build
 permalink: hyperspace
+image: /images/default.jpg
+
 ---
 
 Let's say you've successfully found an idea to solve a painful problem in a healthy market with some but not too much competition. What's next?
