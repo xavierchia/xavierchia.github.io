@@ -311,7 +311,9 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
+    background-color: white !important;
+    text-decoration: underline;
   }
 }
 
@@ -328,6 +330,9 @@ footer {
   text-align: center;
 }
 
+.entry {
+  padding-left: 4px;
+}
 
 .grid-container {
   display: grid;
