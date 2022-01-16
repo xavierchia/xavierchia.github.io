@@ -55,7 +55,7 @@ font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
 
 h2 {padding-top: 20px; padding-bottom: 3px; margin-bottom: 20px; border-bottom: 1px solid #C8CACA;
 
-  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
+  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif !important;
   -webkit-font-smoothing: antialiased;
  color: #4B4B4B;
  font-weight: bold;
@@ -85,7 +85,8 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 16px;
+  margin-top: 32px !important;
 }
 
 h3 {
