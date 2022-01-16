@@ -18,6 +18,10 @@ html {
   
 }
 
+.formkit-powered-by {
+  background-color: white!important;
+}
+
 .post {
   max-width: 540px;
   margin: 0 auto;
@@ -28,6 +32,17 @@ html {
   text-decoration: none;
   background-color: #F2E39B;
   padding: 0px 5px;
+  border-radius: 2px 2px 2px 2px;
+  -moz-border-radius: 2px 2px 2px 2px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.post a:hover {
+  color: #353535;
+  text-decoration: none;
+  background-color: #DDD3A5;
+  padding: 1px 5px;
   border-radius: 2px 2px 2px 2px;
   -moz-border-radius: 2px 2px 2px 2px;
   -webkit-box-decoration-break: clone;
