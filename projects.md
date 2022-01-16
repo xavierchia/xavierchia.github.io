@@ -85,7 +85,6 @@ permalink: /projects/
 						<td>11-2020</td>
 						<td>Dormant</td>
 					</tr>
-					
 					<tr>
 						<td><a href="https://prompts.productideas.co/">Product Ideas</a></td>
 						<td>Podcast</td>
@@ -114,7 +113,6 @@ permalink: /projects/
 						<td>10-2020</td>
 						<td>Sold</td>
 					</tr>
-					
 					<tr>
 						<td><a href="https://news.makerreads.com/">Maker News</a></td>
 						<td>Mini-Tool</td>
