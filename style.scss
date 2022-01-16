@@ -232,7 +232,6 @@ img {
 }
 
 .site-name {
-  margin: 0;
   color: #111;
   cursor: pointer;
   font-weight: normal;
@@ -256,7 +255,7 @@ img {
 nav {
   float: right;
   margin-top: 4px; // @TODO: Vertically middle align
-  font-size: 16px;
+  font-size: 14px;
   -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
 
@@ -273,6 +272,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    font-size: 14px;
 
     @include mobile {
       margin: 0 10px;
