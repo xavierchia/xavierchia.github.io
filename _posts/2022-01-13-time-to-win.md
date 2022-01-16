@@ -3,8 +3,7 @@ title: It's time to win
 published: true
 layout: post
 permalink: time-to-win
-excerpt: I’m still hungry. Hungrier than ever. I definitely don’t feel as if I’ve made it. 
-
+excerpt: Step 1 was to leave the sidelines, put myself out there and join the fun. But what’s Step 2?
 image: /images/default.jpg
 
 
