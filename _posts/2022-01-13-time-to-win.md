@@ -60,6 +60,16 @@ Here's what I [learned](/metagame):
 
 **Lesson 1***: The prerequisites for playing the metagame are mastery of the boring fundamentals and clarity on what game exactly you want to play.
 
+This is pretty much what I did during the past 16 months. 
+
 **Lesson 2**: The recipe for winning the metagame is: expertise + reasoning from first principles + a system for staying on top of things, where you can [substitute](https://commoncog.com/blog/expertise-is-just-pattern-matching/) expertise for pattern matching.
+
+This led me to the following plan:
+
+* I need to actively study how the best players are operating until I'm able to spot patterns and generalize them. Importantly, I need to focus on what they do, not just what they say. This is how I will build the necessary expertise.
+* Then, starting from first principles and using the patterns I identified, I will try to come up with novel strategies and ideas.
+* The system that will allow me to stay on top of things will have two components. Firstly, I will actively work on increasing my serendipity surface area. Many of the best opportunities come in the form of inbound messages. I will do this by publishing regularly on this site and then distributing my ideas on platforms like Twitter and Reddit. Secondly, I will schedule every week at least three hours to research new trends and opportunities. (I'm kind of lucky that I [get paid](https://opportunities.so) to do this.)
+
+But most importantly, I will make sure to always test my theories and ideas in the market. 
 
 
