@@ -68,7 +68,7 @@ This led me to the following plan:
 
 * I need to actively study how the best players are operating until I'm able to spot patterns and generalize them. Importantly, I need to focus on what they do, not just on what they say. This is how I will build the necessary expertise.
 * Then, starting from first principles and using the patterns I identified, I will try to come up with novel strategies and ideas.
-* The system that will allow me to stay on top of things will have two components. Firstly, I will actively work on increasing my serendipity surface area. Many of the best opportunities come in the form of inbound messages. I will do this by publishing regularly on this site and then distributing my ideas on platforms like Twitter and Reddit. Secondly, I will schedule every week at least three hours to research new trends and opportunities. (I'm kind of lucky that I [get paid](https://opportunities.so) to do this.)
+* The system that will allow me to stay on top of things will have two components. Firstly, I will actively work on increasing my serendipity surface area. Many of the best opportunities come in the form of inbound messages. I will do this by publishing regularly on this site and then distributing my ideas on platforms like Twitter and Reddit. Secondly, I will schedule every week at least three hours to research new trends and opportunities. (I'm kind of lucky that some very generous readers [pay me](https://opportunities.so) to do this.)
 
 But most importantly, I will take a ton of swings. Expertise and ideas are worthless until you put them into action. Moreover, real world data beats opinions any day, in particular if it's your own data. 
 
