@@ -210,12 +210,16 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
   }
+}
+
+.masthead h1 {
+  margin: 0px;
+  margin-top:4px;
 }
 
 .site-avatar {
