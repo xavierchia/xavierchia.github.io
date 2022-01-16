@@ -32,4 +32,34 @@ My current systems that helped me get onto the D-list definitely won’t get me 
 
 So far I barely scratched the surface. I learned the most basic rules and how to make a living online. 
 
-Now it’s time to learn how to win.
+I learned how to play. Now it’s time to learn how to win.
+
+You probably wonder: win at what?
+
+## The Great Online Game
+
+Packy McCormick recently coined the term [The Great Online Game](https://www.notboring.co/p/the-great-online-game) for online entrepreneurship. And as Dror Poleg [observes](https://www.drorpoleg.com/no-floor-no-ceiling/), *“the game is no longer optional. Everyone must play. We have little to lose because we already lost everything: Stable jobs, affordable homes, education that lasts a lifetime, and worry-free retirement are no longer an option.”*
+
+Unfortunately, Packy and Dror both left out the most interesting part: how to win.
+
+Packy claims that “every tweet is a free lottery ticket” which is obviously wrong. Twitter is not entirely a game of luck. While there are no guarantees that any given tweet will do well, there are strategies you can use to improve the odds in your favour.  The same is true for every product launch, every essay or podcast you publish, and every cold email you write.
+
+There are guys like Anthony Pompliano who play the Great Online Game like a fiddle. They are not simply playing, they’re winning. 
+
+And I want to learn how to do that. 
+
+## Learning how to win
+
+Now here's a secret.
+
+Guys like Pomp are winning because they’re playing a completely different game, the [metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/).
+
+So I started by reading everything about metagames in all kinds of contexts, looking for patterns. How do people play them? What are the patterns and generalizable lessons?
+
+Here's what I [learned](/metagame):
+
+**Lesson 1***: The prerequisites for playing the metagame are mastery of the boring fundamentals and clarity on what game exactly you want to play.
+
+**Lesson 2**: The recipe for winning the metagame is: expertise + reasoning from first principles + a system for staying on top of things, where you can [substitute](https://commoncog.com/blog/expertise-is-just-pattern-matching/) expertise for pattern matching.
+
+
