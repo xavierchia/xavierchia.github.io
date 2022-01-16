@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brag
+title: 
 permalink: /brag/
 ---
 

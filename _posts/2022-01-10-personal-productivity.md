@@ -1,12 +1,12 @@
 ---
-title: Effortless personal productivity
+title: Effortless personal productivity (or how I learned to love my monkey mind)
 published: true
 layout: post
 permalink: personal-productivity
 image: /images/default.jpg
 
 ---
-I recently discovered a simple (but not easy) step-by-step process that tripled by personal productivity and made me happier along the way. 
+I recently discovered a simple step-by-step process that significantly increased my personal productivity and made me happier along the way. 
 
 It costs $0 and no, it's not some note-taking or to-do list system.
 
