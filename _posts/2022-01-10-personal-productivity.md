@@ -3,6 +3,8 @@ title: Effortless personal productivity
 published: true
 layout: post
 permalink: personal-productivity
+image: /images/default.jpg
+
 ---
 I recently discovered a simple (but not easy) step-by-step process that tripled by personal productivity and made me happier along the way. 
 
