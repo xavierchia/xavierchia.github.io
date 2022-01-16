@@ -155,5 +155,4 @@ permalink: /projects/
 						<td>07-2020</td>
 						<td>Dormant</td>
 					</tr>
-			</tbody>
-</table>
+
