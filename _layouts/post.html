@@ -2,6 +2,32 @@
 layout: default
 ---
 
+<div class="lightbox">
+  <div class="box">
+      <h2>Please, don't leave us! </h2>
+        <p>This is a simple Exit Intent Popup example ;) <a href="#" class="close">X</a></p>
+  </div>
+
+<script type="JavaScript">
+  function addEvent(obj, evt, fn) {
+    if (obj.addEventListener) {
+        obj.addEventListener(evt, fn, false);
+    } else if (obj.attachEvent) {
+        obj.attachEvent("on" + evt, fn);
+    }
+}
+
+addEvent(document, 'mouseout', function(evt) {
+    if (evt.toElement == null && evt.relatedTarget == null) {
+        $('.lightbox').slideDown();
+    };
+});
+
+$('a.close').click(function() {
+    $('.lightbox').slideUp();
+});
+</script>
+
 <article class="post">
   <h1>{{ page.title }}</h1>
 
