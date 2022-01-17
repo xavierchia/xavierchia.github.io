@@ -14,13 +14,7 @@
 /**************/
 
 
-.revue-embed {
-  background: #0c2d48;
-  font-family: 'Lato', sans-serif;
-  color: #FDFCFB;
-  text-align: center;
-  border-radius: 10px;
-}
+
 
 
 
@@ -45,10 +39,7 @@
   padding-bottom: 2em;
 }
 
-.button {
-  height: 44px;
-  border: none;
-}
+
 
 #member_email {
   width: 65%;
@@ -65,7 +56,7 @@
   width: 35%;
   height: 46px;
   font-size: 14px;
-  background: #2e8bc0;
+  background: #3898ec;
   font-family: inherit;
   font-weight: bold;
   color: inherit;
@@ -76,13 +67,13 @@
 }
 
 #member_submit:hover {
-  background: #d45d7d;
+  background: #000;
 }
 
 input:focus {
   outline: none;
-  outline: 2px solid #E86C8D;
-  box-shadow: 0 0 2px #E86C8D;
+  outline: 2px solid #3898ec;
+  box-shadow: 0 0 2px #3898ec;
 }
 
 
