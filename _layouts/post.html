@@ -2,39 +2,6 @@
 layout: default
 ---
 
-<div class="lightbox">
-  <div class="box">
-      <p>
-        Hey, I'm Jakob. Every Thursday I share:
-        • What I'm working on
-        • What I learned in the past week
-        • What I'm reading.
-        5k+ people enjoy it.
-      </p>
-      {% include revue.html %}  
-       <a href="#" class="close">X</a></p>
-  </div>
-</div>
-
-<script>
-  function addEvent(obj, evt, fn) {
-    if (obj.addEventListener) {
-        obj.addEventListener(evt, fn, false);
-    } else if (obj.attachEvent) {
-        obj.attachEvent("on" + evt, fn);
-    }
-}
-
-addEvent(document, 'mouseout', function(evt) {
-    if (evt.toElement == null && evt.relatedTarget == null) {
-        $('.lightbox').slideDown();
-    };
-});
-
-$('a.close').click(function() {
-    $('.lightbox').slideUp();
-});
-</script>
 
 <article class="post">
   <h1>{{ page.title }}</h1>
