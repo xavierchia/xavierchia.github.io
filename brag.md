@@ -4,6 +4,8 @@ title:
 permalink: /brag/
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">wow I just learned that I&#39;m one of the finalists for Product Hunt&#39;s Maker of the year award 🥳 <a href="https://t.co/g96VTtSGyT">pic.twitter.com/g96VTtSGyT</a></p>&mdash; Jakob Greenfeld (@jakobgreenfeld) <a href="https://twitter.com/jakobgreenfeld/status/1485878101133324288?ref_src=twsrc%5Etfw">January 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning from <a href="https://twitter.com/gonsanchezs?ref_src=twsrc%5Etfw">@gonsanchezs</a> <a href="https://twitter.com/jesseddy?ref_src=twsrc%5Etfw">@jesseddy</a> <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> where I wanna be in a year. <br><br>Long-term view: <a href="https://twitter.com/jackbutcher?ref_src=twsrc%5Etfw">@jackbutcher</a> <a href="https://twitter.com/DruRly?ref_src=twsrc%5Etfw">@DruRly</a> <a href="https://twitter.com/lennysan?ref_src=twsrc%5Etfw">@lennysan</a></p>&mdash; Fernando Nikolić 🇷🇺⏰ (@fernikolic) <a href="https://twitter.com/fernikolic/status/1347317021575319553?ref_src=twsrc%5Etfw">January 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Nailed even the private stuff <a href="https://t.co/81zim7wq1Y">https://t.co/81zim7wq1Y</a></p>&mdash; Nathan Latka (@NathanLatka) <a href="https://twitter.com/NathanLatka/status/1319320931001663489?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
