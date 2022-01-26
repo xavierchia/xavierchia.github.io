@@ -44,7 +44,9 @@ I’m using one Airtable base with two tables.
 The first one is titled **Established Contacts**. As the name suggests it’s for everyone I already interacted with at some point and want to keep in touch with.
 
 {:.centered}
-![](/images/CleanShot 2022-01-26 at 10.54.48@2x.png.png){: width="800px" }
+![](/images/CleanShot 2022-01-26 at 10.54.48@2x.png){: width="800px" }
+
+
 
 I like to keep things as simple as possible, so there are only 7 columns: **Name**, **Contact Info**, **Notes**, **Category**, **Last Contact**, **Next Contact,** **Trigger Reminder**.
 
