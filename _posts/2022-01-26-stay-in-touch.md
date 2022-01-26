@@ -11,7 +11,7 @@ image: /images/default.jpg
 
 Staying in touch with people is one of these asymmetric habits that require little effort, time and resources but has an unlimited upside. It’s the easiest and most effective way to make your life more serendipitous. 
 
-Okay enough of that. Since you’re already here I will simply assume you understand why it makes sense to keep in touch with people. 
+Okay enough of that. Since you clicked on the headline I will assume you understand why it makes sense to keep in touch with people. 
 
 Unfortunately, for most people (me included) this isn’t something that happens naturally. 
 
@@ -105,12 +105,14 @@ The email tells me exactly what to do. Then I do it.
 
 Now, how is this email generated?
 
+With a simple Airtable automation!
+
 To create an Airtable automation, click on the **Automations** button in the upper right corner.
 
 {:.centered}
 ![](/images/CleanShot 2022-01-26 at 11.12.16@2x.png){: width="800px" }
 
-Here’s what my automation for this base looks like. 
+Here’s what my complete automation looks like. 
 
 {:.centered}
 ![](/images/CleanShot 2022-01-26 at 14.52.18@2x.png){: width="800px" }
@@ -120,7 +122,7 @@ In words:
 
 - Every day at 6am in the morning the automation is started.
 - The first action is to find all records in the **Established Contacts** table where the **Trigger Reminder** column contains the word “Trigger Reminder”. (Remember that this column is populated through a formula that compares today’s date to the **Next Contact** column.)
-- The second action is a little custom script that automatically picks one random entry from the **Potential New Contacts** table and then updates the **Reach Out** and **When to Reach Out**  fields for this entry. ****Of course, the script only picks from the list of entries that haven’t been picked before. This is why the **Reach Out** column is updated**.** Only records where the **Reach Out** column is not equal to “Yes” are used. Moreover, the script returns the record it picked randomly so I can use this information in the next step.
+- The second action is a little custom script that automatically picks one random entry from the **Potential New Contacts** table and then updates the **Reach Out** and **When to Reach Out**  fields for this entry. Of course, the script only picks from the list of entries that haven’t been picked before. This is why the **Reach Out** column is updated. Only records where the **Reach Out** column is not equal to “Yes” are used. Moreover, the script returns the record it picked randomly so I can use this information in the next step.
 - The final step is that all the information from the previous steps are put into an email which is then sent to my email address. This includes the one entry from the **Potential New Contacts** table that was picked randomly and the list of people from the **Established Contacts** table that a due for a new message.
 
 Now that’s it!
@@ -129,9 +131,10 @@ Every morning I’m getting an email that tells me who I should reach out to tod
 
 You can find all further technical details below but first I want to take a brief moment to talk about something more important. 
 
-## What to Write
-
 What kind of message do you actually send to people?
+
+
+## What to Write
 
 Here’s what I do. 
 
@@ -145,7 +148,7 @@ Most importantly, I always send the kind of messages I’d like to receive. They
 
 Sometimes I just share a related article or book I think they might find interesting and sometimes I offer specific help or advice with a problem they’re facing right now. 
 
-Of course, not everyone publishes content or updates regularly. In that case, I usually just ask what he or she has been up to lately.
+Of course, not everyone publishes content or updates regularly. In that case, I usually just ask what they've been up to lately.
 
 You’d be surprised how many people are really happy to get these kind of messages and they often spark all kinds of deeper conversations. 
 
@@ -159,15 +162,22 @@ Jakob
 
 This is what the trigger looks like:
 
-{:.centered}
-![](/images/CleanShot 2022-01-26 at 14.53.21@2x.png){: width="800px" }
+:.centered}
+![](/images/CleanShot 2022-01-26 at 15.00.33@2x.png){: width="300px" }
+
+
 
 This is what the first action looks like:
 
 {:.centered}
-![](/images/CleanShot 2022-01-26 at 14.53.30@2x.png){: width="800px" }
+![](/images/CleanShot 2022-01-26 at 14.53.21@2x.png){: width="300px" }
+
+
 
 And this is the second action:
+
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 14.53.30@2x.png){: width="300px" }
 
 Moreover, this is the code I’m using to pick a random entry and the update fields accordingly:
 
@@ -197,4 +207,4 @@ output.set("Notes",random_record.getCellValue("Notes"))
 Last but not least, this is the action I’m using to compile and send the daily email.
 
 {:.centered}
-![](/images/CleanShot 2022-01-26 at 14.53.50@2x.png){: width="800px" }
+![](/images/CleanShot 2022-01-26 at 14.53.50@2x.png){: width="300px" }
