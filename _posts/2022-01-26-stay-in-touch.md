@@ -55,10 +55,23 @@ The first three columns are simple text columns while the third one, **Category*
 The **Next Contact** column is calculated as a function of the values in the **Category** and **Last** **Contact** columns.
 
 {:.centered}
-![](/images/CleanShot 2022-01-26 at 11.03.27@2x.png){: width="800px" }
+![](/images/CleanShot 2022-01-26 at 11.03.27@2x.png){: width="300px" }
+
+Here's the formula in case you want to copy it:
 
 ```html
-IF(Category="D",DATEADD({Last Contact},12,'month'),IF(Category="C",DATEADD({Last Contact},6,'month'),IF(Category="B",DATEADD({Last Contact},2,'month'),IF(Category="A",DATEADD({Last Contact},3,'weeks')))))
+IF(
+    Category="D",
+        DATEADD({Last Contact},12,'month'),
+        IF(Category="C",
+            DATEADD({Last Contact},6,'month'),
+            IF(Category="B",
+                DATEADD({Last Contact},2,'month'),
+                IF(Category="A",
+                DATEADD({Last Contact},3,'weeks'))
+              )
+           )
+    )
 ```
 
 The values (e.g. contacts in the C category are contacted every 6 months) are exactly the same that Derek Sivers uses.
@@ -66,10 +79,18 @@ The values (e.g. contacts in the C category are contacted every 6 months) are ex
 The **Trigger Reminder** column is then populated by comparing the **Next Contact** column with today’s date.
 
 {:.centered}
-![](/images/CleanShot 2022-01-26 at 11.03.17@2x.png){: width="800px" }
+![](/images/CleanShot 2022-01-26 at 11.03.17@2x.png){: width="300px" }
+
+Here's the formula:
 
 ```html
-IF(  AND(    {Next Contact},    NOW() >= {Next Contact}  ),  "Trigger Reminder")
+IF(  
+    AND(    
+        {Next Contact},
+        NOW() >= {Next Contact}  
+        ), 
+    "Trigger Reminder"
+   )
 ```
 
 The second table, titled **Potential New Contacts** is even simpler. In it I store information on cool people I haven’t talked to so far. 
