@@ -184,16 +184,12 @@ Jakob
 This is what the trigger looks like:
 
 
-{:.centered}
 ![](/images/CleanShot 2022-01-26 at 15.00.33@2x.png){: width="300px" }
-
 
 This is what the first action looks like:
 
 {:.centered}
 ![](/images/CleanShot 2022-01-26 at 14.53.21@2x.png){: width="300px" }
-
-
 
 And this is the second action:
 
