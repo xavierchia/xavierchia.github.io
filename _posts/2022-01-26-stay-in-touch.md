@@ -52,7 +52,10 @@ I like to keep things as simple as possible, so there are only 7 columns: **Name
 
 The first three columns are simple text columns while the third one, **Category**, is single select column (”A”, “B”, “C”, “D”). 
 
-The **Next Contact** column is calculated as a function of the values in the **Category** and **Last** **Contact** columns:
+The **Next Contact** column is calculated as a function of the values in the **Category** and **Last** **Contact** columns.
+
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 11.03.27@2x.png){: width="800px" }
 
 ```html
 IF(Category="D",DATEADD({Last Contact},12,'month'),IF(Category="C",DATEADD({Last Contact},6,'month'),IF(Category="B",DATEADD({Last Contact},2,'month'),IF(Category="A",DATEADD({Last Contact},3,'weeks')))))
@@ -60,13 +63,19 @@ IF(Category="D",DATEADD({Last Contact},12,'month'),IF(Category="C",DATEADD({Last
 
 The values (e.g. contacts in the C category are contacted every 6 months) are exactly the same that Derek Sivers uses.
 
-The **Trigger Reminder** column is then populated by comparing the **Next Contact** column with today’s date:
+The **Trigger Reminder** column is then populated by comparing the **Next Contact** column with today’s date.
+
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 11.03.17@2x.png){: width="800px" }
 
 ```html
 IF(  AND(    {Next Contact},    NOW() >= {Next Contact}  ),  "Trigger Reminder")
 ```
 
 The second table, titled **Potential New Contacts** is even simpler. In it I store information on cool people I haven’t talked to so far. 
+
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 10.56.25@2x.png){: width="800px" }
 
 Whenever I come across a cool project, interesting piece of content or I get a referral, I add the person in question to this table.
 
@@ -90,7 +99,7 @@ Every morning I’m getting an short email that says:
 
 *And here's who you should keep in touch with: ______*
 
-I already check my inbox every day so getting a reminder like this is perfect for me. Checking a database or some website introduces too much friction. 
+I already check my inbox every day so getting a reminder like this is perfect for me. Checking a database or some website would definitely add too much friction. 
 
 The email tells me exactly what to do. Then I do it. 
 
@@ -98,11 +107,14 @@ Now, how is this email generated?
 
 To create an Airtable automation, click on the **Automations** button in the upper right corner.
 
-TODO BILD
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 11.12.16@2x.png){: width="800px" }
 
 Here’s what my automation for this base looks like. 
 
-TODO BILD
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 14.52.18@2x.png){: width="800px" }
+
 
 In words:
 
@@ -147,11 +159,13 @@ Jakob
 
 This is what the trigger looks like:
 
-TODO image
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 14.53.21@2x.png){: width="800px" }
 
 This is what the first action looks like:
 
-TODO image
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 14.53.30@2x.png){: width="800px" }
 
 And this is the second action:
 
@@ -180,4 +194,7 @@ output.set("Name",random_record.getCellValue("Name"))
 output.set("Notes",random_record.getCellValue("Notes"))
 ```
 
-Last but not least, this is the action I’m using to compile and send the daily email:
+Last but not least, this is the action I’m using to compile and send the daily email.
+
+{:.centered}
+![](/images/CleanShot 2022-01-26 at 14.53.50@2x.png){: width="800px" }
