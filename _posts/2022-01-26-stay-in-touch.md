@@ -3,7 +3,7 @@ title: The simple system I’m using to stay in touch with hundreds of people
 published: true
 layout: post
 permalink: stay-in-touch
-excerpt: This is how you stay ahead of the curve and ultimately win. 
+excerpt: Staying in touch with people is one of these asymmetric habits that require little effort, time and resources but has an unlimited upside. 
 image: /images/default.jpg
 
 
