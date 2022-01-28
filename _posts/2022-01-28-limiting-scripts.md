@@ -48,7 +48,7 @@ Yes, you can argue that if you dollarize your time, spending 45 minutes to walk 
 
 It’*s* important to remember that thinking in terms of money-time tradeoffs is just one part of the story.
 
-Here’s a very different example: Like most guys, I read [The Game by Neil Strauss](https://en.wikipedia.org/wiki/The_Game:_Penetrating_the_Secret_Society_of_Pickup_Artists?utm_campaign=The%20Greenfeld%20Letter&utm_medium=email&utm_source=Revue%20newsletter) in my 20s. There is really just one thing I took away from it: ****If you want to talk to someone, you can just walk over and say “Hi”.
+Here’s a very different example: Like most guys, I read [The Game by Neil Strauss](https://en.wikipedia.org/wiki/The_Game:_Penetrating_the_Secret_Society_of_Pickup_Artists?utm_campaign=The%20Greenfeld%20Letter&utm_medium=email&utm_source=Revue%20newsletter) in my 20s. There is really just one thing I took away from it: If you want to talk to someone, you can just walk over and say “Hi”.
 
 This sounds so stupidly simple. And yet almost no one does it. It’s really as if everyone is held back by invisible chains.
 
