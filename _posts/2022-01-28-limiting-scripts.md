@@ -2,7 +2,7 @@
 title: Overcoming limiting scripts through agency expanding experiments 
 published: true
 layout: post
-permalink: stay-in-touch
+permalink: invisible-scripts
 excerpt: The mind, once stretched by a new idea, never returns to its original dimensions.
 image: /images/default.jpg
 
