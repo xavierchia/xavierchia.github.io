@@ -17,7 +17,7 @@ Unfortunately, for most people (me included) this isn’t something that happens
 
 So unless you have a solid system, chances are high that you won’t reach out to people regularly and miss out on a ton of fun and opportunities. 
 
-Derek Sivers has a cool [system](https://sive.rs/hundreds). He divides all people he want to stay in touch with into four categories: A, B, C, D:
+Derek Sivers has a cool [system](https://sive.rs/hundreds). He divides all people he wants to stay in touch with into four categories: A, B, C, D:
 
 - people on the A list are contacted every three weeks,
 - people on the B list every two months,
@@ -50,7 +50,7 @@ The first one is titled **Established Contacts**. As the name suggests it’s fo
 
 I like to keep things as simple as possible, so there are only 7 columns: **Name**, **Contact Info**, **Notes**, **Category**, **Last Contact**, **Next Contact,** **Trigger Reminder**.
 
-The first three columns are simple text columns while the third one, **Category**, is single select column (”A”, “B”, “C”, “D”). 
+The first three columns are simple text columns while the third one, **Category**, is a single select column (”A”, “B”, “C”, “D”). 
 
 The **Next Contact** column is calculated as a function of the values in the **Category** and **Last** **Contact** columns.
 
@@ -100,7 +100,7 @@ The second table, titled **Potential New Contacts** is even simpler. In it I sto
 
 Whenever I come across a cool project, interesting piece of content or I get a referral, I add the person in question to this table.
 
-In the **Name** column I usually save a link to their website, project, or Twitter account. The **Notes** column is used to store some information why I think this person is interesting. 
+In the **Name** column, I usually save a link to their website, project, or Twitter account. The **Notes** column is used to store some information about why I think this person is interesting. 
 
 For example, one entry might read: “*He publishes incredible posts on his blog: [https://jon.bo/posts/](https://jon.bo/posts/)*”. 
 
@@ -112,7 +112,7 @@ So next, we’re going to talk about automations, since this is where all the ma
 
 Let’s start at the end.
 
-Every morning I’m getting an short email that says:
+Every morning I’m getting a short email that says:
 
 *Hey,*
 
@@ -144,7 +144,7 @@ In words:
 - Every day at 6am in the morning the automation is started.
 - The first action is to find all records in the **Established Contacts** table where the **Trigger Reminder** column contains the word “Trigger Reminder”. (Remember that this column is populated through a formula that compares today’s date to the **Next Contact** column.)
 - The second action is a little custom script that automatically picks one random entry from the **Potential New Contacts** table and then updates the **Reach Out** and **When to Reach Out**  fields for this entry. Of course, the script only picks from the list of entries that haven’t been picked before. This is why the **Reach Out** column is updated. Only records where the **Reach Out** column is not equal to “Yes” are used. Moreover, the script returns the record it picked randomly so I can use this information in the next step.
-- The final step is that all the information from the previous steps are put into an email which is then sent to my email address. This includes the one entry from the **Potential New Contacts** table that was picked randomly and the list of people from the **Established Contacts** table that a due for a new message.
+- The final step is that all the information from the previous steps is put into an email which is then sent to my email address. This includes the one entry from the **Potential New Contacts** table that was picked randomly and the list of people from the **Established Contacts** table that are due for a new message.
 
 Now that’s it!
 
@@ -171,9 +171,9 @@ Sometimes I just share a related article or book I think they might find interes
 
 Of course, not everyone publishes content or updates regularly. In that case, I usually just ask what they've been up to lately.
 
-You’d be surprised how many people are really happy to get these kind of messages and they often spark all kinds of deeper conversations. 
+You’d be surprised how many people are really happy to get these kinds of messages and they often spark all kinds of deeper conversations. 
 
-Okay, like I said, more technical details below. And in any case, let me know what you think and if you have any suggestions how I can improve my system.
+Okay, like I said, more technical details below. And in any case, let me know what you think and if you have any suggestions on how I can improve my system.
 
 Thanks,
 
