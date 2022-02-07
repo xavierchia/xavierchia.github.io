@@ -152,6 +152,12 @@ So I’ll start by spending 5 minutes each morning writing down positive affirma
 
 Possibly even more powerful are [incantations](https://www.youtube.com/watch?v=u6V75B_K2kM). These are affirmations with a physiological component. You use your body and your voice to embody the meaning behind the words. I also want to try those even though this is gonna feel very weird at first. 
 
+## Closing Thoughts
+
+I wrote everything you read just for myself. But I've decided to put it online since I believe there's some value in seeing how someone works his way through a problem like this.
+
+Maybe it inspires you to try something similar.
+
 So that’s it for now. I’ll keep you posted.
 
 *Jakob*
