@@ -30,7 +30,7 @@ I still remember that I thought how stupid and wasteful this is.
 
 However, after the meal, it was dark, rainy, and I was sleepy from all the great food. And instead of having to walk for 30 minutes, we were able to hop into the car right away. This is when it hit me: This. Is. Amazing!
 
-If you think about it, it makes little sense to choose a far-away parking spot just to save a few dollars. Good parking spots are still pretty cheap in the grand scheme of things. We talking about maybe 30 dollars for a full day. And in return, you save so much time and energy.
+If you think about it, it makes little sense to choose a far-away parking spot just to save a few dollars. Good parking spots are still pretty cheap in the grand scheme of things. We are talking about maybe 30 dollars for a full day. And in return, you save so much time and energy.
 
 My parents are neither particularly frugal nor poor. They can easily afford better parking spots. Probably the only reason why they always did this is something that *their* parents always did.
 
