@@ -154,10 +154,10 @@ Possibly even more powerful are [incantations](https://www.youtube.com/watch?v=u
 
 ## Closing Thoughts
 
-I wrote everything you read just for myself. But I've decided to put it online since I believe there's some value in seeing how someone works his way through a problem like this.
+I wrote everything you read just for myself. But I've decided to put it (with some minor modifications) online since I believe there's some value in seeing how someone works his way through a problem like this.
 
 Maybe it inspires you to try something similar.
 
-So that’s it for now. I’ll keep you posted.
+Anyway, that’s it for now. I’ll keep you posted.
 
 *Jakob*
