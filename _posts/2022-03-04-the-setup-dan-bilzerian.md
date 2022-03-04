@@ -17,7 +17,7 @@ So after listening to the pod with Dan, I thought his book would be similar but 
 
 Also I think the name The Setup is really cool. It subtly suggests that Dan has figured out something that allows him to succeed and it wasn’t purely accidentally. 
 
-Unfortunately, The Setup didn’t really deliver on either of these promises.
+Unfortunately, The Setup didn’t really deliver on either of these promises. Overall, it's a 5/10 for me.
 
 I mean, don’t get me wrong. It’s not a bad book. It’s quite entertaining for the most part.
 
