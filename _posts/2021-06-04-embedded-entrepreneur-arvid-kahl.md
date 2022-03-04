@@ -3,7 +3,7 @@ title: Review and Summary of The Embedded Entrepreneur by Arvid Kahl
 published: true
 layout: post
 permalink: embedded-entrepreneur-arvid-kahl
-excerpt: Interestingly, Arvid didn't include the smartest marketing strategy he uses himself:
+excerpt: Interestingly, Arvid didn't include the smartest marketing strategy he uses himself
 image: /images/default.jpg
 
 

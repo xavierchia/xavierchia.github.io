@@ -51,7 +51,7 @@ But the stories from the first half of the book are quite fun. And one cool idea
 
 So much for the stories. Let’s talk about the “the setup”.
 
-Despite the name of the book, Dan doesn’t talk much about “the setup”. Only in the epilogue he explains briefly: “*The setup is strategy, the act of stacking the odds in your favor. Life is a game. Like any game, you must have a good strategy to win. The implementation of that strategy is called the setup, and it paves the road to success.”* 
+Despite the name of the book, Dan doesn’t talk much about it. Only in the epilogue he explains briefly: “*The setup is strategy, the act of stacking the odds in your favor. Life is a game. Like any game, you must have a good strategy to win. The implementation of that strategy is called the setup, and it paves the road to success.”* 
 
 One example from his high school days he gives is that when he stayed in his family’s house in a beach town where they also owned a boat, meeting girls became almost effortless. Most people in such a town are there to have fun and have little else to do. Hence if you mention casually that you’ll go for a cruise on your boat later today most will be happy to join. If your goal is to meet girls, investing in this kind of setup (house in beach town + boat) is a much smarter choice than memorising hundreds of pickup scripts. 
 
