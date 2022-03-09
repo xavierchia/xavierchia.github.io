@@ -11,9 +11,9 @@ Ever wondered how some people are able to bang out viral tweets, essays, or proj
 
 Here’s their secret.
 
-They simply study what worked 6+ months ago and then post the same thing again with a little twist. 
+They study what worked 6+ months ago and then post the same thing again with a little twist. 
 
-I know, it’s kind of annoying. On some platforms like Reddit people scream “REPOST!”. But on most, they don’t. Especially, if you didn’t post a carbon copy.
+I know, it’s kind of annoying. On some platforms like Reddit people scream “REPOST!”. But on most, they don’t. Especially, if you don’t post a carbon copy.
 
 People don’t have a good memory and at any point there’s a huge group of newbies. This is why there’s a high chance that what worked a few months again will work again today. 
 
