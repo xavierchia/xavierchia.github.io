@@ -15,7 +15,9 @@ They study what worked 6+ months ago and then post the same thing again with a l
 
 I know, it’s kind of annoying. On some platforms like Reddit people scream “REPOST!”. But on most, they don’t. Especially, if you don’t post a carbon copy.
 
-People don’t have a good memory and at any point there’s a huge group of newbies. This is why there’s a high chance that what worked a few months again will work again today. 
+People don’t have a [good memory](https://www.youtube.com/watch?v=E3kTXb0ZIY4) and at any point there’s a fresh cohort of newbies. 
+
+This is why there’s a high chance that what worked a few months again will work again today. 
 
 This tactic works in all kinds of context. 
 
