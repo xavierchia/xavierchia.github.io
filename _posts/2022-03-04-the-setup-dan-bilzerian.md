@@ -3,7 +3,7 @@ title: Review and Summary of The Setup by Dan Bilzerian
 published: true
 layout: post
 permalink: the-setup-dan-bilzerian
-excerpt: For whatever reason, Dan not even once explains his setup at any point after that.
+excerpt: The setup is strategy, the act of stacking the odds in your favor.
 image: /images/default.jpg
 
 

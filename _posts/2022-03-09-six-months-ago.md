@@ -25,6 +25,8 @@ If you want to grow your Twitter audience, you simply study what tweets and thre
 
 For example, in January 2021 Julian Shapiro [posts](https://twitter.com/Julian/status/1348001394104537089) a thread on the “lies you're told about the world” that earned 35k+ likes and was read by millions of people. In November 2021 Aadit Sheth [posts](https://twitter.com/aaditsh/status/1464626688252432391) a thread on the “lies you were told growing up” and gets 8k+ upvotes. In fact, Aadith was able to grow his account to 150k+ followers using almost exclusively this strategy.  You can usually [find](https://twitter.com/search?q=Twitter%20worth%20more%20than%20degree%20min_faves%3A500&src=typed_query&f=top) the original tweet or thread that inspired his [most viral content](https://twitter.com/search?q=(from%3Aaaditsh)%20min_faves%3A500&src=typed_query&f=top) within a few minutes. 
 
+
+
 If you’re interested in technical marketing, you can head over to Product Hunt and study what projects ended up at one of the top spots a while back. Then you brainstorm how you can launch something similar. 
 
 Here’s an example. My project [What to Tweet](https://whattotweet.com) went viral on Product Hunt in December 2020. A few months later someone launched the [exact same thing](https://www.producthunt.com/posts/tweet-ideas) and also got hundreds of upvotes.
