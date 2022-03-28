@@ -14,12 +14,19 @@ permalink: /projects/
 						<th>Launch Date</th>
 						<th>Current Status</th>
 					</tr>
+				<tr>
+						<td><a href="https://founderflywheel.com">Founder Flywheel</a></td>
+						<td>Newsletter</td>
+						<td>Research-as-a-service for entrepreneurs.</td>
+						<td>03-2022</td>
+						<td>Active</td>
+					</tr>
               <tr>
 						<td><a href="https://productideas.co">Product Ideas on Demand</a></td>
 						<td>Productized Service</td>
 						<td>Get ideas that match your skills and interests..</td>
 						<td>12-2021</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
               <tr>
                 <tr>
@@ -48,14 +55,14 @@ permalink: /projects/
 						<td>Podcast</td>
 						<td>Brainstorming sessions with smart people.</td>
 						<td>03-2021</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
 					<tr>
 						<td><a href="https://opportunities.so">Opportunities.so</a></td>
 						<td>Newsletter</td>
 						<td>Research-as-a-service for entrepreneurs.</td>
 						<td>03-2021</td>
-						<td>Active</td>
+						<td>Pivot</td>
 					</tr>
 					<tr>
 						<td><a href="https://bootstrap.mba">Bootstrap MBA All Access Pass</a></td>
@@ -76,14 +83,14 @@ permalink: /projects/
 						<td>Mini-Tool</td>
 						<td>Tweet inspiration prompts.</td>
 						<td>12-2020</td>
-						<td>Dormant</td>
+						<td>Acquired by TweetHunter</td>
 					</tr>
 					<tr>
 						<td><a href="https://newsletterspy.io">Newsletter Spy</a></td>
 						<td>Data</td>
 						<td>Data on Substack newsletters.</td>
 						<td>11-2020</td>
-						<td>Dormant</td>
+						<td>Active</td>
 					</tr>
 					<tr>
 						<td><a href="https://prompts.productideas.co/">Product Ideas</a></td>
@@ -146,7 +153,7 @@ permalink: /projects/
 						<td>Newsletter</td>
 						<td>Reflecting on my independent learning experiment.</td>
 						<td>07-2020</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
 					<tr>
 						<td><a href="https://anchor.fm/jakob-greenfeld">Bootstrap MBA</a></td>
