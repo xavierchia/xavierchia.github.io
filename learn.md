@@ -4,7 +4,7 @@ title:
 permalink: /learn/
 ---
 
-** Scraping the Web for Fun and Profit**
+**Scraping the Web for Fun and Profit**
 
 In the past 12 months, I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills.
 
