@@ -4,6 +4,7 @@ title:
 permalink: /learn/
 ---
 
+** Scraping the Web for Fun and Profit**
 
 In the past 12 months, I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills.
 
@@ -21,7 +22,7 @@ You’ll learn:
 
 There are no boring slide shows. Just behind the scenes recordings of me solving real-world problems and explaining what I do.
 
-<a href="https://jakobgreenfeld.gumroad.com/l/scraping"><button  >Get Access</button></a>
+<a href="https://jakobgreenfeld.gumroad.com/l/scraping"><button class="button" >Get Access</button></a>
 
 
 
