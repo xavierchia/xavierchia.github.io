@@ -20,7 +20,7 @@ You’ll learn:
 * How to find undocumented APIs and use them to extract information that's not publicly available.
 * What I've learned about building and selling data products.
 
-There are no boring slide shows. Just behind the scenes recordings of me solving real-world problems and explaining what I do.
+There are zero boring slide shows in the course, just behind-the-scenes recordings of me solving real-world problems and explaining what I do.
 
 <a href="https://jakobgreenfeld.gumroad.com/l/scraping"><button class="button" >Get Access</button></a>
 
