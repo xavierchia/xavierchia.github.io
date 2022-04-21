@@ -51,4 +51,7 @@ image: /images/default.png
 * How would life be different if there weren’t criticism in the world?
 * Who am I?
 * What would you do if you couldn't fail?
+* Who are my people?
+* Where are my people?
+
 
