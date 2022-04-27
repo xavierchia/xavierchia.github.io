@@ -1,5 +1,5 @@
 ---
-title: Good Questions
+title: Good questions to ask yourself
 published: true
 layout: post
 permalink: good-questions
@@ -15,6 +15,10 @@ image: /images/default.png
 * In what ways am I sabotaging myself?
 * Do I even know what the goal is?
 * What am I 100% commited to?
+* What's one decision you can make today that will save you from making ten more decisions in the future? Make the choice that eliminates other choices.
+* What choice is the most scary? That is usually the one you need to prioritize. Using the fear as a compass gives you a tool to know what direction you should be moving in.
+* If you were reading this twenty five years from today, and reflecting on the events of those twenty five years, what has to have happened in your professional life for you to feel successful?
+
 
 
 ## Evaluating Project Ideas
