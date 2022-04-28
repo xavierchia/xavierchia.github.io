@@ -18,6 +18,7 @@ image: /images/default.png
 * What's one decision you can make today that will save you from making ten more decisions in the future? Make the choice that eliminates other choices.
 * What choice is the most scary? That is usually the one you need to prioritize. Using the fear as a compass gives you a tool to know what direction you should be moving in.
 * If you were reading this twenty five years from today, and reflecting on the events of those twenty five years, what has to have happened in your professional life for you to feel successful?
+* Write down all the projects you are working on right now. What is the one thing that, if you had the courage to eliminate it entirely, would make all the others easier? 
 
 
 
