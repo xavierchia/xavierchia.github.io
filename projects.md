@@ -34,21 +34,21 @@ permalink: /projects/
 						<td>Productized Service</td>
 						<td>Tweet ghostwriting as a service.</td>
 						<td>12-2021</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
               <tr>
 						<td><a href="https://abandonedassets.io">Abandoned Assets</a></td>
 						<td>Data</td>
 						<td>Websites that have been abandoned by their owners.</td>
 						<td>11-2021</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
 					<tr>
 						<td><a href="https://undertheradar.io">Under the Radar</a></td>
 						<td>Micro-SaaS</td>
 						<td>Trend signals for investors, entrepreneurs and marketers.</td>
 						<td>05-2021</td>
-						<td>Active</td>
+						<td>Dormant</td>
 					</tr>
 					<tr>
 						<td><a href="https://opportunities.so/podcast">Business Brainstorms</a></td>
