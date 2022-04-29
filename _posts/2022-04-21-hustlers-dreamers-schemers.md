@@ -20,7 +20,6 @@ Like most people I love stories about people who did everything they could to ma
 * Arnold Schwarzenegger: [Total Recall](https://www.amazon.com/gp/product/1451662432/)
 * Everyone in: Selling Sunset (Series)
 * Philipp Maximilian Scharpenack: [Life the the Max](https://www.amazon.com/Life-Max-abenteuerliche-Stunden-Arbeit-ebook/dp/B081T4GDKK)
-* 
 
 
 * Adam Neumann: [The Cult of We](https://www.amazon.com/Cult-We-Neumann-Startup-Delusion/dp/0593237137), [We Crashed](https://tv.apple.com/dk/episode/this-is-where-it-begins) (Series)
