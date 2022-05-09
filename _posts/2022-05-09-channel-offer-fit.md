@@ -13,9 +13,11 @@ In the words of VC Marc Andreessen it’s *“the only thing that matters for a 
 
 But what does product-market fit really mean? 
 
+![product-market-fit](/images/product-market-fit.png)
+
 In short, it’s the idea that there is an inflection point when the product is so “fit” with what the market wants that everything becomes much easier. Instead of trying to figure out how to get customers, the key challenge suddenly becomes handling the demand from the incoming stream.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b699e1e1-0ae3-4e92-9b90-ed96b2ce45cc/Untitled.png)
+![product-market-inflection](/images/product-market-inflection.png)
 
 Sean Ellis [argues](https://www.startup-marketing.com/the-startup-pyramid/) that a startup has reached product/market fit when 40% of users would be “very disappointed” if the product disappeared.
 
