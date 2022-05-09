@@ -74,7 +74,7 @@ Decisions like pricing, guarantees, bundling of features into different packages
 
 Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
 
-![offer](/images/channel-offer-fit.png)
+![offer](/images/value.png)
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
