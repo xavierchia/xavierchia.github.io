@@ -13,6 +13,7 @@ In the words of VC Marc Andreessen it’s *“the only thing that matters for a 
 
 But what does product-market fit really mean? 
 
+{:.centered}
 ![product-market-fit](/images/product-market-fit.png){: width="400px" }
 
 In short, it’s the idea that there is an inflection point when the product is so “fit” with what the market wants that everything becomes much easier. Instead of trying to figure out how to get customers, the key challenge suddenly becomes handling the demand from the incoming stream.
