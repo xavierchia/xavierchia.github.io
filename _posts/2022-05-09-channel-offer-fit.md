@@ -39,7 +39,9 @@ What really is the market? Is it people? Is it businesses? Is it something drive
 
 What about the term product? Are we really just talking about the set of features you’re selling to customers? 
 
-But isn’t the way you present and package it oftentimes not just as if not more important? Sometimes all it takes to reach one of these inflection points is a change in positioning. 
+But isn’t the way you present and package it oftentimes not just as if not more important?
+
+No one needs or wants another sugary, aweful tasting softdrink. But with the right positioning you can nevertheless end up with a billion dollar business like RedBull. 
 
 And what about customer acquisition strategies? Sometimes neither your product nor your market need to change to find success. Instead, all it takes is figuring out a scalable way to acquire new customers. 
 
@@ -72,18 +74,8 @@ Decisions like pricing, guarantees, bundling of features into different packages
 
 Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
 
-
+![offer](/images/channel-offer-fit.png)
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
 But while founders who focus on product/market fit start with a dream, those who focus on channel/offer fit start with a plan. 
-
-TODO ways to tweak your offer
-
-TODO Valuable amendment. Founder wfit. Unfair advantages. Why you. What are the odds pull it off. Evaluate ideas.
-
-“Focus on finding product-market fit” is really just a slightly more complicated version of the truism “make things people want”. 
-
-Feels like nlightemnet
-
-Again, yes product-market fit as defined above seems like a desirable goal.
