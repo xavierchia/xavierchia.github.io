@@ -14,3 +14,4 @@ image: /images/default.png
 * [Good Questions to Ask Yourself](/good-questions/)
 * [Hustlers, Dreamers, and Schemers](/hustlers-dreamers-and-schemers/)
 * [Bucket List by Philip Young](https://www.philipyoungg.com/bucket-list)
+* [Business Idea Evaluation Questions](/business-idea-evaluation-questions)
