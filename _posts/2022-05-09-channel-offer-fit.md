@@ -55,6 +55,7 @@ If you study how businesses got to the inflection point where growth really star
 
 This observation suggests that founders should focus on **channel/offer fit**.
 
+{:.centered}
 ![product-market-fit](/images/channel-offer-fit.png)
 
 
@@ -70,10 +71,12 @@ The second part of the channel/offer equation emphasizes that a product is far m
 
 Decisions like pricing, guarantees, bundling of features into different packages, and the product’s positioning are all part of your offer and play an integral role. 
 
+{:.centered}
 ![offer](/images/offer.png)
 
 Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
 
+{:.centered}
 ![offer](/images/value.png){: width="400px" }
 
 Finding channel/offer fit is no easier than finding product/market fit. 
