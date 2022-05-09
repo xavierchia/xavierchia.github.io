@@ -53,6 +53,9 @@ If you study how businesses got to the inflection point where growth really star
 
 This observation suggests that founders should focus on **channel/offer fit**.
 
+![product-market-fit](/images/channel-offer-fit.png)
+
+
 Unlike the vague concept of product/market fit, this is not just a desirable destination but also directly suggest a path for getting there:
 
 Iterate through [customer-acquisition channels](https://grasshopper.com/blog/19-ways-entrepreneurs-can-acquire-customers/) (while keeping factors like [Scalability and Time to ROI in mind](https://www.kevin-indig.com/the-4-only-scalable-customer-acquisition-channels/)) and tweak your offer until you get to the magical inflection point. 
