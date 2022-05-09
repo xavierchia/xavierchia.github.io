@@ -82,4 +82,4 @@ Depending on the type of product you’re building, there are different [value e
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
-But when you focus on product/market you start with a dream, while if you focus on channel/offer fit you start with a plan. 
+But when while founders who focus on product/market start with a dream, those who focus on channel/offer fit start with a plan. 
