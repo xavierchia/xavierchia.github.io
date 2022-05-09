@@ -14,7 +14,7 @@ In the words of VC Marc Andreessen it’s *“the only thing that matters for a 
 But what does product-market fit really mean? 
 
 {:.centered}
-![product-market-fit](/images/product-market-fit.png){: width="400px" }
+![product-market-fit](/images/product-market-fit.png){: width="300px" }
 
 In short, it’s the idea that there is an inflection point when the product is so “fit” with what the market wants that everything becomes much easier. Instead of trying to figure out how to get customers, the key challenge suddenly becomes handling the demand from the incoming stream.
 
@@ -73,12 +73,12 @@ The second part of the channel/offer equation emphasizes that a product is far m
 Decisions like pricing, guarantees, bundling of features into different packages, and the product’s positioning are all part of your offer and play an integral role. 
 
 {:.centered}
-![offer](/images/offer.png)
+![offer](/images/offer.png){: width="300px" }
 
 Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
 
 {:.centered}
-![offer](/images/value.png){: width="400px" }
+![offer](/images/value.png){: width="300px" }
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
