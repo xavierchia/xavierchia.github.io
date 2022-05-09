@@ -66,7 +66,13 @@ In a sense this a process for testing how different audiences (”markets”) re
 
 The second part of the channel/offer equation emphasizes that a product is far more than a sum of its features. 
 
-Decisions like pricing, guarantees, bundling of features into different packages, and the product’s positioning are all part of your offer and play an integral role. Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
+Decisions like pricing, guarantees, bundling of features into different packages, and the product’s positioning are all part of your offer and play an integral role. 
+
+![offer](/images/offer.png)
+
+Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
+
+
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
