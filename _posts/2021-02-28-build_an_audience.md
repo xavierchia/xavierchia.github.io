@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build a business, not an audience
+title: ⭐️ Build a business, not an audience
 permalink: build_an_audience
 image: /images/build_an_audience.png
 ---

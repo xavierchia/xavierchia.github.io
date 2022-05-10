@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build your personal self-invention machine
+title: ⭐️ Build your personal self-invention machine
 permalink: self-invention-machine
 image: /images/default.jpg
 

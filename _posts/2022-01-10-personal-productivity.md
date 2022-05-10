@@ -1,5 +1,5 @@
 ---
-title: Effortless personal productivity (or how I learned to love my monkey mind)
+title: ⭐️ Effortless personal productivity (or how I learned to love my monkey mind)
 published: true
 layout: post
 permalink: personal-productivity

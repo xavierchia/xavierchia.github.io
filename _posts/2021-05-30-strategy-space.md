@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I don't think where I work
+title: 🧠 Why I don't think where I work
 permalink: deep-thinking
 image: /images/thinking.jpg
 ---

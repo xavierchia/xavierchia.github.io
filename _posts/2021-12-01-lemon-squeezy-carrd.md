@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: How to add a LemonSqueezy checkout overlay to any Carrd site
+title: 🧠 How to add a LemonSqueezy checkout overlay to any Carrd site
 permalink: carrd-lemonsqueezy
 image: /images/CleanShot%202021-12-01%20at%2008.35.17@2x.png
 ---

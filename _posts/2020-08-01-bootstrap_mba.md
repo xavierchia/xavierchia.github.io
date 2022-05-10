@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've decided to pursue a Bootstrap MBA
+title: ⭐️ I've decided to pursue a Bootstrap MBA
 permalink: mba
 image: /images/readinglist.jpg
 ---

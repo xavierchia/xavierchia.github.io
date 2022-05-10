@@ -1,5 +1,5 @@
 ---
-title: Overcoming limiting scripts through agency expanding experiments 
+title: ⭐️ Overcoming limiting scripts through agency expanding experiments 
 published: true
 layout: post
 permalink: invisible-scripts

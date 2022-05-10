@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Broken Window Theory of Productivity
+title: ⭐️ The Broken Window Theory of Productivity
 permalink: broken-window
 image: /images/default.jpg
 

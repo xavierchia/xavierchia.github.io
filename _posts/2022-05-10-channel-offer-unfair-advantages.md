@@ -1,5 +1,5 @@
 ---
-title: The channel/offer/unfair advantages framework for evaluation business ideas
+title: ⭐️ The channel/offer/unfair advantages framework for evaluation business ideas
 published: true
 layout: post
 permalink: channel-offer-unfair-advantages

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Choosing a tech stack and making sense of the web devlopment landscape (from a bootstrap entrepreneurial perspective)
+title: ⭐️ Choosing a tech stack and making sense of the web devlopment landscape (from a bootstrap entrepreneurial perspective)
 permalink: web-development-landscape
 image: /images/default.jpg
-
 ---
 
 I've wanted to learn how to develop proper web apps for several years now. But what has stopped me so far is that there are so many options, and I was never sure what exactly I should learn. In particular, what I've been missing is a proper overview of the various players in the field and how they interact.

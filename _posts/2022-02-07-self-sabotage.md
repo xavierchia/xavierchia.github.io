@@ -1,5 +1,5 @@
 ---
-title: I need to stop sabotaging myself
+title: ⭐️ I need to stop sabotaging myself
 published: true
 layout: post
 permalink: self-sabotage

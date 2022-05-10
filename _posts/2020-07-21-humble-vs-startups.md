@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humble Businesses vs. Startups
+title: ⭐️ Humble Businesses vs. Startups
 permalink: humble_vs_startups
 image: /images/default.jpg
 

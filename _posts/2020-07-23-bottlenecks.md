@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code and design are no longer bottlenecks
+title: 🧠 Code and design are no longer bottlenecks
 permalink: bottlenecks
 image: /images/default.jpg
 

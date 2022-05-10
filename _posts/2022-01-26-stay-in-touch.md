@@ -1,5 +1,5 @@
 ---
-title: The simple system I’m using to stay in touch with hundreds of people 
+title: ⭐️ The simple system I’m using to stay in touch with hundreds of people 
 published: true
 layout: post
 permalink: stay-in-touch

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Insight Epidemic
+title: 🧠 The Insight Epidemic
 permalink: insight-epidemic
 image: /images/default.jpg
 

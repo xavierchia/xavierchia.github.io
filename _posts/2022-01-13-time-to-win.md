@@ -1,5 +1,5 @@
 ---
-title: It's time to win
+title: ⭐️ It's time to win
 published: true
 layout: post
 permalink: time-to-win

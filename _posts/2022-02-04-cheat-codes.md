@@ -1,5 +1,5 @@
 ---
-title: Playing the entrepreneurial game with cheat codes
+title: ⭐️ Playing the entrepreneurial game with cheat codes
 published: true
 layout: post
 permalink: cheat-codes
