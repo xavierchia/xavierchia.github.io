@@ -1,11 +1,13 @@
 ---
-title: Good lists
+title: Lists
 published: true
 layout: post
-permalink: good-lists
+permalink: lists
 excerpt: I started curating some of my favorite lists
 image: /images/default.png
 ---
+
+I started curating some of my favorite lists.
 
 * [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
