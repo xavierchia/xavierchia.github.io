@@ -20,7 +20,7 @@ Instead:
 
 *But that’s a good thing. Experts have long forgotten what it’s like to be a beginner. Hence it’s much better to learn from someone just one step ahead of you who still remembers vividly all the problems a beginners struggles with.*
 
-**Better Ideas**
+## Better Ideas
 
 There are infinite opportunities to build profitable businesses thanks to the internet.
 
@@ -49,7 +49,7 @@ Just click this button to get started right away.
 <a href="https://getbetterideas.com"><button class="button" >Let's do this</button></a>
 
 
-**Scraping the Web for Fun and Profit**
+## Scraping the Web for Fun and Profit
 
 In the past 12 months, I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills.
 
