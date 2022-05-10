@@ -5,7 +5,7 @@ layout: post
 permalink: hustlers-dreamers-and-schemers
 excerpt: Like most people I love stories about people who did everything they could to make it happen.
 image: /images/default.png
-cateogries: lists
+categories: lists
 ---
 
 Like most people I love stories about people who did everything they could to make it happen.
