@@ -12,7 +12,7 @@ permalink: /notes/
 
 <p>Then I write about the patterns, ideas, and lessons I've learned from that and share them here. </p>
 
-<p>*Some of the notes are still work-in-progress.*</p>
+<p><i>Some of the notes are still work-in-progress.</i></p>
 
   {% for post in site.categories.notes %}
     <article class="post">
