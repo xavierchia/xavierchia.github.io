@@ -1,5 +1,5 @@
 ---
-title: Your brand needs to be easily summarizable
+title: 🧠 Your brand needs to be easily summarizable
 published: true
 layout: post
 permalink: summarizable

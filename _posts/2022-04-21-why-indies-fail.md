@@ -1,5 +1,5 @@
 ---
-title: Why most indie makers fail
+title: 🧠 Why most indie makers fail
 published: true
 layout: post
 permalink: why-indies-fail

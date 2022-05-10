@@ -1,5 +1,5 @@
 ---
-title: What really matters is getting into the right state of mind
+title: 🧠 What really matters is getting into the right state of mind
 published: true
 layout: post
 permalink: state-of-mind

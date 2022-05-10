@@ -1,5 +1,5 @@
 ---
-title: Content is not the solution to any of your problems
+title: 🧠 Content is not the solution to any of your problems
 published: true
 layout: post
 permalink: against-content

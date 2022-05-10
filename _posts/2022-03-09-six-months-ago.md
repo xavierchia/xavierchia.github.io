@@ -1,5 +1,5 @@
 ---
-title: What worked 6+ months ago will work again today
+title: 🧠 What worked 6+ months ago will work again today
 published: true
 layout: post
 permalink: 6-months-ago
