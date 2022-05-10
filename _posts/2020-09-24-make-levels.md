@@ -3,6 +3,8 @@ layout: post
 title: Review and Summary of MAKE by Pieter Levels
 permalink: make-levels
 image: /images/make.png
+category: notes
+
 ---
 
 

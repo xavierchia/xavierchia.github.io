@@ -3,6 +3,8 @@ layout: post
 title: Review and Summary of Start Small, Stay Small by Rob Walling
 permalink: start-walling
 image: /images/start.png
+category: notes
+
 ---
 
 

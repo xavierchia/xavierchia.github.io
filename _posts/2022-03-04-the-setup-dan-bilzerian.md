@@ -5,6 +5,7 @@ layout: post
 permalink: the-setup-dan-bilzerian
 excerpt: The setup is strategy, the act of stacking the odds in your favor.
 image: /images/default.jpg
+category: notes
 
 
 ---

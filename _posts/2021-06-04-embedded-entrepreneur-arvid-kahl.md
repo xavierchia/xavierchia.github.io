@@ -5,6 +5,7 @@ layout: post
 permalink: embedded-entrepreneur-arvid-kahl
 excerpt: Interestingly, Arvid didn't include the smartest marketing strategy he uses himself
 image: /images/default.jpg
+category: notes
 
 
 ---
