@@ -16,9 +16,9 @@ Instead:
 * Daily exercises and bite-sized, actionable lessons. 
 * Just the 20% of information that are responsible for 80% of all results.
 
-**I’m not a world-renowned expert in any of the topics listed below. Most likely, I’m just one or two steps ahead of you.**
+*I’m not a world-renowned expert in any of the topics listed below. Most likely, I’m just one or two steps ahead of you.*
 
-**But that’s a good thing. Experts have long forgotten what it’s like to be a beginner. Hence it’s much better to learn from someone just one step ahead of you who still remembers vividly all the problems a beginners struggles with.**
+*But that’s a good thing. Experts have long forgotten what it’s like to be a beginner. Hence it’s much better to learn from someone just one step ahead of you who still remembers vividly all the problems a beginners struggles with.*
 
 
 **Scraping the Web for Fun and Profit**

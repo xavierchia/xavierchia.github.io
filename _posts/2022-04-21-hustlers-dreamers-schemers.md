@@ -8,7 +8,7 @@ image: /images/default.png
 categories: lists
 ---
 
-Like most people I love stories about people who did everything they could to make it happen.
+Like most people I love hustle stories about people who did everything they could to make it happen.
 
 ## Real
 
