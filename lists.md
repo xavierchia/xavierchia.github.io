@@ -4,7 +4,7 @@ published: true
 layout: page
 permalink: lists
 excerpt: I started curating some of my favorite lists
-image: /images/default.png
+image: /images/default.jpg
 ---
 
 I'm kind of addicated to organizing things into lists and there are few things I love more than discovering an amazing list someone decided to share publicly. 
