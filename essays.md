@@ -5,6 +5,11 @@ permalink: /essays/
 ---
 
 <div class="posts">
+  <div class="entry">
+    <p>⭐️ Essays I put serious effort into</p>
+    <p>🧠 Raw brain dumps.</p>
+  </div>
+
   {% for post in site.posts %}
   {% unless post.categories contains "notes"%}
   {% unless post.categories contains "lists"%}

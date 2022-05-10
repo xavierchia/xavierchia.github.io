@@ -1,5 +1,5 @@
 ---
-title: Founders should focus on channel/offer fit instead of on product/market fit
+title: ⭐️ Founders should focus on channel/offer fit instead of on product/market fit
 published: true
 layout: post
 permalink: channel-offer-fit
