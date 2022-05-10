@@ -3,7 +3,7 @@ title: ⭐️ The channel/offer/unfair advantages framework for evaluation busin
 published: true
 layout: post
 permalink: channel-offer-unfair-advantages
-excerpt: So just as it makes sense to replace the world “market” with “channel” and the word “product” with “offer”, it makes sense to replace the word “founder” with something less vague. 
+excerpt: Just as it makes sense to replace the world “market” with “channel” and the word “product” with “offer”, it makes sense to replace the word “founder” with something less vague. 
 image: /images/default.png
 ---
 
