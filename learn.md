@@ -20,6 +20,34 @@ Instead:
 
 *But that’s a good thing. Experts have long forgotten what it’s like to be a beginner. Hence it’s much better to learn from someone just one step ahead of you who still remembers vividly all the problems a beginners struggles with.*
 
+**Better Ideas**
+
+There are infinite opportunities to build profitable businesses thanks to the internet.
+
+And still, most people can't even list 5 business ideas let alone a good one.
+
+Coming up with ideas is a skill anyone can learn.
+
+I want to teach you in less than 5 hours what took me hundreds of hours to figure out.
+
+The goal is simple. Together we'll rewire your brain so you'll be able to come up with ideas and spot business opportunities effortlessly.
+
+With ideas, it's really like with radio frequencies. Once you have the necessary tools to tune in to receive them, the music starts playing everywhere you go.
+
+This is the resource I wished had existed when I started my entrepreneurial journey.
+
+The Better Ideas challenge consists of 15 exercises that I will send to your inbox over the next 15 days.
+
+Each email also contains a short lesson that will equip you with the necessary background knowledge.
+
+In total, you will need around 20 minutes per day for the lesson and exercises.
+
+After this 15-day challenge, your ability to come up with profitable business ideas will improve significantly.
+
+Just click this button to get started right away.
+
+<a href="https://getbetterideas.com"><button class="button" >Let's do this</button></a>
+
 
 **Scraping the Web for Fun and Profit**
 
