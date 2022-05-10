@@ -8,11 +8,11 @@ permalink: /notes/
 
 
 <div class="posts">
-I love reading books. But even more so I love studying how people a few steps ahead of me got to where they are now. After picking a new "target" I consume everything they've written, every podcast episode they appeared on, and spent hours researching what they actually do, not just what they say. 
+<p>I love reading books. But even more so I love studying how people a few steps ahead of me got to where they are now. After picking a new "target" I consume everything they've written, every podcast episode they appeared on, and spent hours researching what they actually do, not just what they say.</p> 
 
-Then I write about the patterns, ideas, and lessons I've learned from that and share them here. 
+<p>Then I write about the patterns, ideas, and lessons I've learned from that and share them here. </p>
 
-*Some of the notes are still work-in-progress.*
+<p>*Some of the notes are still work-in-progress.*</p>
 
   {% for post in site.categories.notes %}
     <article class="post">
