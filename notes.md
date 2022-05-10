@@ -8,11 +8,14 @@ permalink: /notes/
 
 
 <div class="posts">
+
+ <div class="entry">
 <p>I love reading books. But even more so I love studying how people a few steps ahead of me got to where they are now. After picking a new "target" I consume everything they've written, every podcast episode they appeared on, and spent hours researching what they actually do, not just what they say.</p> 
 
 <p>Then I write about the patterns, ideas, and lessons I've learned from that and share them here. </p>
 
 <p><i>Some of the notes are still work-in-progress.</i></p>
+ </div>
 
   {% for post in site.categories.notes %}
     <article class="post">
