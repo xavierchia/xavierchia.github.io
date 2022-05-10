@@ -5,6 +5,7 @@ layout: post
 permalink: business-idea-evaluation-questions
 excerpt: Here's a collection of questions and observations that you can use to assess the potential of your ideas.
 image: /images/default.png
+categories: lists
 ---
 
 *Here's a collection of questions and observations that you can use to assess the potential of your ideas.*
