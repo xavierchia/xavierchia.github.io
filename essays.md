@@ -7,7 +7,7 @@ permalink: /essays/
 <div class="posts">
   <article class="post">
     <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps.</p>
+    <p>🧠 Raw brain dumps</p>
   </article>
 
   {% for post in site.posts %}
