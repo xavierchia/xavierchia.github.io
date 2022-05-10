@@ -1,4 +1,3 @@
-
 ---
 title: The channel/offer/unfair advantages framework for evaluation business ideas
 published: true
