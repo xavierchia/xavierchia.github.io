@@ -1,5 +1,5 @@
 ---
-title: ⭐️ Channel/offer fit instead of product/market fit
+title: ⭐️ Founders should think about channel/offer fit instead of product/market fit
 published: true
 layout: post
 permalink: channel-offer-fit
@@ -28,13 +28,13 @@ Just by looking at metrics and charts like the ones above, they can divide start
 
 But what about the founders? Is telling them to “focus on finding product/market fit” really helpful?
 
-Let’s say you’re a founder and can’t see an inflection point in your growth chart. You also have no idea how many of your customers would be “very disappointed” if the product disappeared since there aren’t enough of them to get a statistically meaningful answer. 
+Let’s say you’re a founder and you can’t see an inflection point in your growth chart. You also have no idea how many of your customers would be “very disappointed” if the product disappeared since there aren’t enough of them to get a statistically meaningful answer. 
 
 So... what are you gonna do? How can you reach that magical state called product/market fit?
 
 The concept is far too abstract to offer any kind of practical guidance. 
 
-The term product/market fit invokes the picture of a founder miraculously discovering what this big diffuse thing called market wants by tweaking their product. 
+The term product/market fit invokes the picture of founders miraculously discovering what this big diffuse thing called market wants by tweaking their product. 
 
 What really is the market? Is it people? Is it businesses? Is it something driven by a magical, invisible hand? And are we talking about the one big, universal market or individual smaller-scale markets?
 
@@ -57,14 +57,14 @@ If you study how businesses got to the inflection point where growth really star
 This observation suggests that founders should focus on **channel/offer fit**.
 
 {:.centered}
-![product-market-fit](/images/channel-offer-fit.png)
+![channel-offer-fit](/images/channel-offer-fit.png)
 
 
 Unlike the vague concept of product/market fit, this is not just a desirable destination but also directly suggest a path for getting there:
 
 Iterate through [customer-acquisition channels](https://grasshopper.com/blog/19-ways-entrepreneurs-can-acquire-customers/) (while keeping factors like [Scalability and Time to ROI in mind](https://www.kevin-indig.com/the-4-only-scalable-customer-acquisition-channels/)) and tweak your offer until you get to the magical inflection point. 
 
-Now there’s obviously still a lot of room for experimentation. You obviously not just have to try different channels but also figure out the details. What keywords should you bid on? What profiles should you target on Facebook? What newsletters should you sponsor?
+Now there’s obviously still a lot of room for experimentation. You not just have to try different channels but also figure out the details. What keywords should you bid on? What profiles should you target on Facebook? What newsletters should you sponsor?
 
 In a sense this a process for testing how different audiences (”markets”) respond to your offer. But here you’re not thinking about lofty “markets” that might only exist in your own imagination. You’re thinking about specific groups of people and a realistic ways of reaching them. 
 
@@ -78,8 +78,8 @@ Decisions like pricing, guarantees, bundling of features into different packages
 Depending on the type of product you’re building, there are different [value equations](https://www.acquisition.com/offers-value-equation) you can use to optimize your offer.
 
 {:.centered}
-![offer](/images/value.png){: width="300px" }
+![value equation](/images/value.png){: width="300px" }
 
 Finding channel/offer fit is no easier than finding product/market fit. 
 
-But when while founders who focus on product/market start with a dream, those who focus on channel/offer fit start with a plan. 
+But while founders who focus on product/market start with a dream, those who focus on channel/offer fit start with a plan. 
