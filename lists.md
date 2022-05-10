@@ -7,7 +7,7 @@ excerpt: I started curating some of my favorite lists
 image: /images/default.png
 ---
 
-I'm kind of addicated to organizing things into lists and there are few things I love more than an awesome list someone decided to share publicly. 
+I'm kind of addicated to organizing things into lists and there are few things I love more than discovering an amazing list someone decided to share publicly. 
 
 * [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
