@@ -5,6 +5,7 @@ layout: post
 permalink: good-questions
 excerpt: I started curating some of my favorite questions
 image: /images/default.png
+categories: lists
 ---
 
 > “The quality of your life is a direct reflection of the quality of the questions you are asking yourself,” - Tony Robbins in Awaken the Giant.
