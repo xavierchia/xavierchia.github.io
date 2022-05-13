@@ -190,3 +190,17 @@ In many areas it's a lot smarter to focus on the extremes than trying a more bal
 For example, learn from cheap books and free articles or high-end premium courses that offer 1-1 support and live QnA sessions. Anything in-between is a waste of money.
 
 When comes to businesses, do tiny experiments or go all in. Anything in-between is a waste of time.
+
+Work like a lion. Do short bursts of super intensive work. Then rest completely. This has a much higher ROI than working all the time at 30% of your capabilities.
+
+## The Eisenhower Matrix
+
+![eisenhower matrix](/images/eisenhower.png)
+
+Prioritize tasks based on how important and how urgent they are. Then:
+
+* Unimportant/Not Urgent quadrant tasks are dropped
+* Unimportant/Urgent quadrant tasks are delegated
+* Important/Not Urgent quadrant tasks get an end date and are done personally
+* Important/Urgent quadrant tasks are done immediately and personally
+
