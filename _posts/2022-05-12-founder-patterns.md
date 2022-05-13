@@ -133,3 +133,18 @@ Read more [here](https://perell.com/note/imitate-then-innovate/).
 *"Marketing strategies and tactics can be broken down into three main categories: Owned, Rented, and Borrowed. In other words, you have lines of communications to an audience that you either own, rent, or borrow."*
 
 Read more [here](https://www.swipefiles.com/articles/orb).
+
+## There are no bad ideas, only early ideas
+
+*“There are no bad ideas. There are only early ideas… They’ll all happen. I’ve become convinced...Every smart person that comes in here with a crazy idea, it’s all going to happen at some point. They will all happen. It’s just a question of when.”*- Andreessen
+
+There was a board game that was Monopoly for failed 90s ideas. The "stupid" failed ideas were: social networking & games, reviews & group discount buying. Good ideas pan out eventually.
+
+## Shape Yourself Like A "T"
+
+![t framework](/images/expert-t.png)
+
+*"Go broad by knowing the basics including pros/cons of most channels.  Then choose to go really deep on a couple channels.  Generalists are useless in most work environments.  As an expert in certain areas you will be able to build a brand around yourself and stand out from the crowd."* -  [Brian Balfour](https://brianbalfour.com/essays/customer-acquisition)
+
+
+
