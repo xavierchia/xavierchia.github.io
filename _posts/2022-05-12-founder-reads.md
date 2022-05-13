@@ -16,7 +16,7 @@ There are exactly three kinds of entrepreneurial content I find useful:
 
 Here are my favorites.
 
-
+**Earned Insights** 
 * [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r): Not all good ideas make for great businesses. 
 * [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 * [How to Be a Capitalist Without Any Capital: The Four Rules You Must Break to Get Rich](https://www.goodreads.com/en/book/show/40405443-how-to-be-a-capitalist-without-any-capital)
@@ -27,6 +27,7 @@ Here are my favorites.
 * [The Mom Test](http://momtestbook.com/)
 * [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 
+**Pattern Matching**
 * [Goals vs Systems](https://web.archive.org/web/20210331205241/https://www.scottadamssays.com/2013/11/18/goals-vs-systems/)
 * [What’s Your Value Prop Story?](https://medium.com/bloated-mvp/how-to-sanity-check-your-startup-idea-dbb3ad4c9888)
 * [Ads don’t work that way](https://meltingasphalt.com/ads-dont-work-that-way/)
@@ -44,5 +45,7 @@ Here are my favorites.
 * [Imitate, then Innovate](https://perell.com/essay/imitate-then-innovate/)
 * [The 4 only scalable customer-acquisition channels](https://www.kevin-indig.com/the-4-only-scalable-customer-acquisition-channels/)
 
+
+**Deep Profiles**
 * [Why MasterClass Isn’t Really About Mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
 * The Hustler, Dreamer, and Schemer profiles listed [here](/hustlers-dreamers-and-schemers)
