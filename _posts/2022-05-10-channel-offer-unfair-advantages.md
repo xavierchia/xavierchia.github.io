@@ -30,7 +30,7 @@ A 20 year-old founder without kids can leverage his naivety and freedom to take 
 
 So just as it makes sense to replace the world “market” with “channel” and the word “product” with “offer”, it's helpful to replace the word “founder” with something less vague. 
 
-Here’s my suggestion: “unfair advantages”. (h/t [Hasan Kubba](https://twitter.com/StartupHasan) for putting the spotlight on the concept even though I'm using a somewhat different framework.)
+Here’s my suggestion: [unfair advantages](https://blog.asmartbear.com/unfair-advantages.html).
 
 The term “unfair advantages” paints a much clearer picture of what to do and what to look out for. 
 
@@ -41,7 +41,7 @@ Analogous to how we’re able to map out different customer-acquisition channels
 - **Interests**. Is there anything that feels like play to you but looks like work to others? Are there any niche topics you’re passionate about? Do you have any weekend activities with a chance that [everyone](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years) else will do them during the week in ten years?
 - **Skills**. Do you have any relevant skills that could help with the business? (Software development, copywriting, sales, public speaking, ...)
 - **Location and Language**. Where do you live? What languages do you speak fluently? What local markets do you have insider access do? If you speak German and live in Germany you’ll obviously have a much easier time building, say, a coworking franchise in Germany.
-- **Network**. Are you able to directly connect with decision makers in a specific industry? Do you know people with expert knowledge that will happily agree to have their brain picked by you? Do you have access to talent in a way that other’s don’t?
+- **Network**. Are you able to directly connect with decision makers in a specific industry? Do you know people with expert knowledge that will happily agree to have their brain picked by you? Do you have access to talent in a way that other’s don’t? Are you friends with anyone with a big audience who would happily help you get your business off the ground? Do you already have existing customers who you can connect with?
 - **Status**. Are you famous in some niche? Do you have an established audience? Has your name special weight in a certain industry (possibly through your family’s history or your own achievements)?
 - **Mentality, Mindset and Self-Image**. Do you see yourself as a “people person” or a as a highly intelligent nerd? Have you become immune to rejections through your sales job as a teen?
 

@@ -10,14 +10,14 @@ categories: lists
 
 There are three kinds of entrepreneurial content I find useful:
 
-• Earned Insights. (I did X. Here's what I learned.)
-• Deep Profiles. (He/She/They did X. Here's how.)
-• Pattern Matching. (Here's how to make sense of X.)
+* Earned Insights. (I did X. Here's what I learned.)
+* Pattern Matching. (Here's how to make sense of X.)
+* Deep Profiles. (He/She/They did X. Here's how.)
 
 Here are my favorites.
 
 **Earned Insights** 
-* [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r): Not all good ideas make for great businesses. 
+* [I wasted $40k on a fantastic startup idea](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r)
 * [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 * [How to Be a Capitalist Without Any Capital: The Four Rules You Must Break to Get Rich](https://www.goodreads.com/en/book/show/40405443-how-to-be-a-capitalist-without-any-capital)
 * [The Million Dollar Question](http://sebastianmarshall.com/the-million-dollar-question)
@@ -33,7 +33,7 @@ Here are my favorites.
 * [Ads don’t work that way](https://meltingasphalt.com/ads-dont-work-that-way/)
 * [Fuckarounditis](https://leangains.com/fuckarounditis/)
 * [The magic of doing $10,000 per hour work](https://radreads.co/10k-work/)
-* [Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/): Make sure you’re playing the real game, not some more complicated game you’ve made up for yourself.
+* [Are You Playing to Play, or Playing to Win?](https://commoncog.com/blog/playing-to-play-playing-to-win/)
 * [The ORB Framework](https://www.swipefiles.com/articles/orb)
 * [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
 * [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze)
