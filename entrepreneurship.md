@@ -17,7 +17,7 @@ permalink: /entrepreneurship/
       <a  href="/essays">Show All</a>
     </li>
     <li>
-    <a class="is-active" href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
+    <a class="is-active" href="/entrepreneurship" >Entrepreneurship</a>
           </li>
     <li>
       <a href="/inner-game" class="btn-nav">Inner Game</a>

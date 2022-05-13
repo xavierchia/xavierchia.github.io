@@ -23,7 +23,7 @@ permalink: /personal-brand-building/
       <a  href="/inner-game" class="btn-nav">Inner Game</a>
     </li>
     <li>
-      <a class="is-active" href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
+      <a class="is-active" href="/personal-brand-building" >Personal Brand Building</a>
     </li>
     <li>
     <a href="/lists" class="btn-nav">Lists</a>

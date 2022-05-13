@@ -20,7 +20,7 @@ permalink: /inner-game/
     <a  href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
           </li>
     <li>
-      <a class="is-active" href="/inner-game" class="btn-nav">Inner Game</a>
+      <a class="is-active" href="/inner-game" >Inner Game</a>
     </li>
     <li>
       <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
