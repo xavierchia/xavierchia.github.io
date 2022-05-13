@@ -3,7 +3,7 @@ layout: post
 title: ⭐️ Build your personal self-invention machine
 permalink: self-invention-machine
 image: /images/default.jpg
-
+categorys: personal-brand-building
 ---
 
 Most people treat their personal blogs with a wrong attitude. If you think of it as a self-promotion machine, chances are high that you'll quickly be demotivated because not enough people read your stuff and most readers won't enjoy reading your articles. 

@@ -3,6 +3,7 @@ layout: post
 title: ⭐️ Need business ideas? Watch out for unbundlings
 permalink: unbundlings
 image: /images/default.jpg
+categories: entrepreneurship
 
 ---
 

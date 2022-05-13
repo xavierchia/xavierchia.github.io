@@ -3,7 +3,7 @@ layout: post
 title: 🧠 The Insight Epidemic
 permalink: insight-epidemic
 image: /images/default.jpg
-
+categorys: inner-game
 ---
 
 Information overload is not a real problem. Information is just prettified data and only slightly less boring. Hence, almost no one really cares about information and whether or not there's too much of it.  

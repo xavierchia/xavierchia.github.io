@@ -4,6 +4,8 @@ published: true
 layout: post
 permalink: personal-productivity
 image: /images/default.jpg
+categories: inner-game
+
 
 ---
 I recently discovered a simple step-by-step process that significantly increased my personal productivity and made me happier along the way. 

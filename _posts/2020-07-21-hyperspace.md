@@ -3,6 +3,7 @@ layout: post
 title: ⭐️ The different kinds of humble businesses you can build
 permalink: hyperspace
 image: /images/default.jpg
+categories: entrepreneurship
 
 ---
 

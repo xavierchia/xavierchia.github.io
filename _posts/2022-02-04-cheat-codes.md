@@ -6,6 +6,7 @@ permalink: cheat-codes
 excerpt: Right now a seismic shift is happening. The wall that divides influencers and entrepreneurs comes tumbling down and a whole new spectrum between these two extremes starts to emerge. 
 
 image: /images/default.jpg
+categories: entrepreneurship
 
 
 ---

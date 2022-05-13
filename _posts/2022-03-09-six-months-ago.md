@@ -5,6 +5,7 @@ layout: post
 permalink: 6-months-ago
 excerpt: Ever wondered how some people are able to bang out viral tweets, essays, or projects all the time?
 image: /images/game-plan.png
+categories: personal-brand-building
 ---
 
 Ever wondered how some people are able to bang out viral tweets, essays, or projects all the time?

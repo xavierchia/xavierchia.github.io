@@ -5,6 +5,7 @@ layout: post
 permalink: time-to-win
 excerpt: Step 1 was to leave the sidelines, put myself out there and join the fun. But what’s Step 2?
 image: /images/default.jpg
+categories: personal-updates
 
 
 ---

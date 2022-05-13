@@ -3,12 +3,13 @@ layout: post
 title: ⭐️ Humble Businesses vs. Startups
 permalink: humble_vs_startups
 image: /images/default.jpg
+categories: entrepreneurship
 
 ---
 
 Before we can generate and evaluate business ideas, we need to answer the question: what type of business do you want to build? This question is important because many ideas are not bad per se. Instead, they're just bad if you want to build a particular kind of business. 
 
-The two broad types of businesses are: startups and humble businesses. There are many synonyms for these category names. Alternative names for startups are moonshots or "the next Facebook". Humble businesses are also known as lifestyle businesses, side projects, side businesses, bootstrapped businesses, Cambodia cash businesses, small businesses, companies of one,  and ramen profitable businesses. While some of these terms are not exactly synonymous, for our purposes since we're only talking about the idea stage, they are. 
+The two broad types of businesses are: startups and humble businesses. There are many synonyms for these category names. Alternative names for startups are moonshots or "the next Facebook". Humble businesses are also known as lifestyle businesses, side projects, side businesses, bootstrapped businesses, Cambodia cash businesses, small businesses, companies of one,  and ramen profitable businesses. While some of these terms are not exactly synonymous, for our purposes since we're only talking about the idea stage, they are.  
 
 In short: startup ideas aim for hockey stick growth, while humble businesses focus on profit from the start and are happy with linear growth. In fact growth is not the primary concern. Instead, the goal is to provide the owner with a steady, reliable, hazel free stream of income. Formulated differently, while startup founders typically barely manage to have a life outside of work, humble entrepreneurs instead create a business around their life.
 

@@ -6,7 +6,7 @@ permalink: self-sabotage
 excerpt: Each of these self-sabotaging actions is just a symptom, not the root cause. And to really solve the problem, I need to tackle this root cause, not just fight the symptoms.
 
 image: /images/default.jpg
-
+categories: inner-game
 
 ---
 

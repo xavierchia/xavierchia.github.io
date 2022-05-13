@@ -5,6 +5,7 @@ layout: post
 permalink: invisible-scripts
 excerpt: The mind, once stretched by a new idea, never returns to its original dimensions.
 image: /images/default.jpg
+categories: inner-game
 
 
 ---

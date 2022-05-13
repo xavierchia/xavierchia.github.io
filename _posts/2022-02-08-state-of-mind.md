@@ -6,7 +6,7 @@ permalink: state-of-mind
 excerpt: It is futile to tell people to mimic outward manifestations.
 
 image: /images/default.jpg
-
+categories: inner-game
 
 ---
 

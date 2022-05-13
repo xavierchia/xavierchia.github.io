@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 🧠 Why I don't think where I work
+title: 🧠 Why I don't work where I think
 permalink: deep-thinking
 image: /images/thinking.jpg
+categories: inner-game
+
 ---
 
 
