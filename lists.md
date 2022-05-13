@@ -7,31 +7,7 @@ excerpt: I started curating some of my favorite lists
 image: /images/default.jpg
 ---
 
-<div class="cat-nav">
-  <ul>
-    <li>
-      <a  href="/essays">Show All</a>
-    </li>
-        <li>
-    <a class="is-active" href="/lists" class="btn-nav">Lists</a>
-          </li>
-    <li>
-      <a href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
-      <a href="/profiles" class="btn-nav">Profiles</a>
-    </li>
-    <li>
-    <a href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
-          </li>
-    <li>
-      <a href="/inner-game" class="btn-nav">Inner Game</a>
-    </li>
-    <li>
-      <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
-    </li>
-  </ul>
-</div>
+
 
 I'm kind of addicated to organizing things into lists and there are few things I love more than discovering an amazing list someone decided to share publicly. 
 

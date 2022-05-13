@@ -24,31 +24,7 @@ permalink: /notes/
   </article>
 
 
-<div class="cat-nav">
-  <ul>
-    <li>
-      <a  href="/essays">Show All</a>
-    </li>
-        <li>
-    <a href="/lists" class="btn-nav">Lists</a>
-          </li>
-    <li>
-      <a class="is-active" href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
-      <a href="/profiles" class="btn-nav">Profiles</a>
-    </li>
-    <li>
-    <a href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
-          </li>
-    <li>
-      <a href="/inner-game" class="btn-nav">Inner Game</a>
-    </li>
-    <li>
-      <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
-    </li>
-  </ul>
-</div>
+
 
   
 
