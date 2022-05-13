@@ -21,6 +21,17 @@ Here are the one’s I find the most useful:
 
 Unfair advantages exist. Instead of whining about how unfair the world is, you’re better off focusing on your own unfair advantages and coming up with a plan to add more to your repertoire. 
 
+## Leverage
+
+Levers are force multipliers. They are the reason why some people can accomplish 10, 100x, or 1,000,000x what others can.
+
+There are four forms of leverage:
+
+- Tools: A skilled person with the right tools can build an entire house or cut down an entire forest. 
+- People: You can hire or collaborate with people to 10x, 100x, or 1000x the impact you have on the world.
+- Capital (money): The same investment decision with 10x the capital returns 10x the results.
+- Digital Products (software, media): Created once, these assets can serve an infinite number of customers.
+
 ## The Startup Curve
 
 ![startup curve](/images/startup-curve.png)
@@ -145,6 +156,5 @@ There was a board game that was Monopoly for failed 90s ideas. The "stupid" fail
 ![t framework](/images/expert-t.png)
 
 *"Go broad by knowing the basics including pros/cons of most channels.  Then choose to go really deep on a couple channels.  Generalists are useless in most work environments.  As an expert in certain areas you will be able to build a brand around yourself and stand out from the crowd."* -  [Brian Balfour](https://brianbalfour.com/essays/customer-acquisition)
-
 
 
