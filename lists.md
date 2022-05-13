@@ -59,10 +59,16 @@ image: /images/default.jpg
 </div>
 
 
+<article class="post">
  <h1>Other People's Lists</h1>
 
-* [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
-* [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
-* [50 First Levers (How to start building Leverage)](https://www.ejorgenson.com/blog/50-first-levers)
-* [140+ Examples of Atomic Habits](https://docs.google.com/spreadsheets/d/14oKKZ_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91_7A/edit#gid=0)
-* [Bucket List by Philip Young](https://www.philipyoungg.com/bucket-list)
+ <ul>
+  <li><a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do">Things you're allowed to do</a></li>
+  <li><a href="https://blog.tjcx.me/p/activities-with-positive-asymmetric">Activities with (positive) asymmetric returns</a></li>
+  <li><a href="https://www.ejorgenson.com/blog/50-first-levers">50 First Levers (How to start building Leverage</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/14oKKZ_MEy171WhvUe8OPzcCC53oKPWqEFEiAnN91_7A/edit#gid=0">140+ Examples of Atomic Habits</a></li>
+  <li><a href="https://www.philipyoungg.com/bucket-list">Bucket List by Philip Young</a></li>
+ </ul>
+
+
+</article>
