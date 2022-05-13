@@ -7,11 +7,6 @@ permalink: /notes/
 
 <div class="posts">
 
- <div class="posts">
-  <article class="post">
-    <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps</p>
-  </article>
 
 
 <div class="cat-nav">
@@ -56,5 +51,11 @@ permalink: /notes/
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+
+  <article class="post">
+  <h1>Legend</h1>
+    <p>⭐️ Essays I put serious effort into</p>
+    <p>🧠 Raw brain dumps</p>
+  </article>
 </div>
 

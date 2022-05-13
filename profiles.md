@@ -7,14 +7,6 @@ permalink: /profiles/
 
 <div class="posts">
 
- 
-
- <div class="posts">
-  <article class="post">
-    <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps</p>
-  </article>
-
 
 <div class="cat-nav">
   <ul>

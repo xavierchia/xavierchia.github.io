@@ -5,10 +5,7 @@ permalink: /entrepreneurship/
 ---
 
 <div class="posts">
-  <article class="post">
-    <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps</p>
-  </article>
+
 
 
 <div class="cat-nav">
@@ -53,4 +50,10 @@ permalink: /entrepreneurship/
     </article>
   <!-- {% endunless %} -->
   {% endfor %}
+
+  <article class="post">
+  <h1>Legend</h1>
+    <p>⭐️ Essays I put serious effort into</p>
+    <p>🧠 Raw brain dumps</p>
+  </article>
 </div>
