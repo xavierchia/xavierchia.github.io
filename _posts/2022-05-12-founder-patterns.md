@@ -11,7 +11,7 @@ categories: lists
 
 The main difference between experienced and less experienced founders is that they have larger repertoire of patterns to refer to. Call them frameworks, patterns, whatever. 
 
-When the initial excitement fades, beginners start to panic but experienced founders know that this is just the usual trough of sorrow and stay focused. 
+When the initial excitement fades, beginners start to panic but experienced founders know that this is just the usual trough of sorrow. They greet it like an old friend and stay focused. 
 
 And the good news is that you don’t have to figure out everything yourself. Many generous founders that came before you did all the hard work of distilling thousands of hours of research and years of real-work experience into concise patterns you can upload into your brain in just a few hours. 
 
@@ -70,7 +70,7 @@ Instead of stopping whenever The Resistance shows up, you can embrace it by trea
 
 Everyone underestimates how much complexity is hidden beneath the surface of even the most trivial things like a can opener. Everyone feels confident to draw a diagram or write out an explanation how a can opener works. But if you’re actually trying to do this and then read a [description of how a can opener actually works](https://sciencing.com/mechanism-description-of-a-manual-can-opener-12587926.html) or [look at this diagram](https://taylorpearson.me/can-opener-diagram/), you will quickly notice how naive your understanding really is. 
 
-The same phenomenon occurs when it comes to businesses. On the surface many business models are trivially easy to understand. Hubspot makes software to send emails to your customers. But why then, did it take them hundreds of iterations until they found that specific sweetspot with product/market fit? And why does a company like Google or Twitter need thousands of employees? Hosting and maintaining website is not that hard, right?
+The same phenomenon occurs when it comes to businesses. On the surface many business models are trivially easy to understand. Hubspot makes software to send emails to your customers. But why then, did it take them hundreds of iterations until they found that specific sweetspot with product/market fit? And why does a company like Google or Twitter need thousands of employees? Hosting and maintaining website is not that hard, right? (See the discussion [here](https://news.ycombinator.com/item?id=30926834) for examples.)
 
 Read more [here](https://taylorpearson.me/overconfidence-bias/), [here](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail), and [here](https://meaningness.com/understanding).
 
@@ -191,7 +191,7 @@ For example, learn from cheap books and free articles or high-end premium course
 
 When comes to businesses, do tiny experiments or go all in. Anything in-between is a waste of time.
 
-Work like a lion. Do short bursts of super intensive work. Then rest completely. This has a much higher ROI than working all the time at 30% of your capabilities.
+[Work like a lion](https://nav.al/work-hard). Do short bursts of super intensive work. Then rest completely. This has a much higher ROI than working all the time at 30% of your capabilities.
 
 ## The Eisenhower Matrix
 
@@ -208,10 +208,46 @@ Prioritize tasks based on how important and how urgent they are. Then:
 
 ![mario marketing](/images/mario-marketing.png)
 
-
 What most people do: talk endlessly about themselves, their product and its features.
 
 What they should do instead: tell customers how awesome they will be after using your product
 
 Read more [here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d).
+
+## Impatience with action, patience with results
+
+​Always focus on taking massive action. Inspiration is perishable. Hence it's important to act on it immediately. Never leave the scene of a decision without an action. 
+
+But don't stress out if you don't get results right away. Good things take time.
+
+## Focus on process-driven metrics not outcomes
+
+People like to set goals like "I want to be earn a millon dollar this year" or "I want to grow my audience to 10,000 followers on Twitter". But these outcomes are to a large part outside of your control and hence this is a recipe for unhappiness. 
+
+It's smarter to focus on things you entirely control. Something like "Launch Project and Execute on Marketing Plan: email 50 podcasts and 50 journalists” or “Make 50 sales calls per week.” You control those things. 
+
+## Startups = Momentum
+
+Startups are all about momentum. The best founders know how to take momentum and turn it into lightning in a bottle.
+
+Read more [here](https://ryantakesoff.com/how-to-build-and-multiply-your-companys-momentum/).
+
+## Incentives
+
+“Never, ever, think about something else when you should be thinking about the power of incentives.” - Charlie Munger
+
+To win at Twitter, start thinking like Twitter. They want to keep people on the platform (so they keep looking at more ads) for as long as possible. Hence they will punish you if you include external links in your posts. 
+
+Similarly, to win at SEO, start thinking like Google. 
+
+## A winner, is someone who can build snowmobiles
+
+*"Imagine that you are in Florida riding in an outboard motor boat, maybe even towing water skiers. Imagine that you are riding a bicycle on a nice spring day. Imagine that you are a parent taking your son to a department store and that you notice he is fascinated by the toy tractors or tanks with rubber caterpillar treads.Now imagine that you pull the skies off but you are still on the ski slope. Imagine also that you remove the outboard motor from the motor boat, and you are no longer in Florida. And from the bicycle you remove the handlebar and discard the rest of the bike. Finally, you take off the rubber treads from the toy tractor or tanks; this leaves only the following separate pieces: skis, outboard motor, handle bars and rubber treads.What emerges when you pull all this together? A snowmobile!A winner, is someone who can build snowmobiles."* - John Boyd 
+
+## Bottlenecks
+
+Every system is limited by various constraints but will, by definition, have one constraint tighter than all the others.
+
+The implication of the Theory of Constraints, as Eliyahu Goldratt describes in *[The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610)*, is that the performance of any system is fundamentally limited by the output of the bottleneck. Thus, no change to the system will result in overall improvement unless that change addresses the bottleneck.
+
 
