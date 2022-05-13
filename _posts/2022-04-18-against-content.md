@@ -5,6 +5,7 @@ layout: post
 permalink: against-content
 excerpt: The basics are always simple and can be learned in an hour or so. Anything beyond that is just a waste of time. 
 image: /images/default.png
+categories: inner-game
 ---
 
 

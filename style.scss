@@ -27,9 +27,7 @@ body.blog .cat-nav {
   padding-left: 0;
 }
 
-.is-active {
-  color: #EC4840;
-}
+
 
 
 li {
@@ -42,6 +40,11 @@ li {
   font-weight: 700;
   background-color: #000;
   padding: 0.5rem 2rem;
+}
+
+
+.is-active {
+  color: #EC4840 !important;
 }
 
 .lightbox {

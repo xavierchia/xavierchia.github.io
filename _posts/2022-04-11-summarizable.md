@@ -5,6 +5,7 @@ layout: post
 permalink: summarizable
 excerpt: Successful products are initially defined by one killer feature, personal brands by one big idea. 
 image: /images/default.png
+categories: personal-brand-building
 ---
 
 

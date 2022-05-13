@@ -5,6 +5,7 @@ layout: post
 permalink: channel-offer-fit
 excerpt: Is telling founders to focus on finding product/market fit really helping anyone?
 image: /images/default.png
+categories: entrepreneurship
 ---
 
 People in the startup world love to emphasize just how important it is for startups to find product/market fit. 

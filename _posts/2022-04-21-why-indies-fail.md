@@ -5,6 +5,7 @@ layout: post
 permalink: why-indies-fail
 excerpt: 80%+ of all startup founders fail but from what I've seen the number for indie makers is much, much higher.  
 image: /images/default.png
+categories: inner-game
 ---
 
 80%+ of all startup founders fail but from what I've seen the number for indie makers is much, much higher. 
