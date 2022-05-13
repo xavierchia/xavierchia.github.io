@@ -42,6 +42,7 @@ Here are my favorites.
 * [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
 * [Creativity Faucet](https://www.julian.com/blog/creativity-faucet)
 * [Imitate, then Innovate](https://perell.com/essay/imitate-then-innovate/)
+* [The 4 only scalable customer-acquisition channels](https://www.kevin-indig.com/the-4-only-scalable-customer-acquisition-channels/)
 
 * [Why MasterClass Isn’t Really About Mastery](https://every.to/napkin-math/why-masterclass-isnt-really-about-610214)
 * The Hustler, Dreamer, and Schemer profiles listed [here](/hustlers-dreamers-and-schemers)
