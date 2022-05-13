@@ -65,41 +65,71 @@ Read more [here](https://taylorpearson.me/overconfidence-bias/), [here](http://j
 
 ## The Dunning-Kruger Curve
 
-![startup curve](/images/dunning-kruger.png)
+![dunning-kruger curve](/images/dunning-kruger.png)
 
 
 ## Product Market Fit
 
-Through of sorrow
+![dunning-kruger curve](/images/product-market-inflection.png)
 
-Playbooks
+## X for Y Startups
 
-meta pattern. existence of playbooks and using them increases odds. 
+People love describing startups as “X for Y”. Facebook for X, Uber for X. Superhuman for X...
 
-X for Y. But also much simpler ecommerce story, facebook ads. 
+*"This is a really common format to describe startup ideas because it accomplishes a couple things all at once: First, it positions you against something successful. Second, it both conveys a lot of information and also doesn’t — when someone who hears the idea, it’s like a short puzzle to solve to try and understand what it might mean. And yet, as a one-liner, it begs for interactivity, so that people will ask more."*
 
-brings to next pattern
+Read more [here](https://andrewchen.com/x-for-y-startup-ideas/).
 
-Constrains breed creativity
+## Constrains breed Creativity
 
-Twitter, vine. 
+Most people struggle when they're asked to write down three ideas.
 
-But also busines. focus on specififc market and then move around 
+But if ask you to come up with two product ideas that would help local bakerys attract more customers, I bet you could do it. 
 
-idea maze. 
+Writing an essay is a hard for most people.
 
-Market risk, technology risk. 
+But writing 300 words about how the rise of AirBnb is very doable (with a bit of research).
 
-Unfair Advantages
+So the next time you're struggling to come up with ideas, add constraints. If you're struggling to come up with answers, make the question more specific. If you're struggling to come up with solutions, consider the problem in the context of all limits you're operating within.
 
-Quality through Quantity
 
-Originality through imitation.
+## Market Risk vs. Technical Risk
 
-See this thread execution[https://twitter.com/eriktorenberg/status/1243820699543687170](https://twitter.com/eriktorenberg/status/1243820699543687170)  
+*“A mistake a lot of entrepreneurs make is to only focus on ideas that are definitely possible but have questionable product-market fit. These ideas have low technical risk but high product-market fit risk. I think more people should be doing the opposite: focus on ideas that are definitely valuable and questionably possible. In many ways, market risk is worse because you’re gonna do all the hard work of building the thing and no one wants it.”* - Kyle Vogt as quoted by [Shaan Puri](https://www.listennotes.com/de/podcasts/my-first-million/129-why-elon-musk-is-the-lGt2R0sOcuT/)
 
-achetyopes. If you don’t know probably both. bad spot. 
+*"Younger founders should take market risk (market that are small or doesn't exist yet). Older founders should take execution risk (market is very clear & execution, expertise, and relationships are the differentiator)."* - [Eric Torenberg](https://twitter.com/eriktorenberg/status/1243820699543687170)
 
-[https://mobile.twitter.com/stefannibrasil/status/1523827090096857097](https://mobile.twitter.com/stefannibrasil/status/1523827090096857097)
+## Lateral Thinking
 
-[https://www.swipefiles.com/articles/orb](https://www.swipefiles.com/articles/orb)
+![outside the box thinking](/images/outside-the-box.png)
+
+*"The goal of the puzzle (left) is to link all 9 dots using four straight lines or fewer, without lifting the pen and without tracing the same line more than once. All such answers (one example shown right) require the solver to draw a line that extends outside of the "box" formed by the grid."* - [Wikipedia](https://en.wikipedia.org/wiki/Thinking_outside_the_box#Nine_dots_puzzle) 
+
+*"Pretend you are driving a car in the middle of a thunderstorm and you happen upon three people on the side of the road. One of them is a frail old woman, who looks on the verge of collapse. Another is a friend who once saved your life. The other is the romantic interest of your dreams, and this is a once-in-a-lifetime opportunity to meet him or her. You have only one other seat in the car. Who do you pick up? There’s a good reason to choose any of the three. The old woman needs help. The friend deserves your payback. And clearly, a happy future with the man or woman of your dreams will have an enormous long-term impact on your life. So, who should you pick? The old woman, of course. Then, give the car keys to your friend, and stay behind with the romantic interest to wait for the bus!"* - from Smartcuts by Shane Snow
+
+See also, the [Candle Problem](https://en.wikipedia.org/wiki/Candle_problem).
+
+## Quantity Leads to Quality
+
+*"A ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the “quantity” group: fifty pound of pots rated an “A”, forty pounds a “B”, and so on. Those being graded on “quality”, however, needed to produce only one pot — albeit a perfect one — to get an “A”. Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the “quantity” group was busily churning out piles of work – and learning from their mistakes — the “quality” group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay."*
+
+Read more [here](https://austinkleon.com/2020/12/10/quantity-leads-to-quality-the-origin-of-a-parable/).
+
+## Originality through Imitation.
+
+Copying texts by great author by hand is an effective way to improve the quality of your writing. Hunter S. Thompson, for example, once hand-wrote every word of the Great Gatsby. Ben Franklin spent years copying newspaper articles.
+
+You don't learn a new musical instrument by writing your own songs. You learn other people's songs. Then, after mastering and finding what you like, you develop your own voice using the patterns you noticed in copying others.
+
+And many startups start as rather weak of imitations of existing businesses and then slowly iterate their way towards a unique value proposition. 
+
+Read more [here](https://perell.com/note/imitate-then-innovate/).
+
+
+## The ORB Framework
+
+![orb framework](/images/orb-framework.png)
+
+*"Marketing strategies and tactics can be broken down into three main categories: Owned, Rented, and Borrowed. In other words, you have lines of communications to an audience that you either own, rent, or borrow."*
+
+Read more [here](https://www.swipefiles.com/articles/orb).
