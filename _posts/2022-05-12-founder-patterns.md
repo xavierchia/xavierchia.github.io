@@ -204,3 +204,14 @@ Prioritize tasks based on how important and how urgent they are. Then:
 * Important/Not Urgent quadrant tasks get an end date and are done personally
 * Important/Urgent quadrant tasks are done immediately and personally
 
+## Sell the Experience and Benefits, not the Features
+
+![mario marketing](/images/mario-marketing.png)
+
+
+What most people do: talk endlessly about themselves, their product and its features.
+
+What they should do instead: tell customers how awesome they will be after using your product
+
+Read more [here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d).
+
