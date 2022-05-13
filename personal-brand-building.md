@@ -27,7 +27,7 @@ permalink: /personal-brand-building/
     </li>
     <li>
     <a href="/lists" class="btn-nav">Lists</a>
-          </li>
+    </li>
     <li>
       <a href="/notes" class="btn-nav">Book Notes</a>
     </li>

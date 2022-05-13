@@ -16,15 +16,6 @@ permalink: /inner-game/
     <li>
       <a  href="/essays">Show All</a>
     </li>
-        <li>
-    <a href="/lists" class="btn-nav">Lists</a>
-          </li>
-    <li>
-      <a href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
-      <a href="/profiles" class="btn-nav">Profiles</a>
-    </li>
     <li>
     <a  href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
           </li>
@@ -33,6 +24,15 @@ permalink: /inner-game/
     </li>
     <li>
       <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
+    </li>
+     <li>
+    <a href="/lists" class="btn-nav">Lists</a>
+          </li>
+    <li>
+      <a href="/notes" class="btn-nav">Book Notes</a>
+    </li>
+    <li>
+      <a href="/profiles" class="btn-nav">Profiles</a>
     </li>
   </ul>
 </div>
