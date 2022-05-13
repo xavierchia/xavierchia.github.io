@@ -157,4 +157,36 @@ There was a board game that was Monopoly for failed 90s ideas. The "stupid" fail
 
 *"Go broad by knowing the basics including pros/cons of most channels.  Then choose to go really deep on a couple channels.  Generalists are useless in most work environments.  As an expert in certain areas you will be able to build a brand around yourself and stand out from the crowd."* -  [Brian Balfour](https://brianbalfour.com/essays/customer-acquisition)
 
+## The founder is the surfer
 
+* the founder is the surfer
+*  the product is the surfboard
+* the market is the wave
+
+The wave matters most. A good surfer on a bad wave is screwed.
+
+Read more [here](https://justinjackson.ca/surfing). 
+
+## Functioning complex are not designed but emerge
+
+*"A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system."* - John Gall in his book Systemantics
+
+## Working Backwards
+
+Working Backwards is an approach popularized by Amazon. Employees start projects by writing the press release and FAQs.
+
+The same approach can be applied in many variations for all kinds of projects. 
+
+For example, witers can work backwards too. Write the tweet people will use to share your article before you write the article itself.
+
+Read more [here](https://commoncog.com/blog/working-backwards/).
+
+## Avoid the Middle
+
+In many areas it's a lot smarter to focus on the extremes than trying a more balanced approach. 
+
+![barbell strategy](/images/barbell.png)
+
+For example, learn from cheap books and free articles or high-end premium courses that offer 1-1 support and live QnA sessions. Anything in-between is a waste of money.
+
+When comes to businesses, do tiny experiments or go all in. Anything in-between is a waste of time.
