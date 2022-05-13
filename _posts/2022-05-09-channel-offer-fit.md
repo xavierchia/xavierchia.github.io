@@ -34,7 +34,7 @@ So... what are you gonna do? How can you reach that magical state called product
 
 The concept is far too abstract to offer any kind of practical guidance. 
 
-The term product/market fit invokes the picture of founders miraculously discovering what this big diffuse thing called market wants by tweaking their product. 
+The term product/market fit invokes the picture of founders miraculously discovering what this big diffuse thing called market wants by tweaking their product. To test how the "market" responds they make a bunch of diffuse noise by posting on Product Hunt, Twitter, and trying to get some press mentions. If that doesn't work out, they change their product and try again. 
 
 What really is the market? Is it people? Is it businesses? Is it something driven by a magical, invisible hand? And are we talking about the one big, universal market or individual smaller-scale markets?
 
