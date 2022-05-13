@@ -49,20 +49,17 @@ image: /images/default.jpg
 
   {% for post in site.categories.lists %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
 
 
-**Other People's Lists**
+ <h1>Other People's Lists</h1>
 
 * [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 * [Activities with (positive) asymmetric returns](https://blog.tjcx.me/p/activities-with-positive-asymmetric)
