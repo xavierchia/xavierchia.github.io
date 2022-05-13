@@ -4,7 +4,7 @@ published: true
 layout: post
 permalink: personal-productivity
 image: /images/default.jpg
-categories: inner-game
+categorys:  [inner-game,productivity]
 
 
 ---
