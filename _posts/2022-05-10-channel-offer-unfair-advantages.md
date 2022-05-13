@@ -5,6 +5,7 @@ layout: post
 permalink: channel-offer-unfair-advantages
 excerpt: Just as it makes sense to replace the world “market” with “channel” and the word “product” with “offer”, it makes sense to replace the word “founder” with something less vague. 
 image: /images/default.png
+categories: entrepreneurship
 ---
 
 I’ve argued [before](https://jakobgreenfeld.com/channel-offer-fit) that founders are better off focusing on channel/offer fit instead of the much less tangible concept of product/market fit. 
