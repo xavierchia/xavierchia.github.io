@@ -37,7 +37,7 @@ permalink: /profiles/
       <a  href="/notes" class="btn-nav">Book Notes</a>
     </li>
     <li>
-      <a class="is-active" href="/profiles" class="btn-nav">Profiles</a>
+      <a class="is-active" href="/profiles" >Profiles</a>
     </li>
   </ul>
 </div>

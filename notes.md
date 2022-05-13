@@ -32,7 +32,7 @@ permalink: /notes/
     <a href="/lists" class="btn-nav">Lists</a>
     </li>
     <li>
-      <a class="is-active" href="/notes" class="btn-nav">Book Notes</a>
+      <a class="is-active" href="/notes">Book Notes</a>
     </li>
     <li>
       <a href="/profiles" class="btn-nav">Profiles</a>
