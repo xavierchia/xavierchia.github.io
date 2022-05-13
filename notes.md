@@ -52,10 +52,6 @@ permalink: /notes/
     </article>
   {% endfor %}
 
-  <article class="post">
-  <h1>Legend</h1>
-    <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps</p>
-  </article>
+  
 </div>
 
