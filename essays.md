@@ -10,6 +10,30 @@ permalink: /essays/
     <p>🧠 Raw brain dumps</p>
   </article>
 
+
+<div class="cat-nav">
+  <ul>
+    <li>
+      <a class="is-active" href="/essays">Show All</a>
+    </li>
+        <li>
+    <a href="/lists" class="btn-nav">Lists</a>
+          </li><li>
+    <a href="/notes" class="btn-nav">Notes</a>
+          </li><li>
+    <a href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>
+          </li>
+    <li>
+      <a href="/inner-game" class="btn-nav">Inner Game</a>
+    </li>
+    <li>
+      <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
+    </li>
+  </ul>
+</div>
+
+  
+
   {% for post in site.posts %}
   {% unless post.categories contains "notes" or post.categories contains "lists"%}
     <article class="post">

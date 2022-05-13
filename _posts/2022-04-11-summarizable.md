@@ -8,15 +8,11 @@ image: /images/default.png
 ---
 
 
-Today, my friend, is a good day.
-
-Why?
-
-Well, I just identified *the* bottleneck that’s limiting faster growth of both my personal brand and my various projects. 
+I just identified *the* bottleneck that’s limiting faster growth of both my personal brand and my various projects. 
 
 In short, the problem is that neither my personal brand nor my products are easily summarizable. 
 
-And I’m definitely not the only one struggling with this. Everyone wants to be a generalist. We all like to [shout](https://poets.org/poem/song-myself-51): “I am large, I contain multitudes.” And we definitely don’t want to limit the number of potential customers. 
+And I’m definitely not the only one struggling with this. Everyone wants to be a generalist. We tend to think if we're not trying to be all things to all people we'll miss out.
 
 But the price for having a brand that’s all over the place is high. 
 

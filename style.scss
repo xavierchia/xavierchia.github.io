@@ -13,7 +13,36 @@
 /* BASE RULES */
 /**************/
 
+body.blog .cat-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
 
+.cat-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  padding-left: 0;
+}
+
+.is-active {
+  color: #EC4840;
+}
+
+
+li {
+  margin: 0 6px 12px;
+}
+
+.cat-nav ul li a {
+  font-size: 12px;
+  color: #fff;
+  font-weight: 700;
+  background-color: #000;
+  padding: 0.5rem 2rem;
+}
 
 .lightbox {
   display: none;
