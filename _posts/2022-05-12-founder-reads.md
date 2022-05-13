@@ -8,7 +8,7 @@ image: /images/default.png
 categories: lists
 ---
 
-There are exactly three kinds of entrepreneurial content I find useful:
+There are three kinds of entrepreneurial content I find useful:
 
 • Earned Insights. (I did X. Here's what I learned.)
 • Deep Profiles. (He/She/They did X. Here's how.)
