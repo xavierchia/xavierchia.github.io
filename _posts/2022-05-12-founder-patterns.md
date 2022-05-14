@@ -28,7 +28,7 @@ Unfair advantages exist. Instead of whining about how unfair the world is, you�
 Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 
 
-*"“The kitchen sink approach doesn’t work. Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
+*"“Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
 
 
 
@@ -56,7 +56,9 @@ There are four forms of leverage:
 
 *“Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes.” - [Chris Dixon](https://cdixon.org/2013/08/04/the-idea-maze)*
 
-![startup curve](/images/idea-maze.png)
+![the idea maze](/images/idea-maze.png)
+
+Image Credit: [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
 
 
 ## Fuckarounditis
@@ -89,10 +91,12 @@ Read more [here](https://taylorpearson.me/overconfidence-bias/), [here](http://j
 
 ![dunning-kruger curve](/images/dunning-kruger.png)
 
+Image Credit: [Wikipedia](https://en.wikipedia.org/wiki/Dunning–Kruger_effect)
+
 
 ## Product Market Fit
 
-![dunning-kruger curve](/images/product-market-inflection.png)
+![product market fit](/images/product-market-inflection.png)
 
 ## X for Y Startups
 
