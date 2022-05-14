@@ -1,5 +1,5 @@
 ---
-title: Favorite Founder Patterns
+title: Founder Patterns
 published: true
 layout: post
 permalink: founder-patterns
@@ -28,9 +28,13 @@ Unfair advantages exist. Instead of whining about how unfair the world is, you�
 Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 
 
-*"“Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
+*"Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
 
+## Tugboats vs. Smooth Sailors
 
+*"One of my main observations is that there are certain companies where growth seems to come easily, like guiding a boulder down hill. These companies grow despite having organizational chaos, not executing the “best” growth practices, and missing low hanging fruit. I refer to these companies as Smooth Sailers - a little effort for lots of speed. In other companies, growth feels much harder. It feels like pushing a boulder up hill. Despite executing the best growth practices, picking the low hanging fruit, and having a great team, they struggle to grow. I refer to these companies as Tugboats - a lot of effort for little speed."* - [Brian Balfour](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
+
+*"I’ve launched quite a bunch of projects in the past, with Headlime being the most successful. It was a success the day it launched and kept holding that traction until the day it got acquired. You can sense a success story when it’s happening."* - [Danny Postma](https://twitter.com/dannypostmaa/status/1503651781426888706)
 
 ## Leverage
 
@@ -86,6 +90,13 @@ Everyone underestimates how much complexity is hidden beneath the surface of eve
 The same phenomenon occurs when it comes to businesses. On the surface many business models are trivially easy to understand. Hubspot makes software to send emails to your customers. But why then, did it take them hundreds of iterations until they found that specific sweetspot with product/market fit? And why does a company like Google or Twitter need thousands of employees? Hosting and maintaining website is not that hard, right? (See the discussion [here](https://news.ycombinator.com/item?id=30926834) for examples.)
 
 Read more [here](https://taylorpearson.me/overconfidence-bias/), [here](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail), and [here](https://meaningness.com/understanding).
+
+## The Product Death Cycle
+
+![dunning-kruger curve](/images/death-cycle.png)
+
+Read more [here](https://andrewchen.com/this-is-the-product-death-cycle-why-it-happens-and-how-to-break-out-of-it/).
+
 
 ## The Dunning-Kruger Curve
 

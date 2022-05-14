@@ -1,5 +1,5 @@
 ---
-title: Favorite Founder Reads
+title: Founder Reads
 published: true
 layout: post
 permalink: founder-reads
