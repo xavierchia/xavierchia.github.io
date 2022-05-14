@@ -28,7 +28,7 @@ Unfair advantages exist. Instead of whining about how unfair the world is, you�
 Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 
 
-*"Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
+*"“You probably won’t have a bunch of equally good distribution strategies. Engineers frequently fall victim to this because they do not understand distribution. Since they don’t know what works, and haven’t thought about it, they try some sales, BD, advertising, and viral marketing—everything but the kitchen sink. That is a really bad idea. It is very likely that one channel is optimal. Most businesses actually get zero distribution channels to work. Poor distribution—not product—is the number one cause of failure. If you can get even a single distribution channel to work, you have great business. If you try for several but don’t nail one, you’re finished. So it’s worth thinking really hard about finding the single best distribution channel.”"* - Peter Thiel in Zero to One
 
 ## Tugboats vs. Smooth Sailors
 
