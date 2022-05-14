@@ -9,9 +9,9 @@ categories: lists
 ---
 
 
-The main difference between experienced and less experienced founders is that they have larger repertoire of patterns to refer to. Call them frameworks, patterns, whatever. 
+The main difference between experienced and less experienced founders is that they have larger repertoire of patterns to refer to. Call them frameworks, mental models, whatever. 
 
-When the initial excitement fades, beginners start to panic but experienced founders know that this is just the usual trough of sorrow. They greet it like an old friend and stay focused. 
+For example, when the initial excitement fades, beginners start to panic but experienced founders know that this is just the usual trough of sorrow. They greet it like an old friend and stay focused. 
 
 And the good news is that you don’t have to figure out everything yourself. Many generous founders that came before you did all the hard work of distilling thousands of hours of research and years of real-work experience into concise patterns you can upload into your brain in just a few hours. 
 
@@ -20,6 +20,17 @@ Here are the one’s I find the most useful:
 ## Unfair Advantages
 
 Unfair advantages exist. Instead of whining about how unfair the world is, you’re better off focusing on your own unfair advantages and coming up with a plan to add more to your repertoire. 
+
+## Distribution follows a power law
+
+![Distribution follows a power law](/images/distribution_power_law.jpeg)
+
+Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fit-for-growth)
+
+
+*"“The kitchen sink approach doesn’t work. Most companies get zero distribution channels to work. If you get just one channel to work you have a great business. If you try for several but don’t nail one, you’re finished. Distribution follows the power law."* - Peter Thiel in Zero to One
+
+
 
 ## Leverage
 
@@ -93,13 +104,13 @@ Read more [here](https://andrewchen.com/x-for-y-startup-ideas/).
 
 ## Constrains breed Creativity
 
-Most people struggle when they're asked to write down three ideas.
+Most people struggle when they're asked to write down three ideas.But if ask you to come up with two product ideas that would help local bakerys attract more customers, I bet you could do it. 
 
-But if ask you to come up with two product ideas that would help local bakerys attract more customers, I bet you could do it. 
+Writing an essay is a hard for most people. But writing 300 words about how the rise of AirBnb is very doable (with a bit of research).
 
-Writing an essay is a hard for most people.
+When I ask you to tell a joke, it’s kind of hard. But when I ask you to tell a “knock-knock joke”, it’s kind of easier. 
 
-But writing 300 words about how the rise of AirBnb is very doable (with a bit of research).
+Constraint make it easier to be creative.
 
 So the next time you're struggling to come up with ideas, add constraints. If you're struggling to come up with answers, make the question more specific. If you're struggling to come up with solutions, consider the problem in the context of all limits you're operating within.
 
@@ -250,4 +261,16 @@ Every system is limited by various constraints but will, by definition, have one
 
 The implication of the Theory of Constraints, as Eliyahu Goldratt describes in *[The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610)*, is that the performance of any system is fundamentally limited by the output of the bottleneck. Thus, no change to the system will result in overall improvement unless that change addresses the bottleneck.
 
+## Productivity Math
 
+An hour at the gym nets you more than an hour of productivity throughout the rest of your day.
+
+The same applies to meditation, recharging with music, and getting 8 hours of sleep instead of 7 hours.
+
+The time it takes to do these things literally pays for themselves. 
+
+They give you more energy in the evenings which otherwise would’ve been useless. You’ll be more focused, able to accomplish more and have a better time in the process.
+
+## Operations
+
+*"My definition of operations: the coordination of tactics over time. Tactics are individual actions. For running: long runs, short runs, speed work, walking, leg strengthening, stretching, hydration, foam roller, keeping your stats and making a running plan, active recovery, cross-training. Any of those can be good, but you can do a lot of damage by over-training or not healing enough. Too much unbalanced action and you can break down; not enough cohesion among your actions and you get middling trivial gains. That’s where operational skill comes in. It’s about those seemingly basic but utterly critical skills: scheduling, planning things out, communicating, checking and making adjustments periodically, etc. Much of our exploration of Upstream Effects has explored ideas for having better operations, but going a step further, I encourage you to see this as a discipline and train in it. It’s as simple as saying, “Ok, how do I ensure that all the right action happens over time? Over the next weeks, months, and even a year?”* - [Sebastian Marshall](https://medium.com/the-strategic-review/background-ops-5-the-nature-of-operations-eb8555059e48)
