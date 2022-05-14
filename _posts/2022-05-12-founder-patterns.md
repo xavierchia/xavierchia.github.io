@@ -102,6 +102,10 @@ In terms of a growth curve, it looks similar to this:
 Read more [here](https://andrewchen.com/this-is-the-product-death-cycle-why-it-happens-and-how-to-break-out-of-it/).
 
 
+# Startups take off because the founders make them take off
+
+*“One of the most common types of advice we give at Y Combinator is to do things that don’t scale. A lot of would-be founders believe that startups either take off or don’t. You build something, make it available, and if you’ve made a better mousetrap, people beat a path to your door as promised. Or they don’t, in which case the market must not exist. Actually startups take off because the founders make them take off... The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can’t wait for users to come to you. You have to go out and get them.”* -  Paul Graham in his essay [Do Things that Don’t Scale](http://paulgraham.com/ds.html)
+
 ## The Dunning-Kruger Curve
 
 ![dunning-kruger curve](/images/dunning-kruger.png)
