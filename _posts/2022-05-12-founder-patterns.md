@@ -93,7 +93,11 @@ Read more [here](https://taylorpearson.me/overconfidence-bias/), [here](http://j
 
 ## The Product Death Cycle
 
-![dunning-kruger curve](/images/death-cycle.png)
+![The Product Death Cycle](/images/death-cycle.png)
+
+In terms of a growth curve, it looks similar to this:
+
+![The Product Death Cycle Growth ](/images/death-cycle2.png)
 
 Read more [here](https://andrewchen.com/this-is-the-product-death-cycle-why-it-happens-and-how-to-break-out-of-it/).
 
