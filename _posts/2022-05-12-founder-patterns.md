@@ -136,7 +136,19 @@ In terms of a growth curve, it looks similar to this:
 Read more [here](https://andrewchen.com/this-is-the-product-death-cycle-why-it-happens-and-how-to-break-out-of-it/).
 
 
-# Startups take off because the founders make them take off
+## Moats
+
+![Moats](/images/moats.png)
+
+*"Value is created through innovation, but how much of that value accrues to the innovator depends partly on how quickly their competitors imitate the innovation. Innovators must deter competition to get some of the value they created. These ways of deterring competition are called, in various contexts, barriers to entry, sustainable competitive advantages, or, colloquially, moats."* - Jerry Neuman
+
+Read more [here](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html).
+
+## Categories converge
+
+"Categories tend to converge on value props, features, messaging, and even design over time. It's why every SaaS website looks exactly the same.  This means you need to reinvent yourself on a consistent cycle.  When a category converges, there tends to be an audience looking for something completely different. One of many ways to find this open space is to ask what the opposite is."* - [Brian Balfour](https://brianbalfour.com/quick-takes/doing-the-opposite)
+
+## Startups take off because the founders make them take off
 
 *“One of the most common types of advice we give at Y Combinator is to do things that don’t scale. A lot of would-be founders believe that startups either take off or don’t. You build something, make it available, and if you’ve made a better mousetrap, people beat a path to your door as promised. Or they don’t, in which case the market must not exist. Actually startups take off because the founders make them take off... The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can’t wait for users to come to you. You have to go out and get them.”* -  Paul Graham in his essay [Do Things that Don’t Scale](http://paulgraham.com/ds.html)
 
