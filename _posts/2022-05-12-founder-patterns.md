@@ -30,6 +30,13 @@ Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fi
 
 *"You probably won’t have a bunch of equally good distribution strategies. Engineers frequently fall victim to this because they do not understand distribution. Since they don’t know what works, and haven’t thought about it, they try some sales, BD, advertising, and viral marketing—everything but the kitchen sink. That is a really bad idea. It is very likely that one channel is optimal. Most businesses actually get zero distribution channels to work. Poor distribution—not product—is the number one cause of failure. If you can get even a single distribution channel to work, you have great business. If you try for several but don’t nail one, you’re finished. So it’s worth thinking really hard about finding the single best distribution channel."* - Peter Thiel in Zero to One
 
+## High Agency vs. Low Agency
+
+![startup curve](/images/high-agency.jpeg)
+
+
+*"High Agency is a sense that the story given to you by other people about what you can/cannot do is just that - a story. And that you have control over the story. High Agency person looks to bend reality to their will. They either find a way, or they make a way. Low agency person acepts the story that is given to them. They never question it. They are passive. They outsource all of their decision making to other people."* - [George Mack](https://twitter.com/george__mack/status/1068238562443841538?lang=en-GB)
+
 ## Tugboats vs. Smooth Sailors
 
 *"One of my main observations is that there are certain companies where growth seems to come easily, like guiding a boulder down hill. These companies grow despite having organizational chaos, not executing the “best” growth practices, and missing low hanging fruit. I refer to these companies as Smooth Sailers - a little effort for lots of speed. In other companies, growth feels much harder. It feels like pushing a boulder up hill. Despite executing the best growth practices, picking the low hanging fruit, and having a great team, they struggle to grow. I refer to these companies as Tugboats - a lot of effort for little speed."* - [Brian Balfour](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
