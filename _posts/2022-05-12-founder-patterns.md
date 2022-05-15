@@ -113,6 +113,10 @@ There is oftentimes a lot of room even after you created content to pick a hook 
 
 Lear more [here](https://www.youtube.com/watch?v=fN1kLxB1JIc)
 
+## The one sentence persuasion course
+
+*"People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions, and help them throw rocks at their enemies."* - Blair Warren
+
 ## Reality has a surprising amount of details
 
 Everyone underestimates how much complexity is hidden beneath the surface of even the most trivial things like a can opener. Everyone feels confident to draw a diagram or write out an explanation how a can opener works. But if you’re actually trying to do this and then read a [description of how a can opener actually works](https://sciencing.com/mechanism-description-of-a-manual-can-opener-12587926.html) or [look at this diagram](https://taylorpearson.me/can-opener-diagram/), you will quickly notice how naive your understanding really is. 
