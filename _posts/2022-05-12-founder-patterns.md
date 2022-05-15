@@ -19,7 +19,9 @@ Here are the one’s I find the most useful:
 
 ## Unfair Advantages
 
-Unfair advantages exist. Instead of whining about how unfair the world is, you’re better off focusing on your own unfair advantages and coming up with a plan to add more to your repertoire. 
+[Unfair advantages](https://jakobgreenfeld.com/channel-offer-unfair-advantages) exist. 
+
+Instead of whining about how unfair the world is, you’re better off focusing on your own unfair advantages and coming up with a plan to add more to your repertoire. 
 
 ## Distribution follows a power law
 
@@ -89,6 +91,27 @@ It’s a term coined by Steven Pressfield in his book The War of Art to define t
 Everyone experiences The Resistance. But the one thing successful people understand that other’s don’t is that you can apply a simple Jiu-Jitsu trick to turn The Resistance into a positive force in your live. 
 
 Instead of stopping whenever The Resistance shows up, you can embrace it by treating it as a compass that helps you figure out what direction you should be moving in. The most progress is usually found in directions where you experience the biggest Resistance.
+
+## Viral Emotions
+
+Viral content is about emotion not information. If you want to create content that gets spread wide and far you should spend a lot of time thinking about what viral emotion you want to trigger with it. The most successful content creatores reverse engineer the emotion they want the audience to feel.
+
+List of viral emotions:
+
+* WOW: that's amazing!
+* LOL: that's so funny
+* FINALLY: someone said it!
+* WTF: that pisses me off!
+* YAY: that's great news!
+* AWW:  so cute
+* HAHA: so true!
+* EPIC: trick shots
+* NSFW: that's crazy!
+* OHH: now I get it!
+
+There is oftentimes a lot of room even after you created content to pick a hook (first tweet in a thraed on Twitter, article headline, YouTube thumbnail) that triggers a specific emotion.
+
+Lear more [here](https://www.youtube.com/watch?v=fN1kLxB1JIc)
 
 ## Reality has a surprising amount of details
 
