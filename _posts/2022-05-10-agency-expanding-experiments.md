@@ -25,6 +25,7 @@ Here’s an ever-growing list of my favorite agency expanding experiments:
 - Host small virtual gathering or conference on topic I care about
 - Host small offline gathering or conference on topic I care about
 - Ask a stranger for help.
+- Send a message to 5 people you lost contact with. Check their social profile, personal website, and read or watch any content they published. Then share a few thoughts or questions. Or simply ask: *"Hey, hope you're doing well! What are you up to these days?"*
 - Write a message to your favorite author.
 - Write a message to every single person who’s work you found useful at a given day to say thanks.
 - Cancel all of your subscriptions.
