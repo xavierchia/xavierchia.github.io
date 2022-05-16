@@ -73,7 +73,7 @@ For example, you can increase your **luck surface area** by dressing well, publi
 
 *"I’ve launched quite a bunch of projects in the past, with Headlime being the most successful. It was a success the day it launched and kept holding that traction until the day it got acquired. You can sense a success story when it’s happening."* - [Danny Postma](https://twitter.com/dannypostmaa/status/1503651781426888706)
 
-## Leverage
+## Four Forms Of Leverage 
 
 Levers are force multipliers. They are the reason why some people can accomplish 10, 100x, or 1,000,000x what others can.
 
