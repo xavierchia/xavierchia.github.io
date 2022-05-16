@@ -148,16 +148,18 @@ Read more [here](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html).
 
 Bad ideas can succeed with the right execution. 
 
-* How about a new soft drink that tastes considerably worse than Coke, comes in a much smaller can, and costs twice as much? Bad idea and still Red Bull generates billions of dollars in revenue.
+* How about a new soft drink that tastes considerably worse than Coke, comes in a much smaller can, and costs twice as much? Definitely a bad idea. And still Red Bull generates billions of dollars in revenue.
 * How about a comic strip that is literally a bunch of stick figures? It will be called XKCD and have no discernable characters. Another comically bad idea and still XKCD is the most viewed comic on the Internet.
 
-And even the best idea that can fail if the execution is done wrong. 
+On the flipside, even the best idea that can fail if the execution is done wrong. 
+
+* [Tom Cleveland](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r) had the following brilliant startup idea: use a structured database of clinical trials to provide simple, practical answers to common medical questions. Everyone agreed that this is a brillant idea. But nevertheless it failed within less than a year.
 
 Hence [Derek Sivers](https://sive.rs/multiply) suggests to consider the following numbers:
 
 ![Idea Math](/images/idea-math.png)
 
-The result is always the product of these two factors. A brillant idea with no execution is worth maybe around $20. A good idea with good execution is worth $1,000,000, and only when a brilliant idea is paired with brilliant execution, you end up with a billion dollar company.
+The outcome is always the result of these two factors. A brillant idea with no execution is worth maybe around $20. A good idea with good execution is worth $1,000,000, and only when a brilliant idea is paired with brilliant execution, you end up with a billion dollar company.
 
 
 
