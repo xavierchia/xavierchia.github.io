@@ -144,6 +144,23 @@ Read more [here](https://andrewchen.com/this-is-the-product-death-cycle-why-it-h
 
 Read more [here](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html).
 
+## Ideas are Force Multipliers
+
+Bad ideas can succeed with the right execution. 
+
+* How about a new soft drink that tastes considerably worse than Coke, comes in a much smaller can, and costs twice as much? Bad idea and still Red Bull generates billions of dollars in revenue.
+* How about a comic strip that is literally a bunch of stick figures? It will be called XKCD and have no discernable characters. Another comically bad idea and still XKCD is the most viewed comic on the Internet.
+
+And even the best idea that can fail if the execution is done wrong. 
+
+Hence [Derek Sivers](https://sive.rs/multiply) suggests to consider the following numbers:
+
+![Idea Math](/images/idea-math.png)
+
+The result is always the product of these two factors. A brillant idea with no execution is worth maybe around $20. A good idea with good execution is worth $1,000,000, and only when a brilliant idea is paired with brilliant execution, you end up with a billion dollar company.
+
+
+
 ## Categories converge
 
 "Categories tend to converge on value props, features, messaging, and even design over time. It's why every SaaS website looks exactly the same.  This means you need to reinvent yourself on a consistent cycle.  When a category converges, there tends to be an audience looking for something completely different. One of many ways to find this open space is to ask what the opposite is."* - [Brian Balfour](https://brianbalfour.com/quick-takes/doing-the-opposite)
