@@ -1,5 +1,5 @@
 ---
-title: A success secret called operating permissionless
+title: You don't need anyone's permission to succeed
 published: true
 layout: post
 permalink: founder-patterns
