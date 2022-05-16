@@ -41,6 +41,18 @@ Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fi
 
 *"High Agency is a sense that the story given to you by other people about what you can/cannot do is just that - a story. And that you have control over the story. High Agency person looks to bend reality to their will. They either find a way, or they make a way. Low agency person acepts the story that is given to them. They never question it. They are passive. They outsource all of their decision making to other people."* - [George Mack](https://twitter.com/george__mack/status/1068238562443841538?lang=en-GB)
 
+High agency is directly linked to [acting without asking for permission](/operating-permissionless).
+
+## Engineering Serendipity and Zemblanity
+
+*“The setup is strategy, the act of stacking the odds in your favor. Life is a game. Like any game, you must have a good strategy to win. The implementation of that strategy is called the setup, and it paves the road to success.”* - [Dan Bilzerian](https://jakobgreenfeld.com/the-setup-dan-bilzerian)
+
+Serendipity is generally defined as a condition of being surprisingly lucky. Zemblanity is the opposite: a condition of being unsurprisingly unlucky. This is marked by a sense of impending doom that turns out to be completely justified.
+
+The smartest people realize that there are many ways to engineer serendipity. 
+
+For example, you can increase your **luck surface area** by dressing well, publishing your thoughts online, and sending cold messages. 
+
 ## Tugboats vs. Smooth Sailors
 
 *"One of my main observations is that there are certain companies where growth seems to come easily, like guiding a boulder down hill. These companies grow despite having organizational chaos, not executing the “best” growth practices, and missing low hanging fruit. I refer to these companies as Smooth Sailers - a little effort for lots of speed. In other companies, growth feels much harder. It feels like pushing a boulder up hill. Despite executing the best growth practices, picking the low hanging fruit, and having a great team, they struggle to grow. I refer to these companies as Tugboats - a lot of effort for little speed."* - [Brian Balfour](https://brianbalfour.com/essays/product-market-fit-isnt-enough)
