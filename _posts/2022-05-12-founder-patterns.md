@@ -13,9 +13,11 @@ The main difference between experienced and less experienced founders is that th
 
 For example, when the initial excitement fades, beginners start to panic but experienced founders know that this is just the usual trough of sorrow. They greet it like an old friend and stay focused. 
 
-And the good news is that you don’t have to figure out everything yourself. Many generous founders that came before you did all the hard work of distilling thousands of hours of research and years of real-work experience into concise patterns you can upload into your brain in just a few hours. 
+And the good news is that you don’t have to figure out everything yourself. You don't have to analyze thousands of companies or founder biographies. 
 
-Here are the one’s I find the most useful:
+Instead, you can simply upload the patterns others have identified directly into your brain. 
+
+Here are the one’s I find repeatedly useful:
 
 ## Unfair Advantages
 
@@ -117,6 +119,26 @@ Lear more [here](https://www.youtube.com/watch?v=fN1kLxB1JIc)
 
 *"People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions, and help them throw rocks at their enemies."* - Blair Warren
 
+## A winner is someone who can build snowmobiles
+
+Think of four seemingly unrelated mechanical systems:
+* a set of snow skis, 
+* a boat with an outboard motor, 
+* a bicycle, 
+* an earthmover. 
+
+Now try to mentally deconstructing these into their component parts and selectively re-combining parts from each to for a new useful “whole” that would not otherwise exist.
+
+If we discard the bindings and poles from the snow-skis, retaining only the "boards", from the outboard boat retain only the gasoline-powered motor, from the bicycle only the handlebars, and from the earthmover, a tread, we can recombined these concepts (the functions of the different parts) to
+form... a snowmobile!
+
+John Boyd liked to separate people into two types: those who could conceive and build snowmobiles, and
+those who couldn't. 
+
+*“A loser is someone (individual or group) who cannot build snowmobiles when facing uncertainty and
+unpredictable change; whereas a winner is someone who can build snowmobiles and employ them in
+appropriate fashion, when facing uncertainty and unpredictable change.”* - John Boyd
+
 ## Reality has a surprising amount of details
 
 Everyone underestimates how much complexity is hidden beneath the surface of even the most trivial things like a can opener. Everyone feels confident to draw a diagram or write out an explanation how a can opener works. But if you’re actually trying to do this and then read a [description of how a can opener actually works](https://sciencing.com/mechanism-description-of-a-manual-can-opener-12587926.html) or [look at this diagram](https://taylorpearson.me/can-opener-diagram/), you will quickly notice how naive your understanding really is. 
@@ -160,7 +182,6 @@ Hence [Derek Sivers](https://sive.rs/multiply) suggests to consider the followi
 ![Idea Math](/images/idea-math.png)
 
 The outcome is always the result of these two factors. A brillant idea with no execution is worth maybe around $20. A good idea with good execution is worth $1,000,000, and only when a brilliant idea is paired with brilliant execution, you end up with a billion dollar company.
-
 
 
 ## Categories converge
