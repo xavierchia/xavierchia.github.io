@@ -1,8 +1,8 @@
 ---
-title: You don't need anyone's permission to succeed
+title: ⭐️ You don't need anyone's permission to succeed
 published: true
 layout: post
-permalink: founder-patterns
+permalink: operating-permissionless
 excerpt: All of my big successes had one thing in common. I acted without asking for permission.
 image: /images/default.png
 categories: [inner-game,entrepreneurship,personal-brand-building]
@@ -14,6 +14,7 @@ I acted without asking for permission.
 
 *Here's the story of how a tiny mindset shift unlocked a whole new world of opportunities.*
 
+Let's start with the following observation. 
 
 * There are people who always seek permission for everything. You know, the ones who even ask “Hey can I ask you a question?”.
 * And on the other hand, we have people who operate permissionless. Their maxim is that it's easier to ask for forgiveness than permission.
@@ -34,7 +35,10 @@ Now I of course could’ve tried reaching out to Andrew, asking him what he thin
 
 He probably wouldn’t have replied and this would have discouraged me from pursuing the idea further. Instead, I simply built an MVP, got a simple landing page online and launched the project. 
 
-This got Andrew’s attention and he [tweeted](https://twitter.com/awilkinson/status/1322263313095389184): “This is awesome.” The launch was a success and I later sold the project to Micro Acquire founder Andrew Gazdecki.
+This got Andrew’s attention and he [tweeted](https://twitter.com/awilkinson/status/1322263313095389184): “This is awesome.” 
+
+
+The launch was a success and I later sold the project to Micro Acquire founder Andrew Gazdecki.
 
 None of this would’ve happened with a permission-first mindset.
 
