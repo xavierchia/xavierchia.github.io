@@ -83,6 +83,14 @@ This is oftentimes a [waste of time](https://jakobgreenfeld.com/build_an_audienc
 
 The best way to apply for a job nowadays is by demonstrating what you can do for the company directly. You don’t need anyone’s permission to create a redesign of their landing page, to create a detailed [research report on opportunities they’re overlooking](https://www.businessinsider.com/nina-mufleh-airbnb-resume-2015-4?r=US&IR=T), or to [suggest ways how someone can improve their workflow](https://twitter.com/optemized/status/1323322418157420550).
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AirPods Redesign <a href="https://t.co/hqSsejB2lz">pic.twitter.com/hqSsejB2lz</a></p>&mdash; Fabian Arbor (@fabianarbor) <a href="https://twitter.com/fabianarbor/status/1364216914457804803?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+You can write detailed profiles without asking for permission. [Polina](https://theprofile.substack.com) is doing an incredible job at this and it [worked nicely for me as well](https://twitter.com/jakobgreenfeld/status/1505938847258927115).
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big mahalo 🙏🏾🌺 to <a href="https://twitter.com/polina_marinova?ref_src=twsrc%5Etfw">@polina_marinova</a> for her Profile Dossier on my 56th favorite subject - myself. <br>I really enjoyed this read and think you all will too - especially the parts about my arrests as a teen for theft, fighting and check fraud 🤦🏽‍♂️<br>Enjoy 👇🏾👇🏾<a href="https://t.co/o6BPP0oUbb">https://t.co/o6BPP0oUbb</a></p>&mdash; Dwayne Johnson (@TheRock) <a href="https://twitter.com/TheRock/status/1342253035087560704?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This is an amazing way to connect with people you admire who most likely would ignore your request before you put in the work.
+
 But the most harmful way how the permission-first mindset manifests is that it tricks people into attending university. 
 
 They want to be entrepreneurs and decide to enroll in business classes.
