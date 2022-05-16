@@ -88,9 +88,9 @@ The best way to apply for a job nowadays is by demonstrating what you can do for
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">AirPods Redesign <a href="https://t.co/hqSsejB2lz">pic.twitter.com/hqSsejB2lz</a></p>&mdash; Fabian Arbor (@fabianarbor) <a href="https://twitter.com/fabianarbor/status/1364216914457804803?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> 
 
-Jack Butcher calls this the permissionless apprenticeship approach.
+Jack Butcher calls this the [permissionless apprenticeship approach](https://twitter.com/jackbutcher/status/1261139777061113858).
 
-It's what kickstarted his entire business. Without asking for permission, he started creating illustrations for other people's quotes and ideas who, in turn, then helped spread the word.
+It's what kickstarted his entire business. Without asking for permission, he started creating illustrations around other people's quotes and ideas who then helped spread the word.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Know your ABZs:<br><br>A: Where you are<br>B: Your next step<br>Z: Your end goal<br><br>— <a href="https://twitter.com/ShaanVP?ref_src=twsrc%5Etfw">@ShaanVP</a> <a href="https://t.co/xcHjlAOof2">pic.twitter.com/xcHjlAOof2</a></p>&mdash; jckbtchr (@jackbutcher) <a href="https://twitter.com/jackbutcher/status/1343732490259861504?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote> 
 
