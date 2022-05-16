@@ -35,6 +35,9 @@ Now I of course could’ve tried reaching out to Andrew, asking him what he thin
 
 He probably wouldn’t have replied and this would have discouraged me from pursuing the idea further. Instead, I simply built an MVP, got a simple landing page online and launched the project. 
 
+![Product Explorer](/images/product-explorer.png)
+
+
 *This* got Andrew’s attention:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *awesome*. If you need a business idea, go here: <a href="https://t.co/QZSgDEfQFg">https://t.co/QZSgDEfQFg</a></p>&mdash; Andrew Wilkinson (@awilkinson) <a href="https://twitter.com/awilkinson/status/1322263313095389184?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -42,7 +45,6 @@ He probably wouldn’t have replied and this would have discouraged me from purs
 
 The launch was a success and I later sold the project to Micro Acquire founder Andrew Gazdecki.
 
-![Product Explorer](/images/product-explorer.png)
 
 
 None of this would’ve happened with a permission-first mindset.
