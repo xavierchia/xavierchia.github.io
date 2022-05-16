@@ -35,12 +35,15 @@ Now I of course could’ve tried reaching out to Andrew, asking him what he thin
 
 He probably wouldn’t have replied and this would have discouraged me from pursuing the idea further. Instead, I simply built an MVP, got a simple landing page online and launched the project. 
 
-This got Andrew’s attention:
+*This* got Andrew’s attention:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is *awesome*. If you need a business idea, go here: <a href="https://t.co/QZSgDEfQFg">https://t.co/QZSgDEfQFg</a></p>&mdash; Andrew Wilkinson (@awilkinson) <a href="https://twitter.com/awilkinson/status/1322263313095389184?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 The launch was a success and I later sold the project to Micro Acquire founder Andrew Gazdecki.
+
+![Product Explorer](/images/product-explorer.png)
+
 
 None of this would’ve happened with a permission-first mindset.
 
@@ -50,6 +53,9 @@ Two years ago I decided to learn how to use Twitter more effectively. One of my 
 Josh Spector titled [“What To Tweet: 21 Unique and Useful Twitter Post Ideas”](https://joshspector.com/what-to-tweet/).
 
 The list is awesome but I realized that it wasn't actionable enough for me. This gave me the idea to turn Josh's post it into a [mini tool](https://whattotweet.com). 
+
+![What to Tweet](/images/what-to-tweet.png)
+
 
 The tool would show random prompt every time you opened the page. I could’ve tried to get Josh’s permission before doing anything. 
 
