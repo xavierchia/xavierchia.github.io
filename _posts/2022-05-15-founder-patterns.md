@@ -43,6 +43,20 @@ Image Credit: [Brian Balfour](https://brianbalfour.com/essays/product-channel-fi
 
 High agency is directly linked to [acting without asking for permission](/operating-permissionless).
 
+## The Feedback Trap
+
+When you ask for feedback in the wrong way, most people will lie to you (with zero evil intent).
+
+Most people are afraid to hurt your feelings and will tell you "this is a cool idea" even if it isn't. They will tell you about problem's they would like to have solved, but when you dig a bit deeper (e.g. by asking "What have you already tried to solve it?"), you discover that they would never pay for a solution as the problem is not painful enough.
+
+A great book on the topic is The Mom Test by Robert Fitzpatrick.
+
+## Progress requires failed experiments
+
+*"Sir Isaac Newton spent decades studying alchemy. On the surface, it seems like a waste of a precious brain. But his failure to turn metal into gold led to the discovery of something much more valuable: chemistry."*
+
+Read more [here](https://www.notboring.co/p/newtons-alchemy).
+
 ## Engineering Serendipity and Zemblanity
 
 *“The setup is strategy, the act of stacking the odds in your favor. Life is a game. Like any game, you must have a good strategy to win. The implementation of that strategy is called the setup, and it paves the road to success.”* - [Dan Bilzerian](https://jakobgreenfeld.com/the-setup-dan-bilzerian)
