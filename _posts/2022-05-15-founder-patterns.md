@@ -468,7 +468,7 @@ Read more [here](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secr
 
 ## Nobody ever got fired for buying IBM
 
- Most people stiuck with known and trusted brands even if that brand is 10x more expensive than suitable alternatives or inferior to cheapter solutions. 
+ Most people stick with known and trusted brands even if that brand is 10x more expensive than suitable alternatives or inferior to cheapter solutions. 
 
  ## Big winners pay for so many experiments
 
