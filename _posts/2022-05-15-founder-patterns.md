@@ -84,9 +84,26 @@ There are four forms of leverage:
 - Capital (money): The same investment decision with 10x the capital returns 10x the results.
 - Digital Products (software, media): Created once, these assets can serve an infinite number of customers.
 
+## Startups = Growth
+
+*"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth." - [Paul Graham](https://paulgraham.com/growth.html)
+
 ## The Startup Curve
 
 ![startup curve](/images/startup-curve.png)
+
+
+## The Growth Equation
+
+Acquisition x Activation x Retention x Churn x Resurrection x Monetization = 🌱
+
+Learn more [here](https://www.conordewey.com/blog/working-on-growth/).
+
+## The Value Equation
+
+![value equation](/images/value.png)
+
+Learn more [here](https://www.acquisition.com/offers-value-equation).
 
 ## Sitcom Startup Ideas
 
