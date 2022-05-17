@@ -105,6 +105,20 @@ Learn more [here](https://www.conordewey.com/blog/working-on-growth/).
 
 Learn more [here](https://www.acquisition.com/offers-value-equation).
 
+
+## Everybody who goes into business is actually three-people-in-one: The Entrepreneur, The Manager, and The Technician.
+
+
+*"If your business depends on you, you don’t own a business— you have a job. And it’s the worst job in the world because you’re working for a lunatic!"* - Michael Gerber in The E-Myth Revisited
+
+Most business owners make the fatal mistake of working in their business rather than on their business.
+
+*"Millions of people in this world can build software. A fractional subset of those can build software and convince people to buy it."* - Rob Walling in Start Small, Stay Small
+
+*"The fact of the matter is that we all have an Entrepreneur, Manager and Technician inside us. And if they were equally balanced, we’d be describing an incredibly competent individual. The Entrepreneur would be free to forge ahead into new areas of interest; The Manager would be solidifying the base of operations; and The Technician would be doing the technical work. Each would derive satisfaction from the work he does best, serving the whole in the most productive way. [...] The Entrepreneur is the visionary in us. [...] The managerial personality is pragmatic. Without The Manager there would be no planning, no order, no predictability. If the Entrepreneur lives in the future, The Manager lives in the past. Where The Entrepreneur craves control, The Manager craves order. [...] The Technician is the doer. ‘If you want it done right, do it yourself’ is The Technician’s credo. The Technician loves to tinker. Things are to be taken apart and put back together again.”* - Michael Gerber in The E-Myth Revisited
+
+
+
 ## Sitcom Startup Ideas
 
 “*Imagine one of the characters on a TV show was starting a startup. The writers would have to invent something for it to do. But coming up with good startup ideas is hard. It's not something you can do for the asking. So (unless they got amazingly lucky) the writers would come up with an idea that sounded plausible, but was actually bad. The danger of an idea like this is that when you run it by your friends, they don't say "I would never
