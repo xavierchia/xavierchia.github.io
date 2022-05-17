@@ -106,7 +106,8 @@ Learn more [here](https://www.conordewey.com/blog/working-on-growth/).
 Learn more [here](https://www.acquisition.com/offers-value-equation).
 
 
-## Everybody who goes into business is actually three-people-in-one: The Entrepreneur, The Manager, and The Technician.
+
+## The Entrepreneur, The Manager, and The Technician.
 
 
 *"If your business depends on you, you don’t own a business— you have a job. And it’s the worst job in the world because you’re working for a lunatic!"* - Michael Gerber in The E-Myth Revisited
@@ -117,8 +118,13 @@ Most business owners make the fatal mistake of working in their business rather 
 
 *"The fact of the matter is that we all have an Entrepreneur, Manager and Technician inside us. And if they were equally balanced, we’d be describing an incredibly competent individual. The Entrepreneur would be free to forge ahead into new areas of interest; The Manager would be solidifying the base of operations; and The Technician would be doing the technical work. Each would derive satisfaction from the work he does best, serving the whole in the most productive way. [...] The Entrepreneur is the visionary in us. [...] The managerial personality is pragmatic. Without The Manager there would be no planning, no order, no predictability. If the Entrepreneur lives in the future, The Manager lives in the past. Where The Entrepreneur craves control, The Manager craves order. [...] The Technician is the doer. ‘If you want it done right, do it yourself’ is The Technician’s credo. The Technician loves to tinker. Things are to be taken apart and put back together again.”* - Michael Gerber in The E-Myth Revisited
 
+## Chefs vs. Cooks
 
+A chef invents recipes, puts new things together, creates new dishes. A cook follows recipes and does things that have been done before.
 
+*"The chef reasons from first principles, and for the chef, the first principles are raw edible ingredients. Those are her puzzle pieces, her building blocks, and she works her way upwards from there, using her experience, her instincts, and her taste buds. But what all of these cooks have in common is their starting point is  something that already exists. Even the innovative cook is still making an iteration of a burger, a pizza, and a cake."*
+
+Learn more [here](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html).
 ## Sitcom Startup Ideas
 
 “*Imagine one of the characters on a TV show was starting a startup. The writers would have to invent something for it to do. But coming up with good startup ideas is hard. It's not something you can do for the asking. So (unless they got amazingly lucky) the writers would come up with an idea that sounded plausible, but was actually bad. The danger of an idea like this is that when you run it by your friends, they don't say "I would never
@@ -244,6 +250,19 @@ The outcome is always the result of these two factors. A brillant idea with no e
 ## Categories converge
 
 "Categories tend to converge on value props, features, messaging, and even design over time. It's why every SaaS website looks exactly the same.  This means you need to reinvent yourself on a consistent cycle.  When a category converges, there tends to be an audience looking for something completely different. One of many ways to find this open space is to ask what the opposite is."* - [Brian Balfour](https://brianbalfour.com/quick-takes/doing-the-opposite)
+
+## The Law Of Shitty Clickthroughs
+
+*"Over time, all marketing strategies result in shitty clickthrough rates."* - Andrew Chen
+
+The first banner ad ever had a clickthrough rate of 78%.  In 2021, the average varies between 0.05%-0.16%. 
+
+The key corollary is that most of the rewards of marketing channels go to early adopters.
+
+For example GymShark was able to build a huge brand using influencer marketing before the term existed. Similarly, people like Sahil Bloom built huge personal brands on Twitter leveraging the new thread feature. Now both of these channels are saturated and it's much harder to do what they did. 
+
+The pattern: A new channel becomes available (e.g. TikTok ads or influencer marketing) and fast-movers start milking it. Then once the channel becomes saturated, they start teaching others what they discovered while they simoultaneously start moving on to the next channel. 
+
 
 ## Startups take off because the founders make them take off
 
@@ -440,3 +459,17 @@ They give you more energy in the evenings which otherwise would’ve been useles
 ## Operations
 
 *"My definition of operations: the coordination of tactics over time. Tactics are individual actions. For running: long runs, short runs, speed work, walking, leg strengthening, stretching, hydration, foam roller, keeping your stats and making a running plan, active recovery, cross-training. Any of those can be good, but you can do a lot of damage by over-training or not healing enough. Too much unbalanced action and you can break down; not enough cohesion among your actions and you get middling trivial gains. That’s where operational skill comes in. It’s about those seemingly basic but utterly critical skills: scheduling, planning things out, communicating, checking and making adjustments periodically, etc. Much of our exploration of Upstream Effects has explored ideas for having better operations, but going a step further, I encourage you to see this as a discipline and train in it. It’s as simple as saying, “Ok, how do I ensure that all the right action happens over time? Over the next weeks, months, and even a year?”* - [Sebastian Marshall](https://medium.com/the-strategic-review/background-ops-5-the-nature-of-operations-eb8555059e48)
+
+## Reasoning from First Principles
+
+*"I think generally people’s thinking process is too bound by convention or analogy to prior experiences. It’s rare that people try to think of something on a first principles basis. They’ll say, “We’ll do that because it’s always been done that way.” Or they’ll not do it because “Well, nobody’s ever done that, so it must not be good.” But that’s just a ridiculous way to think. You have to build up the reasoning from the ground up—“from the first principles” is the phrase that’s used in physics. You look at the fundamentals and construct your reasoning from that, and then you see if you have a conclusion that works or doesn’t work, and it may or may not be different from what people have done in the past."* - Elon Musk
+
+Read more [here](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html).
+
+## Nobody ever got fired for buying IBM
+
+ Most people stiuck with known and trusted brands even if that brand is 10x more expensive than suitable alternatives or inferior to cheapter solutions. 
+
+ ## Big winners pay for so many experiments
+
+ *"Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a ten percent chance of a 100 times payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten. We all know that if you swing for the fences, you’re going to strike out a lot, but you’re also going to hit some home runs. The difference between baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the plate, you can score 1,000 runs. This long-tailed distribution of returns is why it’s important to be bold. Big winners pay for so many experiments." - [Jeff Bezos](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm)
