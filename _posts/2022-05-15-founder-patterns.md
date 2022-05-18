@@ -57,6 +57,12 @@ A great book on the topic is The Mom Test by Robert Fitzpatrick.
 
 Read more [here](https://www.notboring.co/p/newtons-alchemy).
 
+## The Creativity Faucet
+
+*"Visualize your creativity as a backed-up pipe of water. The first mile of piping is packed with wastewater. This wastewater must be emptied before the clear water arrives. Because your pipe only has one faucet, there's no shortcut to achieving clarity other than first emptying the wastewater."* 
+
+Read more [here](https://www.julian.com/blog/creativity-faucet).
+
 ## Engineering Serendipity and Zemblanity
 
 *“The setup is strategy, the act of stacking the odds in your favor. Life is a game. Like any game, you must have a good strategy to win. The implementation of that strategy is called the setup, and it paves the road to success.”* - [Dan Bilzerian](https://jakobgreenfeld.com/the-setup-dan-bilzerian)
@@ -404,6 +410,8 @@ Prioritize tasks based on how important and how urgent they are. Then:
 
 ![mario marketing](/images/mario-marketing.png)
 
+*"Don't sell the plane ticket, sell the vacation"*
+
 What most people do: talk endlessly about themselves, their product and its features.
 
 What they should do instead: tell customers how awesome they will be after using your product
@@ -473,3 +481,15 @@ Read more [here](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secr
  ## Big winners pay for so many experiments
 
  *"Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a ten percent chance of a 100 times payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten. We all know that if you swing for the fences, you’re going to strike out a lot, but you’re also going to hit some home runs. The difference between baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the plate, you can score 1,000 runs. This long-tailed distribution of returns is why it’s important to be bold. Big winners pay for so many experiments." - [Jeff Bezos](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm)
+
+## Imitate then Innovate
+
+*"There are billions of different combinations of the moving parts a business consists of and almost all of them don’t work. That’s the problem with zero to one ideas. You have to be lucky enough to find a functioning combination before you run out of money. The odds are definitely not in your favor, no matter how smart you are. Compare this to the situation if we focus on “one plus epsilon” ideas. Here, we simply copy an existing and functioning machine and then focus on modifying one or maybe two of the moving parts. "*
+
+Read more [here](https://perell.com/essay/imitate-then-innovate/) and [here](/imitate).
+
+## Ideas are like avocados
+
+*"Ideas are like avocados. You can’t let ‘em sit around for too long. Here’s the hack to cut your time in half. Don’t make long lists. For example: Imagine you’re trying to find sponsors for your event. Don’t make a list of 25 potential sponsors in a spreadsheet. Take the first name - and call them immediately (even if you don’t know what to say). Action, not lists! Lists are just a fancy form of procrastination"* - Shaan Puri
+
+*"Inspiration is perishable - act on it immediately."* - Naval Ravikant
