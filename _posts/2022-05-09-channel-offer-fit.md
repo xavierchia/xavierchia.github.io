@@ -61,13 +61,13 @@ This observation suggests that founders should focus on **channel/offer fit**.
 ![channel-offer-fit](/images/channel-offer-fit.png)
 
 
-Unlike the vague concept of product/market fit, this is not just a desirable destination but also directly suggest a path for getting there:
+Unlike the vague concept of product/market fit, this is not just a desirable destination but also directly suggests a path for getting there:
 
 Iterate through [customer-acquisition channels](https://grasshopper.com/blog/19-ways-entrepreneurs-can-acquire-customers/) (while keeping factors like [Scalability and Time to ROI in mind](https://www.kevin-indig.com/the-4-only-scalable-customer-acquisition-channels/)) and tweak your offer until you get to the magical inflection point. 
 
 Now there’s obviously still a lot of room for experimentation. You not just have to try different channels but also figure out the details. What keywords should you bid on? What profiles should you target on Facebook? What newsletters should you sponsor?
 
-In a sense this a process for testing how different audiences (”markets”) respond to your offer. But here you’re not thinking about lofty “markets” that might only exist in your own imagination. You’re thinking about specific groups of people and a realistic ways of reaching them. 
+In a sense this a process for testing how different audiences (”markets”) respond to your offer. But here you’re not thinking about lofty “markets” that might only exist in your own imagination. You’re thinking about specific groups of people and realistic ways of reaching them. 
 
 The second part of the channel/offer equation emphasizes that a product is far more than a sum of its features. 
 
