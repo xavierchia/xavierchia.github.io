@@ -29,7 +29,7 @@ permalink: /personal-brand-building/
       <a href="/notes" class="btn-nav">Book Notes</a>
     </li>
     <li>
-      <a href="/profiles" class="btn-nav">Profiles</a>
+      <a href="/profiles" class="btn-nav">Permissionless Mentors</a>
     </li>
   </ul>
 </div>

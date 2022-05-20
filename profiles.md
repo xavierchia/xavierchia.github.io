@@ -29,7 +29,7 @@ permalink: /profiles/
       <a  href="/notes" class="btn-nav">Book Notes</a>
     </li>
     <li>
-      <a class="is-active" href="/profiles" >Profiles</a>
+      <a class="is-active" href="/profiles" >Permissionless Mentors</a>
     </li>
   </ul>
 </div>
