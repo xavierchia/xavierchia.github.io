@@ -30,7 +30,7 @@ permalink: /notes/
       <a class="is-active" href="/notes">Book Notes</a>
     </li>
     <li>
-      <a href="/profiles" class="btn-nav">Profiles</a>
+      <a href="/profiles" class="btn-nav">Permissionless Mentors</a>
     </li>
   </ul>
 </div>
