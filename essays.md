@@ -29,7 +29,7 @@ permalink: /essays/
       <a href="/notes" class="btn-nav">Book Notes</a>
     </li>
     <li>
-      <a href="/profiles" class="btn-nav">Permissionless Mentor</a>
+      <a href="/profiles" class="btn-nav">Permissionless Mentors</a>
     </li>
   </ul>
 </div>
