@@ -709,10 +709,15 @@ table th {
 }
 
 .emailboxcontent {
-  width: 55%;
+  width: 45%;
   float: left;
   padding: 2%;
 }
+
+.bookimage {
+  float: left;
+  margin: 0px 25px 0px 0px !important;
+  }
 
 .emailboxcontent h2 {
   text-align: center !important;
@@ -725,7 +730,7 @@ table th {
 }
 
 .emailboxform {
-  width: 35%;
+  width: 55%;
   float: left;
   padding: 2% 2% 2% 3%;
   border-left: 1px solid #e5e3e1;
@@ -777,12 +782,12 @@ table th {
 .featuredabove {
   height: 1.0em;
   margin-bottom: 20px;
-  border-bottom: 5px solid #e9e7e5;
+  border-bottom: 2px solid #e9e7e5;
   text-align: center;
 }
 
 .featuredbelow {
-  border-top: 5px solid #e9e7e5;
+  border-top: 2px solid #e9e7e5;
   margin-bottom: 25px;
 }
 
