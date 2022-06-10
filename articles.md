@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /essays/
+permalink: /articles/
 ---
 
 <div class="posts">
