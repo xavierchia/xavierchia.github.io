@@ -92,7 +92,7 @@ There are four forms of leverage:
 
 ## Startups = Growth
 
-*"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth." - [Paul Graham](https://paulgraham.com/growth.html)
+*"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth."* - [Paul Graham](https://paulgraham.com/growth.html)
 
 ## The Startup Curve
 
@@ -237,6 +237,8 @@ Read more [here](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html).
 
 ## Ideas are Force Multipliers
 
+*"Good ideas are like Nike sports shoes. They may facilitate success for an athlete who possesses them, but on their own they are nothing but an overpriced pair of sneakers. Sports shoes don’t win races. Athletes do."* – Felix Dennis 
+
 Bad ideas can succeed with the right execution. 
 
 * How about a new soft drink that tastes considerably worse than Coke, comes in a much smaller can, and costs twice as much? Definitely a bad idea. And still Red Bull generates billions of dollars in revenue.
@@ -369,7 +371,7 @@ The wave matters most. A good surfer on a bad wave is screwed.
 
 Read more [here](https://justinjackson.ca/surfing). 
 
-## Functioning complex are not designed but emerge
+## Functioning complex system are not designed but emerge
 
 *"A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system."* - John Gall in his book Systemantics
 
@@ -407,6 +409,8 @@ Prioritize tasks based on how important and how urgent they are. Then:
 * Important/Urgent quadrant tasks are done immediately and personally
 
 ## Sell the Experience and Benefits, not the Features
+
+*"Your customers don't care about you. They don't care about your product or service. They care about themselves, their dreams, their goals. Now, they will care much more if you help them reach their goals, and to do that, you must understand their goals, as well as their needs and deepest desires."* - Steve Jobs
 
 ![mario marketing](/images/mario-marketing.png)
 
@@ -493,3 +497,24 @@ Read more [here](https://perell.com/essay/imitate-then-innovate/) and [here](/im
 *"Ideas are like avocados. You can’t let ‘em sit around for too long. Here’s the hack to cut your time in half. Don’t make long lists. For example: Imagine you’re trying to find sponsors for your event. Don’t make a list of 25 potential sponsors in a spreadsheet. Take the first name - and call them immediately (even if you don’t know what to say). Action, not lists! Lists are just a fancy form of procrastination"* - Shaan Puri
 
 *"Inspiration is perishable - act on it immediately."* - Naval Ravikant
+
+## Dream 100
+
+You can think of the Dream 100 as the 100 people that stand between you and your dream customers online — those could be podcast host, blog writer, newsletter authors, Facebook group owners, YouTubers, influencers, or pretty much anything else.
+
+The idea is then to build relationships with each of these 100 people so that you’re “digging a well” before you need it.
+
+Then when you're launching something new, you reach out to them or send them your product for free hoping that they will share it on their platforms. 
+
+The framework is also useful whether you're trying to build an audience on Twitter or grow a Newsletter or blog. The key is always to remember that long-term success is all about your relationships to other people. 
+
+You might be able to get short-term boosts using automated solutions, but eventually these will fade away.
+
+What stays are your relationship to people. It's people who link back to your blog and retweet your tweets.
+
+And the best way to start is by identifying the 100 people of influence that would help you the most if you had a genuine relationship with them. 
+
+
+## Skyscrapers vs. Strip Malls
+
+> "a lot of creators want to build strip malls. And what I mean by that is that you get 5,000 subscribers on an email list, you know, 'okay, let me sell them this.' And a certain number of people buy that. 'Okay, let me add this other thing.' And a certain number of people buy that. 'Okay, now, let me add this third thing.' You have all of these different 'properties' built out on your real estate, and look, you're earning a great living. You know, we're now at $50,000 or $100,000 a year from that. But it's all spread. An example of someone building a skyscraper, and I quote them a lot, is James Clear. For years, he was like, 'I'm not going to monetize my email list. I don't care about making money from it, how do I keep writing content and buildings, build the biggest possible list.' ...He got to the point where he was like, 'Okay, I do need to make some money for this...' And so once a quarter, he would teach a habits workshop. And he would promote that workshop, I think the first one made $20,000, which was quite a lot. And by the time he stopped doing them, they're making like $200,000 apiece. But that was the only thing he allowed himself to do. Everything else went into building the skyscraper of the email list, taller and taller. And the result is that he now has an email list of over a million people." - [Nathan Barry](https://www.linkedin.com/pulse/skyscrapers-vs-strip-malls-jay-clouse)

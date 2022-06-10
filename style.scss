@@ -694,3 +694,105 @@ table th {
   vertical-align: middle;
 	margin-right: 0.317rem;
 }
+
+.emailbox {
+  width: 94% !important;
+  background: linear-gradient(#f9f7f5, #f5f3f1) !important;
+  border: 1px solid #d5d3d1;
+  margin: 5% 1%;
+  padding: 2%;
+  text-align: center;
+  box-shadow: 0px 0px 5px #D5D3D1;
+  border-radius: 3px;
+  overflow: hidden;
+  clear: both;
+}
+
+.emailboxcontent {
+  width: 55%;
+  float: left;
+  padding: 2%;
+}
+
+.emailboxcontent h2 {
+  text-align: center !important;
+}
+
+.emailboxcontent p {
+  text-align: left !important;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+  font-size: 13px !important;
+}
+
+.emailboxform {
+  width: 35%;
+  float: left;
+  padding: 2% 2% 2% 3%;
+  border-left: 1px solid #e5e3e1;
+}
+
+.emailboxstyle {
+  margin: 0;
+  text-align: center;
+}
+
+.emailboxstyle h3 {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  text-align: center !important;
+}
+
+.emailboxstyle p {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+  font-size: 13px !important;
+  color: #858381 !important;
+}
+
+.emailboxfield {
+  width: 99%;
+  color: #535251 !important;
+  font-size: 16px !important;
+  margin: 5px !important;
+  padding: 15px !important;
+}
+
+.emailboxbutton {
+  width: 99%;
+  background: linear-gradient(#78afdd, #3877bf) !important;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  border: 1px solid #2f65a1 !important;
+  color: #ffffff !important;
+  text-align: center;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  text-shadow: -1px -1px 0px #466e93 !important;
+  margin: 5px 0px 25px 5px !important;
+  padding: 8px !important;
+}
+
+.emailboxbutton:hover {
+  background: #3877bf !important;
+}
+
+.featuredabove {
+  height: 1.0em;
+  margin-bottom: 20px;
+  border-bottom: 5px solid #e9e7e5;
+  text-align: center;
+}
+
+.featuredbelow {
+  border-top: 5px solid #e9e7e5;
+  margin-bottom: 25px;
+}
+
+.featuredtitle {
+  background: #ffffff;
+  font-size: 14px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif !important;
+  color: #555555;
+  text-transform: uppercase;
+  padding: 0px .5em;
+  position: relative;
+  top: 0.4em;
+}
