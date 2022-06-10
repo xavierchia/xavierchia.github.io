@@ -714,10 +714,7 @@ table th {
   padding: 2%;
 }
 
-.bookimage {
-  float: left;
-  margin: 0px 25px 0px 0px !important;
-  }
+
 
 .emailboxcontent h2 {
   text-align: center !important;
@@ -742,9 +739,10 @@ table th {
 }
 
 .emailboxstyle h3 {
-  font-size: 18px !important;
+  font-size: 14px !important;
   font-weight: bold !important;
-  text-align: center !important;
+  text-align: left !important;
+  margin-top:18px;
 }
 
 .emailboxstyle p {
