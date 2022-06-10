@@ -11,7 +11,7 @@ permalink: /about/
 
 ## About Jakob Greenfeld
 
-<img src="images/jakob_working.png" alt="Jakob Greenfeld" width="380">
+<img src="/images/jakob_working.png" alt="Jakob Greenfeld" width="380">
 
 
 Hi there. I’m Jakob Greenfeld and this website is the home of my life’s work. I write about entrepreneurship, creativity, and performance improvement. In other words, I write about how anyone can stack the odds in their favor and achieve outsized returns. 
