@@ -14,6 +14,7 @@ permalink: /articles/
   <strong>I write about</strong> ideas for leveling up your entrepreneurial game, building your personal brand, and breaking down invisible walls. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday and Thursday. You can read a few popular articles below or scroll down to browse recent posts.
 <br> <br>
   <strong>Popular Articles</strong>
+<div class="noyellowlinks">
   <ul>
     <li><a href="/personal-productivity">Effortless personal productivity (or how I learned to love my monkey mind)</a></li>
     <li><a href="/metrics">Management by metrics leads us astray</a></li>
@@ -21,6 +22,7 @@ permalink: /articles/
     <li><a href="/stay-in-touch">A simple system I’m using to stay in touch with hundreds of people</a></li>
     <li><a href="/mba">I've decided to pursue a Bootstrap MBA</a></li>
   </ul>
+</div>
 </article>
 
 

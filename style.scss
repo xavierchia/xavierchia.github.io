@@ -43,8 +43,10 @@ li {
 }
 
 
+
+
 .is-active {
-  color: #EC4840 !important;
+  color: #DDD3A5 !important;
 }
 
 .lightbox {
@@ -161,6 +163,14 @@ html {
 .post {
   max-width: 540px;
   margin: 0 auto;
+}
+
+.noyellowlinks a {
+  background-color: None;
+}
+
+.noyellowlinks a:hover {
+  background-color: None;
 }
 
 .post a {
