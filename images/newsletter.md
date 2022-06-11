@@ -20,9 +20,8 @@ Just enter your email address below and click “Subscribe”
 
 **My email address is...**
 
-<div class="emailform">
 <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0;margin-top: 20px; border-radius: 0px !important; background-color: transparent;"></iframe>
-</div>
+
 
 **What Readers Are Saying…**
 
