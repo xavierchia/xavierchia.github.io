@@ -4,8 +4,13 @@ title:
 permalink: /articles/
 ---
 
+
+
+
 <div class="posts">
   
+
+I write ideas for leveling up your entrepreneurial game, building your personal brand, and breaking down invisible walls. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday and Thursday. You can read a few popular articles below or scroll down to browse recent posts.
 
 
 <div class="cat-nav">
