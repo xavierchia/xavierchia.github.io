@@ -166,11 +166,14 @@ html {
 }
 
 .noyellowlinks a {
-  background-color: None;
+  background-color: #FFF!important;
+  font-weight: bold;
 }
 
 .noyellowlinks a:hover {
-  background-color: None;
+  background-color: #FFF!important;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .post a {
