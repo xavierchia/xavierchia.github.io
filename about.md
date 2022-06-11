@@ -20,7 +20,7 @@ But I don’t merely write about things. Along the way, I like to try out the co
 
 The primary place that I share this information is through my weekly newsletter. Over 10,000 people receive my articles via email each week. You can sign up below. You’ll only get information on how to stack the odds in your favor, develop better ideas, and live a better life. Nothing annoying or unexpected.
 
-I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way. If you’re ready to learn how to make significant progress and get better ideas, then enter your email address below and click “Get Updates!”
+I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way. If you’re ready to learn how to make significant progress and get better ideas, then enter your email address below and click “Subscribe”
 
 <iframe src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 
