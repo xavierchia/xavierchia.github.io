@@ -1,5 +1,5 @@
 ---
-title: ⭐️ I found a cure for writer’s block
+title: ⭐️ I found a cure for writer’s block that actually works
 published: true
 layout: post
 permalink: content-ideas
