@@ -34,7 +34,7 @@ or as a prompt:
 
 *What’s a piece of unsolicited advice would you want to share with a friend?*
 
-I also used a simple ML model to categorize all inputs. The tweet above, for example, ends up in the category “social”.
+I also used a simple machine-learning model to categorize all inputs. The tweet above, for example, ends up in the category “social”.
 
 So now whenever I struggle to come up with content ideas, I simply open my list of templates and prompts, and the ideas immediately start flowing. 
 
