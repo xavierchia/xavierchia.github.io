@@ -10,7 +10,7 @@ categories: entrepreneurship
 
 If you struggle with writer’s block (and I mean who doesn’t), I got good news for you. 
 
-After dozens of experiment I finally found a solution that 1.) actually works and 2.) leads to great results. 
+After dozens of experiment I finally found a solution that actually works and leads to great results. 
 
 Currently, AI-writing tools are all the rage. But honestly, they never really worked for me. They can be useful to brainstorm different formulations but aren’t useful to get that initial spark. And getting that initial spark is what I usually struggled with the most.
 
@@ -60,10 +60,10 @@ Even though I haven’t done many tests so far, I’m pretty sure the method is 
 
 You can use the templates or prompts to write a compelling headline or title. Then you deliver on the promise in text, audio, or video form. 
 
-To make it easy for others to test the method I created [this little website](https://getcontentideas.com/). 
+To make it easy for others to test the method I created [this little website](https://getcontentideas.com/). You can filter by category (productivity, money, ...), source (tweets, headlines, quotes), and the type of inspiration you want (sparks, templates, prompts)
 
 The tool is completely free and there are of course no ads as these definitely would be counter productive. 
 
-If there’s sufficient interest, I might add a paid tier later on to support further development and add a larger number of templates and prompts. But I built the tool in its current form really primarily just for myself and hosting it costs like $7/month. So the paid tier is not a priority right now. 
+If there’s sufficient interest, I might add a paid tier later on to support further development and add a larger number of templates and prompts. But I built the tool in its current form primarily really just for myself and hosting it costs like $7/month. So the paid tier is not a priority right now. 
 
 Any feedback is appreciated!
