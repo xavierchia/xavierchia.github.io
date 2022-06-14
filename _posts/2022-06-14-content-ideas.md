@@ -12,7 +12,7 @@ If you struggle with writer’s block (and I mean who doesn’t), I got good new
 
 After dozens of experiment I finally found a solution that actually works and leads to great results. 
 
-Currently, AI-writing tools are all the rage. But honestly, they never really worked for me. They can be useful to brainstorm different formulations but aren’t useful to get that initial spark. And getting that initial spark is what I usually struggled with the most.
+Currently, AI-writing tools are all the rage. But honestly, they never really worked for me. They can be useful to brainstorm different formulations but aren’t useful to get that initial spark. And getting that initial spark is what I usually struggle with the most.
 
 So no worries, I won’t tell you about some new AI-writing tool.
 
