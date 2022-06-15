@@ -3,7 +3,7 @@ title: ⭐️ How to generate better ideas
 published: true
 layout: post
 permalink: better-ideas
-excerpt: What makes this method truly magical is that it facilitates true creativity not plagiarism.
+excerpt: The mistake I made was that I tried to come up with ideas while staring at a blank piece of paper, waiting for inspiration to strike.
 image: /images/default.png
 categories: entrepreneurship
 ---
