@@ -20,7 +20,7 @@ Instead:
 
 *But that’s a good thing. Experts have long forgotten what it’s like to be a beginner. Hence it’s much better to learn from someone just one step ahead of you who still remembers vividly all the problems a beginners struggles with.*
 
-## Better Ideas
+## Better Business Ideas
 
 There are infinite opportunities to build profitable businesses thanks to the internet.
 
@@ -46,7 +46,7 @@ After this 15-day challenge, your ability to come up with profitable business id
 
 Just click this button to get started right away.
 
-<a href="https://getbetterideas.com"><button class="button" >Let's do this</button></a>
+<a href="https://businessideas.carrd.com"><button class="button" >Let's do this</button></a>
 
 
 ## Scraping the Web for Fun and Profit
