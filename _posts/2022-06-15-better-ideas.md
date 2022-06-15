@@ -69,9 +69,9 @@ So if you want to improve your ability to come up with great ideas, you should 
 
 Write down at least 10 ideas every day. 
 
-I created this simple tool that shows a random prompt every time you open it for my own brainstorming sessions and decided to make it publicly available. 
+I created [this simple tool](https://getbetterideas.com) that shows a random prompt every time you open it for my own brainstorming sessions and decided to make it publicly available. Feel free to use it and recommend it to friends if you find it useful. 
 
-In any case, always keep inmind that the quality of the ideas you write down doesn’t matter. What's important is that you actually write ideas down somewhere and do it daily.
+In any case, always keep in mind that the quality of the ideas you write down doesn’t matter. What's important is that you actually write ideas down somewhere and do it daily.
 
 I personally use Notion to collect my ideas but any notetaking tool or an old-school notebook will do.
 
