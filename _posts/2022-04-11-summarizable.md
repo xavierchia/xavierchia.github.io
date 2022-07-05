@@ -30,7 +30,7 @@ If people can’t figure out exactly what your brand is about in 5 seconds, they
 - BuiltWith is the tool that allows you to check what software a given website uses.
 - Nomad List is the tool digital nomads use to figure out where to live next.
 - AirDNA is the tool buyers use to research short-term rental markets.
-- Hunter.io is the tool that allows you to find professional email addresses related to any website.
+- [Hunter.io](https://hunter.io) is the tool that allows you to find professional email addresses related to any website.
 - The Milk Road is “your smart, no bs friend who tells you about the most interesting stuff going on in crypto.”
 
 Now of course at this point neither any of the persons or any products I just mentioned is really limited to the label I attached to them. 
