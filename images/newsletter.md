@@ -8,7 +8,7 @@ image: /images/default.png
 
 **Honest strategies and proven frameworks for winning in life and business.**
 
-Join over 10,000 people who are on a quest to level up.
+Join over 4,000 people who are on a quest to level up.
 
 Sign up now and you’ll learn how to…
 
