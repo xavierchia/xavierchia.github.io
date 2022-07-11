@@ -2,6 +2,8 @@
 layout: page
 title: The Weekly Newsletter (It’s Free…)
 permalink: /newsletter/
+image: /images/default.png
+
 ---
 
 **Honest strategies and proven frameworks for winning in life and business.**
