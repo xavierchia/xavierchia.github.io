@@ -176,6 +176,14 @@ html {
   
 }
 
+// hide emailboxcontent on mobile
+@media screen and (max-width: 600px) {
+  .emailboxcontent {
+    display: none;
+  }
+  
+}
+
 .post a {
   color: #4B4B4B;
   text-decoration: none;
