@@ -5,6 +5,15 @@ permalink: /buy/
 ---
 
 
+For quite a while I had none of my projects listed on my website. I think I just wanted to keep my personal website "pure" and put the focus solely on my content. 
+
+But you know what? I'm not that rich, or rich at all.
+
+So if there are people who are curious about my projects or want to support my work, they shouldn't have to spend a lot of time searching for them. 
+
+So here we go. 
+
+# Products
 
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Business Idea Tactics spreadsheet](https://jakobgreenfeld.gumroad.com/l/idea_tactics/)  - 70+ carefully curated tactics you can use to brainstorm business ideas
