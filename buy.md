@@ -1,15 +1,19 @@
 ---
 layout: page
 title: 
-permalink: /learn/
+permalink: /buy/
 ---
 
-Steal my knowledge and best resources. 
+# Products
+
+* [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
+* [Business Idea Tactics spreadsheet](https://jakobgreenfeld.gumroad.com/l/idea_tactics/)  - 70+ carefully curated tactics you can use to brainstorm business ideas
 
 
 
+# Courses
 
-I'm teaching to learn and experiment with different formats for micro courses. 
+I'm teaching to learn and love to experiment with different formats for micro courses. 
 
 * No boring slideshows. 
 * No high-flying theories that only look good on the surface but don't actually work in practice. 
@@ -73,8 +77,6 @@ You’ll learn:
 There are zero boring slide shows in the course, just behind-the-scenes recordings of me solving real-world problems and explaining what I do.
 
 <a href="https://jakobgreenfeld.gumroad.com/l/scraping"><button class="button" >Get Access</button></a>
-
-
 
 
 
