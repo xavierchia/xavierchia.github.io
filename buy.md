@@ -4,7 +4,7 @@ title:
 permalink: /buy/
 ---
 
-# Products
+
 
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Business Idea Tactics spreadsheet](https://jakobgreenfeld.gumroad.com/l/idea_tactics/)  - 70+ carefully curated tactics you can use to brainstorm business ideas

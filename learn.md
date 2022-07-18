@@ -4,12 +4,8 @@ title:
 permalink: /learn/
 ---
 
-Steal my knowledge and best resources. 
 
-
-
-
-I'm teaching to learn and experiment with different formats for micro courses. 
+I'm teaching to learn and love to experiment with different formats for micro courses. 
 
 * No boring slideshows. 
 * No high-flying theories that only look good on the surface but don't actually work in practice. 
