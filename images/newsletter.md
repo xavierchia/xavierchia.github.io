@@ -24,7 +24,7 @@ Just enter your email address below and click “Subscribe”
 
 <!-- <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0;margin-top: 20px; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<div id="revue-embed">
+<div id="revue-embed" style="width:400px">
     <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
         <div style="float: right" class="revue-form-actions">
             <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
@@ -60,7 +60,7 @@ Like what they have to say? Join the party by signing up for the free newsletter
 
 <!-- <iframe src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<div id="revue-embed">
+<div id="revue-embed" style="width:400px">
     <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
         <div style="float: right" class="revue-form-actions">
             <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
