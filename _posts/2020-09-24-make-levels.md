@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Review and Summary of MAKE by Pieter Levels
+title: What I learned from Pieter Levels about indie entrepreneurship
 permalink: make-levels
 image: /images/make.png
-categories: notes
+categories: profiles
 ---
 
 

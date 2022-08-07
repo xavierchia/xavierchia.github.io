@@ -1,11 +1,11 @@
 ---
-title: Review and Summary of The Embedded Entrepreneur by Arvid Kahl
+title: What I learned from Arvid Kahl about audience first entrepreneurship
 published: true
 layout: post
 permalink: embedded-entrepreneur-arvid-kahl
 excerpt: Interestingly, Arvid didn't include the smartest marketing strategy he uses himself
 image: /images/default.jpg
-categories: notes
+categories: profiles
 
 
 ---

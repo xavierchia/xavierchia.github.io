@@ -26,9 +26,6 @@ permalink: /profiles/
     <a href="/lists" class="btn-nav">Lists</a>
     </li>
     <li>
-      <a  href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
       <a class="is-active" href="/profiles" >Permissionless Mentors</a>
     </li>
   </ul>

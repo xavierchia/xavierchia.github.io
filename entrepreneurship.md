@@ -26,9 +26,6 @@ permalink: /entrepreneurship/
     <a href="/lists" class="btn-nav">Lists</a>
           </li>
     <li>
-      <a href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
       <a href="/profiles" class="btn-nav">Permissionless Mentors</a>
     </li>
   </ul>

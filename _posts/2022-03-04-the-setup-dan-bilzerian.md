@@ -1,11 +1,11 @@
 ---
-title: Review and Summary of The Setup by Dan Bilzerian 
+title: What I learned from Dan Bilzerian about stacking the odds in your favor
 published: true
 layout: post
 permalink: the-setup-dan-bilzerian
 excerpt: The setup is strategy, the act of stacking the odds in your favor.
 image: /images/default.jpg
-categories: notes
+categories: profiles
 
 
 ---
@@ -64,5 +64,5 @@ Also his Instagram account obviously plays an important role. But he never expla
 
 Now I do think that the general idea of focusing on and investing in your setup is a really solid one. It definitely also applies if you have other goals in life than Dan Bilzerian. 
 
-But Dan missed out on a great opportunity to write the definitely book on the topic. Someone else will definitely do it and it’ll be awesome.
+But Dan missed out on a great opportunity to write the definite book on the topic. Someone else will definitely do it and it’ll be awesome.
 

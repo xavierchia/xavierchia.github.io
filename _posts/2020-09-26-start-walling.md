@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Review and Summary of Start Small, Stay Small by Rob Walling
+title: What I learned from Rob Walling about micropreneurship
 permalink: start-walling
 image: /images/start.png
-categories: notes
+categories: profiles
 
 ---
 

@@ -30,9 +30,6 @@ image: /images/default.jpg
     <a class="is-active" href="/lists" >Lists</a>
     </li>
     <li>
-      <a  href="/notes" class="btn-nav">Book Notes</a>
-    </li>
-    <li>
       <a  href="/profiles" class="btn-nav" >Permissionless Mentors</a>
     </li>
   </ul>
