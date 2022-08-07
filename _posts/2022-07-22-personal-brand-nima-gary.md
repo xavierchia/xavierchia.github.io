@@ -5,7 +5,7 @@ layout: post
 permalink: personal-brand-gary-nima
 excerpt: A tight positioning is like rocket fuel.  Once you have a solid fire going on, it’ll help you get to the next level. 
 image: /images/default.png
-categories: personal-brand-building
+categories: personal-brand-building, profiles
 ---
 
 I studied physics before becoming an entrepreneur. And there is a character in physics that very much reminds me of Gary Vaynerchuck. 
