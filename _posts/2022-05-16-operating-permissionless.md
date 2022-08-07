@@ -12,16 +12,16 @@ All of my big successes had one thing in common:
 
 I acted without asking for permission.
 
-*Here's the story of how a tiny mindset shift unlocked a whole new world of opportunities.*
+*This tiny mindset shift unlocked a whole new world of opportunities for me.*
 
-Let's start with the following observation. 
+It all started with the following observations: 
 
 * There are people who always seek permission for everything. You know, the ones who even ask “Hey can I ask you a question?”.
 * And on the other hand, we have people who operate permissionless. Their maxim is that it's easier to ask for forgiveness than permission.
 
 Growing up in Germany, I was always a permission-first guy. But over the past two years, I’ve slowly come to realize that operating permissionless is *the* success secret no matter what your goals are.
 
-*Here’s an example.*
+*Here’s just one example.*
 
 A while back I got an idea by listening to the My First Million podcast.  
 
