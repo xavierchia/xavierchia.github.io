@@ -31,20 +31,21 @@ Note that each of these lists is a perpetual work-in-progress. I'm constantly ad
 And of course, I'm always looking for new ideas to add to the lists. I appreciate any ideas or feedback sent to experiments [at] jakobgreenfeld.com.
 
 
-**My Current Experiments**
+## My Current Experiments
 
-* Grow [Business Brainstorms](https://businessbrainstorms.com) using cross promotions.
-* Get article published in major publication by reaching out to editors.
-* Listen to the recording of a fictious magazine article I wrote that describes where I want to be in 10 years every morning. The idea is that this helps to focus on things that truly matter and keep me motivated.
+* Grow [Business Brainstorms](https://businessbrainstorms.com) using cross promotions. (h/t Josh Spector)
+* Get article published in major publication by reaching out to editors. (h/t James Clear)
+* Listen to the recording of a fictious magazine article I wrote that describes where I want to be in 10 years every morning. The idea is that this helps to focus on things that truly matter and keep me motivated. (h/t Sam Ovens)
 * Send one message to a peson I want to keep in touch with and one person I would like to know better every day. I wrote about my setup [here](https://jakobgreenfeld.com/stay-in-touch). (h/t Derek Sivers)
+* Write down one win every day for 100 days. (h/t Aziz Gazipura)
 
-**My Upcoming Experiments**
+## My Upcoming Experiments
 
 * Test product-market fit by asking customers/subscribers "How dissapointed would you be if you wouldn't able to access this product/newsletter any longer"? (h/t George Nurijanian)
-* Use the RICE prioritization framework for a week to decide what tasks to focus on.
+* Use the RICE prioritization framework for a week to decide what tasks to focus on. (h/t Sam Ovens)
 * Track my happiness in hourly intervals to get a more accurate picture of how much I enjoy certain activities without giving in to the peak-end effect. (h/t Nick Winter)
 
-**My Past Experiments**
+## My Past Experiments
 
 * Learn entrpreneurship by designing my own [Bootstrap MBA](https://jakobgreenfeld.com/mba). 
 * Do a ["Writing Week"](https://mobile.twitter.com/jakobgreenfeld/status/1547204224374607873) where I do nothing but writing for a whole week. No reading, no coding, no nothing. (Inspired by Bill Gate's Think Weeks)
