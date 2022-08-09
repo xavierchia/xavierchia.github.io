@@ -7,8 +7,6 @@ image: /images/default.png
 ---
 
 
-**Curated Experiments**
-
 My biggest recent breakthrough was the [realization](https://jakobgreenfeld.com/experiment-framework) that to move forward, I don't have to read more books, watch more YouTube videos, or spend more time on Twitter. The only thing that leads to real progress is doing more experiments.
 
 One of the main challenges I encountered is coming up with good ideas for what kind of experiments I can do. There are tons of ideas out there, but they are buried under mountains of noise. A good non-fiction book will give you maybe one or two solid ideas for experiments. The rest is filler material like stories and anecdotes. And it's just so damn easy to get distracted while researching new ideas.
