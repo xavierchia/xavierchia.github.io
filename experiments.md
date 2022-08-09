@@ -39,6 +39,7 @@ And of course, I'm always looking for new ideas to add to the lists. I appreciat
 
 ## My Upcoming Experiments
 
+* Eat exactly the same breakfast and lunch every day for 30 days. (h/t Tynan)
 * Test product-market fit by asking customers/subscribers "How dissapointed would you be if you wouldn't able to access this product/newsletter any longer"? (h/t George Nurijanian)
 * Use the RICE prioritization framework for a week to decide what tasks to focus on. (h/t Sam Ovens)
 * Track my happiness in hourly intervals to get a more accurate picture of how much I enjoy certain activities without giving in to the peak-end effect. (h/t Nick Winter)
