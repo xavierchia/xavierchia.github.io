@@ -18,11 +18,16 @@ Hi there. I’m Jakob Greenfeld and this website is the home of my life’s work
 
 But I don’t merely write about things. Along the way, I like to try out the concepts for myself as I experiment with building better systems as an entrepreneur, writer, and weightlifter. In the end, my work ends up being one-part storytelling, one-part pattern matching, and one-part personal experiment. It’s a colorful blend of inspirational stories, actionable frameworks, hard-earned wisdom.
 
-The primary place that I share this information is through my weekly newsletter. Over 10,000 people receive my articles via email each week. You can sign up below. You’ll only get information on how to stack the odds in your favor, develop better ideas, and live a better life. Nothing annoying or unexpected.
+The primary place that I share this information is through my weekly newsletter. Over 4,000 people receive my articles via email each week. You can sign up below. You’ll only get information on how to stack the odds in your favor, develop better ideas, and live a better life. Nothing annoying or unexpected.
 
 I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way. If you’re ready to learn how to make significant progress and get better ideas, then enter your email address below and click “Subscribe”
 
 <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+
+## Contact
+
+- You can reach me at <a href="mailto:jakobgreenfeld@gmail.com>Jakob Greenfeld</a>
+- Alternatively, can also send me a message on <a href="https://twitter.com/jakobgreenfeld">Twitter</a>
 
 ## Testimonials and Praise
 
