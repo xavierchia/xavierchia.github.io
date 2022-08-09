@@ -1,5 +1,5 @@
 ---
-title: ⭐️ No more "Insight Porn"
+title: ⭐️ No more Insight Porn
 published: true
 layout: post
 permalink: insight-porn
