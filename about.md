@@ -26,7 +26,7 @@ I donâ€™t claim to have all the answers and I still have a lot to learn, but Iâ€
 
 ## Contact
 
-- You can reach me at <a href="mailto:jakobgreenfeld@gmail.com>Jakob Greenfeld</a>
+- You can reach me at jakobgreenfeld [at] gmail.com
 - Alternatively, can also send me a message on <a href="https://twitter.com/jakobgreenfeld">Twitter</a>
 
 ## Testimonials and Praise

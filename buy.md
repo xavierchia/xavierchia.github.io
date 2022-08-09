@@ -17,7 +17,7 @@ With that said, here we go.
 
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Enrich My List](https://enrichmylist.com) - my tool to help newsletter writers uncover the most interesting people on their subscriber list
-* [Business Idea Tactics spreadsheet](https://jakobgreenfeld.gumroad.com/l/idea_tactics/)  - 70+ carefully curated tactics you can use to brainstorm business ideas
+
 
 
 
