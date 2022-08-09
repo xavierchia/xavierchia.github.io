@@ -24,7 +24,7 @@ I currently have more than 20 of these lists, ranging from problems like priorit
 My goal is to eventually make all of them publicly available but polishing them so that they are usuable by other people obviously is quite a bit of work. So it will take some time before I've published all of them. You can find all lists I already made publicly available below. 
 
 * [70+ experiments you can try to brainstorm business ideas](https://jakobgreenfeld.gumroad.com/l/idea_tactics/)  - Different approaches work for different people. And the good news is that you can just try them all until you find one that works for you.
-* [130+ experiments you can run to get new customers](https://jakobgreenfeld.gumroad.com/l/get_customers) - Whenever I discover a new tactic, I add it to the spreadsheet. I'm consulting this spreadsheet all the time, whenever I needed fresh ideas.
+* [130+ experiments you can run to get new customers](https://jakobgreenfeld.gumroad.com/l/get_customers) - Whenever I discover a new tactic, I add it to the spreadsheet. I'm consulting this spreadsheet all the time, whenever I need fresh ideas.
 
 Note that each of these lists is a perpetual work-in-progress. I'm constantly adding new experiments and update them with additional information. 
 
