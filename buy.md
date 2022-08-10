@@ -17,6 +17,7 @@ With that said, here we go.
 
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Enrich My List](https://enrichmylist.com) - my tool to help newsletter writers uncover the most interesting people on their subscriber list
+* [Revenue Watcher](https://revenuewatcher.com) - revenue signals directly reported by founders of indie businesses
 
 
 
