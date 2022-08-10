@@ -15,6 +15,7 @@ With that said, here we go.
 
 # Products
 
+* [Curated Experiment Ideas](https://jakobgreenfeld.com/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Enrich My List](https://enrichmylist.com) - my tool to help newsletter writers uncover the most interesting people on their subscriber list
 * [Revenue Watcher](https://revenuewatcher.com) - revenue signals directly reported by founders of indie businesses
