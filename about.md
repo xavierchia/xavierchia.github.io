@@ -29,6 +29,15 @@ I donâ€™t claim to have all the answers and I still have a lot to learn, but Iâ€
 - You can reach me at jakobgreenfeld [at] gmail.com
 - Alternatively, can also send me a message on <a href="https://twitter.com/jakobgreenfeld">Twitter</a>
 
+## Podcast Appearances
+
+* [Permissionless Entrepreneurship](https://www.podchaser.com/podcasts/outside-the-system-4589076/episodes/5-permissionless-entrepreneurs-141247989) on the Outside The System Podcast
+* [Winning The Great Online Game](https://www.podchaser.com/podcasts/the-danny-miranda-podcast-1867523/episodes/208-jakob-greenfeld-winning-th-130399236) on the Danny Miranda Show
+* [Taking Shots on Goal](https://www.podchaser.com/podcasts/the-first-10-podcast-1544957/episodes/taking-shots-on-goal-with-jako-129136751) on the First 10 Podcast
+* [Time to Double Down?](https://www.podchaser.com/podcasts/talk-to-stefan-founder-hot-sea-1853166/episodes/5-revenue-generating-products-128048054) on the Founder Hotseat Podcast
+* [Academic Approach to Bootstrapping](https://www.podchaser.com/podcasts/wannabe-entrepreneur-1894896/episodes/201-interviewing-jakob-about-h-131598501) on the Wannabe Entrepreneur Podcast
+
+
 ## Testimonials and Praise
 
 I feel very lucky to share my work with a wide range of people. Members of our community include CEOs and entrepreneurs, actors and artists, elite athletes, and many other fine folks. I do my best to keep things practical and inspiring for everyone.
