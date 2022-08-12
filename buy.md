@@ -11,17 +11,16 @@ But you know what? I'm not rich. I need to sell stuff to pay the bills.
 
 So if there are people who are curious about my projects or want to support my work, they shouldn't have to spend a lot of time searching for them. 
 
-With that said, here we go. 
+So... here we go. 
 
 # Products
 
 * [Curated Experiment Ideas](https://jakobgreenfeld.com/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
+* [Business Brainstorms Bundle](https://jakobgreenfeld.gumroad.com/l/opportunitiespro/earlybird) - all products I created over the years to help myself and others come up with better business ideas.
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Enrich My List](https://enrichmylist.com) - my tool to help newsletter writers uncover the most interesting people on their subscriber list
 * [Revenue Watcher](https://revenuewatcher.com) - revenue signals directly reported by founders of indie businesses
-
-
-
+* [Newsletter Spy](https://newsletterspy.io) - find sponsorship opportunities, cross promotion partners or suitable acquisition targets
 
 # Courses
 

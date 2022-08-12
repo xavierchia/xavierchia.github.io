@@ -25,6 +25,18 @@ Here are the one’s I find repeatedly useful:
 
 Instead of whining about how unfair the world is, you’re better off focusing on your own unfair advantages and coming up with a plan to add more to your repertoire. 
 
+## The Black Box
+
+*"Whenever I have a product or service idea, or someone brings one up, my first move is always to write a sales letter to one person trying to sell them the idea.*
+
+*I imagine myself standing in front of them with a big black box behind me and saying: “If you pay me $X, then there is something in this box that will create outcome Y.”*
+
+*WP Curve, a business I profiled in the book, started by the founder, Dan, saying “If you pay me $69 a month, I’ll fix all your WordPress website problems.” No one cared what was inside the black box (or that it changed over time) as long as the problem continued to be solved.*
+
+*I can try to sell that outcome to people even if the box is empty and save myself all the trouble of actually making whatever I think should go in the box.*
+
+*It also forces me to clarify the most important elements – exactly who the product/service is for and the benefits to that person so I know what I’m trying to achieve.*" - [Taylor Pearson](https://taylorpearson.me/jesusmarketing/)
+
 ## Distribution follows a power law
 
 ![Distribution follows a power law](/images/distribution_power_law.jpeg)
