@@ -12,15 +12,25 @@ Most people don’t get into business to change the world. They simply want to p
 
 And you definitely don’t need to invent the next breakthrough in battery technology to do this. 
 
-Understanding this is incredibly liberating. Most beginning entrepreneurs are paralyzed by the idea that they have to come up with a completely kind of software, service, or product. Or they start executing a totally unique idea only to find out just how incredibly hard it is to get something from zero to one. It’s not a matter of skill. You simply need a lot of luck to pull this off. 
+Understanding this is incredibly liberating. Most beginners are paralyzed by the idea that they have to come up with a completely kind of software, service, or product. 
 
-So it’s hardly surprising that if you study what seasoned entrepreneurs do, their approach is quite different. Some of them got lucky in the past and were able to successfully execute a zero to one idea. But back then, they were young. They were naive. Now they understand how big of a role luck played in their success. So for their second or third venture, they’re using a different playbook. And most beginners would be better off using it as well. 
+Or they start executing a totally unique idea only to find out just how incredibly hard it is to get something from zero to one. 
 
-The idea is to copy something that’s clearly working with some small changes. 
+It’s not just a matter of skill. You also need a lot of luck to be able to pull this off. 
+
+So it’s hardly surprising that if you study what seasoned entrepreneurs do, their approach is quite different. 
+
+Some of them got lucky in the past and were able to successfully execute a zero to one idea. 
+
+But back then, they were young. They were naive. Now they understand how big of a role luck played in their success. 
+
+So for their second or third venture, they’re using a different playbook. Most beginners would be better off using it as well. 
+
+The idea is to copy something that’s clearly working with some small but sufficiently significant changes. 
 
 Instead of from zero to one, we’re going from one to one plus [epsilon](https://mathworld.wolfram.com/Epsilon.html), where epsilon represents some small change.
 
-![](/images/epsilon-method-alt.png) 
+![](/images/epsilon_method_alt.png) 
 
 This is the most effective way to de-risk the launch of a new business. 
 
@@ -90,7 +100,7 @@ I wrote a thread to summarize what I learned by studying how Trung Phan uses Twi
 
 In my first attempt, I tried to be clever and came up with the [following thread hook](https://twitter.com/jakobgreenfeld/status/1481279301727125504) from scratch:
 
-![](/images/epsilon-method_ex1.png) 
+![](/images/epsilon-method-ex1.png) 
 
 
 It flopped hard, earning just 42 likes and around 9,000 impressions.
