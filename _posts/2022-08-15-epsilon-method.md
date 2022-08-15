@@ -104,7 +104,7 @@ I wrote a thread to summarize what I learned by studying how Trung Phan uses Twi
 In my first attempt, I tried to be clever and came up with the [following thread hook](https://twitter.com/jakobgreenfeld/status/1481279301727125504) from scratch:
 
 {:.centered}
-![](/images/epsilon-method-ex1.png){: width="200px" }
+![](/images/epsilon-method-ex1.png){: width="300px" }
 
 
 It flopped hard, earning just 42 likes and around 9,000 impressions.
@@ -112,7 +112,7 @@ It flopped hard, earning just 42 likes and around 9,000 impressions.
 Since I invested quite a lot of time into creating the thread, I decided to give it another shot. But this time, I used a [proven format for my thread hook](https://twitter.com/jakobgreenfeld/status/1483826592182792193):
 
 {:.centered}
-![](/images/epsilon-method-ex2.png){: width="200px" }
+![](/images/epsilon-method-ex2.png){: width="300px" }
 
 
 The result couldn’t have been more different. This time, the exact same content earned 1000 likes and more than 350,000 impressions. It was really the same thread. The only thing I changed was the thread hook. 
