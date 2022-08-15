@@ -10,7 +10,7 @@ categories: inner-game, learning
 
 Most people don’t get into business to change the world. They simply want to provide value, be compensated for it, and do it on their own terms. 
 
-And you definitely don’t need to invent the next breakthrough in battery technology to do this. 
+And you definitely don’t need to invent the next breakthrough in, say, battery technology to do this. 
 
 Understanding this is incredibly liberating. Most beginners are paralyzed by the idea that they have to come up with a completely kind of software, service, or product. 
 
@@ -30,7 +30,7 @@ The idea is to copy something that’s clearly working with some small but suffi
 
 Instead of from zero to one, we’re going from one to one plus [epsilon](https://mathworld.wolfram.com/Epsilon.html), where epsilon represents some small change.
 
-![](/images/epsilon_method_alt.png) 
+![](/images/epsilon_method_alt.png){: width="200px" }
 
 This is the most effective way to de-risk the launch of a new business. 
 
@@ -40,7 +40,9 @@ There are dozens customer acquisition channels you can try and for each of them 
 
 There are billions of different combinations of the moving parts a business consists of and almost all of them don’t work.
 
-That’s the problem with zero to one ideas. You have to be lucky enough to find a functioning combination before you run out of money. The odds are definitely not in your favor, no matter how smart you are. 
+That’s the problem with zero to one ideas. You have to be lucky enough to find a functioning combination before you run out of time and money. 
+
+The odds are definitely not in your favor, no matter how smart you are. 
 
 Compare this to the situation if we focus on “one plus epsilon” ideas. Here, we simply copy an existing and functioning machine and then focus on modifying one or maybe two of the moving parts. 
 
