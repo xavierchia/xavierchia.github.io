@@ -30,6 +30,7 @@ The idea is to copy something that’s clearly working with some small but suffi
 
 Instead of from zero to one, we’re going from one to one plus [epsilon](https://mathworld.wolfram.com/Epsilon.html), where epsilon represents some small change.
 
+{:.centered}
 ![](/images/epsilon_method_alt.png){: width="200px" }
 
 This is the most effective way to de-risk the launch of a new business. 
@@ -102,14 +103,16 @@ I wrote a thread to summarize what I learned by studying how Trung Phan uses Twi
 
 In my first attempt, I tried to be clever and came up with the [following thread hook](https://twitter.com/jakobgreenfeld/status/1481279301727125504) from scratch:
 
-![](/images/epsilon-method-ex1.png) 
+{:.centered}
+![](/images/epsilon-method-ex1.png){: width="200px" }
 
 
 It flopped hard, earning just 42 likes and around 9,000 impressions.
 
 Since I invested quite a lot of time into creating the thread, I decided to give it another shot. But this time, I used a [proven format for my thread hook](https://twitter.com/jakobgreenfeld/status/1483826592182792193):
 
-![](/images/epsilon-method-ex2.png) 
+{:.centered}
+![](/images/epsilon-method-ex2.png){: width="200px" }
 
 
 The result couldn’t have been more different. This time, the exact same content earned 1000 likes and more than 350,000 impressions. It was really the same thread. The only thing I changed was the thread hook. 
