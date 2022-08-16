@@ -141,8 +141,9 @@ By trying to assemble all of these puzzle pieces from scratch, I unnecessarily p
 
 And of course, I want to test this idea. 
 
-So I started a new newsletter two weeks ago. It’s called [Newsletter Story](https://www.newsletterstory.com) and not just the name but also the format is heavily inspired by Pat Walls’ excellent [Starter Story](https://www.starterstory.com) newsletter. The only difference is that instead of business owners, I’m interviewing newsletter writers. That’s my epsilon here. 
+Just two weeks ago I started a new newsletter. It’s called [Newsletter Story](https://www.newsletterstory.com) and not just the name but also the format is heavily inspired by Pat Walls’ excellent [Starter Story](https://www.starterstory.com) newsletter. The only difference is that instead of business owners, I’m interviewing newsletter writers. That’s my epsilon here. 
 
 Will it work? I have no idea. So far things look promising but there are never any guarantees when it comes to real-world experiments like this.
 
 What I know for sure, however, is that this time I did everything I could to stack the odds in my favor.
+
