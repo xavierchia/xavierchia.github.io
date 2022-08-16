@@ -11,7 +11,7 @@ permalink: /articles/
   
 <article class="post">
 
-  <strong>I write about</strong> ideas for leveling up your entrepreneurial game, building your personal brand, and breaking down invisible walls. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday and Thursday. You can read a few popular articles below or scroll down to browse recent posts.
+  <strong>I write about</strong> ideas for leveling up your entrepreneurial game, building your personal brand, and breaking down invisible walls. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday. You can read a few popular articles below or scroll down to browse recent posts.
 <br> <br>
   <strong>Popular Articles</strong>
 <div class="noyellowlinks">
