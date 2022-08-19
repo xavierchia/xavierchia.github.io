@@ -68,12 +68,7 @@
 
   <body>
 
-    <script>
-      // trigger plausible(Signup) when input with id member_submit is clicked
-      $('#member_submit').click(function() {
-        plausible('Signup');
-      });
-      </script>
+    
 
     <div class="wrapper-masthead">
       <div class="container">
@@ -111,5 +106,12 @@
     </div>
 
     {% include analytics.html %}
+
+    <script>
+      // trigger plausible(Signup) when input with id member_submit is clicked
+      $('#member_submit').click(function() {
+        plausible('Signup');
+      });
+      </script>
   </body>
 </html>
