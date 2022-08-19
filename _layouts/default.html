@@ -61,9 +61,20 @@
     <meta name="twitter:image" content="{{ site.title_image }}">
     {% endif %}
     <!-- end of Twitter cards -->
+
+    <script defer data-domain="jakobgreenfeld.com" src="https://plausible.io/js/script.js"></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   </head>
 
   <body>
+
+    <script>
+      // trigger plausible(Signup) when input with id member_submit is clicked
+      $('#member_submit').click(function() {
+        plausible('Signup');
+      });
+      </script>
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
