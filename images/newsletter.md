@@ -49,6 +49,9 @@ Here’s what newsletter subscribers are saying…
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">thanks for teaching me how to hack the SEC, <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a></p>&mdash; Ryan Doyle 🔮 (@Ryan___Doyle) <a href="https://twitter.com/Ryan___Doyle/status/1517568315618648067?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> 
 
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">😀 Wanted to also let you know that of the many newsletter/emails I get, yours and <a href="https://twitter.com/TheHustle?ref_src=twsrc%5Etfw">@TheHustle</a> are the only ones I read almost without fail and which I&#39;m excited to read about. Lots of value from your insights. I&#39;m a big fan!</p>&mdash; Zhong (@armchairbill) <a href="https://twitter.com/armchairbill/status/1561749158733938688?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote> 
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">okay damn this is really good - <a href="https://t.co/zMX9G0EAzA">https://t.co/zMX9G0EAzA</a> <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a></p>&mdash; Ali Abdaal (@AliAbdaal) <a href="https://twitter.com/AliAbdaal/status/1366784294916681734?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nailed even the private stuff <a href="https://t.co/81zim7wq1Y">https://t.co/81zim7wq1Y</a></p>&mdash; Nathan (Founderpath.com) 📍 SaaStr Barcelona (@NathanLatka) <a href="https://twitter.com/NathanLatka/status/1319320931001663489?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> 
