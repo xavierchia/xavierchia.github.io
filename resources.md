@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /buy/
+permalink: /resources/
 ---
 
 
