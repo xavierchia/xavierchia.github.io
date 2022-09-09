@@ -7,7 +7,7 @@ permalink: /about/
 ## Quick Links
 
 - Writer on entrepreneurship, creativity, and marketing with over 7,000 email subscribers.
-- Serial entrepreneur and founder of <a href="https://newsletterspy.io">Newsletter Spy</a>, <a href="https://enrichmylist.com">Enrich My List</a>, <a href="https://undertheradar.io">Under the Radar</a>, Product Explorer (acq.), What to Tweet (acq.).
+- Serial entrepreneur and founder of <a href="https://dataondemand.io">Data on Demand</a>, <a href="https://newsletterspy.io">Newsletter Spy</a>, <a href="https://enrichmylist.com">Enrich My List</a>, <a href="https://undertheradar.io">Under the Radar</a>, Product Explorer (acq.), What to Tweet (acq.).
 
 ## About Jakob Greenfeld
 
