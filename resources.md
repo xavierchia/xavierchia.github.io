@@ -13,6 +13,12 @@ So if there are people who are curious about my projects or want to support my w
 
 So... here we go. 
 
+# Micro Consulting
+
+I’ve decided to offer for a limited time micro consulting sessions.
+
+Read more [here](https://jakobgreenfeld.com/hire/).
+
 # Products and Services
 
 
