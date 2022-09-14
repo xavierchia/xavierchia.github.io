@@ -22,7 +22,19 @@ The primary place that I share this information is through my weekly newsletter.
 
 I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way. If you’re ready to learn how to make significant progress and get better ideas, then enter your email address below and click “Subscribe”
 
-<iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<!-- <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe> -->
+
+<div id="revue-embed">
+    <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+        <div style="float: right" class="revue-form-actions">
+            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+          </div>
+        <div style="overflow: hidden;" class="revue-form-group">
+        <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+        </div>
+    <div style="font-size: 9px;" class="revue-form-footer">(By subscribing, you agree with Revue’s <a target="_blank" style="background-color: white;" href="https://www.getrevue.co/terms">Terms of Service</a> and <a style="background-color: white;" target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.)</div>
+    </form>
+</div>
 
 ## Contact
 
@@ -59,4 +71,14 @@ Here’s what newsletter subscribers are saying…
 
 Like what they have to say? Join the party by signing up for the free newsletter below.
 
-<iframe src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<div id="revue-embed">
+    <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+        <div style="float: right" class="revue-form-actions">
+            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+          </div>
+        <div style="overflow: hidden;" class="revue-form-group">
+        <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+        </div>
+    <div style="font-size: 9px;" class="revue-form-footer">(By subscribing, you agree with Revue’s <a target="_blank" style="background-color: white;" href="https://www.getrevue.co/terms">Terms of Service</a> and <a style="background-color: white;" target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.)</div>
+    </form>
+</div>
