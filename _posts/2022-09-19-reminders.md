@@ -1,5 +1,5 @@
 ---
-title: A few reminders to myself (keep going, listen only to the market, it's okay to quit and pivot)
+title: A few reminders to myself (keep going, listen only to the market, it's okay to quit and pivot, ...)
 published: true
 layout: post
 permalink: reminders

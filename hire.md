@@ -31,7 +31,7 @@ There are two currently offers:
 * I've launched 10+ newsletters, grown 5 to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
 * I've grown my [Twitter account](https://twitter.com/jakobgreenfeld) to 12,000+ followers and made countless invaluable connections along the way. I've done this by authentically sharing my journey, not through cheap growth hacks. 
 * My [essays](/articles) are regularly read by tens of thousands of people. 
-* I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills. I'm also teaching a popular [web scraping course](/https://jakobgreenfeld.gumroad.com/l/scraping).
+* I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills. I'm also teaching a popular [web scraping course](https://jakobgreenfeld.gumroad.com/l/scraping).
 
 I'll be an honest third-party observer who won't pull punches.
 
