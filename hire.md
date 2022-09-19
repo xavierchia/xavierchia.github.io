@@ -4,7 +4,9 @@ title:
 permalink: /hire/
 ---
 
-I've decided to offer *micro consulting sessions* for a limited time.
+Need some 1-on-1 help?
+
+Good news! I've decided to offer *micro consulting sessions* for a limited time.
 
 Here's what I can help you with:
 

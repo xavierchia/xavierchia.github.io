@@ -21,7 +21,6 @@ Read more [here](https://jakobgreenfeld.com/hire/).
 
 # Products and Services
 
-
 * [Curated Experiment Ideas](https://jakobgreenfeld.com/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
 * [Business Brainstorms Bundle](https://jakobgreenfeld.gumroad.com/l/opportunitiespro) - all products I created over the years to help myself and others come up with better business ideas.
 * [Abandoned Assets](https://undertheradar.io) - Why start from scratch if you can buy an established website from someone who lost interest?
