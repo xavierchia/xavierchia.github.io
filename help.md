@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /hire/
+permalink: /help/
 ---
 
 Need some 1-on-1 help?
