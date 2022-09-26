@@ -18,8 +18,8 @@ Here's what I can help you with:
 
 There are two currently offers:
 
-* Synchronous: 30-minute video consulting call.
-* Asynchronous: 15-minute, private video, packed with personalized advice, ideas, and feedback. (You can submit your questions in written form or by recording a short video.) 
+* Synchronous: 40-minute video consulting call.
+* Asynchronous: 5-10 minute, private video, packed with personalized advice, ideas, and feedback. (You can submit your questions in written form or by recording a short video.) 
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://jakobgreenfeld.gumroad.com/l/uigrl">Buy on</a>
