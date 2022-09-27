@@ -60,6 +60,7 @@ Here’s what newsletter subscribers are saying…
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Something really amazing I have read recently. <br><br>Everyone should follow <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> and read all his articles on his website. Within a week, you will start thinking and doing things like a champion! <a href="https://t.co/MvW2Oml2oR">pic.twitter.com/MvW2Oml2oR</a></p>&mdash; Riten (Fueler.io) (@ritendn) <a href="https://twitter.com/ritendn/status/1570724975346319362?ref_src=twsrc%5Etfw">September 16, 2022</a></blockquote> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really enjoyed the latest issue of the play permissionless newsletter from <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a>.<br><br>Great job, dude, keep em coming! 💯🚀</p>&mdash; Borislav Grigorov (@Brslv) <a href="https://twitter.com/Brslv/status/1574770719128428544?ref_src=twsrc%5Etfw">September 27, 2022</a></blockquote> 
 
 Like what they have to say? Join the party by signing up for the free newsletter below.
 
