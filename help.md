@@ -27,6 +27,9 @@ There are two currently offers:
 
 ## Why me?
 
+"The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Jakob used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen Raffington](https://twitter.com/raff_jen)
+
+
 * I've built and sold [multiple profitable businesses](/about). I've also been brainstorming, researching, and sharing business ideas [every week](https://brainstorms.substack.com) for more than two years now.
 * I've launched 10+ newsletters, grown 5 to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
 * I've grown my [Twitter account](https://twitter.com/jakobgreenfeld) to 12,000+ followers and made countless invaluable connections along the way. I've done this by authentically sharing my journey, not through cheap growth hacks. 
