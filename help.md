@@ -2,6 +2,8 @@
 layout: page
 title: 
 permalink: /help/
+image: /images/default.png
+
 ---
 
 Need some 1-on-1 help?
