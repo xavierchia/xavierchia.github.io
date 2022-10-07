@@ -31,7 +31,7 @@ There are two currently offers:
 
 "I'm constantly debating which business ideas to pursue. Getting a fresh perspective is so valuable. Your personalized critique helped me clarify my own thoughts. You've nudged me towards one of my better ideas, something actually worth pursuing. Can't imagine a better use of $29." - [John Speed](https://twitter.com/John_Speed)
 
-"The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Jakob used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen Raffington](https://twitter.com/raff_jen)
+"The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Jakob used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen](https://twitter.com/raff_jen)
 
 ## Why me?
 
