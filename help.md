@@ -6,9 +6,7 @@ image: /images/default.png
 
 ---
 
-Need some 1-on-1 help?
-
-Good news! I've decided to offer *micro consulting sessions* for a limited time.
+I've decided to offer *micro consulting sessions* for a limited time.
 
 Here's what I can help you with:
 
