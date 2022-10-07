@@ -33,6 +33,8 @@ There are two currently offers:
 
 "The amount of value I got from my microconsulting purchase was unbelievable. When you're learning how to build a business, you spend so much time trying to read and find information online, but Jakob used his already acquired knowledge and experience to point me in the right direction for my business. He gave me advice on how to better my landing page, gave me ideas on how to experiment with each step in my funnel, gave me ideas on how to market on social media and much more. This purchase will save you so much time. It was $29 but easily hundreds of dollars worth of value." - [Jen](https://twitter.com/raff_jen)
 
+"I can vouch. Jakob offers great actionable advice that is easy to understand and implement. The amount of value for the price is amazing. Thank you again for your help" - [Shoaib Ahmed](https://twitter.com/ShoaibA323/status/1578324696214704129)
+
 ## Why me?
 
 
