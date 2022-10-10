@@ -36,6 +36,8 @@ There are two currently offers:
 
 "I tested this with Jakob (the live version) and he gave me some really great ideas on building in public that Im going to use 🙏" - [Juho Nenonen](https://twitter.com/JNeponen/status/1578362698697302016)
 
+"Wow, what a value packed 18 mins! Thank you so much, it made so much sense and unlocked a lot of things in my brain." - [Narawastu Indrapradna](https://www.linkedin.com/in/narawastu-indrapradna-a485263b/?originalSubdomain=id)
+
 ## Why me?
 
 
