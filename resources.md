@@ -24,7 +24,7 @@ Read more [here](https://jakobgreenfeld.com/hire/).
 * [Tweets on Demand](https://tweetsondemand.com) - Get a month's worth of tweets in just 30 minutes of your time.
 * [Curated Experiment Ideas](https://jakobgreenfeld.com/experiments) - whenever I decide that it’s time to work on a specific problem, I pull up one of the lists and start experimenting right away
 * [Business Brainstorms Bundle](https://jakobgreenfeld.gumroad.com/l/opportunitiespro) - all products I created over the years to help myself and others come up with better business ideas.
-* [Abandoned Assets](https://undertheradar.io) - Why start from scratch if you can buy an established website from someone who lost interest?
+* [Abandoned Assets](https://abandonedassets.io) - Why start from scratch if you can buy an established website from someone who lost interest?
 * [Under the Radar](https://undertheradar.io) - Trend-Signals-as-a-Service
 * [Enrich My List](https://enrichmylist.com) - my tool to help newsletter writers uncover the most interesting people on their subscriber list
 * [Revenue Watcher](https://revenuewatcher.com) - revenue signals directly reported by founders of indie businesses
