@@ -22,7 +22,7 @@ There are two currently offers:
 * Asynchronous: 10-20 minute, private video, packed with personalized advice, ideas, and feedback. (You can submit your questions in written form or by recording a short video.) 
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://jakobgreenfeld.gumroad.com/l/uigrl/earlybird">Buy on</a>
+<a class="gumroad-button" href="https://jakobgreenfeld.gumroad.com/l/uigrl/">Buy on</a>
 
 
 ## What people are saying
