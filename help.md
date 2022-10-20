@@ -40,6 +40,8 @@ There are two currently offers:
 
 "Wow, what a value packed 18 mins! Thank you so much, it made so much sense and unlocked a lot of things in my brain." - [Narawastu Indrapradna](https://www.linkedin.com/in/narawastu-indrapradna-a485263b/?originalSubdomain=id)
 
+"Good stuff!" - Paulo Makdisse (founder at [Moat.ai](https://moat.ai))
+
 ## Why me?
 
 
