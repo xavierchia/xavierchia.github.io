@@ -16,10 +16,9 @@ Here's what I can help you with:
 * Writing: Struggling with writer's block? Looking for new ways to find readers? Need some honest feedback?
 * Web scraping: Struggling to scrape data from a specific site? No idea where to best get data for a project? Confused about how to set up a specific automation?
 
-There are two currently offers:
+Here's how it works:
 
-* Synchronous: 40-minute video consulting call.
-* Asynchronous: 10-20 minute, private video, packed with personalized advice, ideas, and feedback. (You can submit your questions in written form or by recording a short video.) 
+* You can submit your questions in written form or by recording a short video. I wil then answer them asynchonously by recording a 10-20 minute, private video, packed with personalized advice, ideas, and feedback.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://jakobgreenfeld.gumroad.com/l/uigrl/">Buy on</a>
@@ -45,6 +44,8 @@ There are two currently offers:
 "Thank you Jakob! I had high expectations and you exceeded them, I really appreciate this! Your advice was even better than I hoped (and I had high hopes!) and I'll be moving forward with this framework in mind." - Zachariah Lewis
 
 "This has been extremely helpful. Massive thanks!" - [Gabriele Pezzin](https://www.flygohr.com)
+
+"Thank you very much for this. I'm going to do exactly what you suggested [...]. No questions right now - I'll just get moving on your recommendations."
 
 ## Why me?
 
