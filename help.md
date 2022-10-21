@@ -63,7 +63,9 @@ I love talking with early founders and people who are just starting to figure th
 I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way.
 
 
-## Why Micro Consulting?
+## Why I'm offering this
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really like this! As <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> says it&#39;s more about connecting than revenue and counter-intuitively makes is easier for people to ask questions because there&#39;s a structure and clear expectations around doing so. <a href="https://t.co/LDD3tFCMnO">https://t.co/LDD3tFCMnO</a></p>&mdash; Cathy Raffaele 🍏 🥔 (@cathyraffaele) <a href="https://twitter.com/cathyraffaele/status/1578255521483669507?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I've been getting more and more emails from people asking for advice, feedback, and brainstorming help. 
 
