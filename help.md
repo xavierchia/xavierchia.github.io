@@ -42,6 +42,10 @@ There are two currently offers:
 
 "Good stuff!" - Paulo Makdisse (founder at [Moat.ai](https://moat.ai))
 
+"Thank you Jakob! I had high expectations and you exceeded them, I really appreciate this! Your advice was even better than I hoped (and I had high hopes!) and I'll be moving forward with this framework in mind." - Zachariah Lewis
+
+"This has been extremely helpful. Massive thanks!" - [Gabriele Pezzin](https://www.flygohr.com)
+
 ## Why me?
 
 
