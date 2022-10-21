@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Get Help
+title: Clarity as a Service
 permalink: /help/
 image: /images/default.png
 
 ---
 
-I've decided to offer micro consulting services for a limited time.
+I've recently started helping people by offering feedback, advice, and sometimes really just an outsider's perspective. 
 
-Here's what I can help you with:
+Here are a few things I can help you with:
 
 * Business ideas: Struggling to decide what idea to pursue? Looking for feedback on a specific idea? Unsure if you should sell a project?
 * Newsletter growth: Struggling to grow your newsletter? Looking for better ways to monetize it? Need some brutally honest audit of your recent emails?
