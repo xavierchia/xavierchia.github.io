@@ -26,6 +26,8 @@ Here's how it works:
 
 ## What people are saying
 
+"Thank you so much for your views! Resonated a lot and it was along the lines of what I was thinking but it's really great getting external validation from someone who's done it before taking the leap." - [Bruno Nogueira](https://twitter.com/brunofaggion)
+
 "This was great. Gave me some really valuable things to consider which is exactly what I was after." - [Ben Lucas](https://haveaplan.xyz)
 
 "I'm constantly debating which business ideas to pursue. Getting a fresh perspective is so valuable. Your personalized critique helped me clarify my own thoughts. You've nudged me towards one of my better ideas, something actually worth pursuing. Can't imagine a better use of $29." - [John Speed](https://twitter.com/John_Speed)
