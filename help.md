@@ -56,7 +56,7 @@ Callum Birch](https://twitter.com/callumpbirch)
 
 
 * I've built and sold [multiple profitable businesses](/about). I've also been brainstorming, researching, and sharing business ideas [every week](https://brainstorms.substack.com) for more than two years now.
-* I've launched 10+ newsletters, grown 5 to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
+* I've 5 newsletters to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
 * I've grown my [Twitter account](https://twitter.com/jakobgreenfeld) to 12,000+ followers and made countless invaluable connections along the way. I've done this by authentically sharing my journey, not through cheap growth hacks. 
 * My [essays](/articles) are regularly read by tens of thousands of people. 
 * I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills. I'm also teaching a popular [web scraping course](https://jakobgreenfeld.gumroad.com/l/scraping).
@@ -70,7 +70,7 @@ I don’t claim to have all the answers and I still have a lot to learn, but I�
 
 ## Why I'm offering this
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really like this! As <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> says it&#39;s more about connecting than revenue and counter-intuitively makes is easier for people to ask questions because there&#39;s a structure and clear expectations around doing so. <a href="https://t.co/LDD3tFCMnO">https://t.co/LDD3tFCMnO</a></p>&mdash; Cathy Raffaele 🍏 🥔 (@cathyraffaele) <a href="https://twitter.com/cathyraffaele/status/1578255521483669507?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 I've been getting more and more emails from people asking for advice, feedback, and brainstorming help. 
 
@@ -78,9 +78,9 @@ While I always love helping people, my time is obviously limited. So usually I p
 
 But at the same time, there are many specific questions or problems where it doesn't make sense to write a blog post. 
 
-The second reason why I've decided to offer micro consulting sessions is that this is something I wish someone had offered this when I was just starting out. 
+The second reason why I've decided to offer asynchronous micro consulting sessions is that this is something I wish someone had offered this when I was just starting out. 
 
-I'm convinced that even just a little feedback from someone one or two steps ahead, could've saved me a lot of time and money.
+I'm convinced that even just some short feedback from someone one or two steps ahead, could've saved me a lot of time and money.
 
 But like most people, I never reached out to people that could've helped me. 
 
@@ -90,7 +90,9 @@ So by making things more transactional, I hope to break down this barrier.
 
 I definitely would've been happy to pay for someone's time but it feels kind of weird to just offer this out of the blue. 
 
-So this micro consulting offer is really just something I wished had existed when I started my journey. 
+So this micro consulting offer is really just something I wished had existed when I started my journey.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really like this! As <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> says it&#39;s more about connecting than revenue and counter-intuitively makes is easier for people to ask questions because there&#39;s a structure and clear expectations around doing so. <a href="https://t.co/LDD3tFCMnO">https://t.co/LDD3tFCMnO</a></p>&mdash; Cathy Raffaele 🍏 🥔 (@cathyraffaele) <a href="https://twitter.com/cathyraffaele/status/1578255521483669507?ref_src=twsrc%5Etfw">October 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Fine Print
 
