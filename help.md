@@ -30,6 +30,7 @@ Here's how it works:
 
 "This was great. Gave me some really valuable things to consider which is exactly what I was after." - [Ben Lucas](https://haveaplan.xyz)
 
+"More than anything the conversation helped me refocus on experiments and their results as my guide in all this." - [Cam Burley]()
 
 
 "I can vouch. Jakob offers great actionable advice that is easy to understand and implement. The amount of value for the price is amazing. Thank you again for your help" - [Shoaib Ahmed](https://twitter.com/ShoaibA323/status/1578324696214704129)
