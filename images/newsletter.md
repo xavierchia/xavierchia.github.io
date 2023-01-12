@@ -24,18 +24,7 @@ Just enter your email address below and click “Subscribe”
 
 <!-- <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0;margin-top: 20px; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<div id="revue-embed" style="width:400px">
-    <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-        <div style="float: right" class="revue-form-actions">
-            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-          </div>
-        <div style="overflow: hidden;" class="revue-form-group">
-        <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-        </div>
-    
-    <div style="font-size: 9px;" class="revue-form-footer">(By subscribing, you agree with Revue’s <a target="_blank" style="background-color: white;" href="https://www.getrevue.co/terms">Terms of Service</a> and <a style="background-color: white;" target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.)</div>
-    </form>
-  </div>
+<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 **What Readers Are Saying…**
 
@@ -66,15 +55,4 @@ Like what they have to say? Join the party by signing up for the free newsletter
 
 <!-- <iframe src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<div id="revue-embed" style="width:400px">
-    <form action="https://www.getrevue.co/profile/greenfeld/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-        <div style="float: right" class="revue-form-actions">
-            <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-          </div>
-        <div style="overflow: hidden;" class="revue-form-group">
-        <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-        </div>
-    
-    <div style="font-size: 9px;" class="revue-form-footer">(By subscribing, you agree with Revue’s <a target="_blank" style="background-color: white;" href="https://www.getrevue.co/terms">Terms of Service</a> and <a style="background-color: white;" target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.)</div>
-    </form>
-  </div>
+<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
