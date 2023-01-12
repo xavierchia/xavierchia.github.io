@@ -24,7 +24,10 @@ Just enter your email address below and click “Subscribe”
 
 <!-- <iframe height="60px" src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0;margin-top: 20px; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div style="margin: 0 auto;text-align:center;">
+<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 **What Readers Are Saying…**
 
@@ -55,4 +58,7 @@ Like what they have to say? Join the party by signing up for the free newsletter
 
 <!-- <iframe src="https://embeds.beehiiv.com/721b7323-23a6-4e64-ad95-364036af2b0b?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe> -->
 
-<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div style="margin: 0 auto;text-align:center;">
+<iframe src="https://playpermissionless.substack.com/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
