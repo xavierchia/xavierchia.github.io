@@ -5,7 +5,7 @@ layout: post
 permalink: cold-email-framework
 excerpt:  If a campaign isn't working, clever messaging won't save it.
 image: /images/default.png
-categories: entreprenurship
+categories: entreprenurship, cold-email
 ---
 
 The success of any cold outreach campaign depends on the following three factors: 
