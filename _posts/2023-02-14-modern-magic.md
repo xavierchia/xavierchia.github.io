@@ -1,5 +1,5 @@
 ---
-title: Modern Magic - in defense of shamnism, prayer, rune casting, and believing in gods
+title: Modern Magic - in defense of shamanism, prayer, rune casting, and believing in gods
 published: true
 layout: post
 permalink: modern-magic
