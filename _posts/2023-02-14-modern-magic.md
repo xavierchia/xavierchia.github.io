@@ -1,5 +1,5 @@
 ---
-title: Modern Magic - in defense of shamanism, prayer, rune casting, and believing in gods
+title: Magic doesn't work that way
 published: true
 layout: post
 permalink: modern-magic
