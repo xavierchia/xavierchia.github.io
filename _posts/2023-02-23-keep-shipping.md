@@ -3,7 +3,7 @@ title: Just keep shipping
 published: true
 layout: post
 permalink: keep-shipping
-excerpt:  Maybe rune casting is a psycho-technology as powerful as meditation?
+excerpt:  95% of everything fails
 image: /images/default.png
 categories: entrepreneurship
 ---
