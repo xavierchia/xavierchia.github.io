@@ -11,6 +11,8 @@ categories: profiles, sales
 * My rating: 4/5.
 * A lot of great ideas clearly coming from first-hand experience. However, relatively poorly organized and repetitve. Could easily be a 5/5 book with a better editor.
 
+## Main Takeaways
+
 * Sales doesn't have to be sleazy. It's about understanding someone's life and offering the best solution available to them. Getting a truly great product or service into the hands of someone who needs it is a moral obligation.
 * Sales is a transference of enthusiasm.
 * Sales is working out if it makes sense for two parties to work together.

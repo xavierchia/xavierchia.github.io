@@ -8,8 +8,11 @@ image: /images/default.png
 categories: profiles, sales
 ---
 
-* my rating: 2/5
+* My rating: 2/5
 * Pretty sure the author is not practicting what he's preaching. Far too many details are missing to be truly useful. Feels like the author had a "cool idea" and then wrote a book about it but never actually used what he describes himself.
+
+## Main Takeaways
+
 
 * If you’re not careful, you will start drifting through liife going nowhere at all—or at least not where you want.
 * Key to personal development is identity-based change because it's easier to adopt a new identity than modify individual behaviors or habits.
