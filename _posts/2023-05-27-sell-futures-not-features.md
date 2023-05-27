@@ -3,7 +3,7 @@ title: Sell Futures, not Features by Michael Killen - my notes
 published: true
 layout: post
 permalink: sell-futures-not-features
-excerpt:  95% of everything fails
+excerpt:  Ultimately, we’re transferring enthusiasm about something which can help people. Then working out if we’re a good fit for each other – that, is selling
 image: /images/default.png
 categories: profiles, sales
 ---
@@ -73,7 +73,7 @@ categories: profiles, sales
 
 "So you have two choices. Continue to sell without enthusiasms and let others scam your customers (and some people will still think you’re a scam too) Sell WITH enthusiasm and take money away from scammers (and some people will still think you’re a scam too)"
 
-"**Ultimately, we’re transferring enthusiasm about something which can help people. Then working out if we’re a good fit for each other – that, is selling**"
+"**Ultimately, we’re transferring enthusiasm about something which can help people. Then working out if we’re a good fit for each other – that, is selling.**"
 
 
 "Imagine your job is to collect truffles in the forest. They can sell for between $1500 and $4000 per lb.Lets’ say you manage to find 5lb, yielding around $20,000 in sales. What if I told you that there was another 250lbs in the forest, a little further in BUT you’d have to look stupid, people would call you rude and foolish. Wouldn’t you go for it? That’s another $980,000 in revenue. What if I also told you that the people who thought you looked stupid, occasionally bought from you AND many many more people would also buy. Doesn’t this sound crazy? That’s what many salespeople and business owners are afraid of. They’re afraid of following up more and worried that they might possibly be seen as rude, arrogant, annoying or persistent. When the reality is that they almost certainly won’t be seen as or thought of as that. When you flip your mindset and start seeing the customer as on the same side of the table as you, you’re not worried about looking stupid because it’s a partnership. You’re not worried about answering their objections and closing them again and again, because you’ve got bigger plans in mind."
