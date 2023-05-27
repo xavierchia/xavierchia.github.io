@@ -3,7 +3,7 @@ title: The 3 Alarms by Eric Partaker - my notes
 published: true
 layout: post
 permalink: three-alaarms
-excerpt:  Ultimately, we’re transferring enthusiasm about something which can help people. Then working out if we’re a good fit for each other – that, is selling
+excerpt:  Pick a new identity in each life domain you want to improve and then establish "champion proofs" to help you stick to it. 
 image: /images/default.png
 categories: profiles, sales
 ---
