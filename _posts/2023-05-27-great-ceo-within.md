@@ -2,14 +2,17 @@
 title: The Great CEO Within by Matt Mochary - my notes 
 published: true
 layout: post
-permalink: three-alaarms
-excerpt:  Ultimately, we’re transferring enthusiasm about something which can help people. Then working out if we’re a good fit for each other – that, is selling
+permalink: great-ceo-within
+excerpt: Establish and maintain impeccable agreements to prevent unproductiveness and decreased morale. Many startups suffer because of sloppy agreements. Broken agreements must have consequences.
 image: /images/default.png
-categories: profiles, sales
+categories: profiles, entrepreneurship, sales
 ---
 
 * my rating: 3/5
 * Most of the advice is common sense or better covered elsewhere. Matt is pretty vocal about this though. He openly says that his while "system" is based on a few standard books he read like Andy Grove's High Output Management or Getting Things Done by David Allen. So if you've read those books, you won't find much new here. Also given that Matt has worked with tons of incredible companies, there were very little first-hand stories that back up what he's saying.
+
+
+## Main Takeaways
 
 * Keep your team as small as possible (<6 people) until you have product-market-fit (usually $1M in yearly revenue). Smaller teams thrive in chaos and are ready to tackle new challenges.
 * A co-founder's purpose is primarily to help achieve product-market fit; they may not provide value beyond that point.

@@ -2,10 +2,10 @@
 title: The 3 Alarms by Eric Partaker - my notes 
 published: true
 layout: post
-permalink: three-alaarms
-excerpt:  Pick a new identity in each life domain you want to improve and then establish "champion proofs" to help you stick to it. 
+permalink: three-alarms
+excerpt:  Pick a new identity in each life domain you want to improve and then establish champion proofs to help you stick to it. 
 image: /images/default.png
-categories: profiles, sales
+categories: profiles, inner-game
 ---
 
 * My rating: 2/5
