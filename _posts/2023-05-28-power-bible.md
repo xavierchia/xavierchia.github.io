@@ -23,7 +23,7 @@ categories: profiles, entrepreneurship
 * Labeling also works really well with your own thoughts or with how you think about yourself, e.g. by creating an alter ego.
 * You can get a lot more opportunities coming your way simply by becoming a familiar face at certain locations.
 * You can brainwash yourself by listening to the same content over and over again. Listen to the same audiobook or podcast thousands of times so that you become the character you want to play. 
-
+* One of the best ways to identify areas you feel inferior is by noticing what you're jealous of.
 
 
 ## On Frame
