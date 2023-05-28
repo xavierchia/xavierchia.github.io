@@ -3,9 +3,9 @@ title: From From 6 To 7 Figures by Austin Netzley - my notes
 published: true
 layout: post
 permalink: six-to-seven-figures
-excerpt:  Pick a new identity in each life domain you want to improve and then establish "champion proofs" to help you stick to it. 
+excerpt:  Who is your perfect customer? Who can you best serve? Who can you be the undisputed market leader for exactly? Who would you love to duplicate as a client over and over again?
 image: /images/default.png
-categories: profiles, sales
+categories: profiles, entrepreneurship
 ---
 
 * My rating: 3/5
