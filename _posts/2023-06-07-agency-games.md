@@ -65,6 +65,21 @@ The most important thing is that you get clear on which game you are playing. An
 
 They can be in completely different niches. That doesn't matter. As long as they're playing the same game as you, you can learn a lot from them.
 
+----
+
+A finaly note: most "agency influencers" never reached the level you want to reach.
+
+Getting an agency to $30k/month is not that hard. But to get to that next level, say, $300k/month, you really have to know what you're doing. You need world-class systems and processes, not just on the delivery side but also on the sales side.
+
+So what happens at $30k/month is that everything starts falling apart. Stuff becomes serious. You really hit the limits of what you can manage yourself.
+
+So a lot of these agency influencers decided that selling courses on how to build an agency is actually a lot easier than trying to get to the next level themselves.
+
+As a result, all they can teach is how to get to $30k/month. But they have no idea how to get to $300k/month and beyond.
+
+
+
+
 
 
 
