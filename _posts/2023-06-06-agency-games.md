@@ -1,5 +1,5 @@
 ---
-title: The three agency games and how to play them
+title: The four agency games and how to play them
 published: true
 layout: post
 permalink: agency-games
@@ -8,21 +8,20 @@ image: /images/default.png
 categories: profiles, entrepreneurship
 ---
 
-You have to careful. Super careful.
 
-While there are tons of people giving advice on how to build an agency, most of it is not relevant for you. Or in fact, most of it will actually stall your growth and cause issues left and right.
+There are tons of people giving advice on how to build an agency. But most of it will actually stall your growth and cause issues left and right.
 
 The problem is that everyone is using the same word "agency" to describe completely different things.
 
-There are three different agency games. And you have to know which one you are playing.
+There are four different agency games. And you have to know which one you are playing.
 
-This will make it easier to find people giving actually relevant advice and ignore all the confusing contradicting advice out there.
+This will not only make it much easier to build your agency, but also to know what advice to follow and what to ignore.
 
-First of all, there is of course the freelancers in disguise. They are not really an agency. They are just a freelancer who is trying to sound more professional. Maybe it's just one guy or maybe it's a small team of freelancers.
+First of all, there is of course the freelancers in disguise approach. They are not really an agency. They are just one freelancer or a couple of freelancers who are labeling themselves as an agency. 
 
-But what they're really doing is just selling their time. They are not really building a business but create a (often well-paid) job for themselves.
+But what they're really doing is just selling their time. They are not really building a business. They are creating an (often well-paid) job for themselves.
 
-Then there are the agencies who what I'm calling the McDonalds game.
+Then there are the agencies who are playing what I'm calling the McDonalds game.
 
 You hire an army of cheap VAs, write tons of bulletproof SOPs, and then charge a reasonably low price for your services. 
 
