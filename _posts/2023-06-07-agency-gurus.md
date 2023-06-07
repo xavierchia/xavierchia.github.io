@@ -1,5 +1,5 @@
 ---
-title: Do not listen to agency gurus
+title: Do not listen to the agency gurus
 published: true
 layout: post
 permalink: agency-gurus
