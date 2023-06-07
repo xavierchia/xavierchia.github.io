@@ -8,7 +8,7 @@ image: /images/default.png
 categories: profiles, entrepreneurship
 ---
 
-Most "agency influencers" never reached the level you want to reach.
+Most agency influencers never reached the level you want to reach.
 
 Getting an agency to $30k/month is not that hard. But to get to that next level, say, $300k/month, you really have to know what you're doing. You need world-class systems and processes, not just on the delivery side but also on the sales side.
 
