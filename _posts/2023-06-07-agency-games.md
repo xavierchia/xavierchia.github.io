@@ -75,7 +75,7 @@ So what happens at $30k/month is that everything starts falling apart. Stuff bec
 
 So a lot of these agency influencers decided that selling courses on how to build an agency is actually a lot easier than trying to get to the next level themselves.
 
-As a result, all they can teach is how to get to $30k/month. But they have no idea how to get to $300k/month and beyond.
+As a result, all they can teach is how to get to $30k/month. But they have no idea how to get to $300k/month and beyond. They know nothing about the actual hard parts of building an agency since they opted out when things got serious.
 
 
 
