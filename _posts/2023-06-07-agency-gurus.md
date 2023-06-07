@@ -3,7 +3,7 @@ title: Do not listen to agency gurus
 published: true
 layout: post
 permalink: agency-gurus
-excerpt:  Getting an agency to $30k/month is not that hard. But to get to that next level, say, $300k/month, you really have to know what you're doing.
+excerpt:  They know nothing about the actual hard parts of building an agency since they opted out when things got serious.
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---
