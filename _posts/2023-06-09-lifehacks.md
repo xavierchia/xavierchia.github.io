@@ -3,7 +3,7 @@ title: Tactics, Principles, and Frames
 published: true
 layout: post
 permalink: tactics-principles-frames
-excerpt:  What would this look like if it were simple?
+excerpt:  Whenever you feel stuck, change into an environment with more spatial, social, and temporal degrees of freedom. Nature, open sky, zero deadlines, no other human nearby.
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---
@@ -70,6 +70,7 @@ categories: profiles, entrepreneurship
 * Make sure to hit your endurance threshold at least twice a week. The best way to do this is by finding a sport you enjoy where you can go all out. Football, boxing, etc.
 * Avoid packaged food as much as possible. If it has a label, it's not good for you.
 * Most supplements are a just ingredients for expensive pee. Few that are not: creatine, vitamin D, and fish oil, magnesium. Be very careful to check the ingredients when buying supplements. Most are filled with crap.
+* Spend time outside without glasses for at least 20 minutes every day.
 
 
 
