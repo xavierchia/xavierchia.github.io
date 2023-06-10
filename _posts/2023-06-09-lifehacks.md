@@ -37,6 +37,7 @@ categories: profiles, entrepreneurship
 * There is absolutely no need for you to stay on top of things. Instead, try to get to the bottom of things. 
 * Most experts have long forgotten what it's like to be a beginner. They suffer from the curse of knowledge. So it's much smarter to learn from someone just one step ahead of you instead.
 * Practice radical simplicity whenever, wherever you can.
+* Learn to recognize and avoid [insight porn](https://jakobgreenfeld.com/insight-porn).
 
 ## Social
 
