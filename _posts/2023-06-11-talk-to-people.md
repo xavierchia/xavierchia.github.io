@@ -3,7 +3,7 @@ title: Talk to people.
 published: true
 layout: post
 permalink: talk-to-people
-excerpt:  Yes, I know this is not what people want to hear.
+excerpt:  Yes, I know this is not what you want to hear.
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---
@@ -20,7 +20,7 @@ Looking for advice? Hitting a wall? Feeling stuck?
 
 Skip the courses and books and TALK TO PEOPLE!
 
-Yes, I know this is not what people want to hear.
+Yes, I know this is not what you want to hear.
 
 Browsing the bestseller lists on Amazon is a definitely more comfortable than talking to people.
 
