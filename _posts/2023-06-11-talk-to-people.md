@@ -36,7 +36,7 @@ You can get big picture ideas like "document everything and build systems". But 
 
 In a world where everyone is hiding behind chat interfaces and is constantly distracted by infinite amounts of content, the willingness to talk to people is almost a cheat code at this point.
 
-It's one of the most common patterns I see among successful people. 
+It's one of the most common patterns [I see](https://hardpivot.substack.com/p/why-we-stopped-working-on-athens) among successful people. 
 
 When they are between projects and not sure what to do next, they schedule meetings with whoever is willing to talk to them.
 
