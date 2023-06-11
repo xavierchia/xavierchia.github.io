@@ -12,7 +12,7 @@ categories: profiles, entrepreneurship
 
 ## Meta
 
-* Growth always lies in the direction of what you're most afraid of.
+* Growth lies in the direction of what you're most afraid of.
 * The more labels you have for yourself, the more limited you become in the quantity and quality of opportunities you see. E.g. tons of aspiring founders are stuck inside boxes like SaaS, solopreneurship, or indie hacking. They ignore anything that’s not a software idea or that would require a team or funding. Most would be 10x farther ahead if they ignored these self-imposed constraints.
 * Talent and intelligence do exist but are largely overrated.
 * Every disadvantage is an advantage in disguise. E.g. I'm not a native English speaker which makes it easy for me to write in a simple way. And simple writing is great writing. 
@@ -38,6 +38,8 @@ categories: profiles, entrepreneurship
 * Most experts have long forgotten what it's like to be a beginner. They suffer from the curse of knowledge. So it's much smarter to learn from someone just one step ahead of you instead.
 * Practice radical simplicity whenever, wherever you can.
 * Learn to recognize and avoid [insight porn](https://jakobgreenfeld.com/insight-porn).
+* The key to self‐confidence is keeping the promises you make to yourself.
+* Your ability to keep doing interesting things is your willingness to be embarrassed.
 
 ## Social
 
