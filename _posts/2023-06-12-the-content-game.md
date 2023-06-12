@@ -1,11 +1,11 @@
 ---
-title: The Content Game
+title: The Content Game (I learned from Nick Huber)
 published: false
 layout: post
 permalink: the-content-game
 excerpt:  I wish this wasn't the case but I hardly see anyone succeeding just from useful content alone. 
 image: /images/default.png
-categories: profiles, entrepreneurship
+categories: profiles, entrepreneurship, profiles
 ---
 
 Many people completely misunderstand how the [content game](https://twitter.com/sweatystartup/status/1667710793163448321) works nowadays.
