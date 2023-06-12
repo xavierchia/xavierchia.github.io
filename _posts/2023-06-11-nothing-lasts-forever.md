@@ -1,6 +1,6 @@
 ---
 title: Nothing lasts forever so go hard at it
-published: false
+published: true
 layout: post
 permalink: nothing-lasts-forever
 excerpt:  Next time I'll know. I'll go all in.

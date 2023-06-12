@@ -1,6 +1,6 @@
 ---
 title: The Content Game (I learned from Nick Huber)
-published: false
+published: true
 layout: post
 permalink: the-content-game
 excerpt:  I wish this wasn't the case but I hardly see anyone succeeding just from useful content alone. 

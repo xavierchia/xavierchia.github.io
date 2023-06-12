@@ -1,9 +1,9 @@
 ---
 title: The Hormozi Playbook
-published: false
+published: true
 layout: post
 permalink: hormozi-playbook
-excerpt:  I wish this wasn't the case but I hardly see anyone succeeding just from useful content alone. 
+excerpt:  There are two keys when it comes to content, volume and frame.
 image: /images/default.png
 categories: profiles, entrepreneurship, profiles
 ---
