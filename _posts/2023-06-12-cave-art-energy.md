@@ -3,7 +3,7 @@ title: Cave Art Energy
 published: true
 layout: post
 permalink: cave-art-energy
-excerpt:  I wish this wasn't the case but I hardly see anyone succeeding just from useful content alone. 
+excerpt: If you truly understood all of your shortcomings and had a full picture of what other people had already tried and failed at, you would most likely never ever start.
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---

@@ -51,7 +51,3 @@ But unlike these, talking to people actually works.
 In one-on-one conversations, you can get specific. You can ask questions. You can get direct feedback. You can get advice. You will be challenged. You can get introductions. And people are willing to share a lot more than on Twitter or in a blog post.
 
 So, whether you're feeling lost or you've hit a roadblock on your journey to success, remember this: you're usually just a dozen or so conversations away from a breakthrough.
-
-Embrace the low-key brilliance of this approach: chat with people, ask questions, gather knowledge from whoever you can, and witness how your next steps will gradually take shape right before your eyes. 
-
-Some good old human interaction is often just the missing piece needed to unlock doors and propel you forward.
