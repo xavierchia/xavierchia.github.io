@@ -22,6 +22,6 @@ Especially for founders, a certain level of self delusion is like a superpower.
 
 If you truly understood all of your shortcomings and had a full picture of what other people had already tried and failed at, you would most likely never ever start.
 
-You need that cave art energy instead of this over-analytical modern art student energy.
+As a founder, you need big cave art energy.
 
 ![](/images/cave-art-energy.jpeg)
