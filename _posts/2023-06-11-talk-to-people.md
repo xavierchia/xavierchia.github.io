@@ -10,15 +10,15 @@ categories: profiles, entrepreneurship
 
 Looking for new opportunities? Struggling to figure out your next move?
 
-Talk to people.
+*Talk to people.*
 
 Looking for customers? New clients? A job?
 
-Talk to people.
+*Talk to people.*
 
 Looking for advice? Hitting a wall? Feeling stuck?
 
-Skip the courses and books and TALK TO PEOPLE!
+*Skip the courses and books and TALK TO PEOPLE!*
 
 Yes, I know this is not what you want to hear.
 
