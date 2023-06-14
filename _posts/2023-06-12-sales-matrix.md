@@ -1,6 +1,6 @@
 ---
 title: The Sales Matrix
-published: false
+published: true
 layout: post
 permalink: sales-matrix
 excerpt:  There are two keys when it comes to content, volume and frame.
