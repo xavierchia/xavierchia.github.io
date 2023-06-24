@@ -48,6 +48,8 @@ Test everything methodically or trust your gut?
 
 Move fast and break things or move slow and get it right?
 
+Do strategic idea safaris or just start building something?
+
 Niche down or go broad?
 
 Focus on the hottest new distribution channel or stick to lindy channels?
@@ -60,7 +62,9 @@ Of course that's the answer! Reality has a shitton amount of detail.
 
 Anyone who argues with full confidence that there can only be one right answer to any of these questions is a charlatan.
 
-I used to be impressed when people wrote or talked about these brainy grand theories. 
+I used to be impressed when people wrote or talked about these brainy grand theories.
+
+Like "here's a 3-step process for coming up with a business idea". Or "here's a 5-step playbook for validating it". Or "here's a 7-part framework for growing it".
 
 Now I know that every "business thinker" is full of shit. All of it is nonsense that only looks good on paper. None of them is still in the trenches. If they ever got first-hand experience, it was a long time ago.
 
@@ -73,5 +77,11 @@ Fast.
 Relentlessly. 
 
 Nothing else moves the needle. 
+
+Only by actually building something you discover truly valuable opportunities. You will never find them in research reports or by applying some brainy ideation framework.
+
+It's also the only way to find out what actually works in your specific situation.
+
+And the less time you waste on researching and planning, the more time you have to gather real world data and experiences.
 
 Entrepreneurship is not a thinking game. It's a [doing game](https://shaan.beehiiv.com/p/5-tweet-tuesday-june-20-2023). 
