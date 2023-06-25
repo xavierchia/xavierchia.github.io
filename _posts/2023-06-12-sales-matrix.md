@@ -8,9 +8,7 @@ image: /images/default.png
 categories: profiles, entrepreneurship
 ---
 
-Everything is sales. And you should always be selling.
-
-To make sure you're covering all your bases, use the following sales matrix:
+There is a point in your career where you realize that nearly everything is sales.
 
 ![](/images/sales-matrix.png)
 

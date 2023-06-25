@@ -5,7 +5,7 @@ layout: post
 permalink: making-room
 excerpt:  
 image: /images/default.png
-categories: profiles, entrepreneurship
+categories: entrepreneurship, inner-game
 ---
 
 shan puri thing, most ppl wait before quit. Have to quit to find the new thing.

@@ -5,7 +5,7 @@ layout: post
 permalink: doing-game
 excerpt:  
 image: /images/default.png
-categories: profiles, entrepreneurship
+categories: entrepreneurship, inner-game
 ---
 
 Business plans have become kind of a joke in the startup world. Rightfully so. 
@@ -54,7 +54,7 @@ Niche down or go broad?
 
 Focus on the hottest new distribution channel or stick to lindy channels?
 
-[Get out of the building](https://steveblank.com/2010/03/11/teaching-entrepreneurship-–-by-getting-out-of-the-building/) and talk to customers or will that just leads to you focusing on ["faster horses"](https://www.goodreads.com/quotes/15297-if-i-had-asked-people-what-they-wanted-they-would)?
+[Get out of the building](https://steveblank.com/2010/03/11/teaching-entrepreneurship-–-by-getting-out-of-the-building/) and talk to customers or will that just lead to you focusing on ["faster horses"](https://www.goodreads.com/quotes/15297-if-i-had-asked-people-what-they-wanted-they-would)?
 
 The answer is always the same: it depends.
 
@@ -64,9 +64,11 @@ Anyone who argues with full confidence that there can only be one right answer t
 
 I used to be impressed when people wrote or talked about these brainy grand theories.
 
-Like "here's a 3-step process for coming up with a business idea". Or "here's a 5-step playbook for validating it". Or "here's a 7-part framework for growing it".
+Like "here's a 3-step process for coming up with a business idea". Or "here's a 5-step playbook for validating it". Or "here's a 7-part framework for growing your startup".
 
-Now I know that every "business thinker" is full of shit. All of it is nonsense that only looks good on paper. None of them is still in the trenches. If they ever got first-hand experience, it was a long time ago.
+Now I know that every "business thinker" is full of shit. All of it is nonsense that only looks good on paper. 
+
+None of these theoreticians is still in the trenches. If they ever got first-hand experience, it was a long time ago.
 
 Active pracitioners know what matters. 
 
@@ -84,4 +86,4 @@ It's also the only way to find out what actually works in your specific situatio
 
 And the less time you waste on researching and planning, the more time you have to gather real world data and experiences.
 
-Entrepreneurship is not a thinking game. It's a [doing game](https://shaan.beehiiv.com/p/5-tweet-tuesday-june-20-2023). 
+Entrepreneurship is not a thinking game. It's a [doing game](https://twitter.com/snowmaker/status/1670557767105675264). 
