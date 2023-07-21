@@ -8,9 +8,11 @@ image: /images/default.png
 categories: entrepreneurship, inner-game
 ---
 
-Before you start, write down all the necessary puzzle pieces and rank them from hardest to easiest. Then start with the hardest one.
+Before you start, write down all the necessary puzzle pieces and rank them from hardest to easiest. If you're unsure how to rank certain parts, replace "hardest" with "scariest" or "most uncomfortable". Then start with the hardest, scariest, most uncomfortable one. 
 
-If you're unsure how to rank certain parts, replace "hardest" with "scariest" or "most uncomfortable".
+Unless you figure out a way to do the hard stuff, the easy stuff won't matter anyway. 
+
+And doing the hard stuff later will not make it any easier. In fact, it will be harder because you've already spent your energy and initial motivation on the easy stuff.
 
 You've decided to launch a new business?
 
