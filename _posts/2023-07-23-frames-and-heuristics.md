@@ -1,5 +1,5 @@
 ---
-title: Frames and Heuristics (or how I started love non-fiction books again)
+title: Frames and Heuristics (or how I learned to love non-fiction books again)
 published: true
 layout: post
 permalink: frames-and-heuristics
