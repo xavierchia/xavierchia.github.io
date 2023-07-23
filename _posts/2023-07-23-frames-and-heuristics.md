@@ -3,7 +3,7 @@ title: Frames and Heuristics (or how I learned to love non-fiction books again)
 published: true
 layout: post
 permalink: frames-and-heuristics
-excerpt:  What would this look like if it were simple?
+excerpt:  Consider another classic - "The 4-Hour Workweek." So much of the particular strategies or resources outlined in the book are now outdated. 
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---
