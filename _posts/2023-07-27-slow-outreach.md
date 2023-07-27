@@ -16,9 +16,6 @@ It takes time to build trust.
 
 They want to evaluate alternatives. Talk to their team. Try things, poke around, ask questions, circle back in a few weeks.
 
-{:.centered}
-![humble vs startup plan](/images/convo_wait.png)
-
 Our best-performing clients saw little results for the first 3 months. 
 
 Now they're absolutely crushing it even though we didn't change much. 
