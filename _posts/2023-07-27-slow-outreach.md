@@ -3,7 +3,7 @@ title: Cold outreach is a slow channel
 published: true
 layout: post
 permalink: slow-outreach
-excerpt:  What would this look like if it were simple?
+excerpt:  It just took time for the results to compound.
 image: /images/default.png
 categories: profiles, entrepreneurship
 ---
