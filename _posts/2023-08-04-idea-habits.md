@@ -3,7 +3,7 @@ title: Idea Habits
 published: true
 layout: post
 permalink: idea-habits
-excerpt:  It's working.
+excerpt:  Because it brings into existence the kind of world I want to live in.
 image: /images/default.png
 categories: inner-game
 ---
@@ -44,10 +44,7 @@ The most interesting people in the world will appreciate you for sharing your id
 
 Yesterday I shared ideas with the CEO of my favorite coffee house chain, the founder of a software I recently unsubscribed from, and guy whose blog post I really liked this week.
 
-{:.centered}
-![idea sharing](/images/idea_sharing.png)
-
 Every single one of them replied to my email and thanked me for sharing my ideas with them.
 
-
-
+{:.centered}
+![idea sharing](/images/idea_sharing.png)
