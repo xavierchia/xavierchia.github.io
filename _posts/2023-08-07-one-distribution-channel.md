@@ -1,5 +1,5 @@
 ---
-title: On distribution channel is all it takes
+title: One distribution channel is all it takes
 published: true
 layout: post
 permalink: one-distribution-channel
@@ -17,7 +17,7 @@ That’s their secret.
 - Elon Musk has mastered PR
 - Pieter Levels has mastered Twitter
 - Lori Grainer has mastered TV
-- Niktia Bier has mastered virality
+- Nikita Bier has mastered virality
 
 They only tackle projects that can be distributed through their channel since they know they can make it work.
 
