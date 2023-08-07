@@ -45,6 +45,8 @@ You'll get paid to learn how to distribute products.
 
 And once you've mastered a channel, you can start testing how the market responds to your own products.
 
+-----
+
 The standard pattern is that 1st-time founders obsess about product, 2nd-time founders obsess about distribution.
 
 But there is absolutely no reason why you shouldn't obsess about distribution from day one.
