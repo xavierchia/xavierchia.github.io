@@ -14,10 +14,10 @@ They look at any opportunity through this lens.
 
 That’s their secret.
 
-• Elon Musk has mastered PR
-• Pieter Levels has mastered Twitter
-• Lori Grainer has mastered TV
-• Niktia Bier has mastered virality
+- Elon Musk has mastered PR
+- Pieter Levels has mastered Twitter
+- Lori Grainer has mastered TV
+- Niktia Bier has mastered virality
 
 They only tackle projects that can be distributed through their channel since they know they can make it work.
 
