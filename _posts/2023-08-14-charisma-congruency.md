@@ -3,7 +3,7 @@ title: Charisma = Congruency
 published: true
 layout: post
 permalink: charisma-congruency
-excerpt:  That’s their secret.
+excerpt:  Charisma is not some extra skill you have to learn.
 image: /images/default.png
 categories: entrepreneurship
 ---
