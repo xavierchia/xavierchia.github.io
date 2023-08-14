@@ -34,7 +34,11 @@ Now the most critical question is, how do you become more congruent? Becoming mo
 
 Becoming more congruent, on the other hand, requires a different qualitatively type of work. It's not only about presence and mindfulness - it's about introspection, self-awareness and acceptance.
 
-Maybe the hardest part is accepting who you are and what you stand for. 
+First of all, you have to understand what exactly you're trying to hide. What are the things you're ashamed of? What are the things you're trying to hide from the world? What are the things you're trying to hide from yourself?
+
+> "Who am I?" - Sri Ramana Maharshi
+
+But maybe the hardest part is accepting who you are and what you stand for. 
 
 It doesn't mean that you have to be proud of every weakness and flaw. There's absolutely nothing wrong with wanting to improve yourself. 
 
