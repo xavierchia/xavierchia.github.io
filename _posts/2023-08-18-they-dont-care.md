@@ -31,4 +31,4 @@ No clever copywriting, no relentless follow-ups.
 People either care or they don't.
 
 
-* This is why I ditched the main ad from my [newsletter](http://brainstorms.substack.com) and only offer classifieds which appear at the top of the email now.
+*(This is why I ditched the main ad from my [newsletter](http://brainstorms.substack.com) and only offer classifieds which appear at the top of the email now.)
