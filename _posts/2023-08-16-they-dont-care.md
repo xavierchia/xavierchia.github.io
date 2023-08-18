@@ -22,16 +22,13 @@ Sure, there is some drop off as a result of people not scrolling all the way dow
 
 And if you only have one or two sentences to get people interested, you have to be extremely clear about what you offer and why it's valuable. So a lot more people will actually understand what you offer compared to the main ad.
 
-
 I'm seeing the exact same pattern running outbound for dozens of companies.
 
-There is nothing you can do to make people care about your offer if they don't care about it in the first place.
+There is nothing you can do in cold outreach messages to make people care about your offer if they don't care about it in the first place.
 
 No clever copywriting, no relentless follow-ups.
 
 People either care or they don't.
-
-
 
 
 * This is why I ditched the main ad from my [newsletter](http://brainstorms.substack.com) and only offer classifieds which appear at the top of the email now.
