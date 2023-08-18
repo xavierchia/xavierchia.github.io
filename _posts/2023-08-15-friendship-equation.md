@@ -8,7 +8,11 @@ image: /images/default.png
 categories: inner-game
 ---
 
-Whenever someone asks "how do I make friends", well-meaning people reply "try cross fit", "go to meetups", or "join a cooking class". This does not work. Sure it's a step in the right direction. You will meet new people, but you won't just make friends like that.
+Whenever someone asks "how do I make friends", well-meaning people reply "try cross fit", "go to meetups", or "join a cooking class".
+
+This does not work. 
+
+Sure it's a step in the right direction. You will meet new people, but you won't just make friends like that.
 
 There is a big gap between meeting new people and making friends. And bridging this gap is what most people really struggle with when they're trying to make new friends.
 
