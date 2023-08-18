@@ -118,4 +118,6 @@ But you definitely don't have to host events yourself to make new friends. If yo
 
 Yeah I'm bad at writing dialogues but you get the point.
 
+---
 
+So wrapping up, to make new friends, do more interesting things, stay up to date on what's going on in your city, and then invite people to join you.
