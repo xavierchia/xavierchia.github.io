@@ -5,7 +5,7 @@ layout: post
 permalink: charisma-congruency
 excerpt:  Charisma is not some extra skill you have to learn.
 image: /images/default.png
-categories: entrepreneurship
+categories: inner-game
 ---
 
 Adolf Hitler had charisma. So do Andrew Tate, Bill Clinton, Barack Obama, Chris Pratt, and Dwayne "The Rock" Johnson. Then there are, of course, the non-famous people you know personally who are extremely charismatic and have little in common with any famous actor or politicians.
