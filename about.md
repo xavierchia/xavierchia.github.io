@@ -4,21 +4,16 @@ title: About Jakob Greenfeld
 permalink: /about/
 ---
 
-## Quick Links
-
-- Writer on entrepreneurship, creativity, and marketing with over 10,000 email subscribers.
-- Serial entrepreneur and founder of <a href="https://newsletterspy.io">Damn Good Leads</a>, <a href="https://newsletterspy.io">Newsletter Spy</a>, <a href="https://undertheradar.io">Under the Radar</a>, Product Explorer (acq.), What to Tweet (acq.).
-
-## About Jakob Greenfeld
+## About Me
 
 <img src="/images/jakob_working.png" alt="Jakob Greenfeld" width="380">
 
 
 Hi there. I’m Jakob Greenfeld and this website is the home of my life’s work. I write about entrepreneurship, creativity, and performance improvement. In other words, I write about how anyone can stack the odds in their favor and achieve outsized returns. 
 
-But I don’t merely write about things. Along the way, I like to try out the concepts for myself as I experiment with building better systems as an entrepreneur, writer, and weightlifter. In the end, my work ends up being one-part storytelling, one-part pattern matching, and one-part personal experiment. It’s a colorful blend of inspirational stories, actionable frameworks, hard-earned wisdom.
+But I don’t merely write about things. Along the way, I like to try out the concepts for myself as I experiment with building better systems as an entrepreneur, writer, and weightlifter. In the end, my work ends up being one-part storytelling, one-part pattern matching, and one-part personal experiment. It’s a blend of inspirational stories, actionable frameworks, hard-earned wisdom.
 
-The primary place that I share this information is through my weekly newsletter. Over 4,000 people receive my articles via email each week. You can sign up below. You’ll only get information on how to stack the odds in your favor, develop better ideas, and live a better life. Nothing annoying or unexpected.
+The primary place that I share this information is through my weekly newsletter. can sign up below. You’ll only get information on how to stack the odds in your favor, develop better ideas, and live a better life. Nothing annoying or unexpected.
 
 I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way. If you’re ready to learn how to make significant progress and get better ideas, then enter your email address below and click “Subscribe”
 
