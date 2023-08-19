@@ -6,17 +6,7 @@ image: /images/default.png
 
 ---
 
-**Honest strategies and proven frameworks for winning in life and business.**
-
-Join over 4,000 people who are on a quest to level up.
-
-Sign up now and you’ll learn how to…
-
-- Come up with better ideas and think more clearly using proven frameworks.
-- Win without asking for anyone's permission and stack the odds in your favor.
-- Overcome your inner fears and actually follow through on what you set out to do.
-
-Plus, you’ll get fresh ideas on how to improve your productivity, keep in touch with people, and have more fun doing so.
+Every now and then I'm sharing behind-the-scenes updates with my newsletter subscribers.
 
 Just enter your email address below and click “Subscribe”
 
