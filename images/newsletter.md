@@ -21,9 +21,7 @@ Just enter your email address below and click “Subscribe”
 
 **What Readers Are Saying…**
 
-I feel very lucky to share my work with a wide range of people. Members of our community include CEOs and entrepreneurs, actors and artists, elite athletes, and many other fine folks. I do my best to keep things practical and inspiring for everyone.
-
-Here’s what newsletter subscribers are saying…
+Here’s what newsletter subscribers and blog readers are saying…
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had a great chat with <a href="https://twitter.com/jakobgreenfeld?ref_src=twsrc%5Etfw">@jakobgreenfeld</a> this week, aka the most productive person on the internet. He creates great content but also walks the walk by, you know, actually making and building stuff. Twitter has it&#39;s downsides but still the best way of meeting interesting new ppl</p>&mdash; MJ Alexander-Scott (@Michaeljon) <a href="https://twitter.com/Michaeljon/status/1517487068670308358?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
