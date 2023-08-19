@@ -4,7 +4,7 @@ title: Podcast
 permalink: /podcast/
 ---
 
-I send DM's "yo let's chat" to people doing interesting things. 
+I send "yo let's chat" DMs to people doing interesting things. 
 
 Then we chat.
 
