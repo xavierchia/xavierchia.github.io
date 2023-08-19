@@ -3,7 +3,7 @@ title: Fixing the Friendship Equation
 published: true
 layout: post
 permalink: friendship-equation
-excerpt:  Charisma is not some extra skill you have to learn.
+excerpt:  Let's call a friend someone you can comfortably call at 11 pm on a Tuesday to ask if you can crash on their couch for the night since you've locked yourself out of your apartment
 image: /images/default.png
 categories: inner-game
 ---
