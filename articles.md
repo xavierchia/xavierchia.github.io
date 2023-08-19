@@ -44,12 +44,8 @@ permalink: /articles/
     <li>
       <a href="/personal-brand-building" class="btn-nav">Personal Brand Building</a>
     </li>
-        <li>
-    <a href="/lists" class="btn-nav">Lists</a>
-          </li>
-    <li>
-      <a href="/profiles" class="btn-nav">Permissionless Mentors</a>
-    </li>
+        
+
   </ul>
 </div>
 
@@ -68,9 +64,5 @@ permalink: /articles/
     </article>
   {% endfor %}
 
-  <article class="post">
-  <h1>Legend</h1>
-    <p>⭐️ Essays I put serious effort into</p>
-    <p>🧠 Raw brain dumps</p>
-  </article>
+
 </div>
