@@ -12,7 +12,7 @@ permalink: /articles/
 <article class="post">
 
 
-  <strong>I write the stuff I'd love to read myself. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday. You can read a few popular articles below or scroll down to browse recent posts.
+  Every morning I sit down and write. That's my primary mode of thinking. I figure stuff out while I write about it. New articles are sent to <a href="/newsletter">my email newsletter</a> every Monday. You can read a few popular articles below or scroll down to browse recent posts.
 <br> <br>
   <strong>Popular Articles</strong>
 <div class="noyellowlinks">
