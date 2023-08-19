@@ -6,9 +6,6 @@ permalink: /about/
 
 ## About Me
 
-<img src="/images/jakob_working.png" alt="Jakob Greenfeld" width="380">
-
-
 Hi there. I’m Jakob Greenfeld and this website is the home of my life’s work. I write about entrepreneurship, creativity, and performance improvement. In other words, I write about how anyone can stack the odds in their favor and achieve outsized returns. 
 
 But I don’t merely write about things. Along the way, I like to try out the concepts for myself as I experiment with building better systems as an entrepreneur, writer, and weightlifter. In the end, my work ends up being one-part storytelling, one-part pattern matching, and one-part personal experiment. It’s a blend of inspirational stories, actionable frameworks, hard-earned wisdom.
