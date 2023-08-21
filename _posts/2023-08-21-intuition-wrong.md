@@ -3,9 +3,9 @@ title: Your intuition is wrong
 published: true
 layout: post
 permalink: 
-excerpt:  As a business owner, you'd of course fill your pipeline with Category A leads only. 
+excerpt:  They're screaming loudly so we pay attention.
 image: /images/default.png
-categories: sales
+categories: entrepreneurship
 ---
 
 One of our lead generation strategies feels like a complete waste of time and money.
@@ -60,4 +60,4 @@ But they're screaming loudly so we pay attention.
 
 We're constantly misled by our intuition.
 
-Always take a step back and check the actual numbers before making a decision.
+So always take a step back and check the actual numbers before making a decision.
