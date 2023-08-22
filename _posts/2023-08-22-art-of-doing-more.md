@@ -63,3 +63,5 @@ Most people recognize that looking for shortcuts is generally a waste of time. B
 The answer is never more information, a better strategy, a new tool, or some smart hack. 
 
 It's always doing simple things with higher intensity for longer periods of time.
+
+> "You just gotta do more bro" - Alex Hormozi
