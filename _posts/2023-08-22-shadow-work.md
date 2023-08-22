@@ -38,3 +38,6 @@ Doing that kind of shadow work will do more for your outbound results than any f
 It's really the biggest difference between a cold email that gets ignored and one that gets a reply.
 
 So if you're not getting the results you want from your outbound, start by doing some shadow work.
+
+
+> "When we launched, we did a lot of brand campaigns. PR, billboards all over SF, events, podcasts and more. We focused our outbound efforts on companies who had likely heard of us through one of these channels.  Only after Brex became a household name in our target market (tech startups) did we allow SDR’s and AE’s to reach out to anyone they wanted." - Sam Blond
