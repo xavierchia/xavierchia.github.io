@@ -10,8 +10,8 @@ categories: cold-email
 
 Consider two companies with similar offers running the exact same outbound campaign:
 
-• Company A has a website with tons of social proof, they have a decent number of reviews on G2, and the founder is easily found on LinkedIn and Twitter.
-• Company B has just a placeholder website, zero social proof, and the founder doesn't even list the company on his LinkedIn profile.
+- Company A has a website with tons of social proof, they have a decent number of reviews on G2, and the founder is easily found on LinkedIn and Twitter.
+- Company B has just a placeholder website, zero social proof, and the founder doesn't even list the company on his LinkedIn profile.
 
 Which company do you think will have a higher reply rate?
 
