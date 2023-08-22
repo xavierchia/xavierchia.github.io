@@ -42,6 +42,22 @@ But in the real world, the only way to discover smarter ways to do things it thr
 
 Not on a whiteboard, not in a spreadsheet, not in a book, but in the real world.
 
+Here's an example. When we started our [agency](https://sales.co), we could have spent a ton of time thinking about our ideal customers. Who exactly do we want to work with? Who's getting the most value out of our services? Who's the easiest to work with? Who's the most profitable?
+
+But all of that would have been a waste of time.
+
+The only way to find out is to work with as many different clients as humany possible and then organically narrow down your focus.
+
+That's the hard way of doing things. But it's also the only way.
+
+Or say, you want to build a personal brand. Sure, you can spend days crafting content plans, thinking about audience personas, and researching the best distribution channels.
+
+Alternatively, you could simply start putting out as much content as possible. 
+
+Again, hard not smart.
+
+You will always more in the first hours of actually doing something than in any amount of time spent thinking or reading about it.
+
 Most people recognize that looking for shortcuts is generally a waste of time. But somehow the exact same idea has entered through the backdoor in the form of "working smarter instead of harder".
 
 The answer is never more information, a better strategy, a new tool, or some smart hack. 
