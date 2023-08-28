@@ -10,6 +10,8 @@ categories: inner-game
 
 I love working. I love getting shit done.
 
+It makes me feel useful and productive.
+
 I'm a workaholic. 
 
 On the one hand, I think that's an awesome character trait. Other have to force themselves to work. Use silly Pomodoro timers or whatever. I don't.
@@ -66,10 +68,12 @@ While I believe there is some truth to the idea that [more is more](https://www.
 
 I want to do whatever I can to make our business successful. But cramming more work into my days is doing more harm than good.
 
-So I've started to put some strict boundaries around my work hours. 
+So I've started to put some strict boundaries around my work hours with two well-defined blocks to make sure I spend 50% of my time working on the business and 50% of my time working in the business. 
 
-I've started to close my laptop whenever I wasn't entirely sure what to do next.
+I've started to close my laptop whenever I'm not entirely sure what to do next.
 
 I've started to write daily again. Spending an hour to write a blog post like the one you're reading right now is doing more for our business than me spending an additional hour on some random busywork.
 
-I'm not quite ready for the [4-hour workday](https://www.oliverburkeman.com/fourhours) or to [take two days off per week](https://www.amazon.com/Vacation-Effect®-Entrepreneurs-Business-Working/dp/1544534728) yet. But I might be getting there.
+I'm not quite ready for [4-hour workdays](https://www.oliverburkeman.com/fourhours) or to [take two days off per week](https://www.amazon.com/Vacation-Effect®-Entrepreneurs-Business-Working/dp/1544534728) yet. 
+
+But I might be getting there.
