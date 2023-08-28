@@ -70,7 +70,7 @@ I want to do whatever I can to make our business successful. But cramming more w
 
 So I've started to put some strict boundaries around my work hours with two well-defined blocks to make sure I spend 50% of my time working on the business and 50% of my time working in the business. 
 
-I've started to close my laptop whenever I'm not entirely sure what to do next.
+I'm planning my tasks for the next day the evening before. And I've started to close my laptop whenever I'm not entirely sure what to do next.
 
 I've started to write daily again. Spending an hour to write a blog post like the one you're reading right now is doing more for our business than me spending an additional hour on some random busywork.
 
