@@ -14,9 +14,9 @@ What would make today a good day? What would make this project a success?
 
 It's always possible to do MORE. 
 
-But if you're operating within that frame, you're doomed for unhappiness and experience constant stress.
+But if you're operating within that frame, you're doomed for unhappiness and experience constant stress. You'll never be at peace.
 
-If, however, you define ahead of time what good means, you can properly shut off without feeling guilty or stressed.
+If, however, you define ahead of time what good means, you can properly shut off and finish projects without feeling guilty or stressed.
 
 For example, like for most people, my todo list is huge. I will never run out of things I could do.
 
@@ -25,4 +25,3 @@ But I'm a lot more happy and productive when I pick a specific number tasks at t
 I can comfortable close my laptop and fully focus on other areas of my life.
 
 That's a much better way of operating than having a set number of hours and then [cramming as much work as possible into those hours](/workaholic).
-
