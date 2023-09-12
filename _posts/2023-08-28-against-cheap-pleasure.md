@@ -1,6 +1,6 @@
 ---
 title: Against Cheap Pleasure
-published: false
+published: true
 layout: post
 permalink: against-cheap-pleasure
 excerpt:  Short term pleasure but long term pain.
