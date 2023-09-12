@@ -32,11 +32,11 @@ Think: Eating fast food vs. cooking a healthy meal from scratch. Playing video g
 
 The biggest problem with cheap pleasures is that they make it so much harder, if not impossible, to engage in the more expensive pleasures.
 
-I've recently started paying more attention to this dynamic. Every day I wrote down what I did, what I ate, and how I felt. Every morning and evening I record my wellness score on a scale from 1 to 10. It's just a subjective rating of good I feel.
+I've recently started paying more attention to this dynamic. Every day I write down what I did, what I ate, and how I felt. Every morning and evening I record my wellness score on a scale from 1 to 10. It's just a subjective rating of how good I feel.
 
 Without fail, the more cheap pleasures I engage in, the lower my wellness score the next day. It's not subtle at all.
 
-Without fail, I see that I wrote down comments like "constantly distracted", "low energy", "procrastinating" on these days.
+I always see that I wrote down comments like "constantly distracted", "low energy", "procrastinating" on these days.
 
 I simply don't feel like doing anything remotely challenging or uncomfortable on these days.
 
@@ -44,7 +44,7 @@ Not very surprising, I know.
 
 But directly seeing the impact of cheap pleasures on my own life has made the lesson much more visceral.
 
-Once you put the spotlight on cheap pleasures, it's shocking how much of our lives are filled with them, how much time we spend hunting for them, and how incredibly hard they are to avoid.
+Once you put the spotlight on cheap pleasures, it's shocking to see how much of our lives are filled with them, how much time we spend hunting for them, and how incredibly hard they are to avoid.
 
 It's a slippery slope.
 
@@ -74,7 +74,7 @@ I don't read any news or consume any social media.
 
 I no longer eat any snacks or drink soft drinks.
 
-I've stopped eating dinner. At the end of the day it's always the hardest for me to resist the temptation and often ended up eating junk food.
+I've stopped eating dinner. At the end of the day it's always the hardest for me to resist the temptation and often I ended up eating junk food.
 
 Now one perfectly valid concern is that a life like this is devoid of fun and joy.
 
@@ -88,7 +88,7 @@ But once you cut out refined sugar, even the simplest vegetables start to taste 
 
 It's really like that with everything.
 
-Simple things like taking a walk in nature, going for a swim in the ocean, reading a fiction book in the evening, drinking a cold glass of water are now sources of real joy.
+Simple things like taking a walk in nature, going for a swim, reading a fiction book, drinking a cold glass of water are now sources of real joy.
 
 You also start experiencing cheap pleasures in a completely different way. 
 
