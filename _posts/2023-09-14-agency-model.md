@@ -3,7 +3,7 @@ title: The mathematical reason why agencies get stuck at $50k MRR
 published: true
 layout: post
 permalink: agency-model
-excerpt:  Short term pleasure but long term pain.
+excerpt:  Why can't we just keep adding more clients until at 150 clients we're at $300k MRR?
 image: /images/default.png
 categories: entrepreneurship
 ---
@@ -97,3 +97,22 @@ In practice this effect is usually not as pronounced. More clients also means mo
 
 Nevertheless, no matter how you look at it, your agency will inevitably hit a plateau at some point. And typically it will be around $20k-$60k MRR.
 
+## The Takeaway
+
+The fundamental lessons to take away here is that you'll need a radically different approach to hit through that omnious $50k MRR barrier.
+
+More of the same will not cut it. Slow and steady growth will not cut it. You'll need a completely different approach.
+
+You might be able to hustle a bit more on the acquisition side, improve your conversion rate by getting better case studies, and so on. But even if you manage to acquire 50% more clients every month, you'll still be stuck at the same level.
+
+Let's do some quick napkin math again.
+
+How many clients would we need to acquire in our simplified model to get to $300k MRR?
+
+Well, we would need to acquire and retain 150 clients. At since point, churn rate is 15% per month. 
+
+So we would need to acquire 150 * 15% = 22.5 new clients every month just to stay at this revenue level.
+
+That's a 10x increase in the number of clients we need to acquire every month compared ot the 2 new clients we needed to acquire every month to get to $50k MRR.
+
+It is very unlikely that you can 10x your acquisition efforts without a complete overhaul of your approach.
