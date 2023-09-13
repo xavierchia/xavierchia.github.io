@@ -118,6 +118,6 @@ That's a 10x increase in the number of clients we need to acquire every month co
 It is very unlikely that you can 10x your acquisition efforts without a complete overhaul of your approach.
 
 {:.centered}
-![](/images/plateaus_comparision.png)
+![](/images/growth_bw.png)
 {:.centered}
 ![](/images/plateau_table.png)
