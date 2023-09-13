@@ -119,3 +119,5 @@ It is very unlikely that you can 10x your acquisition efforts without a complete
 
 {:.centered}
 ![](/images/plateaus_comparision.png)
+{:.centered}
+![](/images/plateau_table.png)
