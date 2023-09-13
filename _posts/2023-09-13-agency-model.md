@@ -116,3 +116,6 @@ So we would need to acquire 150 * 15% = 22.5 new clients every month just to sta
 That's a 10x increase in the number of clients we need to acquire every month compared ot the 2 new clients we needed to acquire every month to get to $50k MRR.
 
 It is very unlikely that you can 10x your acquisition efforts without a complete overhaul of your approach.
+
+{:.centered}
+![](/images/plateaus_comparision.png)
