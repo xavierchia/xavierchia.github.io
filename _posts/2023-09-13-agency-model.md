@@ -3,7 +3,7 @@ title: The mathematical reason why agencies get stuck at $50k MRR
 published: true
 layout: post
 permalink: agency-model
-excerpt:  Why can't we just keep adding more clients until at 150 clients we're at $300k MRR?
+excerpt:  Can we just keep adding more clients until at 150 clients we hit $300k MRR?
 image: /images/default.png
 categories: entrepreneurship
 ---
