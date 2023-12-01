@@ -1230,13 +1230,13 @@ fieldset:disabled .btn {
 
 .row {
   display: flex;
-  justify-content: center;   /* align items in the center of the row */
+  justify-content: flex-start; /* align items from the start of the row */
   flex-wrap: wrap;           /* enable items to wrap onto multiple lines */
 }
 
 .col {
   display: flex;             /* convert this into a flexbox */
-  justify-content: center;   /* center items on the line */
+  justify-content: flex-start;
   align-items: center;       /* center items cross-line */
   padding: 10px;             /* space around the image (you can modify it based on your needs) */
 }
