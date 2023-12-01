@@ -1227,3 +1227,38 @@ fieldset:disabled .btn {
   --bs-btn-font-size: .875rem;
   --bs-btn-border-radius: var(--bs-border-radius-sm)
 }
+
+.row {
+  display: flex;
+  justify-content: center;   /* align items in the center of the row */
+  flex-wrap: wrap;           /* enable items to wrap onto multiple lines */
+}
+
+.col {
+  display: flex;             /* convert this into a flexbox */
+  justify-content: center;   /* center items on the line */
+  align-items: center;       /* center items cross-line */
+  padding: 10px;             /* space around the image (you can modify it based on your needs) */
+}
+
+.col img {
+  width: 100%;                /* ensure image takes full width of the parent */ 
+  max-width: 160px;           /* limit the maximum width of the image */
+  border-radius: 5px;         /* provide a rounded border to the image */
+  object-fit: cover;          /* ensure images cover the entire space */
+}
+
+
+
+/* Responsive sizing */
+@media (max-width: 768px) {
+  .col {
+      flex: 50%;
+  }
+}
+
+@media (max-width: 500px) {
+  .col {
+      flex: 100%;
+  }
+}
