@@ -31,6 +31,7 @@ categories: entrepreneurship
 
 ## On Focus
 
+* "It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!"
 * "Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter."
 * "How to succeed: pick the right thing to do (this is critical and usually ignored), focus, believe in yourself (especially when others tell you it’s not going to work), develop personal connections with people that will help you, learn to identify talented people, and work hard."
 * "Don’t waste time.  Most people waste most of their time, especially in business."
@@ -42,12 +43,16 @@ categories: entrepreneurship
 * "It’s dangerous to spend all your mental energy on incremental improvements when what you really need is a step change. It’s a useful exercise to think about whether or not all the optimization work (or ad buying, for that matter) you’re doing is worth it, even if it all works.  It is usually not until you’re already quite successful.  Until then, you should focus relentlessly on making a product your users love (and making sure you're going after a large enough market). Startups often ask me how to grow faster.  I usually say “build a great product, and you will be able to make it grow”.  The most sustainable (and cheapest) kind of growth is word-of-mouth growth."
 * "work hard on stuff that matters. don't work on stuff that doesn't matter. (most people screw up the second part.)"
 * "Spend ~1 year exploring broadly, ~4 years relentless focus executing on the most interesting direction, repeat."
+* "I’ve learned that I can’t be very productive working on things I don’t care about or don’t like.  So I just try not to put myself in a position where I have to do them (by delegating, avoiding, or something else).  Stuff that you don’t like is a painful drag on morale and momentum."
+* "My system has three key pillars: “Make sure to get the important shit done”, “Don’t waste time on stupid shit”, and “make a lot of lists”."
+*  "Many people spend too much time thinking about how to perfectly optimize their system, and not nearly enough asking if they’re working on the right problems.  It doesn’t matter what system you use or if you squeeze out every second if you’re working on the wrong thing."
 
 ## On Agency
 
 * "A big secret is that you can bend the world to your will a surprising percentage of the time—most people don’t even try, and just accept that things are the way that they are. People have an enormous capacity to make things happen. A combination of self-doubt, giving up too early, and not pushing hard enough prevents most people from ever reaching anywhere near their potential."
 * “Great founders get on planes in marginal situations.”
 * "Show up in person whenever it’s important. When I was first starting out, I was always willing to get on a plane. It was frequently unnecessary, but three times it led to career-making turning points for me that otherwise would have gone the other way.
+
 
 ## On Velocity
 
@@ -88,3 +93,4 @@ categories: entrepreneurship
 * https://twitter.com/sama/status/1041727210158080000
 * https://twitter.com/sama/status/955900505875558400
 * https://twitter.com/sama/status/975913922891988992
+* https://twitter.com/sama/status/949401951174721537
