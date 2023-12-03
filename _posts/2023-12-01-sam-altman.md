@@ -27,6 +27,7 @@ categories: entrepreneurship
 * "Extreme people get extreme results. Working a lot comes with huge life trade-offs, and it’s perfectly rational to decide not to do it. But it has a lot of advantages. As in most cases, momentum compounds, and success begets success."
 * "Work stamina seems to be one of the biggest predictors of long-term success.
 * "Time is extremely limited and goes by fast.  Do what makes you happy and fulfilled—few people get remembered hundreds of years after they die anyway."
+* "You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right."
 
 ## On Focus
 
@@ -39,6 +40,8 @@ categories: entrepreneurship
 * "In any given day there are 100 reasonable things that you could work on.  It's easy to get pulled into a fire on number 7, or even to spend time at a networking event or something like that that probably ranks in the mid-90s.  The founders that are really successful are relentless about making sure they get to their top two or three priorities each day (as part of this, they figure out what the right priorities are), and ignoring other items."
 * "Great founders care about being successful, not going through the motions to look successful."
 * "It’s dangerous to spend all your mental energy on incremental improvements when what you really need is a step change. It’s a useful exercise to think about whether or not all the optimization work (or ad buying, for that matter) you’re doing is worth it, even if it all works.  It is usually not until you’re already quite successful.  Until then, you should focus relentlessly on making a product your users love (and making sure you're going after a large enough market). Startups often ask me how to grow faster.  I usually say “build a great product, and you will be able to make it grow”.  The most sustainable (and cheapest) kind of growth is word-of-mouth growth."
+* "work hard on stuff that matters. don't work on stuff that doesn't matter. (most people screw up the second part.)"
+* "Spend ~1 year exploring broadly, ~4 years relentless focus executing on the most interesting direction, repeat."
 
 ## On Agency
 
@@ -69,6 +72,10 @@ categories: entrepreneurship
 * "Go out of your way to help people.  Few things in life are as satisfying.  Be nice to strangers.  Be nice even when it doesn’t matter."
 * "Don’t judge other people too quickly.  You never know their whole story and why they did or didn’t do something.  Be empathetic."
 
+## On Self-Belief
+
+* "Having the self-belief that you will be able to figure things out as you go along is critical to success at anything hard. Get started and trust yourself. No one has all the answers at the beginning."
+
 ## Sources:
 
 * https://blog.samaltman.com/how-to-be-successful
@@ -78,3 +85,6 @@ categories: entrepreneurship
 * https://blog.samaltman.com/hard-startups
 * https://taylorpearson.me/margin/
 * https://blog.samaltman.com/productivity
+* https://twitter.com/sama/status/1041727210158080000
+* https://twitter.com/sama/status/955900505875558400
+* https://twitter.com/sama/status/975913922891988992
