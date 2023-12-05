@@ -15,7 +15,7 @@ categories: entrepreneurship
 
 * Focus on what compounds (e.g. being nice, growing a business).
 * Spend more time thinking about what to focus on. Then focus and cut out the bullshit.
-* Place more small bets.
+* Place more asymmetric bets.
 * Be more ambitious. Time passes anyway and it's just as difficult if not easier to work on ambitious projects.
 * You need to be an execution machine with incredibly work stamina. Make shit happen extraordinarily quickly even if you are not passionate about the task at hand.
 
