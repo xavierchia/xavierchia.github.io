@@ -3,7 +3,7 @@ title: Lessons from Sam Altman
 published: true
 layout: post
 permalink: sam-altman
-excerpt:  Sure that might seem silly but you're missing the bigger picture. He's just doing it so he can earn more, so he can give more away, and help humanity more.
+excerpt:  You need to be an execution machine with superhuman work stamina. 
 image: /images/default.png
 categories: entrepreneurship
 ---
@@ -17,7 +17,7 @@ categories: entrepreneurship
 * Spend more time thinking about what to focus on. Then focus and cut out the bullshit.
 * Place more asymmetric bets.
 * Be more ambitious. Time passes anyway and it's just as difficult if not easier to work on ambitious projects.
-* You need to be an execution machine with incredibly work stamina. Make shit happen extraordinarily quickly even if you are not passionate about the task at hand.
+* You need to be an execution machine with superhuman work stamina. Make shit happen extraordinarily quickly even if you are not passionate about the task at hand.
 
 ## On Ambition, Stamina and Risk
 
