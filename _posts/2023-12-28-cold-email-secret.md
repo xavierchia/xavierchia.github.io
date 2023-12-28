@@ -60,6 +60,10 @@ The smart, busy decision makers you really want to talk to will be turned off by
 
 They don't have time for that kind of nonsense and immediately recognoize it for what it is - a cheesy sales tactic. 
 
+Dumbing down your language always improves positive reply rates.
+
+But it also turns away the best prospects who want to be treated like intelligent adults, not toddlers.
+
 Management by metrics is [always dangerous](https://jakobgreenfeld.com/metrics). You have to think things through instead of lazily using whatever else is using. 
 
 Often you have to settle for the least-worst metric you can reliably track.
@@ -68,7 +72,7 @@ For cold email campaigns, the dollars of deals closed per email sent would be a 
 
 Estimated opportunity value per email sent could be a useful substitute but is often too slow as a metric too since it requires at least a discovery call.
 
-Not quite as good but easier to track reliably is the number of sales-qualified leads per email sent.
+Not quite as good but easier to track reliably is the number of opportunities or sales-qualified leads per email sent.
 
 The deeper you can connect your cold email campaigns with data from your CRM the better.
 
