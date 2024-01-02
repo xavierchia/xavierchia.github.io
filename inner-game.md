@@ -11,7 +11,7 @@ permalink: /inner-game/
 <div class="cat-nav">
   <ul>
     <li>
-      <a  href="/essays">Show All</a>
+      <a  href="/articles">Show All</a>
     </li>
     <li>
     <a  href="/entrepreneurship" class="btn-nav">Entrepreneurship</a>

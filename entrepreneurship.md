@@ -11,7 +11,7 @@ permalink: /entrepreneurship/
 <div class="cat-nav">
   <ul>
     <li>
-      <a  href="/essays">Show All</a>
+      <a  href="/articles">Show All</a>
     </li>
     <li>
     <a class="is-active" href="/entrepreneurship" >Entrepreneurship</a>
