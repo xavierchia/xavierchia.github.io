@@ -1,11 +1,11 @@
 ---
-title: Against Monk Mode
+title: Monk Mode doesn't work
 published: true
 layout: post
 permalink: against-monk-mode
 excerpt:  Mind if I send over a one-pager that explains how you can 10x you reply rates? No strings attached.
 image: /images/default.png
-categories: entrepreneurship, inner-game
+categories: inner-game
 ---
 
 I occasionally fantasize about hiding in a small cabin in the woods.
