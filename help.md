@@ -30,7 +30,7 @@ Here's how it works:
 
 "This was great. Gave me some really valuable things to consider which is exactly what I was after." - [Ben Lucas](https://haveaplan.xyz)
 
-"More than anything the conversation helped me refocus on experiments and their results as my guide in all this." - [Cam Burley]()
+"More than anything the conversation helped me refocus on experiments and their results as my guide in all this." - Cam Burley
 
 
 "I can vouch. Jakob offers great actionable advice that is easy to understand and implement. The amount of value for the price is amazing. Thank you again for your help" - [Shoaib Ahmed](https://twitter.com/ShoaibA323/status/1578324696214704129)
@@ -56,8 +56,8 @@ Callum Birch](https://twitter.com/callumpbirch)
 ## Why me?
 
 
-* I've built and sold [multiple profitable businesses](/about). I've also been brainstorming, researching, and sharing business ideas [every week](https://brainstorms.substack.com) for more than two years now.
-* I've 5 newsletters to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
+* I've built and sold multiple profitable businesses. I've also been brainstorming, researching, and sharing business ideas [every week](https://brainstorms.substack.com) for more than two years now.
+* I've grown 5 newsletters to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
 * I've grown my [Twitter account](https://twitter.com/jakobgreenfeld) to 12,000+ followers and made countless invaluable connections along the way. I've done this by authentically sharing my journey, not through cheap growth hacks. 
 * My [essays](/articles) are regularly read by tens of thousands of people. 
 * I built 5 profitable businesses and made over $100,000 leveraging my web scraping skills. I'm also teaching a popular [web scraping course](https://jakobgreenfeld.gumroad.com/l/scraping).
