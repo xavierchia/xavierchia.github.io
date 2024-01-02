@@ -9,7 +9,7 @@ permalink: /uses/
 * *IDE*: Visual Studio Code. Only plugins Python + Github Copilot.
 * *Tech Stack*: MongoDB, Tailwind CSS, Python, Flask
 * *Deployment*: Render
-* *Automations*: Pipedream
+* *Automations*: [Pipedream](http://pipedream.com/?via=jakob)
 * *Version Control*: Github
 * *Domains*: Namecheap
 * *Blog*: Jekyll hosted on Github pages
