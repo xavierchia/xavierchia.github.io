@@ -1,12 +1,31 @@
 ---
 layout: page
-title: Podcast
-permalink: /podcast/
+title: Now
+permalink: /now/
 ---
 
-I send "yo let's chat" DMs to people doing interesting things. 
+* Living in Aarhus, Denmark.
 
-Then we chat.
+Working on:
 
-Then I publish the conversation as a [podcast](https://podcasters.spotify.com/pod/show/builderbanter).
+* [Sales.co](https://sales.co) - cold email as a service.
+* Unf*ck your Sales - book 
 
+Thinking about:
+
+* future of cold email
+* running a remote team efficiently and enjoyably 
+* maximizing serendipity
+
+Reading:
+
+* The Fund by Rob Ropeland
+* Four Thousand Weeks by Oliver Burkeman
+* Digital Minimalism by Cal Newport
+* Number Go Up by Zeke Faux
+
+Listening:
+
+* My First Million podcast
+* In the Pit podcast with Cody Schneider
+* The Topical MBA podcast
