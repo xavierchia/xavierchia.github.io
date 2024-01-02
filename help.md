@@ -10,6 +10,10 @@ I've recently started helping people by offering feedback, advice, and sometimes
 
 Here are a few things I can help you with:
 
+* Running an Agency: Struggling with managing your team? Looking for better strategies to scale your agency? Need some brutally honest feedback on your business model?
+* Sales: Struggling to increase your sales? Looking for better strategies to improve your sales performance? Need some brutally honest feedback on your sales process?
+* Cold Email: Struggling to get responses from your cold emails? Looking for better ways to write effective cold emails? Need some brutally honest feedback on your email drafts? Unsure what exactly moves the needle?
+* AI and Automations: Struggling to automate your business processes? Looking for better ways to utilize AI in your business? Need some brutally honest feedback on your current automation setup? Just looking for some fresh ideas what can be automated?
 * Business ideas: Struggling to decide what idea to pursue? Looking for feedback on a specific idea? Unsure if you should sell a project?
 * Newsletter growth: Struggling to grow your newsletter? Looking for better ways to monetize it? Need some brutally honest audit of your recent emails?
 * Twitter growth: Struggling to get more followers? Looking for better ways to come up with content ideas? Need some brutally honest feedback on your recent tweets?
@@ -55,7 +59,11 @@ Callum Birch](https://twitter.com/callumpbirch)
 
 ## Why me?
 
-
+*  I've grown [the agency](https://sales.co) I co-founded to 7-figures in revenue in less than 12 months, all with a remote team, healthy margins, and without losing my mind.
+* At my agency, team members are able to do what at other agencies takes at least 3 people, all thanks to AI + automations.
+* My agency has helped 100+ companies ranging from YC startups, Inc. 5000 companies, to award-winning agencies improve their sales function.
+* I've managed hundreds of cold email campaigns, contacting thousands of decision makers, generating millions in pipeline.
+* Every week I'm running systmatic cold email experiments to understand what is working right now.
 * I've built and sold multiple profitable businesses. I've also been brainstorming, researching, and sharing business ideas [every week](https://brainstorms.substack.com) for more than two years now.
 * I've grown 5 newsletters to 1000+ subscribers and one to 10,000+ subscribers. I've experimented with dozens of growth channels, formats, and monetization methods. Along the way I learned a ton about what's working and what isn't.
 * I've grown my [Twitter account](https://twitter.com/jakobgreenfeld) to 12,000+ followers and made countless invaluable connections along the way. I've done this by authentically sharing my journey, not through cheap growth hacks. 
@@ -69,9 +77,8 @@ I love talking with early founders and people who are just starting to figure th
 I don’t claim to have all the answers and I still have a lot to learn, but I’m happy to share what I’ve learned along the way.
 
 
+
 ## Why I'm offering this
-
-
 
 I've been getting more and more emails from people asking for advice, feedback, and brainstorming help. 
 
