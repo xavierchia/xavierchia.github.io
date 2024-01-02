@@ -1,9 +1,9 @@
 ---
-title: Monk Mode doesn't work
+title: Monk Mode Doesn't Work
 published: true
 layout: post
 permalink: against-monk-mode
-excerpt:  Mind if I send over a one-pager that explains how you can 10x you reply rates? No strings attached.
+excerpt:  It would be nice to escape all the noise, all the chatter, for a while and just focus on getting some seriously deep work done.
 image: /images/default.png
 categories: inner-game
 ---
