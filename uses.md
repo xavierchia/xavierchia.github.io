@@ -16,12 +16,12 @@ permalink: /uses/
 * *Readlater*: Matter
 * *Note Taking*: Roam
 * *Diagrams*: Figma + Figjam
-* *Internal Tools*: Retool
+* *Internal Tools*: [Retool](https://get.retool.com/uw9lit657yxo)
 * *Team and Client Communication*: Slack
 * *Private Communication*: Telegram
 * *Email*: Gmail
-* *Unified Team Inbox*: Missive
-* *Project Management*: Airtable
+* *Unified Team Inbox*: [Missive](https://missiveapp.com/?ref_id=56426A624CB3)
+* *Project Management*: [Airtable](https://airtable.com/invite/r/Brt0mpLN)
 * *AI*: GPT-4 using API + TypingMind.
 * *Podcasts*: Apple Podcasts
 * *Music*: Spotify
