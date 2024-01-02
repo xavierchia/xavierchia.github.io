@@ -24,5 +24,14 @@ permalink: /uses/
 * *Project Management*: [Airtable](https://airtable.com/invite/r/Brt0mpLN)
 * *AI*: GPT-4 using API + TypingMind.
 * *Podcasts*: Apple Podcasts
-* *Music*: Spotify
+* *Music*: Spotify, Sonos
 * *Ebooks*: Kindle Paperwhite
+* *Fitness*: Strong app, 3-day split, ~20 minutes per workout. Mo: Overhead Press, Chin Ups, Lateral Raises, Triceps Extensions. Wed: Deadlift, Split Squat, Hip Thrust, Shrugs. Fri: Incline Bench Press, Hammer Curl, Reverse Fly, Hanging Leg Raises.
+* *Meditation*: 10-min daily, using Insight Timer app.
+* *Language Learning*: Anki app, audio cards created using Python based on TV show subtitles.
+* *Travel*: Ryanair, Airbnb, Booking.com, Happy Cow (for finding vegan bakeries since I'm allergic to milk), Google Maps, Guide Michelin (Bib Gourmand restaurants never disappoint).
+* *Social*: Facebook (for local events + groups), Twitter.
+* *Newsletter*: Substack
+* *Entertainment*: Netflix, Paramount Plus
+* *Spreadsheets*: Numbers, Google Sheets
+* *Security*: Authy, 1Password

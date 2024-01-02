@@ -17,6 +17,10 @@ Thinking about:
 * running a remote team efficiently and enjoyably 
 * maximizing serendipity
 
+Learning:
+
+* Danish
+
 Reading:
 
 * The Fund by Rob Ropeland (great)
