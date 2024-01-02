@@ -7,7 +7,7 @@ permalink: /uses/
 
 * *Laptop*: MacBook Pro M2 max 14″ 32gb ram
 * *IDE*: Visual Studio Code. Only plugins Python + Github Copilot.
-* *Tech Stack*: MongoDB, Tailwind CSS, Python
+* *Tech Stack*: MongoDB, Tailwind CSS, Python, Flask
 * *Deployment*: Render
 * *Automations*: Pipedream
 * *Version Control*: Github
