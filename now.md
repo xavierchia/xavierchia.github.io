@@ -19,10 +19,10 @@ Thinking about:
 
 Reading:
 
-* The Fund by Rob Ropeland
-* Four Thousand Weeks by Oliver Burkeman
-* Digital Minimalism by Cal Newport
-* Number Go Up by Zeke Faux
+* The Fund by Rob Ropeland (great)
+* Four Thousand Weeks by Oliver Burkeman (bad)
+* Digital Minimalism by Cal Newport (meh)
+* Number Go Up by Zeke Faux (great)
 
 Listening:
 
