@@ -42,8 +42,6 @@ Now how do you start executing?
 
 Focus on whatever part of the plan is [most likely to fail](https://cs.stanford.edu/~jsteinhardt/ResearchasaStochasticDecisionProcess.html) first. 
 
-[Always invert.](https://fs.blog/inversion/) If this fails, what is the most likely reason why?
-
 For business endevours it's useful to consider market risks and execution risks. However, for service businesses there is usually little execution risk.
 
 The number one reason why service businesses fail is that they're unable to find customers for their offer.
