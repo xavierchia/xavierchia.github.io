@@ -44,7 +44,7 @@ If you're just asking yourself: "rate the state of your mind on a scale from 1 t
 
 But when I notice that I didn't have any tweetable thought all day, it's obvious my mind isn't doing ok and I need to take action.
 
-Usually all it takes is some meditation, a walk in nature, some carsh and burn writing, reading for an hour, or talking to a friend.
+Usually all it takes is some meditation, a walk in nature, some crash and burn writing, reading for an hour, or talking to a friend.
 
 I of course already know that I should be doing these things regularly.
 
@@ -60,7 +60,7 @@ So the number of times I eat snacks or junk food is a good proxy for how well my
 
 When my snack and junk food count goes up, I know I have to take better care of my body, go for a run, the gym, go to the sauna or ice bathing.
 
-A related useful proxy is energy drink (coffee etc.) consumption.
+A related useful proxy is energy drink (coffee etc.) consumption. My current break light is more than 2 per day. Whenever I'm drinking more than that I know something is seriously wrong.
 
 Importantly, I don't try to fight against what my body is telling me. 
 
