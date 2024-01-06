@@ -5,12 +5,12 @@ layout: post
 permalink: wellbeing-proxies
 excerpt:  How many tweetable thoughts did I have today?
 image: /images/default.png
-categories: inner-game
+categories: inner-game, productivity
 ---
 
 One thing I've learned is that it's difficult to assess my wellbeing unless I make a concious effort. 
 
-I have to regularly pause and check-in with myself.
+I have to regularly check-in with myself.
 
 How's my body feeling? Do I have bags of energy or do I feel sluggish?
 
@@ -24,9 +24,9 @@ Part of the challenge is remembering to ask yourself these kind of questions.
 
 This can easily be solved by making a check-ins a daily habit and putting them into my calendar.
 
-More difficult is answering the questions.
+More difficult is answering the questions in a useful way.
 
-It's useful to answer certain proxy questions instead that have straight-forward answers but give a direct window into your wellbeing.
+It's helpful to answer proxy questions that have straight-forward answers but give a direct window into your wellbeing.
 
 One such question I'm using is: How many tweetable thoughts did I have today?
 
