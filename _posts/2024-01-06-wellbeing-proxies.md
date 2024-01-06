@@ -52,7 +52,7 @@ But I often deprioritize or forget about them in the hustle and bustle of everyd
 
 So I find it incredibly useful to have non-negotiable brake lights that tell me: Stop whatever you're doing right now and focus on your mental wellbeing.
 
-A similar useful proxy is healthy meals vs. snacks and junk food.
+A similar useful proxy is snack and junk food consumption.
 
 When my body feels awesome and I am full of energy, I don't crave snacks or fast food. I don't even think about them and when I see them just think "ugh". 
 
