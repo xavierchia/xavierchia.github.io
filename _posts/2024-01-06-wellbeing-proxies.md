@@ -3,7 +3,7 @@ title: Weird proxies for wellbeing
 published: true
 layout: post
 permalink: wellbeing-proxies
-excerpt:  Sounds cringe, I know.
+excerpt:  How many tweetable thoughts did I have today?
 image: /images/default.png
 categories: inner-game
 ---
@@ -28,7 +28,7 @@ More difficult is answering the questions.
 
 It's useful to answer certain proxy questions instead that have straight-forward answers but give a direct window into your wellbeing.
 
-One such question I'm using is: How many tweetable thoughts did I have today.
+One such question I'm using is: How many tweetable thoughts did I have today?
 
 Sounds cringe, I know.
 
