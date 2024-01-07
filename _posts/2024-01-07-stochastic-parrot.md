@@ -16,7 +16,7 @@ categories: inner-game, productivity
 
 "I'm not convinced that my mind is..."
 
-These are the kind of outputs the statistical parrot inside my head produced as I started to write this.
+These are the kind of outputs the stochastic parrot inside my head produced as I started to write this.
 
 None of them felt right, so it kept going.
 
@@ -86,7 +86,7 @@ Sure, we have an appendix in our bodies that does not serve any purpose anymore.
 
 But I've never seen a good explanation for why this would be the case.
 
-It seems more likely that the loud mind, the obnoxious statistical parrot inside our heads, plays a key role in how we think.
+It seems more likely that the loud mind, the obnoxious stochastic parrot inside our heads, plays a key role in how we think.
 
 It's definitely true for me. 
 
