@@ -1,8 +1,8 @@
 ---
-title: Befriending the statistical parrot inside my head
+title: Befriending the stochastic parrot inside my head
 published: true
 layout: post
-permalink: statistical-parrot
+permalink: stochastic-parrot
 excerpt:  Then I my loud mind starts proposing sentences and my quiet mind discard most them before they are even finished.
 image: /images/default.png
 categories: inner-game, productivity
