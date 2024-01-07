@@ -144,6 +144,6 @@ You need to befriend both and treat them well.
 
 You can help your loud mind produce better outputs by [scraping better training data](https://www.henrikkarlsson.xyz/p/training-data).
 
-You can help your quiet mind make better decision by giving it enough rest regularly.
+You can help your quiet mind make better decision by [giving it enough rest regularly](/attentional-space).
 
 But most importantly, you need to learn to get out of the way when the two start dancing.
