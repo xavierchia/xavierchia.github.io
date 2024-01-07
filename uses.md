@@ -18,7 +18,7 @@ permalink: /uses/
 * *Diagrams*: Figma + Figjam
 * *Internal Tools*: [Retool](https://get.retool.com/uw9lit657yxo)
 * *Team and Client Communication*: Slack
-* *Private Communication*: Telegram
+* *Private Communication*: Telegram (I also use it to take quick notes on the go and send myself reminders)
 * *Email*: Gmail
 * *Unified Team Inbox*: [Missive](https://missiveapp.com/?ref_id=56426A624CB3)
 * *Project Management*: [Airtable](https://airtable.com/invite/r/Brt0mpLN)
