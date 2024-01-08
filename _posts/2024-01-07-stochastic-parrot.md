@@ -3,7 +3,7 @@ title: Befriending the stochastic parrot inside my head
 published: true
 layout: post
 permalink: stochastic-parrot
-excerpt:  Then I my loud mind starts proposing sentences and my quiet mind discard most them before they are even finished.
+excerpt:  Then my loud mind starts proposing sentences and my quiet mind discard most them before they are even finished.
 image: /images/default.png
 categories: inner-game, productivity
 ---
@@ -44,7 +44,7 @@ The words go straight to the screen without any internal negotiations.
 
 Until I eventually get stuck again.
 
-Then I my loud mind starts proposing sentences and my quiet mind discard most them before they are even finished.
+Then my loud mind starts proposing sentences and my quiet mind discard most them before they are even finished.
 
 This continues until the quiet mind approves another output, and the words start flowing again.
 
