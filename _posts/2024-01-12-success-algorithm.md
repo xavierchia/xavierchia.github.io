@@ -15,4 +15,4 @@ categories: entrepreneurship, inner-game
 * Assign a likelihood to succeed to both paths given your current knowledge. Compare them but allow for jumps that seem worse with a certain probability. This makes sure you don't get stuck in local maxima prematurely.
 * Regardless of what path you picked, always start with whatever step is most likely to fail next.
 * Initially do big jumps at random (almost completely disregarding which path seems better).
-* Then gradually reduce the "temperature". Only allow jumps to paths that are more adjacent to your current path and reduce the probability to jumping to options that seem worse.
+* Then gradually reduce the "temperature". Only allow jumps to paths that are adjacent to your current path and reduce the probability to jumping to options that seem worse.
