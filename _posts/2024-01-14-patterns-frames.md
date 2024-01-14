@@ -35,11 +35,11 @@ It's not an integral part of me.
 
 You know, you can look at reality using different lenses and have a completely different experience. 
 
-And these patterns inside your head are not hard coded. You can change, replace, and delete them. 
+And these patterns inside your head are not hard coded. You can change, replace, and get rid of them. 
 
 This is far from easy, especially when some of them didn't serve you too badly. 
 
-But first and foremost mediation helps to create that necessary separation between my ego, the stochastic parrot blurting "that's bullshit", and the quiet part of my mind that's prompting and steering the stochastic parrot. 
+But first and foremost mediation helps to create that necessary separation between my ego, the [stochastic parrot](/stochastic-parrot) blurting "that's bullshit", and the quiet part of my mind that's prompting the stochastic parrot. 
 
 However, this is only where the journey begins. 
 
