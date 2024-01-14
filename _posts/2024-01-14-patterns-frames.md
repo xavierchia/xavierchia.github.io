@@ -21,7 +21,9 @@ If you approach anything new as bullshit you will never be dissapointed.
 
 It made me miss out a lot. 
 
-My experience of reality and happiness was severely limited. 
+My experience of reality and happiness was severely limited.
+
+Each pattern and frame is like a little cloud shielding me from reality.
 
 So I've started putting in the work. 
 
@@ -55,13 +57,13 @@ There are different ways you can approach this.
 
 Level 1 is simply labeling patterns. 
 
-"Oh here comes to 'that's bullshit' frame again"
+*"Oh here comes to 'that's bullshit' frame again"*
 
 This already helps a lot. 
 
 Level 2 is recognizing plus dissolving the pattern whenever it shows up. 
 
-"Oh here comes to 'that's bullshit' frame again, let me sit with it for a moment and feel it." 
+*"Oh here comes to 'that's bullshit' frame again, let me sit with it for a moment and feel it." *
 
 Nothing makes frames dissolve faster than putting the spotlight on them. 
 
@@ -69,19 +71,19 @@ The more often you do this, the less often the frame shows up.
 
 Level 3 is deidentifcation with whatever part of you is driving the pattern. 
 
-“Who is this who feels that this is bullshit?” 
+*“Who is this who feels that this is bullshit?”* 
 
 With practice I learned to zoom out and observe the dance between the ego, stochastic parrot, and quiet mind in real world situations. 
 
 Now a lot of people recommend active contemplation when it comes to working with the programs running in your mind. 
 
-"Why do I feel the need to label everything as bullshit?" 
+*"Why do I feel the need to label everything as bullshit?"* 
 
-"Because I feel powerless and this frame puts me in a position of power." 
+*"Because I feel powerless and this frame puts me in a position of power."*
 
-"Why do you feel powerless." 
+*"Why do you feel powerless."* 
 
-"Because in my childhood..." 
+*"Because in my childhood..."*
 
 In my experience this is counterproductive. 
 
@@ -147,7 +149,7 @@ Competitive team sports work wonderfully for me.
 
 Another surprisingly useful tool has been improv. 
 
-"Yes and" is 100% orthogonal to my "that's bullshit" frame, 
+"Yes and" is 100% orthogonal to my "that's bullshit" frame.
 
 Every single improv training triggers dozens of interesting patterns and brings them to the spotlight. 
 
