@@ -63,7 +63,7 @@ This already helps a lot.
 
 Level 2 is recognizing plus dissolving the pattern whenever it shows up. 
 
-*"Oh here comes to 'that's bullshit' frame again, let me sit with it for a moment and feel it." *
+*"Oh here comes to 'that's bullshit' frame again, let me sit with it for a moment and feel it."*
 
 Nothing makes frames dissolve faster than putting the spotlight on them. 
 
