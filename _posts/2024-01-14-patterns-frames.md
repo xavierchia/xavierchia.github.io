@@ -145,7 +145,9 @@ There a many tools that can help increase your exposure to patterns.
 
 Bring them to the spotlight instead of having them linger in the shadows so to speak. 
 
-Competitive team sports work wonderfully for me. 
+Competitive team sports work wonderfully for me.
+
+Running my own company, going from solopreneur to working with a team, is another great learning tool.
 
 Another surprisingly useful tool has been improv. 
 
