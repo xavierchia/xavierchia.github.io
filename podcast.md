@@ -4,9 +4,6 @@ title: Podcast
 permalink: /podcast/
 ---
 
-I send "yo let's chat" DMs to people doing interesting things. 
+<iframe src="https://podcasters.spotify.com/pod/show/builderbanter/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Then we chat.
-
-Then I publish the conversation as a [podcast](https://podcasters.spotify.com/pod/show/builderbanter).
 
