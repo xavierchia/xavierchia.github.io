@@ -1,18 +1,18 @@
 ---
 layout: default
-title: RunWithFriends
-permalink: /runWithFriends/
+title: WalkingPeas
+permalink: /walkingPeas/
 ---
 
 <img src="../images/runWithFriends.png" alt="My Tummy" width="160"
     style="display: block; border-radius: 5px; margin-left: auto; margin-right: auto;" class="heroimage">
 <article class="post">
-  <h1>RunWithFriends</h1>
-  The RunWithFriends app is a social running app. 
+  <h1>WalkingPeas</h1>
+  The WalkingPeas app is a social step tracking app. 
   <br><br>
-  You can run with your friends from anywhere in the world at the same time.
+  You can keep track of your steps with your friends from anywhere in the world.
   <br><br>
-  It is still being built but check back soon!
+  Every week you will walk a new marathon from around the world.
   <br><br>
   </article>
 <a href="/privacyPolicy/">Privacy Policy</a>
